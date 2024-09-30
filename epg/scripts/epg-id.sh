@@ -4,7 +4,7 @@ cd /home/runner/work/TV-EPG/TV-EPG/iptv-org-epg && npm install
 
 # Indihome TV EPG
 
-npm run grab -- --site=indihometv.com --output=../epg/id-indihometv.xml --days=2 --maxConnections=10
+npm run grab -- --site=indihometv.com --output=../epg/id-indihometv.xml --days=3 --maxConnections=10
 
 # Vision Plus EPG
 
