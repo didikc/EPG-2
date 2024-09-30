@@ -5,6 +5,7 @@
 This repo automatically converts live epg into a single .xml.gz and keeps them updated. 
 
 Special thanks to:
+- @iptv-org
 - @bmeidch
 
 ## Usage ✅
