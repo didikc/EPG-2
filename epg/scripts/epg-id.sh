@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/runner/work/didikc/didikc/iptv-org-epg && npm install
+cd /home/runner/work/TV-EPG/TV-EPG/iptv-org-epg && npm install
 
 # Indihome TV EPG
 
