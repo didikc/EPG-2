@@ -12,4 +12,4 @@ Special thanks to:
 1. Open the `epg-id.sh` file.
 2. Add to the file with the some information as needed from this [website](https://github.com/iptv-org/epg/tree/master/sites)
 3. After saving changes, you may wait for the cron job to run or manually run the workflow.
-4. The .xml.gz file will be generated.
+4. Both .xml and .xml.gz files will be generated.
