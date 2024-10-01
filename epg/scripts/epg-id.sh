@@ -30,15 +30,21 @@ npm run grab -- --site=mewatch.sg --output=../epg/sg-mewatch.xml --days=3 --maxC
 
 npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3 --maxConnections=10
 
+# Pix EPG
+
+npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3 --maxConnections=10
+
 # Compress EPG xml files
 cd ../epg/
 
 gzip -k -f -9 ../epg/id*.xml
 gzip -k -f -9 ../epg/sg*.xml
+gzip -k -f -9 ../epg/pix.xml
 
 # Remove EPG xml files
 
 # rm ../epg/id*.xml
 # rm ../epg/sg*.xml
+# rm ../epg/pix.xml
 
 exit 0
