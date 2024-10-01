@@ -29,6 +29,6 @@ gzip -k -f -9 ../epg/id*.xml
 
 # Remove EPG xml files
 
-rm ../epg/id*.xml
+# rm ../epg/id*.xml
 
 exit 0
