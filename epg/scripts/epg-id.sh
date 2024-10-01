@@ -30,27 +30,15 @@ npm run grab -- --site=mewatch.sg --output=../epg/sg-mewatch.xml --days=3 --maxC
 
 npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3 --maxConnections=10
 
-# Astro EPG
-
-npm run grab -- --site=content.astro.com.my --output=../epg/my-astro.xml --days=3 --maxConnections=10
-
-# Unifi EPG
-
-npm run grab -- --site=playtv.unifi.com.my --output=../epg/my-unifi.xml --days=3 --maxConnections=10
-
-# RTM EPG
-
-npm run grab -- --site=rtmklik.rtm.gov.my --output=../epg/my-rtm.xml --days=3 --maxConnections=10
-
 # Compress EPG xml files
 cd ../epg/
 
 gzip -k -f -9 ../epg/id*.xml
 gzip -k -f -9 ../epg/sg*.xml
-gzip -k -f -9 ../epg/my*.xml
 
 # Remove EPG xml files
 
 # rm ../epg/id*.xml
+# rm ../epg/sg*.xml
 
 exit 0
