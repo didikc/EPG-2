@@ -1024,8 +1024,8 @@
 <programme start="20241001090000 +0000" stop="20241001093000 +0000" channel="beINSports3.id"><title lang="id">Premier League Years 2001-2002 : Chelsea TV</title></programme>
 <programme start="20241001093000 +0000" stop="20241001100000 +0000" channel="beINSports3.id"><title lang="id">Legends: Frank Sinclair : Chelsea TV</title></programme>
 <programme start="20241001100000 +0000" stop="20241001115500 +0000" channel="beINSports3.id"><title lang="id">Premier League: Brighton &amp; Hove Albion vs Chelsea : Chelsea TV</title></programme>
-<programme start="20241001115500 +0000" stop="20241001135500 +0000" channel="beINSports3.id"><title lang="id">Leverkusen vs Milan - UEFA Youth League</title></programme>
-<programme start="20241001135500 +0000" stop="20241001160000 +0000" channel="beINSports3.id"><title lang="id">Arsenal vs PSG - UEFA Youth League</title></programme>
+<programme start="20241001115500 +0000" stop="20241001135800 +0000" channel="beINSports3.id"><title lang="id">Leverkusen vs Milan - UEFA Youth League</title></programme>
+<programme start="20241001135800 +0000" stop="20241001160000 +0000" channel="beINSports3.id"><title lang="id">Arsenal vs PSG - UEFA Youth League</title></programme>
 <programme start="20241001160000 +0000" stop="20241001164000 +0000" channel="beINSports3.id"><title lang="id">The UCL Preview Show</title></programme>
 <programme start="20241001164000 +0000" stop="20241001185500 +0000" channel="beINSports3.id"><title lang="id">VFB Stuttgart vs Sparta Praha - UEFA Champions League</title></programme>
 <programme start="20241001185500 +0000" stop="20241001210000 +0000" channel="beINSports3.id"><title lang="id">Arsenal vs PSG - UEFA Champions League</title></programme>
@@ -1232,8 +1232,7 @@
 <programme start="20241001170000 +0000" stop="20241001180000 +0000" channel="ChampionsTV2.id"><title lang="id">Eredivisie Highlights</title></programme>
 <programme start="20241001180000 +0000" stop="20241001183000 +0000" channel="ChampionsTV2.id"><title lang="id">EFL Highlights</title></programme>
 <programme start="20241001183000 +0000" stop="20241001184000 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
-<programme start="20241001184000 +0000" stop="20241001205000 +0000" channel="ChampionsTV2.id"><title lang="id">Newcastle vs AFC Wimbledon - Carabao Cup</title></programme>
-<programme start="20241001205000 +0000" stop="20241001210000 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
+<programme start="20241001184000 +0000" stop="20241001210000 +0000" channel="ChampionsTV2.id"><title lang="id">Newcastle vs AFC Wimbledon - Carabao Cup</title></programme>
 <programme start="20241001210000 +0000" stop="20241001232000 +0000" channel="ChampionsTV2.id"><title lang="id">MX2 Castilla la Mancha: Race 1 : FIM Motocross World Championship</title></programme>
 <programme start="20241001232000 +0000" stop="20241001233000 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
 <programme start="20241001233000 +0000" stop="20241002013000 +0000" channel="ChampionsTV2.id"><title lang="id">Willem II vs. PSV Eindhoven : Eredivisie Soccer</title></programme>
@@ -1279,11 +1278,13 @@
 <programme start="20241001063000 +0000" stop="20241001070000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
 <programme start="20241001070000 +0000" stop="20241001073000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA my Story</title></programme>
 <programme start="20241001073000 +0000" stop="20241001080000 +0000" channel="ChampionsTV3.id"><title lang="id">Greatest 50</title></programme>
-<programme start="20241001080000 +0000" stop="20241001115000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: China Open - Day 5</title></programme>
+<programme start="20241001080000 +0000" stop="20241001094400 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: China Open - Day 5</title></programme>
+<programme start="20241001094400 +0000" stop="20241001115000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000 China Open - Beijing</title></programme>
 <programme start="20241001115000 +0000" stop="20241001120000 +0000" channel="ChampionsTV3.id"><title lang="id">Filler</title></programme>
 <programme start="20241001120000 +0000" stop="20241001123000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
-<programme start="20241001123000 +0000" stop="20241001150000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000 China Open - Beijing</title></programme>
-<programme start="20241001150000 +0000" stop="20241001170000 +0000" channel="ChampionsTV3.id"><title lang="id">2024 China Open Tennis</title></programme>
+<programme start="20241001123000 +0000" stop="20241001130000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Greatest 50</title></programme>
+<programme start="20241001130000 +0000" stop="20241001132300 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
+<programme start="20241001132300 +0000" stop="20241001170000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: China Open - Day 5</title></programme>
 <programme start="20241001170000 +0000" stop="20241001190000 +0000" channel="ChampionsTV3.id"><title lang="id">2024 China Open Tennis</title></programme>
 <programme start="20241001190000 +0000" stop="20241001210000 +0000" channel="ChampionsTV3.id"><title lang="id">2024 China Open Tennis</title></programme>
 <programme start="20241001210000 +0000" stop="20241001213000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA - My Story</title></programme>
