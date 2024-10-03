@@ -22,6 +22,10 @@ npm run grab -- --site=cubmu.com --output=../epg/id-cubmu.xml --days=3 --maxConn
 
 npm run grab -- --site=dens.tv --output=../epg/id-denstv.xml --days=3 --maxConnections=10
 
+# Firstmedia EPG
+
+npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3 --maxConnections=10
+
 # Mewatch EPG
 
 npm run grab -- --site=mewatch.sg --output=../epg/sg-mewatch.xml --days=3 --maxConnections=10
