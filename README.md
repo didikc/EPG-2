@@ -1,4 +1,4 @@
-[![Generate EPG every day](https://github.com/didikc/TV-EPG/actions/workflows/epg.yml/badge.svg)](https://github.com/didikc/TV-EPG/actions/workflows/epg.yml)
+[![Update EPG](https://github.com/didikc/TV-EPG/actions/workflows/epg.yml/badge.svg)](https://github.com/didikc/TV-EPG/actions/workflows/epg.yml)
 ![Static Badge](https://img.shields.io/badge/Live-EPG-blue?labelColor=black)
 
 # Live EPG 📺
