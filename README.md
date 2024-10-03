@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/Live-EPG-blue?labelColor=black)
 
 # Live EPG 📺
-This repo automatically converts live epg into a single .xml.gz and keeps them updated. 
+This repo automatically converts each live epg of tv channels into .xml files and keeps them updated. 
 
 Special thanks to:
 - @iptv-org
