@@ -1370,8 +1370,8 @@
 <programme start="20241004143000 +0000" stop="20241004150000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Magazine 2024</title></programme>
 <programme start="20241004150000 +0000" stop="20241004153000 +0000" channel="ChampionsTV3.id"><title lang="id">Sport Woman</title></programme>
 <programme start="20241004153000 +0000" stop="20241004155000 +0000" channel="ChampionsTV3.id"><title lang="id">Filler</title></programme>
-<programme start="20241004155000 +0000" stop="20241004183000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Abu Dhabi Games 2024 - Boston Celtics vs Denver Nuggets</title></programme>
-<programme start="20241004183000 +0000" stop="20241004190000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000 China Open - Beijing</title></programme>
+<programme start="20241004155000 +0000" stop="20241004184500 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Abu Dhabi Games 2024 - Boston Celtics vs Denver Nuggets</title></programme>
+<programme start="20241004184500 +0000" stop="20241004190000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000 China Open - Beijing</title></programme>
 <programme start="20241004190000 +0000" stop="20241004193000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA my Story</title></programme>
 <programme start="20241004193000 +0000" stop="20241004213000 +0000" channel="ChampionsTV3.id"><title lang="id">2023 China Open Tennis</title></programme>
 <programme start="20241004213000 +0000" stop="20241004233000 +0000" channel="ChampionsTV3.id"><title lang="id">2023 China Open Tennis</title></programme>
@@ -1414,10 +1414,20 @@
 <programme start="20241004140000 +0000" stop="20241004143000 +0000" channel="ChampionsTV5.id"><title lang="id">PL REWIND</title></programme>
 <programme start="20241004143000 +0000" stop="20241004150000 +0000" channel="ChampionsTV5.id"><title lang="id">PL STORIES</title></programme>
 <programme start="20241004150000 +0000" stop="20241004170000 +0000" channel="ChampionsTV5.id"><title lang="id">Nottingham Forest vs Fulham : Premier League Soccer</title></programme>
-<programme start="20241004190000 +0000" stop="20241004230000 +0000" channel="ChampionsTV5.id"><title lang="id">Sports Program</title></programme>
-<programme start="20241004230000 +0000" stop="20241005030000 +0000" channel="ChampionsTV5.id"><title lang="id">Sports Program</title></programme>
-<programme start="20241005030000 +0000" stop="20241005070000 +0000" channel="ChampionsTV5.id"><title lang="id">Sports Program</title></programme>
-<programme start="20241005070000 +0000" stop="20241005110000 +0000" channel="ChampionsTV5.id"><title lang="id">Sports Program</title></programme>
+<programme start="20241004170000 +0000" stop="20241004190000 +0000" channel="ChampionsTV5.id"><title lang="id">Bournemouth vs Southampton - PREMIER LEAGUE 2024-25</title></programme>
+<programme start="20241004190000 +0000" stop="20241004213000 +0000" channel="ChampionsTV5.id"><title lang="id">Arsenal vs Leicester City - PREMIER LEAGUE 2024-25</title></programme>
+<programme start="20241004213000 +0000" stop="20241004220000 +0000" channel="ChampionsTV5.id"><title lang="id">PL THE BIG INTERVIEW 2024-25</title></programme>
+<programme start="20241004220000 +0000" stop="20241004223000 +0000" channel="ChampionsTV5.id"><title lang="id">PL REWIND 2024-25</title></programme>
+<programme start="20241004223000 +0000" stop="20241004230000 +0000" channel="ChampionsTV5.id"><title lang="id">PL PREVIEW 2024-25</title></programme>
+<programme start="20241004230000 +0000" stop="20241005010000 +0000" channel="ChampionsTV5.id"><title lang="id">Wolverhampton vs Liverpool - PREMIER LEAGUE 2024-25</title></programme>
+<programme start="20241005010000 +0000" stop="20241005030000 +0000" channel="ChampionsTV5.id"><title lang="id">Bournemouth vs Southampton - PREMIER LEAGUE 2024-25</title></programme>
+<programme start="20241005030000 +0000" stop="20241005050000 +0000" channel="ChampionsTV5.id"><title lang="id">Arsenal vs Leicester City - PREMIER LEAGUE 2024-25</title></programme>
+<programme start="20241005050000 +0000" stop="20241005060000 +0000" channel="ChampionsTV5.id"><title lang="id">THE GOATS 2024-25</title></programme>
+<programme start="20241005060000 +0000" stop="20241005070000 +0000" channel="ChampionsTV5.id"><title lang="id">THE CATCH UP SHOW 2024-25</title></programme>
+<programme start="20241005070000 +0000" stop="20241005090000 +0000" channel="ChampionsTV5.id"><title lang="id">Wolverhampton vs Liverpool - PREMIER LEAGUE 2024-25</title></programme>
+<programme start="20241005090000 +0000" stop="20241005100000 +0000" channel="ChampionsTV5.id"><title lang="id">THE GOATS 2024-25</title></programme>
+<programme start="20241005100000 +0000" stop="20241005103000 +0000" channel="ChampionsTV5.id"><title lang="id">PL NETBUSTERS 2024-25</title></programme>
+<programme start="20241005103000 +0000" stop="20241005110000 +0000" channel="ChampionsTV5.id"><title lang="id">PL PREVIEW 2024-25</title></programme>
 <programme start="20241005110000 +0000" stop="20241005133000 +0000" channel="ChampionsTV5.id"><title lang="id">Crystal Palace vs Liverpool - Premier League</title></programme>
 <programme start="20241005133000 +0000" stop="20241005160000 +0000" channel="ChampionsTV5.id"><title lang="id">Man City vs Fulham - Premier League</title></programme>
 <programme start="20241005160000 +0000" stop="20241005190000 +0000" channel="ChampionsTV5.id"><title lang="id">Everton vs Newcastle - Premier League</title></programme>
@@ -3294,7 +3304,7 @@
 <programme start="20241004170000 +0000" stop="20241004220000 +0000" channel="Moji.id"><title lang="id">Pesta Olahraga Dunia</title></programme>
 <programme start="20241004220000 +0000" stop="20241004231500 +0000" channel="Moji.id"><title lang="id">Moji Sport</title></programme>
 <programme start="20241004231500 +0000" stop="20241005000000 +0000" channel="Moji.id"><title lang="id">Liputan 6 Pagi Moji</title></programme>
-<programme start="20241005000000 +0000" stop="20241005034500 +0000" channel="Moji.id"><title lang="id">SIARAN LANGSUNG UPACARA HUT TNI KE 79</title></programme>
+<programme start="20241005000000 +0000" stop="20241005034500 +0000" channel="Moji.id"><title lang="id">Siaran Langsung Upacara HUT TNI Ke 79</title></programme>
 <programme start="20241005034500 +0000" stop="20241005053000 +0000" channel="Moji.id"><title lang="id">Tercyduk</title></programme>
 <programme start="20241005053000 +0000" stop="20241005073000 +0000" channel="Moji.id"><title lang="id">Kapolri Cup : Volleyball</title></programme>
 <programme start="20241005073000 +0000" stop="20241005093000 +0000" channel="Moji.id"><title lang="id">Kapolri Cup : Volleyball</title></programme>
