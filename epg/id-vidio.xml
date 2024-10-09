@@ -1261,10 +1261,10 @@
 <programme start="20241009010000 +0000" stop="20241009030000 +0000" channel="ChampionsTV1.id"><title lang="id">West Bromwich Albion vs. Millwall : English Championship Soccer</title></programme>
 <programme start="20241009030000 +0000" stop="20241009050000 +0000" channel="ChampionsTV1.id"><title lang="id">PSV Eindhoven vs. Sparta : Eredivisie Soccer</title></programme>
 <programme start="20241009050000 +0000" stop="20241009060000 +0000" channel="ChampionsTV1.id"><title lang="id">Eredivisie Highlights</title></programme>
-<programme start="20241009060000 +0000" stop="20241009080000 +0000" channel="ChampionsTV1.id"><title lang="id">Lazio vs. Empoli : Italian Serie A Soccer</title></programme>
-<programme start="20241009080000 +0000" stop="20241009100000 +0000" channel="ChampionsTV1.id"><title lang="id">Bologna vs. Parma : Italian Serie A Soccer</title></programme>
-<programme start="20241009100000 +0000" stop="20241009120000 +0000" channel="ChampionsTV1.id"><title lang="id">Monza vs. AS Roma : Italian Serie A Soccer</title></programme>
-<programme start="20241009120000 +0000" stop="20241009123000 +0000" channel="ChampionsTV1.id"><title lang="id">The Immortal</title></programme>
+<programme start="20241009060000 +0000" stop="20241009075600 +0000" channel="ChampionsTV1.id"><title lang="id">Lazio vs. Empoli : Italian Serie A Soccer</title></programme>
+<programme start="20241009080000 +0000" stop="20241009095600 +0000" channel="ChampionsTV1.id"><title lang="id">Bologna vs. Parma : Italian Serie A Soccer</title></programme>
+<programme start="20241009100000 +0000" stop="20241009115500 +0000" channel="ChampionsTV1.id"><title lang="id">Monza vs. AS Roma : Italian Serie A Soccer</title></programme>
+<programme start="20241009115500 +0000" stop="20241009123000 +0000" channel="ChampionsTV1.id"><title lang="id">The Immortal</title></programme>
 <programme start="20241009123000 +0000" stop="20241009130000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
 <programme start="20241009130000 +0000" stop="20241009150000 +0000" channel="ChampionsTV1.id"><title lang="id">Lazio vs. Empoli : Italian Serie A Soccer</title></programme>
 <programme start="20241009150000 +0000" stop="20241009170000 +0000" channel="ChampionsTV1.id"><title lang="id">Bologna vs. Parma : Italian Serie A Soccer</title></programme>
@@ -3099,15 +3099,15 @@
 <programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="MentariTV.id"><title lang="id">Pororo Hospital Play Songs</title></programme>
 <programme start="20241009213000 +0000" stop="20241009220000 +0000" channel="MentariTV.id"><title lang="id">Little Angel &amp; Cocomelon Little Angel</title></programme>
 <programme start="20241009220000 +0000" stop="20241009230000 +0000" channel="MentariTV.id"><title lang="id">Babybus</title></programme>
-<programme start="20241009230000 +0000" stop="20241010000000 +0000" channel="MentariTV.id"><title lang="id">Blippi Wonders</title></programme>
+<programme start="20241009230000 +0000" stop="20241010000000 +0000" channel="MentariTV.id"><title lang="id">Yuk Cari Tau Angka Number bloacks Season 3</title></programme>
 <programme start="20241010000000 +0000" stop="20241010010000 +0000" channel="MentariTV.id"><title lang="id">Bebefinn</title></programme>
 <programme start="20241010010000 +0000" stop="20241010023000 +0000" channel="MentariTV.id"><title lang="id">Tayo the Little Bus</title></programme>
 <programme start="20241010023000 +0000" stop="20241010040000 +0000" channel="MentariTV.id"><title lang="id">Keluarga Somat</title></programme>
 <programme start="20241010040000 +0000" stop="20241010060000 +0000" channel="MentariTV.id"><title lang="id">Pororo The Little Penguin</title></programme>
-<programme start="20241010060000 +0000" stop="20241010073000 +0000" channel="MentariTV.id"><title lang="id">Petualangan Aladdin &amp; Si Lahab</title></programme>
+<programme start="20241010060000 +0000" stop="20241010073000 +0000" channel="MentariTV.id"><title lang="id">Petualangan Seru Bonnie</title></programme>
 <programme start="20241010073000 +0000" stop="20241010090000 +0000" channel="MentariTV.id"><title lang="id">The Fixies</title></programme>
 <programme start="20241010090000 +0000" stop="20241010100000 +0000" channel="MentariTV.id"><title lang="id">Oddbods</title></programme>
-<programme start="20241010100000 +0000" stop="20241010103000 +0000" channel="MentariTV.id"><title lang="id">Dunia Ameena</title></programme>
+<programme start="20241010100000 +0000" stop="20241010103000 +0000" channel="MentariTV.id"><title lang="id">Abang L The Explorer</title></programme>
 <programme start="20241010103000 +0000" stop="20241010110000 +0000" channel="MentariTV.id"><title lang="id">Cipung Abubu</title></programme>
 <programme start="20241010110000 +0000" stop="20241010120000 +0000" channel="MentariTV.id"><title lang="id">Sunny Girl No.23</title></programme>
 <programme start="20241010120000 +0000" stop="20241010140000 +0000" channel="MentariTV.id"><title lang="id">The Legend of Sarila</title></programme>
@@ -3342,16 +3342,15 @@
 <programme start="20241009160000 +0000" stop="20241009170000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
 <programme start="20241009170000 +0000" stop="20241009180000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
 <programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="NET.id"><title lang="id">One Championship Warrior</title></programme>
-<programme start="20241009190000 +0000" stop="20241009200000 +0000" channel="NET.id"><title lang="id">Jurnal Dunia Islam</title></programme>
-<programme start="20241009200000 +0000" stop="20241009210000 +0000" channel="NET.id"><title lang="id">Alkisah</title></programme>
-<programme start="20241009210000 +0000" stop="20241009220000 +0000" channel="NET.id"><title lang="id">Nyonya Nunung</title></programme>
-<programme start="20241009220000 +0000" stop="20241009230000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
-<programme start="20241009230000 +0000" stop="20241009235500 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
-<programme start="20241009235500 +0000" stop="20241010005500 +0000" channel="NET.id"><title lang="id">Inilah Kisahnya</title></programme>
-<programme start="20241010005500 +0000" stop="20241010020000 +0000" channel="NET.id"><title lang="id">Fakta +62</title></programme>
-<programme start="20241010020000 +0000" stop="20241010030000 +0000" channel="NET.id"><title lang="id">Sensasi</title></programme>
-<programme start="20241010030000 +0000" stop="20241010043000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
-<programme start="20241010043000 +0000" stop="20241010053000 +0000" channel="NET.id"><title lang="id">The Penthouse</title></programme>
+<programme start="20241009190000 +0000" stop="20241009200000 +0000" channel="NET.id"><title lang="id">Alkisah</title></programme>
+<programme start="20241009200000 +0000" stop="20241009210000 +0000" channel="NET.id"><title lang="id">Nyonya Nunung</title></programme>
+<programme start="20241009210000 +0000" stop="20241009220000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
+<programme start="20241009220000 +0000" stop="20241009230000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
+<programme start="20241009230000 +0000" stop="20241009235500 +0000" channel="NET.id"><title lang="id">Inilah Kisahnya</title></programme>
+<programme start="20241009235500 +0000" stop="20241010005500 +0000" channel="NET.id"><title lang="id">Fakta +62</title></programme>
+<programme start="20241010005500 +0000" stop="20241010020000 +0000" channel="NET.id"><title lang="id">Sensasi</title></programme>
+<programme start="20241010020000 +0000" stop="20241010030000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
+<programme start="20241010030000 +0000" stop="20241010043000 +0000" channel="NET.id"><title lang="id">The Penthouse</title></programme>
 <programme start="20241010053000 +0000" stop="20241010053100 +0000" channel="NET.id"><title lang="id">Net Asia: Prime Minister and I</title></programme>
 <programme start="20241010053100 +0000" stop="20241010063000 +0000" channel="NET.id"><title lang="id">Toktok Net</title></programme>
 <programme start="20241010063000 +0000" stop="20241010073000 +0000" channel="NET.id"><title lang="id">Kuliner Viral</title></programme>
@@ -3735,16 +3734,37 @@
 <programme start="20241009150000 +0000" stop="20241009160000 +0000" channel="RajawaliTV.id"><title lang="id">Jagoan Silat</title></programme>
 <programme start="20241009160000 +0000" stop="20241009163000 +0000" channel="RajawaliTV.id"><title lang="id">Catatan Seputar Investigasi</title></programme>
 <programme start="20241009163000 +0000" stop="20241009165900 +0000" channel="RajawaliTV.id"><title lang="id">Takdir Cinta Kera Sakti</title></programme>
-<programme start="20241009223000 +0000" stop="20241010000000 +0000" channel="RajawaliTV.id"><title lang="id">Baby Shark Du Du Du Du Du</title></programme>
-<programme start="20241010000000 +0000" stop="20241010003000 +0000" channel="RajawaliTV.id"><title lang="id">Leo Si Penjaga Hutan</title></programme>
-<programme start="20241010003000 +0000" stop="20241010020000 +0000" channel="RajawaliTV.id"><title lang="id">Baby Shark Du Du Du Du Du</title></programme>
-<programme start="20241010020000 +0000" stop="20241010023000 +0000" channel="RajawaliTV.id"><title lang="id">Adit Sopo Jarwo</title></programme>
-<programme start="20241010023000 +0000" stop="20241010040000 +0000" channel="RajawaliTV.id"><title lang="id">PENGIBARAN BENDERA HUT RI KE-78</title></programme>
-<programme start="20241010040000 +0000" stop="20241010100000 +0000" channel="RajawaliTV.id"><title lang="id">Rainbow Ruby</title></programme>
-<programme start="20241010100000 +0000" stop="20241010130000 +0000" channel="RajawaliTV.id"><title lang="id">PENGIBARAN BENDERA HUT RI KE-78</title></programme>
-<programme start="20241010130000 +0000" stop="20241010153000 +0000" channel="RajawaliTV.id"><title lang="id">Ejen Ali</title></programme>
-<programme start="20241010153000 +0000" stop="20241010160000 +0000" channel="RajawaliTV.id"><title lang="id">Sangat Tidak Biasa</title></programme>
-<programme start="20241010160000 +0000" stop="20241010173000 +0000" channel="RajawaliTV.id"><title lang="id">Perjalanan Kera Sakti</title></programme>
+<programme start="20241009170000 +0000" stop="20241009180000 +0000" channel="RajawaliTV.id"><title lang="id">TAKDIR CINTA KERA SAKTI</title></programme>
+<programme start="20241009180000 +0000" stop="20241009183000 +0000" channel="RajawaliTV.id"><title lang="id">TERANG KASIH</title></programme>
+<programme start="20241009183000 +0000" stop="20241009193000 +0000" channel="RajawaliTV.id"><title lang="id">UNIK ENAK</title></programme>
+<programme start="20241009193000 +0000" stop="20241009203000 +0000" channel="RajawaliTV.id"><title lang="id">TOP TRENDING</title></programme>
+<programme start="20241009203000 +0000" stop="20241009210000 +0000" channel="RajawaliTV.id"><title lang="id">STB (Sangat Tidak Biasa)</title></programme>
+<programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="RajawaliTV.id"><title lang="id">KUMPRANK</title></programme>
+<programme start="20241009213000 +0000" stop="20241009220000 +0000" channel="RajawaliTV.id"><title lang="id">MINA MILA</title></programme>
+<programme start="20241009220000 +0000" stop="20241009223000 +0000" channel="RajawaliTV.id"><title lang="id">OMAR &amp; HANA</title></programme>
+<programme start="20241009223000 +0000" stop="20241009230000 +0000" channel="RajawaliTV.id"><title lang="id">LENSA INDONESIA PAGI</title></programme>
+<programme start="20241009230000 +0000" stop="20241009233000 +0000" channel="RajawaliTV.id"><title lang="id">RIKO THE SERIES</title></programme>
+<programme start="20241009233000 +0000" stop="20241010003000 +0000" channel="RajawaliTV.id"><title lang="id">IBRA BERKISAH</title></programme>
+<programme start="20241010003000 +0000" stop="20241010010000 +0000" channel="RajawaliTV.id"><title lang="id">SANTRI BOY</title></programme>
+<programme start="20241010010000 +0000" stop="20241010020000 +0000" channel="RajawaliTV.id"><title lang="id">SI AA</title></programme>
+<programme start="20241010020000 +0000" stop="20241010030000 +0000" channel="RajawaliTV.id"><title lang="id">Adit Sopo Jarwo</title></programme>
+<programme start="20241010030000 +0000" stop="20241010033000 +0000" channel="RajawaliTV.id"><title lang="id">THE SMURFS CLASSIC</title></programme>
+<programme start="20241010033000 +0000" stop="20241010043000 +0000" channel="RajawaliTV.id"><title lang="id">SUPER WINGS</title></programme>
+<programme start="20241010043000 +0000" stop="20241010053000 +0000" channel="RajawaliTV.id"><title lang="id">POKEMON ULTIMATE JOURNEYS</title></programme>
+<programme start="20241010053000 +0000" stop="20241010070000 +0000" channel="RajawaliTV.id"><title lang="id">BOBOIBOY</title></programme>
+<programme start="20241010070000 +0000" stop="20241010073000 +0000" channel="RajawaliTV.id"><title lang="id">TAWA SATWA</title></programme>
+<programme start="20241010073000 +0000" stop="20241010083000 +0000" channel="RajawaliTV.id"><title lang="id">TIME TRAVELER LUKE</title></programme>
+<programme start="20241010083000 +0000" stop="20241010093000 +0000" channel="RajawaliTV.id"><title lang="id">EJEN ALI</title></programme>
+<programme start="20241010093000 +0000" stop="20241010103000 +0000" channel="RajawaliTV.id"><title lang="id">RISEMAN</title></programme>
+<programme start="20241010103000 +0000" stop="20241010110000 +0000" channel="RajawaliTV.id"><title lang="id">RIKO THE SERIES</title></programme>
+<programme start="20241010110000 +0000" stop="20241010113000 +0000" channel="RajawaliTV.id"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20241010113000 +0000" stop="20241010130000 +0000" channel="RajawaliTV.id"><title lang="id">BOBOIBOY</title></programme>
+<programme start="20241010130000 +0000" stop="20241010140000 +0000" channel="RajawaliTV.id"><title lang="id">Ejen Ali</title></programme>
+<programme start="20241010140000 +0000" stop="20241010143000 +0000" channel="RajawaliTV.id"><title lang="id">SI PALING TRENDING!</title></programme>
+<programme start="20241010143000 +0000" stop="20241010150000 +0000" channel="RajawaliTV.id"><title lang="id">KUMPRANK</title></programme>
+<programme start="20241010150000 +0000" stop="20241010160000 +0000" channel="RajawaliTV.id"><title lang="id">JAGOAN SILAT</title></programme>
+<programme start="20241010160000 +0000" stop="20241010163000 +0000" channel="RajawaliTV.id"><title lang="id">CATATAN SEPUTAR INVESTIGASI</title></programme>
+<programme start="20241010163000 +0000" stop="20241010173000 +0000" channel="RajawaliTV.id"><title lang="id">Perjalanan Kera Sakti</title></programme>
 <programme start="20241010173000 +0000" stop="20241010180000 +0000" channel="RajawaliTV.id"><title lang="id">Catatan Seputar Investigasi</title></programme>
 <programme start="20241010180000 +0000" stop="20241010183000 +0000" channel="RajawaliTV.id"><title lang="id">Terang Kasih</title></programme>
 <programme start="20241010183000 +0000" stop="20241010190000 +0000" channel="RajawaliTV.id"><title lang="id">Tendangan Si Madun</title></programme>
@@ -4241,12 +4261,44 @@
 <programme start="20241009153000 +0000" stop="20241009160000 +0000" channel="TawafTV.id"><title lang="id">MUSLIM UPDATE</title></programme>
 <programme start="20241009160000 +0000" stop="20241009163000 +0000" channel="TawafTV.id"><title lang="id">HIKAYAT</title></programme>
 <programme start="20241009163000 +0000" stop="20241009173000 +0000" channel="TawafTV.id"><title lang="id">RISALAH DUNIA</title></programme>
-<programme start="20241009190000 +0000" stop="20241009230000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241009230000 +0000" stop="20241010030000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241010030000 +0000" stop="20241010070000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241010070000 +0000" stop="20241010110000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241010110000 +0000" stop="20241010150000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241010150000 +0000" stop="20241010190000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
+<programme start="20241009173000 +0000" stop="20241009183000 +0000" channel="TawafTV.id"><title lang="id">RISALAH</title></programme>
+<programme start="20241009183000 +0000" stop="20241009190000 +0000" channel="TawafTV.id"><title lang="id">POLISI SAHABAT UMAT</title></programme>
+<programme start="20241009190000 +0000" stop="20241009193000 +0000" channel="TawafTV.id"><title lang="id">RAHASIA HIDUP SEHAT EPS33</title></programme>
+<programme start="20241009193000 +0000" stop="20241009200000 +0000" channel="TawafTV.id"><title lang="id">JUMATAN BERSAMA USTAZ EPS47</title></programme>
+<programme start="20241009200000 +0000" stop="20241009203000 +0000" channel="TawafTV.id"><title lang="id">HIKAYAT</title></programme>
+<programme start="20241009203000 +0000" stop="20241009210000 +0000" channel="TawafTV.id"><title lang="id">JELAJAH SURAU</title></programme>
+<programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="TawafTV.id"><title lang="id">MUSLIM UPDATE</title></programme>
+<programme start="20241009213000 +0000" stop="20241009220000 +0000" channel="TawafTV.id"><title lang="id">ICIP-ICIP HALAL</title></programme>
+<programme start="20241009220000 +0000" stop="20241009230000 +0000" channel="TawafTV.id"><title lang="id">Akhlak Karimah</title></programme>
+<programme start="20241009230000 +0000" stop="20241010000000 +0000" channel="TawafTV.id"><title lang="id">RISALAH</title></programme>
+<programme start="20241010000000 +0000" stop="20241010003000 +0000" channel="TawafTV.id"><title lang="id">OBROLAN SEPUTAR MASJID</title></programme>
+<programme start="20241010003000 +0000" stop="20241010013000 +0000" channel="TawafTV.id"><title lang="id">RISALAH DUNIA</title></programme>
+<programme start="20241010013000 +0000" stop="20241010020000 +0000" channel="TawafTV.id"><title lang="id">Jurnal Dunia Islam</title></programme>
+<programme start="20241010020000 +0000" stop="20241010023000 +0000" channel="TawafTV.id"><title lang="id">JELAJAH SURAU</title></programme>
+<programme start="20241010023000 +0000" stop="20241010030000 +0000" channel="TawafTV.id"><title lang="id">ZISWAF LIFESTYLE EPS 8 Akibat Enggan Berzakat</title></programme>
+<programme start="20241010030000 +0000" stop="20241010033000 +0000" channel="TawafTV.id"><title lang="id">ICIP-ICIP HALAL</title></programme>
+<programme start="20241010033000 +0000" stop="20241010040000 +0000" channel="TawafTV.id"><title lang="id">HIKAYAT</title></programme>
+<programme start="20241010040000 +0000" stop="20241010043000 +0000" channel="TawafTV.id"><title lang="id">BELAJAR MENGAJI</title></programme>
+<programme start="20241010043000 +0000" stop="20241010050000 +0000" channel="TawafTV.id"><title lang="id">MUSLIM UPDATE</title></programme>
+<programme start="20241010050000 +0000" stop="20241010060000 +0000" channel="TawafTV.id"><title lang="id">BUMN BERAKHLAK</title></programme>
+<programme start="20241010060000 +0000" stop="20241010070000 +0000" channel="TawafTV.id"><title lang="id">RISALAH DUNIA</title></programme>
+<programme start="20241010070000 +0000" stop="20241010073000 +0000" channel="TawafTV.id"><title lang="id">Jurnal Dunia Islam</title></programme>
+<programme start="20241010073000 +0000" stop="20241010083000 +0000" channel="TawafTV.id"><title lang="id">MAJELIS ILMU</title></programme>
+<programme start="20241010083000 +0000" stop="20241010090000 +0000" channel="TawafTV.id"><title lang="id">CELEB MUSLIM</title></programme>
+<programme start="20241010090000 +0000" stop="20241010093000 +0000" channel="TawafTV.id"><title lang="id">POLISI SAHABAT UMAT</title></programme>
+<programme start="20241010093000 +0000" stop="20241010100000 +0000" channel="TawafTV.id"><title lang="id">Wajah Pesantren Eps 48</title></programme>
+<programme start="20241010100000 +0000" stop="20241010103000 +0000" channel="TawafTV.id"><title lang="id">ICIP-ICIP HALAL</title></programme>
+<programme start="20241010103000 +0000" stop="20241010110000 +0000" channel="TawafTV.id"><title lang="id">JELAJAH SURAU</title></programme>
+<programme start="20241010110000 +0000" stop="20241010113000 +0000" channel="TawafTV.id"><title lang="id">MUSLIM UPDATE</title></programme>
+<programme start="20241010113000 +0000" stop="20241010120000 +0000" channel="TawafTV.id"><title lang="id">CELEB MUSLIM</title></programme>
+<programme start="20241010120000 +0000" stop="20241010130000 +0000" channel="TawafTV.id"><title lang="id">BUMN BERAKHLAK</title></programme>
+<programme start="20241010130000 +0000" stop="20241010133000 +0000" channel="TawafTV.id"><title lang="id">ICIP-ICIP HALAL</title></programme>
+<programme start="20241010133000 +0000" stop="20241010140000 +0000" channel="TawafTV.id"><title lang="id">ZISWAF LIFESTYLE EPS 8 Akibat Enggan Berzakat</title></programme>
+<programme start="20241010140000 +0000" stop="20241010150000 +0000" channel="TawafTV.id"><title lang="id">MAJELIS ILMU</title></programme>
+<programme start="20241010150000 +0000" stop="20241010153000 +0000" channel="TawafTV.id"><title lang="id">CELEB MUSLIM</title></programme>
+<programme start="20241010153000 +0000" stop="20241010160000 +0000" channel="TawafTV.id"><title lang="id">MUSLIM UPDATE</title></programme>
+<programme start="20241010160000 +0000" stop="20241010163000 +0000" channel="TawafTV.id"><title lang="id">HIKAYAT</title></programme>
+<programme start="20241010163000 +0000" stop="20241010173000 +0000" channel="TawafTV.id"><title lang="id">RISALAH DUNIA</title></programme>
 <programme start="20241010190000 +0000" stop="20241010230000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
 <programme start="20241010230000 +0000" stop="20241011030000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
 <programme start="20241011030000 +0000" stop="20241011070000 +0000" channel="TawafTV.id"><title lang="id">To Be Announced</title></programme>
