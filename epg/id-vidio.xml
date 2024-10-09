@@ -825,18 +825,21 @@
 <programme start="20241009131500 +0000" stop="20241009150000 +0000" channel="ANTV.id"><title lang="id">SINEMA LAGA KLASIK SAUR SEPUH 3: KEMBANG GUNUNG LAWU</title></programme>
 <programme start="20241009150000 +0000" stop="20241009170000 +0000" channel="ANTV.id"><title lang="id">SINEMA LAGA KLASIK RATU BUAYA</title></programme>
 <programme start="20241009180000 +0000" stop="20241009183000 +0000" channel="ANTV.id"><title lang="id">Memburu Misteri</title></programme>
-<programme start="20241009183000 +0000" stop="20241009203000 +0000" channel="ANTV.id"><title lang="id">AB Shop Home Shopping</title></programme>
-<programme start="20241009203000 +0000" stop="20241009210000 +0000" channel="ANTV.id"><title lang="id">Inayah</title></programme>
-<programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="ANTV.id"><title lang="id">Senyum Iman</title></programme>
-<programme start="20241009213000 +0000" stop="20241009223000 +0000" channel="ANTV.id"><title lang="id">Sunny Bunnies</title></programme>
-<programme start="20241009223000 +0000" stop="20241010010000 +0000" channel="ANTV.id"><title lang="id">Shiva</title></programme>
-<programme start="20241010010000 +0000" stop="20241010023000 +0000" channel="ANTV.id"><title lang="id">Masha and the Bear</title></programme>
-<programme start="20241010023000 +0000" stop="20241010040000 +0000" channel="ANTV.id"><title lang="id">Dakkila</title></programme>
-<programme start="20241010040000 +0000" stop="20241010070000 +0000" channel="ANTV.id"><title lang="id">Jodha Akbar</title></programme>
-<programme start="20241010070000 +0000" stop="20241010090000 +0000" channel="ANTV.id"><title lang="id">Kasautii</title></programme>
-<programme start="20241010090000 +0000" stop="20241010123000 +0000" channel="ANTV.id"><title lang="id">Bhagya Lakshmi</title></programme>
-<programme start="20241010123000 +0000" stop="20241010160000 +0000" channel="ANTV.id"><title lang="id">Imlie</title></programme>
-<programme start="20241010160000 +0000" stop="20241011010000 +0000" channel="ANTV.id"><title lang="id">Garis Tangan 2</title></programme>
+<programme start="20241009183000 +0000" stop="20241009190000 +0000" channel="ANTV.id"><title lang="id">AB Shop Home Shopping</title></programme>
+<programme start="20241009190000 +0000" stop="20241009203000 +0000" channel="ANTV.id"><title lang="id">Kun Fayakun</title></programme>
+<programme start="20241009203000 +0000" stop="20241009220000 +0000" channel="ANTV.id"><title lang="id">Anandhi</title></programme>
+<programme start="20241009220000 +0000" stop="20241009223000 +0000" channel="ANTV.id"><title lang="id">Cakrawala</title></programme>
+<programme start="20241009223000 +0000" stop="20241009230000 +0000" channel="ANTV.id"><title lang="id">Senyuman Iman</title></programme>
+<programme start="20241009230000 +0000" stop="20241009233000 +0000" channel="ANTV.id"><title lang="id">Viralin</title></programme>
+<programme start="20241009233000 +0000" stop="20241010003000 +0000" channel="ANTV.id"><title lang="id">Kasus Viral</title></programme>
+<programme start="20241010003000 +0000" stop="20241010020000 +0000" channel="ANTV.id"><title lang="id">Ramayana</title></programme>
+<programme start="20241010020000 +0000" stop="20241010053000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood : Raja Hindustani</title></programme>
+<programme start="20241010053000 +0000" stop="20241010070000 +0000" channel="ANTV.id"><title lang="id">Janji Cinta Inspektur Virat</title></programme>
+<programme start="20241010070000 +0000" stop="20241010090000 +0000" channel="ANTV.id"><title lang="id">Hasrat Cinta</title></programme>
+<programme start="20241010090000 +0000" stop="20241010111500 +0000" channel="ANTV.id"><title lang="id">Parineetii</title></programme>
+<programme start="20241010111500 +0000" stop="20241010131500 +0000" channel="ANTV.id"><title lang="id">Aini &quot;Malaikat Tak Bersayap&quot;</title></programme>
+<programme start="20241010131500 +0000" stop="20241010150000 +0000" channel="ANTV.id"><title lang="id">Seniman Laga Klasik : Saur Sepuh 4</title></programme>
+<programme start="20241010150000 +0000" stop="20241010170000 +0000" channel="ANTV.id"><title lang="id">Sinema Laga Klasik : Nini Towok</title></programme>
 <programme start="20241011010000 +0000" stop="20241011023000 +0000" channel="ANTV.id"><title lang="id">Masha and the Bear</title></programme>
 <programme start="20241011023000 +0000" stop="20241011040000 +0000" channel="ANTV.id"><title lang="id">Dakkila</title></programme>
 <programme start="20241011040000 +0000" stop="20241011070000 +0000" channel="ANTV.id"><title lang="id">Jodha Akbar</title></programme>
@@ -1045,28 +1048,27 @@
 <programme start="20241009170000 +0000" stop="20241009183000 +0000" channel="beINSports1.id"><title lang="id">Rally Chile, SS16 : FIA World Rally Championship</title></programme>
 <programme start="20241009183000 +0000" stop="20241009190000 +0000" channel="beINSports1.id"><title lang="id">Fast Zone</title></programme>
 <programme start="20241009190000 +0000" stop="20241009200000 +0000" channel="beINSports1.id"><title lang="id">European Le Mans Series 2024 Highlights</title></programme>
-<programme start="20241009200000 +0000" stop="20241009210000 +0000" channel="beINSports1.id"><title lang="id">Rally Chile : FIA World Rally Championship Highlights</title></programme>
-<programme start="20241009210000 +0000" stop="20241009221500 +0000" channel="beINSports1.id"><title lang="id">Rotterdam P1 Day 4 QF Match 6 - Men : Premier Padel Major</title></programme>
-<programme start="20241009221500 +0000" stop="20241009223000 +0000" channel="beINSports1.id"><title lang="id">Barcelona v Athletic Bilbao : LaLiga Highlights</title></programme>
+<programme start="20241009200000 +0000" stop="20241009210000 +0000" channel="beINSports1.id"><title lang="id">Rally Chile - FIA World Rally Championship Highlights 2024</title></programme>
+<programme start="20241009210000 +0000" stop="20241009221500 +0000" channel="beINSports1.id"><title lang="id">Rotterdam P1 Day 4 QF Match 6 - Men - Premier Padel 2024</title></programme>
+<programme start="20241009221500 +0000" stop="20241009223000 +0000" channel="beINSports1.id"><title lang="id">Barcelona vs Athletic Bilbao - LaLiga Match Highlights 2024/25</title></programme>
 <programme start="20241009223000 +0000" stop="20241010005000 +0000" channel="beINSports1.id"><title lang="id">Bol d&apos;Or: Race : FIM Endurance World Championship</title></programme>
 <programme start="20241010005000 +0000" stop="20241010021000 +0000" channel="beINSports1.id"><title lang="id">Spielberg/AUT, Race 1 : ADAC GT Masters Series</title></programme>
 <programme start="20241010021000 +0000" stop="20241010040000 +0000" channel="beINSports1.id"><title lang="id">Dinamo Zagreb vs. Monaco : UEFA Champions League Soccer</title></programme>
-<programme start="20241010040000 +0000" stop="20241010054000 +0000" channel="beINSports1.id"><title lang="id">Tour of Britain, Stage 3 : Cycling</title></programme>
-<programme start="20241010054000 +0000" stop="20241010071000 +0000" channel="beINSports1.id"><title lang="id">Premier Padel Major</title></programme>
-<programme start="20241010071000 +0000" stop="20241010080000 +0000" channel="beINSports1.id"><title lang="id">Donington Park II : British Superbike Championship Highlights</title></programme>
-<programme start="20241010080000 +0000" stop="20241010100000 +0000" channel="beINSports1.id"><title lang="id">Arsenal vs. Manchester United : Premier League Soccer</title></programme>
-<programme start="20241010100000 +0000" stop="20241010120000 +0000" channel="beINSports1.id"><title lang="id">Arsenal vs. Southampton : Premier League Soccer</title></programme>
-<programme start="20241010120000 +0000" stop="20241010123000 +0000" channel="beINSports1.id"><title lang="id">Jarama : FIA European Truck Racing Championship Highlights</title></programme>
-<programme start="20241010123000 +0000" stop="20241010130000 +0000" channel="beINSports1.id"><title lang="id">Barcelona - Highlights : Formula Regional European Championship</title></programme>
-<programme start="20241010130000 +0000" stop="20241010133000 +0000" channel="beINSports1.id"><title lang="id">European Le Mans Series 2024 Highlights</title></programme>
-<programme start="20241010133000 +0000" stop="20241010140000 +0000" channel="beINSports1.id"><title lang="id">GP Confidential</title></programme>
-<programme start="20241010140000 +0000" stop="20241010143000 +0000" channel="beINSports1.id"><title lang="id">Fast Zone</title></programme>
-<programme start="20241010143000 +0000" stop="20241010153000 +0000" channel="beINSports1.id"><title lang="id">Red Bull Ring : DTM Highlights</title></programme>
-<programme start="20241010153000 +0000" stop="20241010160000 +0000" channel="beINSports1.id"><title lang="id">Gearing Up</title></programme>
-<programme start="20241010160000 +0000" stop="20241010170000 +0000" channel="beINSports1.id"><title lang="id">Member&apos;s Meeting : Goodwood Revival Highlights</title></programme>
-<programme start="20241010170000 +0000" stop="20241010173000 +0000" channel="beINSports1.id"><title lang="id">Jarama : FIA European Truck Racing Championship Highlights</title></programme>
-<programme start="20241010173000 +0000" stop="20241010180000 +0000" channel="beINSports1.id"><title lang="id">Barcelona - Highlights : Formula Regional European Championship</title></programme>
-<programme start="20241010180000 +0000" stop="20241010185000 +0000" channel="beINSports1.id"><title lang="id">Donington Park II : British Superbike Championship Highlights</title></programme>
+<programme start="20241010040000 +0000" stop="20241010064000 +0000" channel="beINSports1.id"><title lang="id">Tour of Britain, Stage 3 : Cycling</title></programme>
+<programme start="20241010064000 +0000" stop="20241010081000 +0000" channel="beINSports1.id"><title lang="id">Premier Padel Major</title></programme>
+<programme start="20241010081000 +0000" stop="20241010090000 +0000" channel="beINSports1.id"><title lang="id">Donington Park II : British Superbike Championship Highlights</title></programme>
+<programme start="20241010090000 +0000" stop="20241010110000 +0000" channel="beINSports1.id"><title lang="id">Arsenal vs. Manchester United : Premier League Soccer</title></programme>
+<programme start="20241010110000 +0000" stop="20241010130000 +0000" channel="beINSports1.id"><title lang="id">Arsenal vs. Southampton : Premier League Soccer</title></programme>
+<programme start="20241010130000 +0000" stop="20241010133000 +0000" channel="beINSports1.id"><title lang="id">Jarama : FIA European Truck Racing Championship Highlights</title></programme>
+<programme start="20241010133000 +0000" stop="20241010140000 +0000" channel="beINSports1.id"><title lang="id">Barcelona - Highlights : Formula Regional European Championship</title></programme>
+<programme start="20241010140000 +0000" stop="20241010143000 +0000" channel="beINSports1.id"><title lang="id">European Le Mans Series 2024 Highlights</title></programme>
+<programme start="20241010143000 +0000" stop="20241010150000 +0000" channel="beINSports1.id"><title lang="id">GP Confidential</title></programme>
+<programme start="20241010150000 +0000" stop="20241010153000 +0000" channel="beINSports1.id"><title lang="id">Fast Zone</title></programme>
+<programme start="20241010153000 +0000" stop="20241010163000 +0000" channel="beINSports1.id"><title lang="id">Red Bull Ring : DTM Highlights</title></programme>
+<programme start="20241010163000 +0000" stop="20241010170000 +0000" channel="beINSports1.id"><title lang="id">Gearing Up</title></programme>
+<programme start="20241010170000 +0000" stop="20241010180000 +0000" channel="beINSports1.id"><title lang="id">Member&apos;s Meeting : Goodwood Revival Highlights</title></programme>
+<programme start="20241010180000 +0000" stop="20241010183000 +0000" channel="beINSports1.id"><title lang="id">Jarama : FIA European Truck Racing Championship Highlights</title></programme>
+<programme start="20241010183000 +0000" stop="20241010185000 +0000" channel="beINSports1.id"><title lang="id">Donington Park II : British Superbike Championship Highlights</title></programme>
 <programme start="20241010185000 +0000" stop="20241010192000 +0000" channel="beINSports1.id"><title lang="id">Gearing Up</title></programme>
 <programme start="20241010192000 +0000" stop="20241010195000 +0000" channel="beINSports1.id"><title lang="id">Rally Jameel</title></programme>
 <programme start="20241010195000 +0000" stop="20241010212000 +0000" channel="beINSports1.id"><title lang="id">Premier Padel Major</title></programme>
@@ -1113,24 +1115,24 @@
 <programme start="20241009192000 +0000" stop="20241009211000 +0000" channel="beINSports3.id"><title lang="id">Real Valladolid vs. Rayo Vallecano de Madrid : La Liga</title></programme>
 <programme start="20241009211000 +0000" stop="20241009221000 +0000" channel="beINSports3.id"><title lang="id">LaLiga 2 Highlights</title></programme>
 <programme start="20241009221000 +0000" stop="20241009230000 +0000" channel="beINSports3.id"><title lang="id">Alaves vs. FC Barcelona : La Liga</title></programme>
-<programme start="20241009230000 +0000" stop="20241009233000 +0000" channel="beINSports3.id"><title lang="id">LaLiga World</title></programme>
-<programme start="20241009233000 +0000" stop="20241010003000 +0000" channel="beINSports3.id"><title lang="id">UK Challenge, England : Mass Participation Series</title></programme>
-<programme start="20241010003000 +0000" stop="20241010010000 +0000" channel="beINSports3.id"><title lang="id">Chapter One : Moments That Build A Legend</title></programme>
-<programme start="20241010010000 +0000" stop="20241010030000 +0000" channel="beINSports3.id"><title lang="id">2009/10 League Cup: Manchester United v Manchester City : The United Archives</title></programme>
-<programme start="20241010030000 +0000" stop="20241010033000 +0000" channel="beINSports3.id"><title lang="id">2002/03 : Premier League Years</title></programme>
-<programme start="20241010033000 +0000" stop="20241010040000 +0000" channel="beINSports3.id"><title lang="id">Legends: Paul Canoville : Chelsea TV</title></programme>
-<programme start="20241010040000 +0000" stop="20241010055000 +0000" channel="beINSports3.id"><title lang="id">Getafe CF vs. Osasuna : La Liga</title></programme>
-<programme start="20241010055000 +0000" stop="20241010074000 +0000" channel="beINSports3.id"><title lang="id">AS Monaco FC vs. Barcelona : UEFA Youth League Soccer</title></programme>
-<programme start="20241010074000 +0000" stop="20241010081000 +0000" channel="beINSports3.id"><title lang="id">LaLiga World</title></programme>
-<programme start="20241010081000 +0000" stop="20241010101000 +0000" channel="beINSports3.id"><title lang="id">Espanyol vs. RCD Mallorca : La Liga</title></programme>
-<programme start="20241010101000 +0000" stop="20241010104000 +0000" channel="beINSports3.id"><title lang="id">Maxi Yacht Rolex Cup : Spirit of Yachting</title></programme>
-<programme start="20241010104000 +0000" stop="20241010123000 +0000" channel="beINSports3.id"><title lang="id">Real Sociedad vs. Atletico Madrid : La Liga</title></programme>
-<programme start="20241010123000 +0000" stop="20241010130000 +0000" channel="beINSports3.id"><title lang="id">Breakaway: Polo in Palm Beach, Part 1 : Global Polo Show</title></programme>
-<programme start="20241010130000 +0000" stop="20241010133000 +0000" channel="beINSports3.id"><title lang="id">Chapter One : Moments That Build A Legend</title></programme>
-<programme start="20241010133000 +0000" stop="20241010153000 +0000" channel="beINSports3.id"><title lang="id">Premier League: Aston Villa vs Manchester United : MUTV</title></programme>
-<programme start="20241010153000 +0000" stop="20241010160000 +0000" channel="beINSports3.id"><title lang="id">Premier League: Aston Villa vs Manchester United : Match Day Review</title></programme>
-<programme start="20241010160000 +0000" stop="20241010174500 +0000" channel="beINSports3.id"><title lang="id">Bayer Leverkusen U19 vs. AC Milan : UEFA Youth League Soccer</title></programme>
-<programme start="20241010174500 +0000" stop="20241010200000 +0000" channel="beINSports3.id"><title lang="id">Algeria vs. Togo : 2025 Africa Cup of Nations Qualifiers</title></programme>
+<programme start="20241010000000 +0000" stop="20241010003000 +0000" channel="beINSports3.id"><title lang="id">LaLiga World</title></programme>
+<programme start="20241010003000 +0000" stop="20241010013000 +0000" channel="beINSports3.id"><title lang="id">UK Challenge, England : Mass Participation Series</title></programme>
+<programme start="20241010013000 +0000" stop="20241010020000 +0000" channel="beINSports3.id"><title lang="id">Chapter One : Moments That Build A Legend</title></programme>
+<programme start="20241010020000 +0000" stop="20241010040000 +0000" channel="beINSports3.id"><title lang="id">2009/10 League Cup: Manchester United v Manchester City : The United Archives</title></programme>
+<programme start="20241010040000 +0000" stop="20241010043000 +0000" channel="beINSports3.id"><title lang="id">2002/03 : Premier League Years</title></programme>
+<programme start="20241010043000 +0000" stop="20241010050000 +0000" channel="beINSports3.id"><title lang="id">Legends: Paul Canoville : Chelsea TV</title></programme>
+<programme start="20241010050000 +0000" stop="20241010065000 +0000" channel="beINSports3.id"><title lang="id">Getafe CF vs. Osasuna : La Liga</title></programme>
+<programme start="20241010065000 +0000" stop="20241010084000 +0000" channel="beINSports3.id"><title lang="id">AS Monaco FC vs. Barcelona : UEFA Youth League Soccer</title></programme>
+<programme start="20241010084000 +0000" stop="20241010091000 +0000" channel="beINSports3.id"><title lang="id">LaLiga World</title></programme>
+<programme start="20241010091000 +0000" stop="20241010111000 +0000" channel="beINSports3.id"><title lang="id">Espanyol vs. RCD Mallorca : La Liga</title></programme>
+<programme start="20241010111000 +0000" stop="20241010114000 +0000" channel="beINSports3.id"><title lang="id">Maxi Yacht Rolex Cup : Spirit of Yachting</title></programme>
+<programme start="20241010114000 +0000" stop="20241010133000 +0000" channel="beINSports3.id"><title lang="id">Real Sociedad vs. Atletico Madrid : La Liga</title></programme>
+<programme start="20241010133000 +0000" stop="20241010140000 +0000" channel="beINSports3.id"><title lang="id">Breakaway: Polo in Palm Beach, Part 1 : Global Polo Show</title></programme>
+<programme start="20241010140000 +0000" stop="20241010143000 +0000" channel="beINSports3.id"><title lang="id">Chapter One : Moments That Build A Legend</title></programme>
+<programme start="20241010143000 +0000" stop="20241010163000 +0000" channel="beINSports3.id"><title lang="id">Premier League: Aston Villa vs Manchester United : MUTV</title></programme>
+<programme start="20241010163000 +0000" stop="20241010170000 +0000" channel="beINSports3.id"><title lang="id">Premier League: Aston Villa vs Manchester United : Match Day Review</title></programme>
+<programme start="20241010170000 +0000" stop="20241010184500 +0000" channel="beINSports3.id"><title lang="id">Bayer Leverkusen U19 vs. AC Milan : UEFA Youth League Soccer</title></programme>
+<programme start="20241010184500 +0000" stop="20241010200000 +0000" channel="beINSports3.id"><title lang="id">Algeria vs. Togo : 2025 Africa Cup of Nations Qualifiers</title></programme>
 <programme start="20241010200000 +0000" stop="20241010203000 +0000" channel="beINSports3.id"><title lang="id">Kite Masters</title></programme>
 <programme start="20241010203000 +0000" stop="20241010210000 +0000" channel="beINSports3.id"><title lang="id">RIDE FEI Originals</title></programme>
 <programme start="20241010210000 +0000" stop="20241010225000 +0000" channel="beINSports3.id"><title lang="id">Las Palmas vs. Celta Vigo : La Liga</title></programme>
@@ -1331,7 +1333,7 @@
 <programme start="20241010073000 +0000" stop="20241010093000 +0000" channel="ChampionsTV2.id"><title lang="id">Ajax vs. Groningen : Eredivisie Soccer</title></programme>
 <programme start="20241010093000 +0000" stop="20241010113000 +0000" channel="ChampionsTV2.id"><title lang="id">West Bromwich Albion vs. Millwall : English Championship Soccer</title></programme>
 <programme start="20241010113000 +0000" stop="20241010120000 +0000" channel="ChampionsTV2.id"><title lang="id">EFL Highlights</title></programme>
-<programme start="20241010120000 +0000" stop="20241010160000 +0000" channel="ChampionsTV2.id"><title lang="id">Lorenzo Gerez vs. Brian Arregui : Boxing</title></programme>
+<programme start="20241010120000 +0000" stop="20241010160000 +0000" channel="ChampionsTV2.id"><title lang="id">BRUCE CARRINGTON vs SULAIMAN SEGAWA : TOP RANK BOXING</title></programme>
 <programme start="20241010160000 +0000" stop="20241010170000 +0000" channel="ChampionsTV2.id"><title lang="id">Eredivisie Highlights</title></programme>
 <programme start="20241010170000 +0000" stop="20241010190000 +0000" channel="ChampionsTV2.id"><title lang="id">Feyenoord vs. FC Twente : Eredivisie Soccer</title></programme>
 <programme start="20241010190000 +0000" stop="20241010200000 +0000" channel="ChampionsTV2.id"><title lang="id">Liga Portugal - Highlights</title></programme>
@@ -1368,13 +1370,15 @@
 <programme start="20241009173000 +0000" stop="20241009180000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Greatest 50</title></programme>
 <programme start="20241009180000 +0000" stop="20241009183000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
 <programme start="20241009183000 +0000" stop="20241009190000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
-<programme start="20241009190000 +0000" stop="20241009200000 +0000" channel="ChampionsTV3.id"><title lang="id">Dongfeng Motor Wuhan Open : WTA Tennis</title></programme>
-<programme start="20241009200000 +0000" stop="20241009220000 +0000" channel="ChampionsTV3.id"><title lang="id">Dongfeng Motor Wuhan Open : WTA Tennis</title></programme>
-<programme start="20241009220000 +0000" stop="20241010000000 +0000" channel="ChampionsTV3.id"><title lang="id">Dongfeng Motor Wuhan Open : WTA Tennis</title></programme>
+<programme start="20241009190000 +0000" stop="20241010010000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000 : Dongfeng Voyah Wuhan Open</title></programme>
+<programme start="20241010010000 +0000" stop="20241010013000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA my Story</title></programme>
+<programme start="20241010013000 +0000" stop="20241010020000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Magazine 2024</title></programme>
+<programme start="20241010020000 +0000" stop="20241010023000 +0000" channel="ChampionsTV3.id"><title lang="id">Sport Woman</title></programme>
+<programme start="20241010023000 +0000" stop="20241010030000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action 22/23</title></programme>
 <programme start="20241010030000 +0000" stop="20241010070000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: Wuhan Open - Day 4</title></programme>
 <programme start="20241010110000 +0000" stop="20241010150000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: Wuhan Open - Day 4</title></programme>
-<programme start="20241010150000 +0000" stop="20241010163000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA - My Story</title></programme>
-<programme start="20241010163000 +0000" stop="20241010170000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Greatest 50</title></programme>
+<programme start="20241010150000 +0000" stop="20241010153000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA - My Story</title></programme>
+<programme start="20241010153000 +0000" stop="20241010170000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000 : Dongfeng Voyah Wuhan Open</title></programme>
 <programme start="20241010170000 +0000" stop="20241010173000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
 <programme start="20241010173000 +0000" stop="20241010180000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
 <programme start="20241010180000 +0000" stop="20241010200000 +0000" channel="ChampionsTV3.id"><title lang="id">Dongfeng Motor Wuhan Open : WTA Tennis</title></programme>
@@ -2705,8 +2709,8 @@
 <programme start="20241010070000 +0000" stop="20241010090000 +0000" channel="Indosiar.id"><title lang="id">Rahasia Kursi Goyang Yang Hampir Merenggut Nyawa : Kisah Nyata</title></programme>
 <programme start="20241010090000 +0000" stop="20241010110000 +0000" channel="Indosiar.id"><title lang="id">Teror Dan Fitnah Yang Membuat Aku Kehilangan Segalanya : Kisah Nyata Sore</title></programme>
 <programme start="20241010110000 +0000" stop="20241010130000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
-<programme start="20241010130000 +0000" stop="20241010150000 +0000" channel="Indosiar.id"><title lang="id">MEGA SERIES ACTION ASIA : HEROES</title></programme>
-<programme start="20241010150000 +0000" stop="20241010173000 +0000" channel="Indosiar.id"><title lang="id">Fong Sai Yuk I</title></programme>
+<programme start="20241010130000 +0000" stop="20241010153000 +0000" channel="Indosiar.id"><title lang="id">MEGA FILM ASIA THE WRATH OF VAJRA</title></programme>
+<programme start="20241010153000 +0000" stop="20241010173000 +0000" channel="Indosiar.id"><title lang="id">MEGA SERIES ACTION ASIA : HEROES</title></programme>
 <programme start="20241010173000 +0000" stop="20241010193000 +0000" channel="Indosiar.id"><title lang="id">God of Gamblers 3: The Early Stage</title></programme>
 <programme start="20241010193000 +0000" stop="20241010204500 +0000" channel="Indosiar.id"><title lang="id">Perfect Exchange</title></programme>
 <programme start="20241010204500 +0000" stop="20241010230000 +0000" channel="Indosiar.id"><title lang="id">Venezuela vs. Argentina : FIFA World Cup 2026 Qualifying</title></programme>
@@ -3149,29 +3153,28 @@
 <programme start="20241009140500 +0000" stop="20241009150500 +0000" channel="MetroTV.id"><title lang="id">Hotroom</title></programme>
 <programme start="20241009150500 +0000" stop="20241009153000 +0000" channel="MetroTV.id"><title lang="id">Metro Xinwen</title></programme>
 <programme start="20241009153000 +0000" stop="20241009170500 +0000" channel="MetroTV.id"><title lang="id">Prime Timen News</title></programme>
-<programme start="20241009170500 +0000" stop="20241009173000 +0000" channel="MetroTV.id"><title lang="id">Editorial Malam MGN</title></programme>
-<programme start="20241009173000 +0000" stop="20241009200500 +0000" channel="MetroTV.id"><title lang="id">Prime Time News</title></programme>
-<programme start="20241009200500 +0000" stop="20241009210500 +0000" channel="MetroTV.id"><title lang="id">Top News</title></programme>
+<programme start="20241009170500 +0000" stop="20241009180500 +0000" channel="MetroTV.id"><title lang="id">Prime Time News</title></programme>
+<programme start="20241009180500 +0000" stop="20241009190500 +0000" channel="MetroTV.id"><title lang="id">Top News</title></programme>
+<programme start="20241009190500 +0000" stop="20241009200500 +0000" channel="MetroTV.id"><title lang="id">Hotroom</title></programme>
+<programme start="20241009200500 +0000" stop="20241009203000 +0000" channel="MetroTV.id"><title lang="id">Melihat Indonesia</title></programme>
+<programme start="20241009203000 +0000" stop="20241009210500 +0000" channel="MetroTV.id"><title lang="id">Gaspoll</title></programme>
 <programme start="20241009210500 +0000" stop="20241009230500 +0000" channel="MetroTV.id"><title lang="id">Metro Pagi Primetime</title></programme>
 <programme start="20241009230500 +0000" stop="20241009233000 +0000" channel="MetroTV.id"><title lang="id">Metro Sport</title></programme>
-<programme start="20241009233000 +0000" stop="20241010003000 +0000" channel="MetroTV.id"><title lang="id">Editorial Media Indonesia</title></programme>
-<programme start="20241010003000 +0000" stop="20241010010500 +0000" channel="MetroTV.id"><title lang="id">Go Healthy</title></programme>
-<programme start="20241010010500 +0000" stop="20241010013000 +0000" channel="MetroTV.id"><title lang="id">Metro Xinwen</title></programme>
-<programme start="20241010013000 +0000" stop="20241010033000 +0000" channel="MetroTV.id"><title lang="id">Selamat Pagi Indonesia</title></programme>
+<programme start="20241009233000 +0000" stop="20241010000500 +0000" channel="MetroTV.id"><title lang="id">Go Healthy</title></programme>
+<programme start="20241010000500 +0000" stop="20241010010500 +0000" channel="MetroTV.id"><title lang="id">Editorial Media Indonesia</title></programme>
+<programme start="20241010010500 +0000" stop="20241010030500 +0000" channel="MetroTV.id"><title lang="id">Selamat Pagi Indonesia</title></programme>
+<programme start="20241010030500 +0000" stop="20241010033000 +0000" channel="MetroTV.id"><title lang="id">Zona Bisnis</title></programme>
 <programme start="20241010033000 +0000" stop="20241010040500 +0000" channel="MetroTV.id"><title lang="id">Go Healthy</title></programme>
 <programme start="20241010040500 +0000" stop="20241010060500 +0000" channel="MetroTV.id"><title lang="id">Metro Siang</title></programme>
 <programme start="20241010060500 +0000" stop="20241010070500 +0000" channel="MetroTV.id"><title lang="id">Hotroom</title></programme>
-<programme start="20241010070500 +0000" stop="20241010073000 +0000" channel="MetroTV.id"><title lang="id">Newsline</title></programme>
-<programme start="20241010073000 +0000" stop="20241010080500 +0000" channel="MetroTV.id"><title lang="id">Go Healthy</title></programme>
-<programme start="20241010080500 +0000" stop="20241010083000 +0000" channel="MetroTV.id"><title lang="id">Zona Bisnis</title></programme>
-<programme start="20241010083000 +0000" stop="20241010090500 +0000" channel="MetroTV.id"><title lang="id">Follow-Up</title></programme>
+<programme start="20241010070500 +0000" stop="20241010083000 +0000" channel="MetroTV.id"><title lang="id">Newsline</title></programme>
+<programme start="20241010083000 +0000" stop="20241010090500 +0000" channel="MetroTV.id"><title lang="id">Berita Pilkada</title></programme>
 <programme start="20241010090500 +0000" stop="20241010103000 +0000" channel="MetroTV.id"><title lang="id">Metro Hari Ini</title></programme>
 <programme start="20241010103000 +0000" stop="20241010130500 +0000" channel="MetroTV.id"><title lang="id">Prime Time News</title></programme>
 <programme start="20241010130500 +0000" stop="20241010140500 +0000" channel="MetroTV.id"><title lang="id">Top News</title></programme>
-<programme start="20241010140500 +0000" stop="20241010143000 +0000" channel="MetroTV.id"><title lang="id">Editorial Malam MGN</title></programme>
-<programme start="20241010143000 +0000" stop="20241010153000 +0000" channel="MetroTV.id"><title lang="id">Kontroversi</title></programme>
-<programme start="20241010153000 +0000" stop="20241010163000 +0000" channel="MetroTV.id"><title lang="id">Top News</title></programme>
-<programme start="20241010163000 +0000" stop="20241010170500 +0000" channel="MetroTV.id"><title lang="id">Go Healthy</title></programme>
+<programme start="20241010140500 +0000" stop="20241010150500 +0000" channel="MetroTV.id"><title lang="id">Kontroversi</title></programme>
+<programme start="20241010150500 +0000" stop="20241010153000 +0000" channel="MetroTV.id"><title lang="id">Metro Xinwen</title></programme>
+<programme start="20241010153000 +0000" stop="20241010163000 +0000" channel="MetroTV.id"><title lang="id">Prime Time News</title></programme>
 <programme start="20241010170500 +0000" stop="20241010173000 +0000" channel="MetroTV.id"><title lang="id">Editorial Malam MGN</title></programme>
 <programme start="20241010173000 +0000" stop="20241010200500 +0000" channel="MetroTV.id"><title lang="id">Prime Time News</title></programme>
 <programme start="20241010200500 +0000" stop="20241010210500 +0000" channel="MetroTV.id"><title lang="id">Top News</title></programme>
@@ -3209,9 +3212,9 @@
 <programme start="20241009133000 +0000" stop="20241009150000 +0000" channel="Moji.id"><title lang="id">The Sultan Entertainment</title></programme>
 <programme start="20241009150000 +0000" stop="20241009160000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
 <programme start="20241009160000 +0000" stop="20241009170000 +0000" channel="Moji.id"><title lang="id">Trust</title></programme>
-<programme start="20241009170000 +0000" stop="20241009173000 +0000" channel="Moji.id"><title lang="id">Premier League</title></programme>
-<programme start="20241009173000 +0000" stop="20241009180000 +0000" channel="Moji.id"><title lang="id">Premier League Highlights</title></programme>
-<programme start="20241009180000 +0000" stop="20241009220000 +0000" channel="Moji.id"><title lang="id">Pesta Olahraga Dunia</title></programme>
+<programme start="20241009190000 +0000" stop="20241009193000 +0000" channel="Moji.id"><title lang="id">Premier League</title></programme>
+<programme start="20241009193000 +0000" stop="20241009200000 +0000" channel="Moji.id"><title lang="id">Premier League Highlights</title></programme>
+<programme start="20241009200000 +0000" stop="20241009220000 +0000" channel="Moji.id"><title lang="id">Pesta Olahraga Dunia</title></programme>
 <programme start="20241009220000 +0000" stop="20241009231500 +0000" channel="Moji.id"><title lang="id">Moji Sport</title></programme>
 <programme start="20241009231500 +0000" stop="20241010000000 +0000" channel="Moji.id"><title lang="id">Liputan 6 Pagi Moji</title></programme>
 <programme start="20241010000000 +0000" stop="20241010010000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
@@ -3223,8 +3226,8 @@
 <programme start="20241010073000 +0000" stop="20241010093000 +0000" channel="Moji.id"><title lang="id">Kapolri Cup : Volleyball</title></programme>
 <programme start="20241010093000 +0000" stop="20241010113000 +0000" channel="Moji.id"><title lang="id">Kapolri Cup : Volleyball</title></programme>
 <programme start="20241010113000 +0000" stop="20241010140000 +0000" channel="Moji.id"><title lang="id">Kapolri Cup : Volleyball</title></programme>
-<programme start="20241010140000 +0000" stop="20241010160000 +0000" channel="Moji.id"><title lang="id">The Sultan Entertainment</title></programme>
-<programme start="20241010160000 +0000" stop="20241010170000 +0000" channel="Moji.id"><title lang="id">Trust</title></programme>
+<programme start="20241010140000 +0000" stop="20241010150000 +0000" channel="Moji.id"><title lang="id">The Sultan Entertainment</title></programme>
+<programme start="20241010150000 +0000" stop="20241010160000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
 <programme start="20241010170000 +0000" stop="20241010220000 +0000" channel="Moji.id"><title lang="id">Pesta Olahraga Dunia</title></programme>
 <programme start="20241010220000 +0000" stop="20241010231500 +0000" channel="Moji.id"><title lang="id">Moji Sport</title></programme>
 <programme start="20241010231500 +0000" stop="20241011000000 +0000" channel="Moji.id"><title lang="id">Liputan 6 Pagi Moji</title></programme>
@@ -3269,7 +3272,7 @@
 <programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="NBATV.us"><title lang="id">Warriors/Mavericks Team Previews : Team Previews 2024</title></programme>
 <programme start="20241009213000 +0000" stop="20241009220000 +0000" channel="NBATV.us"><title lang="id">Lakers/Celtics Team Previews : Team Previews 2024</title></programme>
 <programme start="20241009220000 +0000" stop="20241010000000 +0000" channel="NBATV.us"><title lang="id">2024 NBA Finals: Boston Celtics at Dallas Mavericks : NBA Playoff Playback</title></programme>
-<programme start="20241010000000 +0000" stop="20241010023000 +0000" channel="NBATV.us"><title lang="id">Orlando Magic at San Antonio Spurs : NBA Basketball</title></programme>
+<programme start="20241010000000 +0000" stop="20241010023000 +0000" channel="NBATV.us"><title lang="id">Orlando Magic vs San Antonio Spurs - NBA</title></programme>
 <programme start="20241010023000 +0000" stop="20241010030000 +0000" channel="NBATV.us"><title lang="id">The Legends Journey : NBA Roundtable Show</title></programme>
 <programme start="20241010030000 +0000" stop="20241010040000 +0000" channel="NBATV.us"><title lang="id">Unsung Heroes of the Finals : High Tops</title></programme>
 <programme start="20241010040000 +0000" stop="20241010050000 +0000" channel="NBATV.us"><title lang="id">2024 Eastern Conference Semifinals: New York Knicks at Indiana Pacers : NBA Playoff Playback</title></programme>
@@ -3939,7 +3942,7 @@
 <programme start="20241008174500 +0000" stop="20241008181500 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
 <programme start="20241008181500 +0000" stop="20241008184500 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
 <programme start="20241008184500 +0000" stop="20241008191500 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
-<programme start="20241008191500 +0000" stop="20241008201500 +0000" channel="SCTV.id"><title lang="id">Putih Itu Cantik : Sinema Malam</title></programme>
+<programme start="20241008191500 +0000" stop="20241008201500 +0000" channel="SCTV.id"><title lang="id">Cinta Pantang Di Tolak : Sinema Malam</title></programme>
 <programme start="20241008201500 +0000" stop="20241008210000 +0000" channel="SCTV.id"><title lang="id">Cantas Dan Cinta : Sinema Dini Hari</title></programme>
 <programme start="20241008210000 +0000" stop="20241008213000 +0000" channel="SCTV.id"><title lang="id">Barakallah</title></programme>
 <programme start="20241008213000 +0000" stop="20241008230000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Pagi</title></programme>
@@ -3963,7 +3966,7 @@
 <programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="SCTV.id"><title lang="id">Barakallah</title></programme>
 <programme start="20241009213000 +0000" stop="20241009230000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Pagi</title></programme>
 <programme start="20241009230000 +0000" stop="20241010000000 +0000" channel="SCTV.id"><title lang="id">Halo Selebriti</title></programme>
-<programme start="20241010000000 +0000" stop="20241010013000 +0000" channel="SCTV.id"><title lang="id">Gaspoll</title></programme>
+<programme start="20241010000000 +0000" stop="20241010013000 +0000" channel="SCTV.id"><title lang="id">Gaspol (Games Paling Nampol)</title></programme>
 <programme start="20241010013000 +0000" stop="20241010030000 +0000" channel="SCTV.id"><title lang="id">Copet Hatinya Dicopet? Benar Benar Membagongkan</title></programme>
 <programme start="20241010030000 +0000" stop="20241010050000 +0000" channel="SCTV.id"><title lang="id">Pesona Bertebaran Boss Panutan : SCTV FTV Pagi</title></programme>
 <programme start="20241010050000 +0000" stop="20241010053000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Siang</title></programme>
@@ -4147,18 +4150,20 @@
 <programme start="20241009120000 +0000" stop="20241009123000 +0000" channel="SPOTV2.id"><title lang="id">2024 WorldSBK Championship Round 10 Tissot Aragon Round</title></programme>
 <programme start="20241009123000 +0000" stop="20241009160000 +0000" channel="SPOTV2.id"><title lang="id">WorldSSP300 Race 1 WorldSBK Race 1 WorldSSP Race 1</title></programme>
 <programme start="20241009160000 +0000" stop="20241009180000 +0000" channel="SPOTV2.id"><title lang="id">2024 GTOUR MEN&apos;S 4th Tournament</title></programme>
-<programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="SPOTV2.id"><title lang="id">QTerminals Qatar Classic</title></programme>
+<programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="SPOTV2.id"><title lang="id">T100 Triathlon World Tour</title></programme>
 <programme start="20241009190000 +0000" stop="20241009220000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Second Round : Golf</title></programme>
-<programme start="20241009220000 +0000" stop="20241010050000 +0000" channel="SPOTV2.id"><title lang="id">Table Tennis</title></programme>
-<programme start="20241010050000 +0000" stop="20241010060000 +0000" channel="SPOTV2.id"><title lang="id">Formula E: Season Review</title></programme>
-<programme start="20241010060000 +0000" stop="20241010090000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Third Round : Golf</title></programme>
-<programme start="20241010090000 +0000" stop="20241010100000 +0000" channel="SPOTV2.id"><title lang="id">QTerminals Qatar Classic</title></programme>
+<programme start="20241009220000 +0000" stop="20241009230000 +0000" channel="SPOTV2.id"><title lang="id">QTerminals Qatar Classic</title></programme>
+<programme start="20241009230000 +0000" stop="20241010010800 +0000" channel="SPOTV2.id"><title lang="id">2024 IWBF Men&apos;s Repechage Tournament</title></programme>
+<programme start="20241010010800 +0000" stop="20241010040000 +0000" channel="SPOTV2.id"><title lang="id">Los Angeles Dodgers vs San Diego Padres - MLB Baseball</title></programme>
+<programme start="20241010040000 +0000" stop="20241010050000 +0000" channel="SPOTV2.id"><title lang="id">Formula E: Season Review</title></programme>
+<programme start="20241010050000 +0000" stop="20241010100000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Third Round : Golf</title></programme>
 <programme start="20241010100000 +0000" stop="20241010103000 +0000" channel="SPOTV2.id"><title lang="id">Maxi Yacht Rolex Cup 2023 : Rolex Spirit of Yachting</title></programme>
-<programme start="20241010103000 +0000" stop="20241010150000 +0000" channel="SPOTV2.id"><title lang="id">Round 12 Prometeon Spanish Round, Tissot Superpole Race &amp; Race 2 Part 2 : WorldSBK</title></programme>
-<programme start="20241010150000 +0000" stop="20241010160000 +0000" channel="SPOTV2.id"><title lang="id">T100 Triathlon World Tour</title></programme>
-<programme start="20241010160000 +0000" stop="20241010180000 +0000" channel="SPOTV2.id"><title lang="id">IHF Paris Women&apos;s Handball Qualification Tournament 2024</title></programme>
-<programme start="20241010180000 +0000" stop="20241010190000 +0000" channel="SPOTV2.id"><title lang="id">FIM Superbike World Championship</title></programme>
-<programme start="20241010190000 +0000" stop="20241010220000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Third Round : Golf</title></programme>
+<programme start="20241010103000 +0000" stop="20241010110000 +0000" channel="SPOTV2.id"><title lang="id">2024 MLB Postseason NLDS Game 4</title></programme>
+<programme start="20241010110000 +0000" stop="20241010133000 +0000" channel="SPOTV2.id"><title lang="id">Los Angeles Dodgers vs San Diego Padres</title></programme>
+<programme start="20241010133000 +0000" stop="20241010173000 +0000" channel="SPOTV2.id"><title lang="id">Tissot Superpole Race WorldSSP300 Race 2 WorldSBK Race 2 WorldSSP Race 2</title></programme>
+<programme start="20241010173000 +0000" stop="20241010180000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP Racing</title></programme>
+<programme start="20241010180000 +0000" stop="20241010230000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Third Round : Golf</title></programme>
+<programme start="20241010230000 +0000" stop="20241011010000 +0000" channel="SPOTV2.id"><title lang="id">IHF Paris Women&apos;s Handball Qualification Tournament 2024</title></programme>
 <programme start="20241011010000 +0000" stop="20241011053000 +0000" channel="SPOTV2.id"><title lang="id">Round 12 Prometeon Spanish Round, Tissot Superpole Race &amp; Race 2 Part 2 : WorldSBK</title></programme>
 <programme start="20241011053000 +0000" stop="20241011091500 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Final Round : Golf</title></programme>
 <programme start="20241011091500 +0000" stop="20241011103000 +0000" channel="SPOTV2.id"><title lang="id">Estoril Round, Free Practice 1 : FIM Superbike World Championship</title></programme>
@@ -4182,14 +4187,13 @@
 <programme start="20241009100000 +0000" stop="20241009123000 +0000" channel="SPOTV.id"><title lang="id">San Diego Padres vs Los Angeles Dodgers : 2024 MLB Postseason NLDS Game 2</title></programme>
 <programme start="20241009123000 +0000" stop="20241009133000 +0000" channel="SPOTV.id"><title lang="id">Roshn Saudi League Recap 2024/25 : Match Week 06</title></programme>
 <programme start="20241009133000 +0000" stop="20241009180000 +0000" channel="SPOTV.id"><title lang="id">2024 Supercars: Sandwon 500 - Part 2 : 2024 Supercars Championship</title></programme>
-<programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="SPOTV.id"><title lang="id">Superbike</title></programme>
-<programme start="20241009190000 +0000" stop="20241009203000 +0000" channel="SPOTV.id"><title lang="id">Superbike</title></programme>
+<programme start="20241009180000 +0000" stop="20241009203000 +0000" channel="SPOTV.id"><title lang="id">WorldSBK Race 1 : 2024 WorldSBK Rd 09 : Acerbis Italian Round</title></programme>
 <programme start="20241009203000 +0000" stop="20241009230800 +0000" channel="SPOTV.id"><title lang="id">Los Angeles Dodgers at San Diego Padres : MLB Baseball</title></programme>
 <programme start="20241009230800 +0000" stop="20241010020000 +0000" channel="SPOTV.id"><title lang="id">New York Yankees vs Kansas City Royals - MLB</title></programme>
 <programme start="20241010020000 +0000" stop="20241010025000 +0000" channel="SPOTV.id"><title lang="id">Rolex Monterey Motorsports Reunion</title></programme>
 <programme start="20241010025000 +0000" stop="20241010050000 +0000" channel="SPOTV.id"><title lang="id">Al-Okhdood vs. Al-Ittihad : Saudi League Soccer</title></programme>
 <programme start="20241010050000 +0000" stop="20241010070000 +0000" channel="SPOTV.id"><title lang="id">Al Nassr vs. Al Orubah : Saudi League Soccer</title></programme>
-<programme start="20241010070000 +0000" stop="20241010150000 +0000" channel="SPOTV.id"><title lang="id">Badminton</title></programme>
+<programme start="20241010070000 +0000" stop="20241010150000 +0000" channel="SPOTV.id"><title lang="id">HSBC BWF WTS 500 CLASH ROYALE Arctic Open 2024</title></programme>
 <programme start="20241010150000 +0000" stop="20241010153000 +0000" channel="SPOTV.id"><title lang="id">Lac La Biche World Archery Field Championships : Archery</title></programme>
 <programme start="20241010153000 +0000" stop="20241010180000 +0000" channel="SPOTV.id"><title lang="id">New York Yankees at Kansas City Royals : MLB Baseball</title></programme>
 <programme start="20241010180000 +0000" stop="20241010192000 +0000" channel="SPOTV.id"><title lang="id">Superbike</title></programme>
@@ -4351,36 +4355,27 @@
 <programme start="20241009123000 +0000" stop="20241009143000 +0000" channel="TransTV.id"><title lang="id">Film Indonesia Spesial</title></programme>
 <programme start="20241009143000 +0000" stop="20241009163000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV</title></programme>
 <programme start="20241009163000 +0000" stop="20241009180000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV</title></programme>
-<programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241009190000 +0000" stop="20241009192500 +0000" channel="TransTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241009192500 +0000" stop="20241009202000 +0000" channel="TransTV.id"><title lang="id">Documentary</title></programme>
-<programme start="20241009202000 +0000" stop="20241009204000 +0000" channel="TransTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241009204000 +0000" stop="20241009213000 +0000" channel="TransTV.id"><title lang="id">Documentary</title></programme>
-<programme start="20241009213000 +0000" stop="20241009220000 +0000" channel="TransTV.id"><title lang="id">Current Affairs</title></programme>
-<programme start="20241009220000 +0000" stop="20241009230000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241009230000 +0000" stop="20241010000000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010000000 +0000" stop="20241010003000 +0000" channel="TransTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241010003000 +0000" stop="20241010010000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010010000 +0000" stop="20241010013000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010013000 +0000" stop="20241010020000 +0000" channel="TransTV.id"><title lang="id">Current Affairs</title></programme>
-<programme start="20241010020000 +0000" stop="20241010024500 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010024500 +0000" stop="20241010030000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010030000 +0000" stop="20241010040000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010040000 +0000" stop="20241010045500 +0000" channel="TransTV.id"><title lang="id">Documentary</title></programme>
-<programme start="20241010045500 +0000" stop="20241010052500 +0000" channel="TransTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241010052500 +0000" stop="20241010060000 +0000" channel="TransTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241010060000 +0000" stop="20241010063000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010063000 +0000" stop="20241010070000 +0000" channel="TransTV.id"><title lang="id">Current Affairs</title></programme>
-<programme start="20241010070000 +0000" stop="20241010071500 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010071500 +0000" stop="20241010073000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010073000 +0000" stop="20241010082500 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010082500 +0000" stop="20241010090000 +0000" channel="TransTV.id"><title lang="id">Current Affairs</title></programme>
-<programme start="20241010090000 +0000" stop="20241010095500 +0000" channel="TransTV.id"><title lang="id">Documentary</title></programme>
-<programme start="20241010095500 +0000" stop="20241010103000 +0000" channel="TransTV.id"><title lang="id">To Be Announced</title></programme>
-<programme start="20241010103000 +0000" stop="20241010110000 +0000" channel="TransTV.id"><title lang="id">Current Affairs</title></programme>
-<programme start="20241010110000 +0000" stop="20241010120000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010120000 +0000" stop="20241010150000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
-<programme start="20241010150000 +0000" stop="20241010180000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
+<programme start="20241009180000 +0000" stop="20241009193000 +0000" channel="TransTV.id"><title lang="id">CNN Connected</title></programme>
+<programme start="20241009193000 +0000" stop="20241009201000 +0000" channel="TransTV.id"><title lang="id">Klinik Tendean</title></programme>
+<programme start="20241009201000 +0000" stop="20241009205000 +0000" channel="TransTV.id"><title lang="id">Adam Inul Love Story</title></programme>
+<programme start="20241009205000 +0000" stop="20241009212000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Prime News</title></programme>
+<programme start="20241009212000 +0000" stop="20241009214000 +0000" channel="TransTV.id"><title lang="id">Indonesia Punya Cerita</title></programme>
+<programme start="20241009214000 +0000" stop="20241009220000 +0000" channel="TransTV.id"><title lang="id">Keluarga Sonfai</title></programme>
+<programme start="20241009220000 +0000" stop="20241009233000 +0000" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
+<programme start="20241009233000 +0000" stop="20241010003000 +0000" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
+<programme start="20241010003000 +0000" stop="20241010013000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Good Morning</title></programme>
+<programme start="20241010013000 +0000" stop="20241010033000 +0000" channel="TransTV.id"><title lang="id">Pagi-Pagi Ambyar</title></programme>
+<programme start="20241010033000 +0000" stop="20241010053000 +0000" channel="TransTV.id"><title lang="id">Insert</title></programme>
+<programme start="20241010053000 +0000" stop="20241010070000 +0000" channel="TransTV.id"><title lang="id">Brownis (Obrowlan Manis)</title></programme>
+<programme start="20241010070000 +0000" stop="20241010080000 +0000" channel="TransTV.id"><title lang="id">Rumpi No Secret</title></programme>
+<programme start="20241010080000 +0000" stop="20241010090000 +0000" channel="TransTV.id"><title lang="id">Insert Today</title></programme>
+<programme start="20241010090000 +0000" stop="20241010093000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20241010093000 +0000" stop="20241010103000 +0000" channel="TransTV.id"><title lang="id">Dream Box Indonesia</title></programme>
+<programme start="20241010103000 +0000" stop="20241010113000 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
+<programme start="20241010113000 +0000" stop="20241010123000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
+<programme start="20241010123000 +0000" stop="20241010143000 +0000" channel="TransTV.id"><title lang="id">Film Indonesia Spesial</title></programme>
+<programme start="20241010143000 +0000" stop="20241010163000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV</title></programme>
+<programme start="20241010163000 +0000" stop="20241010170000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV</title></programme>
 <programme start="20241010180000 +0000" stop="20241010190000 +0000" channel="TransTV.id"><title lang="id">News</title></programme>
 <programme start="20241010190000 +0000" stop="20241010200000 +0000" channel="TransTV.id"><title lang="id">To Be Announced</title></programme>
 <programme start="20241010200000 +0000" stop="20241010210000 +0000" channel="TransTV.id"><title lang="id">To Be Announced</title></programme>
@@ -4664,25 +4659,28 @@
 <programme start="20241009170000 +0000" stop="20241009173000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam</title></programme>
 <programme start="20241009173000 +0000" stop="20241009180000 +0000" channel="tvOne.id"><title lang="id">AB Shop</title></programme>
 <programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20241009190000 +0000" stop="20241009193000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20241009193000 +0000" stop="20241009210000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam</title></programme>
+<programme start="20241009190000 +0000" stop="20241009193000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
+<programme start="20241009193000 +0000" stop="20241009200000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama Pagi</title></programme>
+<programme start="20241009200000 +0000" stop="20241009203000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
+<programme start="20241009203000 +0000" stop="20241009210000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
 <programme start="20241009213000 +0000" stop="20241009230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi</title></programme>
 <programme start="20241009230000 +0000" stop="20241009233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
 <programme start="20241009233000 +0000" stop="20241010013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
-<programme start="20241010013000 +0000" stop="20241010040000 +0000" channel="tvOne.id"><title lang="id">Indonesia Berqurban</title></programme>
-<programme start="20241010040000 +0000" stop="20241010053000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang</title></programme>
-<programme start="20241010053000 +0000" stop="20241010060000 +0000" channel="tvOne.id"><title lang="id">Panggilan Baitullah</title></programme>
-<programme start="20241010060000 +0000" stop="20241010073000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
-<programme start="20241010073000 +0000" stop="20241010080000 +0000" channel="tvOne.id"><title lang="id">Damai Indonesiaku</title></programme>
-<programme start="20241010080000 +0000" stop="20241010090000 +0000" channel="tvOne.id"><title lang="id">Spesial Idul Adha</title></programme>
+<programme start="20241010013000 +0000" stop="20241010023000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama Pagi</title></programme>
+<programme start="20241010023000 +0000" stop="20241010030000 +0000" channel="tvOne.id"><title lang="id">Hidup Sehat</title></programme>
+<programme start="20241010030000 +0000" stop="20241010033000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi</title></programme>
+<programme start="20241010033000 +0000" stop="20241010040000 +0000" channel="tvOne.id"><title lang="id">Kabar Dunia</title></programme>
+<programme start="20241010040000 +0000" stop="20241010060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang</title></programme>
+<programme start="20241010060000 +0000" stop="20241010080000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
+<programme start="20241010080000 +0000" stop="20241010090000 +0000" channel="tvOne.id"><title lang="id">Kabar Pemilukada</title></programme>
 <programme start="20241010090000 +0000" stop="20241010113000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
 <programme start="20241010113000 +0000" stop="20241010130000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
 <programme start="20241010130000 +0000" stop="20241010140000 +0000" channel="tvOne.id"><title lang="id">Dua Sisi</title></programme>
 <programme start="20241010140000 +0000" stop="20241010150000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama 2</title></programme>
-<programme start="20241010150000 +0000" stop="20241010153000 +0000" channel="tvOne.id"><title lang="id">Panggilan Baitullah</title></programme>
-<programme start="20241010153000 +0000" stop="20241010160000 +0000" channel="tvOne.id"><title lang="id">Indonesia Berqurban</title></programme>
-<programme start="20241010160000 +0000" stop="20241010170000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20241010150000 +0000" stop="20241010160000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20241010160000 +0000" stop="20241010163000 +0000" channel="tvOne.id"><title lang="id">Cover Story One</title></programme>
+<programme start="20241010163000 +0000" stop="20241010170000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam</title></programme>
 <programme start="20241010170000 +0000" stop="20241010173000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam</title></programme>
 <programme start="20241010173000 +0000" stop="20241010180000 +0000" channel="tvOne.id"><title lang="id">AB Shop</title></programme>
 <programme start="20241010180000 +0000" stop="20241010190000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
