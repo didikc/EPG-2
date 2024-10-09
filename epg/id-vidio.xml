@@ -824,7 +824,7 @@
 <programme start="20241009111500 +0000" stop="20241009131500 +0000" channel="ANTV.id"><title lang="id">AINI &quot;MALAIKAT TAK BERSAYAP&quot;</title></programme>
 <programme start="20241009131500 +0000" stop="20241009150000 +0000" channel="ANTV.id"><title lang="id">SINEMA LAGA KLASIK SAUR SEPUH 3: KEMBANG GUNUNG LAWU</title></programme>
 <programme start="20241009150000 +0000" stop="20241009170000 +0000" channel="ANTV.id"><title lang="id">SINEMA LAGA KLASIK RATU BUAYA</title></programme>
-<programme start="20241009180000 +0000" stop="20241009183000 +0000" channel="ANTV.id"><title lang="id">Memburu Misteri</title></programme>
+<programme start="20241009170000 +0000" stop="20241009183000 +0000" channel="ANTV.id"><title lang="id">Jodoh Wasiat Bapak Babak 2</title></programme>
 <programme start="20241009183000 +0000" stop="20241009190000 +0000" channel="ANTV.id"><title lang="id">AB Shop Home Shopping</title></programme>
 <programme start="20241009190000 +0000" stop="20241009203000 +0000" channel="ANTV.id"><title lang="id">Kun Fayakun</title></programme>
 <programme start="20241009203000 +0000" stop="20241009220000 +0000" channel="ANTV.id"><title lang="id">Anandhi</title></programme>
@@ -1114,7 +1114,7 @@
 <programme start="20241009185000 +0000" stop="20241009192000 +0000" channel="beINSports3.id"><title lang="id">The World Sailing Show</title></programme>
 <programme start="20241009192000 +0000" stop="20241009211000 +0000" channel="beINSports3.id"><title lang="id">Real Valladolid vs. Rayo Vallecano de Madrid : La Liga</title></programme>
 <programme start="20241009211000 +0000" stop="20241009221000 +0000" channel="beINSports3.id"><title lang="id">LaLiga 2 Highlights</title></programme>
-<programme start="20241009221000 +0000" stop="20241009230000 +0000" channel="beINSports3.id"><title lang="id">Alaves vs. FC Barcelona : La Liga</title></programme>
+<programme start="20241009221000 +0000" stop="20241010000000 +0000" channel="beINSports3.id"><title lang="id">Alaves vs. FC Barcelona : La Liga</title></programme>
 <programme start="20241010000000 +0000" stop="20241010003000 +0000" channel="beINSports3.id"><title lang="id">LaLiga World</title></programme>
 <programme start="20241010003000 +0000" stop="20241010013000 +0000" channel="beINSports3.id"><title lang="id">UK Challenge, England : Mass Participation Series</title></programme>
 <programme start="20241010013000 +0000" stop="20241010020000 +0000" channel="beINSports3.id"><title lang="id">Chapter One : Moments That Build A Legend</title></programme>
@@ -1263,13 +1263,13 @@
 <programme start="20241009050000 +0000" stop="20241009060000 +0000" channel="ChampionsTV1.id"><title lang="id">Eredivisie Highlights</title></programme>
 <programme start="20241009060000 +0000" stop="20241009075600 +0000" channel="ChampionsTV1.id"><title lang="id">Lazio vs. Empoli : Italian Serie A Soccer</title></programme>
 <programme start="20241009080000 +0000" stop="20241009095600 +0000" channel="ChampionsTV1.id"><title lang="id">Bologna vs. Parma : Italian Serie A Soccer</title></programme>
-<programme start="20241009100000 +0000" stop="20241009115500 +0000" channel="ChampionsTV1.id"><title lang="id">Monza vs. AS Roma : Italian Serie A Soccer</title></programme>
+<programme start="20241009095600 +0000" stop="20241009115500 +0000" channel="ChampionsTV1.id"><title lang="id">Monza vs. AS Roma : Italian Serie A Soccer</title></programme>
 <programme start="20241009115500 +0000" stop="20241009123000 +0000" channel="ChampionsTV1.id"><title lang="id">The Immortal</title></programme>
-<programme start="20241009123000 +0000" stop="20241009130000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
-<programme start="20241009130000 +0000" stop="20241009150000 +0000" channel="ChampionsTV1.id"><title lang="id">Lazio vs. Empoli : Italian Serie A Soccer</title></programme>
-<programme start="20241009150000 +0000" stop="20241009170000 +0000" channel="ChampionsTV1.id"><title lang="id">Bologna vs. Parma : Italian Serie A Soccer</title></programme>
-<programme start="20241009170000 +0000" stop="20241009190000 +0000" channel="ChampionsTV1.id"><title lang="id">Monza vs. AS Roma : Italian Serie A Soccer</title></programme>
-<programme start="20241009190000 +0000" stop="20241009193000 +0000" channel="ChampionsTV1.id"><title lang="id">The Immortal</title></programme>
+<programme start="20241009123000 +0000" stop="20241009125500 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
+<programme start="20241009125500 +0000" stop="20241009145700 +0000" channel="ChampionsTV1.id"><title lang="id">Lazio vs. Empoli : Italian Serie A Soccer</title></programme>
+<programme start="20241009145700 +0000" stop="20241009165600 +0000" channel="ChampionsTV1.id"><title lang="id">Bologna vs. Parma : Italian Serie A Soccer</title></programme>
+<programme start="20241009165600 +0000" stop="20241009185700 +0000" channel="ChampionsTV1.id"><title lang="id">Monza vs. AS Roma : Italian Serie A Soccer</title></programme>
+<programme start="20241009185700 +0000" stop="20241009193000 +0000" channel="ChampionsTV1.id"><title lang="id">The Immortal</title></programme>
 <programme start="20241009193000 +0000" stop="20241009200000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
 <programme start="20241009200000 +0000" stop="20241009220000 +0000" channel="ChampionsTV1.id"><title lang="id">West Bromwich Albion vs. Millwall : English Championship Soccer</title></programme>
 <programme start="20241009220000 +0000" stop="20241010000000 +0000" channel="ChampionsTV1.id"><title lang="id">PSV Eindhoven vs. Sparta : Eredivisie Soccer</title></programme>
@@ -1364,8 +1364,8 @@
 <programme start="20241009093000 +0000" stop="20241009100000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
 <programme start="20241009100000 +0000" stop="20241009103000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
 <programme start="20241009103000 +0000" stop="20241009110000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
-<programme start="20241009110000 +0000" stop="20241009150000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: Wuhan Open - Day 3</title></programme>
-<programme start="20241009150000 +0000" stop="20241009153000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA My Story</title></programme>
+<programme start="20241009110000 +0000" stop="20241009145300 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: Wuhan Open - Day 3</title></programme>
+<programme start="20241009145300 +0000" stop="20241009153000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA My Story</title></programme>
 <programme start="20241009153000 +0000" stop="20241009173000 +0000" channel="ChampionsTV3.id"><title lang="id">Dongfeng Motor Wuhan Open : WTA Tennis</title></programme>
 <programme start="20241009173000 +0000" stop="20241009180000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Greatest 50</title></programme>
 <programme start="20241009180000 +0000" stop="20241009183000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
@@ -1375,7 +1375,11 @@
 <programme start="20241010013000 +0000" stop="20241010020000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Magazine 2024</title></programme>
 <programme start="20241010020000 +0000" stop="20241010023000 +0000" channel="ChampionsTV3.id"><title lang="id">Sport Woman</title></programme>
 <programme start="20241010023000 +0000" stop="20241010030000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action 22/23</title></programme>
-<programme start="20241010030000 +0000" stop="20241010070000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: Wuhan Open - Day 4</title></programme>
+<programme start="20241010030000 +0000" stop="20241010090000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: Wuhan Open - Day 4</title></programme>
+<programme start="20241010090000 +0000" stop="20241010093000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA my Story</title></programme>
+<programme start="20241010093000 +0000" stop="20241010100000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Magazine</title></programme>
+<programme start="20241010100000 +0000" stop="20241010103000 +0000" channel="ChampionsTV3.id"><title lang="id">Sport Woman</title></programme>
+<programme start="20241010103000 +0000" stop="20241010110000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
 <programme start="20241010110000 +0000" stop="20241010150000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000: Wuhan Open - Day 4</title></programme>
 <programme start="20241010150000 +0000" stop="20241010153000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA - My Story</title></programme>
 <programme start="20241010153000 +0000" stop="20241010170000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 1000 : Dongfeng Voyah Wuhan Open</title></programme>
@@ -1486,40 +1490,39 @@
 <programme start="20241011140000 +0000" stop="20241011160000 +0000" channel="ChampionsTV6.id"><title lang="id">Leicester City vs. AFC Bournemouth : Premier League Soccer</title></programme>
 <programme start="20241011160000 +0000" stop="20241011163000 +0000" channel="ChampionsTV6.id"><title lang="id">PL: The Big Interview</title></programme>
 <programme start="20241011163000 +0000" stop="20241011170000 +0000" channel="ChampionsTV6.id"><title lang="id">Premier League Rewind</title></programme>
-<programme start="20241008170000 +0000" stop="20241008173000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL REWIND	EP01: PAUL SCHOLES - MY GREATEST RIVALRY</title></programme>
-<programme start="20241008173000 +0000" stop="20241008180000 +0000" channel="ChampionsTVEPL.id"><title lang="id">NETBUSTERS	EP07</title></programme>
-<programme start="20241008180000 +0000" stop="20241008190000 +0000" channel="ChampionsTVEPL.id"><title lang="id">KELLY &amp; WRIGHTY</title></programme>
-<programme start="20241008190000 +0000" stop="20241008193000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
-<programme start="20241008193000 +0000" stop="20241008200000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL STORIES	EP11: JARRED GILLETT - THROUGH THE EYES OF A REFEREE</title></programme>
-<programme start="20241008200000 +0000" stop="20241008210000 +0000" channel="ChampionsTVEPL.id"><title lang="id">REVIEW</title></programme>
-<programme start="20241008210000 +0000" stop="20241008220000 +0000" channel="ChampionsTVEPL.id"><title lang="id">GENERATION xG</title></programme>
-<programme start="20241008220000 +0000" stop="20241008230000 +0000" channel="ChampionsTVEPL.id"><title lang="id">1-TO-11	EP04: STEVE BRUCE</title></programme>
-<programme start="20241008230000 +0000" stop="20241008233000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH HIGHLIGHTS - Aston Villa v Manchester United</title></programme>
-<programme start="20241008233000 +0000" stop="20241009000000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH HIGHLIGHTS - Brighton &amp; Hove Albion v Tottenham Hotspur</title></programme>
-<programme start="20241009000000 +0000" stop="20241009003000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL REWIND EP02: WOL v TOT</title></programme>
-<programme start="20241009003000 +0000" stop="20241009010000 +0000" channel="ChampionsTVEPL.id"><title lang="id">NETBUSTERS EPS 7</title></programme>
-<programme start="20241009010000 +0000" stop="20241009013000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL STORIES	EP11: JARRED GILLETT - THROUGH THE EYES OF A REFEREE</title></programme>
-<programme start="20241009013000 +0000" stop="20241009020000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
-<programme start="20241009020000 +0000" stop="20241009030000 +0000" channel="ChampionsTVEPL.id"><title lang="id">KELLY &amp; WRIGHTY</title></programme>
-<programme start="20241009030000 +0000" stop="20241009033000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH HIGHLIGHTS - Chelsea v Nottingham Forest</title></programme>
-<programme start="20241009033000 +0000" stop="20241009040000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH HIGHLIGHTS - Aston Villa v Manchester United</title></programme>
-<programme start="20241009040000 +0000" stop="20241009050000 +0000" channel="ChampionsTVEPL.id"><title lang="id">1-TO-11	EP04: STEVE BRUCE</title></programme>
-<programme start="20241009050000 +0000" stop="20241009053000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL REWIND	EP01: PAUL SCHOLES - MY GREATEST RIVALRY</title></programme>
-<programme start="20241009053000 +0000" stop="20241009060000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
-<programme start="20241009060000 +0000" stop="20241009070000 +0000" channel="ChampionsTVEPL.id"><title lang="id">REVIEW</title></programme>
-<programme start="20241009070000 +0000" stop="20241009080000 +0000" channel="ChampionsTVEPL.id"><title lang="id">THE CATCH-UP SHOW	EP08</title></programme>
-<programme start="20241009080000 +0000" stop="20241009100000 +0000" channel="ChampionsTVEPL.id"><title lang="id">REVIEW OF THE SEASON</title></programme>
-<programme start="20241009100000 +0000" stop="20241009103000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL STORIES	EP19: SEAMUS COLEMAN</title></programme>
-<programme start="20241009103000 +0000" stop="20241009110000 +0000" channel="ChampionsTVEPL.id"><title lang="id">NETBUSTERS EP07</title></programme>
-<programme start="20241009110000 +0000" stop="20241009113000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL STORIES	EP11: JARRED GILLETT - THROUGH THE EYES OF A REFEREE</title></programme>
-<programme start="20241009113000 +0000" stop="20241009120000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
-<programme start="20241009120000 +0000" stop="20241009130000 +0000" channel="ChampionsTVEPL.id"><title lang="id">THE CATCH-UP SHOW	EP08</title></programme>
-<programme start="20241009130000 +0000" stop="20241009140000 +0000" channel="ChampionsTVEPL.id"><title lang="id">GENERATION xG</title></programme>
-<programme start="20241009140000 +0000" stop="20241009150000 +0000" channel="ChampionsTVEPL.id"><title lang="id">GOALS OF THE SEASON</title></programme>
-<programme start="20241009150000 +0000" stop="20241009153000 +0000" channel="ChampionsTVEPL.id"><title lang="id">NETBUSTERS EP07</title></programme>
-<programme start="20241009153000 +0000" stop="20241009160000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL STORIES	EP19: SEAMUS COLEMAN</title></programme>
-<programme start="20241009160000 +0000" stop="20241009163000 +0000" channel="ChampionsTVEPL.id"><title lang="id">PL STORIES	EP11: JARRED GILLETT - THROUGH THE EYES OF A REFEREE</title></programme>
-<programme start="20241009163000 +0000" stop="20241009170000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
+<programme start="20241008170000 +0000" stop="20241008180000 +0000" channel="ChampionsTVEPL.id"><title lang="id">GENERATION xG</title></programme>
+<programme start="20241008180000 +0000" stop="20241008183000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
+<programme start="20241008183000 +0000" stop="20241008190000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Jarred Gillett : Premier League Stories</title></programme>
+<programme start="20241008190000 +0000" stop="20241008193000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Arsenal vs. Southampton : Premier League Highlights</title></programme>
+<programme start="20241008193000 +0000" stop="20241008200000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Manchester City vs. Fulham : Premier League Highlights</title></programme>
+<programme start="20241008200000 +0000" stop="20241008210000 +0000" channel="ChampionsTVEPL.id"><title lang="id">KELLY &amp; WRIGHTY</title></programme>
+<programme start="20241008210000 +0000" stop="20241008220000 +0000" channel="ChampionsTVEPL.id"><title lang="id">REVIEW</title></programme>
+<programme start="20241008220000 +0000" stop="20241008223000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
+<programme start="20241008223000 +0000" stop="20241008230000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Jarred Gillett : Premier League Stories</title></programme>
+<programme start="20241008230000 +0000" stop="20241009000000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Steve Bruce : 1 to 11</title></programme>
+<programme start="20241009000000 +0000" stop="20241009003000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Paul Scholes : PL Rewind</title></programme>
+<programme start="20241009003000 +0000" stop="20241009010000 +0000" channel="ChampionsTVEPL.id"><title lang="id">NETBUSTERS</title></programme>
+<programme start="20241009010000 +0000" stop="20241009020000 +0000" channel="ChampionsTVEPL.id"><title lang="id">KELLY &amp; WRIGHTY</title></programme>
+<programme start="20241009020000 +0000" stop="20241009023000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
+<programme start="20241009023000 +0000" stop="20241009030000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Jarred Gillett : Premier League Stories</title></programme>
+<programme start="20241009030000 +0000" stop="20241009040000 +0000" channel="ChampionsTVEPL.id"><title lang="id">REVIEW</title></programme>
+<programme start="20241009040000 +0000" stop="20241009050000 +0000" channel="ChampionsTVEPL.id"><title lang="id">GENERATION xG</title></programme>
+<programme start="20241009050000 +0000" stop="20241009060000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Steve Bruce : 1 to 11</title></programme>
+<programme start="20241009060000 +0000" stop="20241009063000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Aston Villa vs. Manchester United : Premier League Highlights</title></programme>
+<programme start="20241009063000 +0000" stop="20241009070000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Brighton &amp; Hove Albion vs. Tottenham Hotspurs : Premier League Highlights</title></programme>
+<programme start="20241009070000 +0000" stop="20241009073000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Wolverhampton Wanderers vs. Tottenham Hotspurs : PL Rewind</title></programme>
+<programme start="20241009073000 +0000" stop="20241009080000 +0000" channel="ChampionsTVEPL.id"><title lang="id">NETBUSTERS</title></programme>
+<programme start="20241009080000 +0000" stop="20241009083000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Jarred Gillett : Premier League Stories</title></programme>
+<programme start="20241009083000 +0000" stop="20241009090000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
+<programme start="20241009090000 +0000" stop="20241009100000 +0000" channel="ChampionsTVEPL.id"><title lang="id">KELLY &amp; WRIGHTY</title></programme>
+<programme start="20241009100000 +0000" stop="20241009103000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Chelsea vs. Nottingham Forest : Premier League Highlights</title></programme>
+<programme start="20241009103000 +0000" stop="20241009110000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Aston Villa vs. Manchester United : Premier League Highlights</title></programme>
+<programme start="20241009110000 +0000" stop="20241009120000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Steve Bruce : 1 to 11</title></programme>
+<programme start="20241009120000 +0000" stop="20241009123000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Paul Scholes : PL Rewind</title></programme>
+<programme start="20241009123000 +0000" stop="20241009130000 +0000" channel="ChampionsTVEPL.id"><title lang="id">MATCH OFFICIALS MIC&apos;D UP</title></programme>
+<programme start="20241009130000 +0000" stop="20241009140000 +0000" channel="ChampionsTVEPL.id"><title lang="id">REVIEW</title></programme>
+<programme start="20241009140000 +0000" stop="20241009150000 +0000" channel="ChampionsTVEPL.id"><title lang="id">THE CATCH-UP SHOW</title></programme>
+<programme start="20241009150000 +0000" stop="20241009170000 +0000" channel="ChampionsTVEPL.id"><title lang="id">2023/24 : Review of The Season</title></programme>
 <programme start="20241009170000 +0000" stop="20241009173000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Seamus Coleman : Premier League Stories</title></programme>
 <programme start="20241009173000 +0000" stop="20241009180000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Netbusters</title></programme>
 <programme start="20241009180000 +0000" stop="20241009183000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Through the Eyes of a Referee : Premier League Stories</title></programme>
@@ -2697,7 +2700,7 @@
 <programme start="20241009130000 +0000" stop="20241009150000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : Iron Protector</title></programme>
 <programme start="20241009150000 +0000" stop="20241009170000 +0000" channel="Indosiar.id"><title lang="id">MEGA SERIES ACTION ASIA : HEROES</title></programme>
 <programme start="20241009170000 +0000" stop="20241009190000 +0000" channel="Indosiar.id"><title lang="id">God of Gamblers II</title></programme>
-<programme start="20241009190000 +0000" stop="20241009203000 +0000" channel="Indosiar.id"><title lang="id">The Wrath of Vajra</title></programme>
+<programme start="20241009190000 +0000" stop="20241009203000 +0000" channel="Indosiar.id"><title lang="id">VIRAL FACTOR</title></programme>
 <programme start="20241009203000 +0000" stop="20241009213000 +0000" channel="Indosiar.id"><title lang="id">Mr. Vampire</title></programme>
 <programme start="20241009213000 +0000" stop="20241009230000 +0000" channel="Indosiar.id"><title lang="id">Fokus Pagi</title></programme>
 <programme start="20241009230000 +0000" stop="20241010010000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
@@ -2709,8 +2712,8 @@
 <programme start="20241010070000 +0000" stop="20241010090000 +0000" channel="Indosiar.id"><title lang="id">Rahasia Kursi Goyang Yang Hampir Merenggut Nyawa : Kisah Nyata</title></programme>
 <programme start="20241010090000 +0000" stop="20241010110000 +0000" channel="Indosiar.id"><title lang="id">Teror Dan Fitnah Yang Membuat Aku Kehilangan Segalanya : Kisah Nyata Sore</title></programme>
 <programme start="20241010110000 +0000" stop="20241010130000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
-<programme start="20241010130000 +0000" stop="20241010153000 +0000" channel="Indosiar.id"><title lang="id">MEGA FILM ASIA THE WRATH OF VAJRA</title></programme>
-<programme start="20241010153000 +0000" stop="20241010173000 +0000" channel="Indosiar.id"><title lang="id">MEGA SERIES ACTION ASIA : HEROES</title></programme>
+<programme start="20241010130000 +0000" stop="20241010150000 +0000" channel="Indosiar.id"><title lang="id">MEGA FILM ASIA DRAGON FIGHT</title></programme>
+<programme start="20241010150000 +0000" stop="20241010173000 +0000" channel="Indosiar.id"><title lang="id">MEGA SERIES ACTION ASIA : HEROES</title></programme>
 <programme start="20241010173000 +0000" stop="20241010193000 +0000" channel="Indosiar.id"><title lang="id">God of Gamblers 3: The Early Stage</title></programme>
 <programme start="20241010193000 +0000" stop="20241010204500 +0000" channel="Indosiar.id"><title lang="id">Perfect Exchange</title></programme>
 <programme start="20241010204500 +0000" stop="20241010230000 +0000" channel="Indosiar.id"><title lang="id">Venezuela vs. Argentina : FIFA World Cup 2026 Qualifying</title></programme>
@@ -3107,7 +3110,7 @@
 <programme start="20241010060000 +0000" stop="20241010073000 +0000" channel="MentariTV.id"><title lang="id">Petualangan Seru Bonnie</title></programme>
 <programme start="20241010073000 +0000" stop="20241010090000 +0000" channel="MentariTV.id"><title lang="id">The Fixies</title></programme>
 <programme start="20241010090000 +0000" stop="20241010100000 +0000" channel="MentariTV.id"><title lang="id">Oddbods</title></programme>
-<programme start="20241010100000 +0000" stop="20241010103000 +0000" channel="MentariTV.id"><title lang="id">Abang L The Explorer</title></programme>
+<programme start="20241010100000 +0000" stop="20241010103000 +0000" channel="MentariTV.id"><title lang="id">Dunia Ameena</title></programme>
 <programme start="20241010103000 +0000" stop="20241010110000 +0000" channel="MentariTV.id"><title lang="id">Cipung Abubu</title></programme>
 <programme start="20241010110000 +0000" stop="20241010120000 +0000" channel="MentariTV.id"><title lang="id">Sunny Girl No.23</title></programme>
 <programme start="20241010120000 +0000" stop="20241010140000 +0000" channel="MentariTV.id"><title lang="id">The Legend of Sarila</title></programme>
@@ -3212,6 +3215,7 @@
 <programme start="20241009133000 +0000" stop="20241009150000 +0000" channel="Moji.id"><title lang="id">The Sultan Entertainment</title></programme>
 <programme start="20241009150000 +0000" stop="20241009160000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
 <programme start="20241009160000 +0000" stop="20241009170000 +0000" channel="Moji.id"><title lang="id">Trust</title></programme>
+<programme start="20241009170000 +0000" stop="20241009190000 +0000" channel="Moji.id"><title lang="id">BAD GENIUS</title></programme>
 <programme start="20241009190000 +0000" stop="20241009193000 +0000" channel="Moji.id"><title lang="id">Premier League</title></programme>
 <programme start="20241009193000 +0000" stop="20241009200000 +0000" channel="Moji.id"><title lang="id">Premier League Highlights</title></programme>
 <programme start="20241009200000 +0000" stop="20241009220000 +0000" channel="Moji.id"><title lang="id">Pesta Olahraga Dunia</title></programme>
@@ -3228,6 +3232,7 @@
 <programme start="20241010113000 +0000" stop="20241010140000 +0000" channel="Moji.id"><title lang="id">Kapolri Cup : Volleyball</title></programme>
 <programme start="20241010140000 +0000" stop="20241010150000 +0000" channel="Moji.id"><title lang="id">The Sultan Entertainment</title></programme>
 <programme start="20241010150000 +0000" stop="20241010160000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
+<programme start="20241010160000 +0000" stop="20241010170000 +0000" channel="Moji.id"><title lang="id">Trust</title></programme>
 <programme start="20241010170000 +0000" stop="20241010220000 +0000" channel="Moji.id"><title lang="id">Pesta Olahraga Dunia</title></programme>
 <programme start="20241010220000 +0000" stop="20241010231500 +0000" channel="Moji.id"><title lang="id">Moji Sport</title></programme>
 <programme start="20241010231500 +0000" stop="20241011000000 +0000" channel="Moji.id"><title lang="id">Liputan 6 Pagi Moji</title></programme>
@@ -3340,8 +3345,8 @@
 <programme start="20241009140000 +0000" stop="20241009150000 +0000" channel="NET.id"><title lang="id">Main Hakim Sendiri</title></programme>
 <programme start="20241009150000 +0000" stop="20241009160000 +0000" channel="NET.id"><title lang="id">Jatanras</title></programme>
 <programme start="20241009160000 +0000" stop="20241009170000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
-<programme start="20241009170000 +0000" stop="20241009180000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
-<programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="NET.id"><title lang="id">One Championship Warrior</title></programme>
+<programme start="20241009170000 +0000" stop="20241009180000 +0000" channel="NET.id"><title lang="id">One Championship Warrior</title></programme>
+<programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="NET.id"><title lang="id">Jurnal UFC</title></programme>
 <programme start="20241009190000 +0000" stop="20241009200000 +0000" channel="NET.id"><title lang="id">Alkisah</title></programme>
 <programme start="20241009200000 +0000" stop="20241009210000 +0000" channel="NET.id"><title lang="id">Nyonya Nunung</title></programme>
 <programme start="20241009210000 +0000" stop="20241009220000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
@@ -3733,8 +3738,7 @@
 <programme start="20241009143000 +0000" stop="20241009150000 +0000" channel="RajawaliTV.id"><title lang="id">Ter Kepo-kepo</title></programme>
 <programme start="20241009150000 +0000" stop="20241009160000 +0000" channel="RajawaliTV.id"><title lang="id">Jagoan Silat</title></programme>
 <programme start="20241009160000 +0000" stop="20241009163000 +0000" channel="RajawaliTV.id"><title lang="id">Catatan Seputar Investigasi</title></programme>
-<programme start="20241009163000 +0000" stop="20241009165900 +0000" channel="RajawaliTV.id"><title lang="id">Takdir Cinta Kera Sakti</title></programme>
-<programme start="20241009170000 +0000" stop="20241009180000 +0000" channel="RajawaliTV.id"><title lang="id">TAKDIR CINTA KERA SAKTI</title></programme>
+<programme start="20241009163000 +0000" stop="20241009180000 +0000" channel="RajawaliTV.id"><title lang="id">Takdir Cinta Kera Sakti</title></programme>
 <programme start="20241009180000 +0000" stop="20241009183000 +0000" channel="RajawaliTV.id"><title lang="id">TERANG KASIH</title></programme>
 <programme start="20241009183000 +0000" stop="20241009193000 +0000" channel="RajawaliTV.id"><title lang="id">UNIK ENAK</title></programme>
 <programme start="20241009193000 +0000" stop="20241009203000 +0000" channel="RajawaliTV.id"><title lang="id">TOP TRENDING</title></programme>
@@ -3979,10 +3983,10 @@
 <programme start="20241009130000 +0000" stop="20241009143000 +0000" channel="SCTV.id"><title lang="id">Naik Ranjang</title></programme>
 <programme start="20241009143000 +0000" stop="20241009161500 +0000" channel="SCTV.id"><title lang="id">Luka Cinta</title></programme>
 <programme start="20241009161500 +0000" stop="20241009181500 +0000" channel="SCTV.id"><title lang="id">King Of Gendang Tiba Tiba Nikah</title></programme>
-<programme start="20241009181500 +0000" stop="20241009184500 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
-<programme start="20241009184500 +0000" stop="20241009191500 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
-<programme start="20241009191500 +0000" stop="20241009201500 +0000" channel="SCTV.id"><title lang="id">Cinta Pantang Di Tolak : Sinema Malam</title></programme>
-<programme start="20241009201500 +0000" stop="20241009210000 +0000" channel="SCTV.id"><title lang="id">Karena Aku Yang Mencintaimu : Ajari Aku Mencintaimu</title></programme>
+<programme start="20241009181500 +0000" stop="20241009190000 +0000" channel="SCTV.id"><title lang="id">23 CINTA HANYA SATU YANG KUPILIH</title></programme>
+<programme start="20241009190000 +0000" stop="20241009193000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
+<programme start="20241009193000 +0000" stop="20241009200000 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
+<programme start="20241009200000 +0000" stop="20241009210000 +0000" channel="SCTV.id"><title lang="id">Cinta Pantang Di Tolak : Sinema Malam</title></programme>
 <programme start="20241009210000 +0000" stop="20241009213000 +0000" channel="SCTV.id"><title lang="id">Barakallah</title></programme>
 <programme start="20241009213000 +0000" stop="20241009230000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Pagi</title></programme>
 <programme start="20241009230000 +0000" stop="20241010000000 +0000" channel="SCTV.id"><title lang="id">Halo Selebriti</title></programme>
@@ -4167,20 +4171,19 @@
 <programme start="20241009060000 +0000" stop="20241009090000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship 2024</title></programme>
 <programme start="20241009090000 +0000" stop="20241009100000 +0000" channel="SPOTV2.id"><title lang="id">T100 Triathlon World Tour 2024 IBIZA T100 Highlights</title></programme>
 <programme start="20241009100000 +0000" stop="20241009120000 +0000" channel="SPOTV2.id"><title lang="id">Idemitsu Asia Talent Cup 2024 Round 3 Pertamina Mandalika Circuit</title></programme>
-<programme start="20241009120000 +0000" stop="20241009123000 +0000" channel="SPOTV2.id"><title lang="id">2024 WorldSBK Championship Round 10 Tissot Aragon Round</title></programme>
-<programme start="20241009123000 +0000" stop="20241009160000 +0000" channel="SPOTV2.id"><title lang="id">WorldSSP300 Race 1 WorldSBK Race 1 WorldSSP Race 1</title></programme>
-<programme start="20241009160000 +0000" stop="20241009180000 +0000" channel="SPOTV2.id"><title lang="id">2024 GTOUR MEN&apos;S 4th Tournament</title></programme>
+<programme start="20241009120000 +0000" stop="20241009130000 +0000" channel="SPOTV2.id"><title lang="id">PSA World Tour 2024/25: QTerminals Qatar Classic 2024</title></programme>
+<programme start="20241009130000 +0000" stop="20241009170000 +0000" channel="SPOTV2.id"><title lang="id">2024 WorldSBK Championship Round 10 Tissot Aragon Round</title></programme>
+<programme start="20241009170000 +0000" stop="20241009180000 +0000" channel="SPOTV2.id"><title lang="id">FIA Formula E Season 10 Review</title></programme>
 <programme start="20241009180000 +0000" stop="20241009190000 +0000" channel="SPOTV2.id"><title lang="id">T100 Triathlon World Tour</title></programme>
 <programme start="20241009190000 +0000" stop="20241009220000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Second Round : Golf</title></programme>
-<programme start="20241009220000 +0000" stop="20241009230000 +0000" channel="SPOTV2.id"><title lang="id">QTerminals Qatar Classic</title></programme>
-<programme start="20241009230000 +0000" stop="20241010010800 +0000" channel="SPOTV2.id"><title lang="id">2024 IWBF Men&apos;s Repechage Tournament</title></programme>
-<programme start="20241010010800 +0000" stop="20241010040000 +0000" channel="SPOTV2.id"><title lang="id">Los Angeles Dodgers vs San Diego Padres - MLB Baseball</title></programme>
+<programme start="20241009220000 +0000" stop="20241009230000 +0000" channel="SPOTV2.id"><title lang="id">PSA World Tour 2024/25: QTerminals Qatar Classic 2024</title></programme>
+<programme start="20241009230000 +0000" stop="20241010010800 +0000" channel="SPOTV2.id"><title lang="id">2024 GTOUR MEN&apos;S 4th Tournament</title></programme>
+<programme start="20241010010800 +0000" stop="20241010040000 +0000" channel="SPOTV2.id"><title lang="id">Los Angeles Dodgers vs San Diego Padres - MLB</title></programme>
 <programme start="20241010040000 +0000" stop="20241010050000 +0000" channel="SPOTV2.id"><title lang="id">Formula E: Season Review</title></programme>
 <programme start="20241010050000 +0000" stop="20241010100000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Third Round : Golf</title></programme>
 <programme start="20241010100000 +0000" stop="20241010103000 +0000" channel="SPOTV2.id"><title lang="id">Maxi Yacht Rolex Cup 2023 : Rolex Spirit of Yachting</title></programme>
-<programme start="20241010103000 +0000" stop="20241010110000 +0000" channel="SPOTV2.id"><title lang="id">2024 MLB Postseason NLDS Game 4</title></programme>
-<programme start="20241010110000 +0000" stop="20241010133000 +0000" channel="SPOTV2.id"><title lang="id">Los Angeles Dodgers vs San Diego Padres</title></programme>
-<programme start="20241010133000 +0000" stop="20241010173000 +0000" channel="SPOTV2.id"><title lang="id">Tissot Superpole Race WorldSSP300 Race 2 WorldSBK Race 2 WorldSSP Race 2</title></programme>
+<programme start="20241010103000 +0000" stop="20241010130000 +0000" channel="SPOTV2.id"><title lang="id">2024 MLB Postseason NLDS Game 4</title></programme>
+<programme start="20241010130000 +0000" stop="20241010173000 +0000" channel="SPOTV2.id"><title lang="id">Tissot Superpole Race WorldSSP300 Race 2 WorldSBK Race 2 WorldSSP Race 2</title></programme>
 <programme start="20241010173000 +0000" stop="20241010180000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP Racing</title></programme>
 <programme start="20241010180000 +0000" stop="20241010230000 +0000" channel="SPOTV2.id"><title lang="id">Asia-Pacific Amateur Championship, Third Round : Golf</title></programme>
 <programme start="20241010230000 +0000" stop="20241011010000 +0000" channel="SPOTV2.id"><title lang="id">IHF Paris Women&apos;s Handball Qualification Tournament 2024</title></programme>
@@ -4213,7 +4216,7 @@
 <programme start="20241010020000 +0000" stop="20241010025000 +0000" channel="SPOTV.id"><title lang="id">Rolex Monterey Motorsports Reunion</title></programme>
 <programme start="20241010025000 +0000" stop="20241010050000 +0000" channel="SPOTV.id"><title lang="id">Al-Okhdood vs. Al-Ittihad : Saudi League Soccer</title></programme>
 <programme start="20241010050000 +0000" stop="20241010070000 +0000" channel="SPOTV.id"><title lang="id">Al Nassr vs. Al Orubah : Saudi League Soccer</title></programme>
-<programme start="20241010070000 +0000" stop="20241010150000 +0000" channel="SPOTV.id"><title lang="id">HSBC BWF WTS 500 CLASH ROYALE Arctic Open 2024</title></programme>
+<programme start="20241010070000 +0000" stop="20241010150000 +0000" channel="SPOTV.id"><title lang="id">Clash Royale Arctic Open 2024 - Round of 16</title></programme>
 <programme start="20241010150000 +0000" stop="20241010153000 +0000" channel="SPOTV.id"><title lang="id">Lac La Biche World Archery Field Championships : Archery</title></programme>
 <programme start="20241010153000 +0000" stop="20241010180000 +0000" channel="SPOTV.id"><title lang="id">New York Yankees at Kansas City Royals : MLB Baseball</title></programme>
 <programme start="20241010180000 +0000" stop="20241010192000 +0000" channel="SPOTV.id"><title lang="id">Superbike</title></programme>
@@ -4407,11 +4410,9 @@
 <programme start="20241009123000 +0000" stop="20241009143000 +0000" channel="TransTV.id"><title lang="id">Film Indonesia Spesial</title></programme>
 <programme start="20241009143000 +0000" stop="20241009163000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV</title></programme>
 <programme start="20241009163000 +0000" stop="20241009180000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV</title></programme>
-<programme start="20241009180000 +0000" stop="20241009193000 +0000" channel="TransTV.id"><title lang="id">CNN Connected</title></programme>
-<programme start="20241009193000 +0000" stop="20241009201000 +0000" channel="TransTV.id"><title lang="id">Klinik Tendean</title></programme>
-<programme start="20241009201000 +0000" stop="20241009205000 +0000" channel="TransTV.id"><title lang="id">Adam Inul Love Story</title></programme>
-<programme start="20241009205000 +0000" stop="20241009212000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20241009212000 +0000" stop="20241009214000 +0000" channel="TransTV.id"><title lang="id">Indonesia Punya Cerita</title></programme>
+<programme start="20241009180000 +0000" stop="20241009191000 +0000" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere</title></programme>
+<programme start="20241009191000 +0000" stop="20241009202000 +0000" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere</title></programme>
+<programme start="20241009202000 +0000" stop="20241009214000 +0000" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere</title></programme>
 <programme start="20241009214000 +0000" stop="20241009220000 +0000" channel="TransTV.id"><title lang="id">Keluarga Sonfai</title></programme>
 <programme start="20241009220000 +0000" stop="20241009233000 +0000" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
 <programme start="20241009233000 +0000" stop="20241010003000 +0000" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
