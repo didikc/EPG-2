@@ -1194,8 +1194,8 @@
 <programme start="20241016000000 +0000" stop="20241016010000 +0000" channel="DensFoodChannel.id"><title lang="id">Just One Cook Book</title></programme>
 <programme start="20241016010000 +0000" stop="20241016013000 +0000" channel="DensFoodChannel.id"><title lang="id">Sweet Yummy</title></programme>
 <programme start="20241016013000 +0000" stop="20241016020000 +0000" channel="DensFoodChannel.id"><title lang="id">Main Rasa</title></programme>
-<programme start="20241016020000 +0000" stop="20241016030000 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
-<programme start="20241016030000 +0000" stop="20241016040000 +0000" channel="DensFoodChannel.id"><title lang="id">Japanese Junjiro Walk</title></programme>
+<programme start="20241016020000 +0000" stop="20241016024000 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
+<programme start="20241016024000 +0000" stop="20241016040000 +0000" channel="DensFoodChannel.id"><title lang="id">Japanese Junjiro Walk</title></programme>
 <programme start="20241016040000 +0000" stop="20241016050000 +0000" channel="DensFoodChannel.id"><title lang="id">Gesund Und Schnell Baking</title></programme>
 <programme start="20241016050000 +0000" stop="20241016060000 +0000" channel="DensFoodChannel.id"><title lang="id">On The Line</title></programme>
 <programme start="20241016060000 +0000" stop="20241016070000 +0000" channel="DensFoodChannel.id"><title lang="id">Cooki Stacey Cook</title></programme>
@@ -1217,7 +1217,7 @@
 <programme start="20241017000000 +0000" stop="20241017010000 +0000" channel="DensFoodChannel.id"><title lang="id">Just One Cook Book</title></programme>
 <programme start="20241017010000 +0000" stop="20241017013000 +0000" channel="DensFoodChannel.id"><title lang="id">Ramen(in)</title></programme>
 <programme start="20241017013000 +0000" stop="20241017020000 +0000" channel="DensFoodChannel.id"><title lang="id">Foodsaurus</title></programme>
-<programme start="20241017020000 +0000" stop="20241017030000 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
+<programme start="20241017020000 +0000" stop="20241017024000 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
 <programme start="20241017030000 +0000" stop="20241017040000 +0000" channel="DensFoodChannel.id"><title lang="id">Best Food Review Ever New Sea</title></programme>
 <programme start="20241017040000 +0000" stop="20241017050000 +0000" channel="DensFoodChannel.id"><title lang="id">Gesund Und Schnell Baking</title></programme>
 <programme start="20241017050000 +0000" stop="20241017060000 +0000" channel="DensFoodChannel.id"><title lang="id">On The Line</title></programme>
@@ -1226,10 +1226,10 @@
 <programme start="20241017080000 +0000" stop="20241017090000 +0000" channel="DensFoodChannel.id"><title lang="id">The Food Ranger</title></programme>
 <programme start="20241017090000 +0000" stop="20241017100000 +0000" channel="DensFoodChannel.id"><title lang="id">Mark Wiens Around The World</title></programme>
 <programme start="20241017100000 +0000" stop="20241017110000 +0000" channel="DensFoodChannel.id"><title lang="id">Almazan Kitchen</title></programme>
-<programme start="20241017110000 +0000" stop="20241017130000 +0000" channel="DensFoodChannel.id"><title lang="id">Live Cooking (Recorded)</title></programme>
-<programme start="20241017130000 +0000" stop="20241017140000 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
-<programme start="20241017140000 +0000" stop="20241017143000 +0000" channel="DensFoodChannel.id"><title lang="id">Halal Kuliner</title></programme>
-<programme start="20241017143000 +0000" stop="20241017150000 +0000" channel="DensFoodChannel.id"><title lang="id">Pecah Rasa</title></programme>
+<programme start="20241017110000 +0000" stop="20241017140800 +0000" channel="DensFoodChannel.id"><title lang="id">Live Cooking (Recorded)</title></programme>
+<programme start="20241017133000 +0000" stop="20241017140800 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
+<programme start="20241017140800 +0000" stop="20241017143800 +0000" channel="DensFoodChannel.id"><title lang="id">Halal Kuliner</title></programme>
+<programme start="20241017143800 +0000" stop="20241017150000 +0000" channel="DensFoodChannel.id"><title lang="id">Pecah Rasa</title></programme>
 <programme start="20241017150000 +0000" stop="20241017153000 +0000" channel="DensFoodChannel.id"><title lang="id">Tentang Rasa</title></programme>
 <programme start="20241017153000 +0000" stop="20241017160000 +0000" channel="DensFoodChannel.id"><title lang="id">Cooking Duck</title></programme>
 <programme start="20241017160000 +0000" stop="20241017165959 +0000" channel="DensFoodChannel.id"><title lang="id">Meat And Great</title></programme>
@@ -1397,8 +1397,7 @@
 <programme start="20241016080000 +0000" stop="20241016100000 +0000" channel="DensPlay.id"><title lang="id">ManlyBadasHero Game</title></programme>
 <programme start="20241016100000 +0000" stop="20241016110000 +0000" channel="DensPlay.id"><title lang="id">Rabinfi Racing Tim</title></programme>
 <programme start="20241016110000 +0000" stop="20241016120000 +0000" channel="DensPlay.id"><title lang="id">Alter Ego Esports</title></programme>
-<programme start="20241016120000 +0000" stop="20241016140000 +0000" channel="DensPlay.id"><title lang="id">Game On By Bewokin</title></programme>
-<programme start="20241016140000 +0000" stop="20241016143000 +0000" channel="DensPlay.id"><title lang="id">Hightlight Lalajo Laura</title></programme>
+<programme start="20241016120000 +0000" stop="20241016143000 +0000" channel="DensPlay.id"><title lang="id">Game On By Bewokin</title></programme>
 <programme start="20241016143000 +0000" stop="20241016150000 +0000" channel="DensPlay.id"><title lang="id">CBN Moba Master S4</title></programme>
 <programme start="20241016150000 +0000" stop="20241016160000 +0000" channel="DensPlay.id"><title lang="id">Markiplier Game</title></programme>
 <programme start="20241016160000 +0000" stop="20241016165959 +0000" channel="DensPlay.id"><title lang="id">ManlyBadasHero Game</title></programme>
