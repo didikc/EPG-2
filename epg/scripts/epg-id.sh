@@ -28,11 +28,11 @@ npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
 
 # Mewatch EPG
 
-npm run grab -- --site=mewatch.sg --output=../epg/sg-mewatch.xml --days=3 --maxConnections=10
+# npm run grab -- --site=mewatch.sg --output=../epg/sg-mewatch.xml --days=3 --maxConnections=10
 
 # Singtel EPG
 
-npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3 --maxConnections=10
+# npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3 --maxConnections=10
 
 # Pix EPG
 
@@ -42,8 +42,8 @@ npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days
 cd ../epg/
 
 gzip -k -f -9 ../epg/id*.xml
-gzip -k -f -9 ../epg/sg*.xml
 gzip -k -f -9 ../epg/pix.xml
+# gzip -k -f -9 ../epg/sg*.xml
 
 # Remove EPG xml files
 
