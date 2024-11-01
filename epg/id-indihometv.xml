@@ -135,36 +135,30 @@
 <channel id="WarnerTVAsia.us"><display-name>Warner TV Asia</display-name><url>https://indihometv.com</url></channel>
 <channel id="ZeeBioskop.id"><display-name>Zee Bioskop</display-name><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn"><display-name>Zhejiang Satellite TV</display-name><url>https://indihometv.com</url></channel>
-<programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="ABCAustralia.au"><title lang="id">Back Roads</title></programme>
-<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="ABCAustralia.au"><title lang="id">7.30</title></programme>
-<programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20241031190000 +0000" stop="20241031220000 +0000" channel="ABCAustralia.au"><title lang="id">News Breakfast</title></programme>
-<programme start="20241031220000 +0000" stop="20241101010000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News Mornings</title></programme>
-<programme start="20241101010000 +0000" stop="20241101020000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News At Noon</title></programme>
-<programme start="20241101020000 +0000" stop="20241101025500 +0000" channel="ABCAustralia.au"><title lang="id">Gardening Australia</title></programme>
-<programme start="20241101025500 +0000" stop="20241101030000 +0000" channel="ABCAustralia.au"><title lang="id">Beyond Awesome</title></programme>
-<programme start="20241101030000 +0000" stop="20241101040000 +0000" channel="ABCAustralia.au"><title lang="id">Mystery Road : Origin</title></programme>
-<programme start="20241101040000 +0000" stop="20241101043000 +0000" channel="ABCAustralia.au"><title lang="id">The Pacific</title></programme>
-<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="ABCAustralia.au"><title lang="id">That Pacific Sports Show</title></programme>
-<programme start="20241101050000 +0000" stop="20241101060000 +0000" channel="ABCAustralia.au"><title lang="id">Afternoon Briefing</title></programme>
-<programme start="20241101060000 +0000" stop="20241101070000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News with Joe O&apos;Brien</title></programme>
-<programme start="20241101070000 +0000" stop="20241101080000 +0000" channel="ABCAustralia.au"><title lang="id">Gardening Australia</title></programme>
-<programme start="20241101080000 +0000" stop="20241101083500 +0000" channel="ABCAustralia.au"><title lang="id">ABC National News</title></programme>
-<programme start="20241101083500 +0000" stop="20241101093000 +0000" channel="ABCAustralia.au"><title lang="id">Going Places with Ernie Dingo</title></programme>
-<programme start="20241101093000 +0000" stop="20241101095500 +0000" channel="ABCAustralia.au"><title lang="id">Larapinta</title></programme>
-<programme start="20241101095500 +0000" stop="20241101100000 +0000" channel="ABCAustralia.au"><title lang="id">Beyond Awesome</title></programme>
-<programme start="20241101100000 +0000" stop="20241101103000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20241101103000 +0000" stop="20241101110000 +0000" channel="ABCAustralia.au"><title lang="id">The World This Week</title></programme>
-<programme start="20241101110000 +0000" stop="20241101113000 +0000" channel="ABCAustralia.au"><title lang="id">Close of Business</title></programme>
-<programme start="20241101113000 +0000" stop="20241101122500 +0000" channel="ABCAustralia.au"><title lang="id">Mystery Road : Origin</title></programme>
-<programme start="20241101122500 +0000" stop="20241101131500 +0000" channel="ABCAustralia.au"><title lang="id">Planet America : Fireside Chat</title></programme>
-<programme start="20241101131500 +0000" stop="20241101133000 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
-<programme start="20241101133000 +0000" stop="20241101140000 +0000" channel="ABCAustralia.au"><title lang="id">Asia News Week</title></programme>
-<programme start="20241101140000 +0000" stop="20241101143000 +0000" channel="ABCAustralia.au"><title lang="id">Close of Business</title></programme>
-<programme start="20241101143000 +0000" stop="20241101150000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20241101150000 +0000" stop="20241101153000 +0000" channel="ABCAustralia.au"><title lang="id">The World This Week</title></programme>
-<programme start="20241101153000 +0000" stop="20241101162500 +0000" channel="ABCAustralia.au"><title lang="id">Gardening Australia</title></programme>
-<programme start="20241101162500 +0000" stop="20241101172500 +0000" channel="ABCAustralia.au"><title lang="id">Mystery Road : Origin</title></programme>
+<programme start="20241031173000 +0000" stop="20241031190000 +0000" channel="ABCAustralia.au"><title lang="id">World Cup 2026 Qualifiers Afc</title></programme>
+<programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Sore</title></programme>
+<programme start="20241031200000 +0000" stop="20241031210000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Malam</title></programme>
+<programme start="20241031210000 +0000" stop="20241031211800 +0000" channel="ABCAustralia.au"><title lang="id">Realita</title></programme>
+<programme start="20241031211800 +0000" stop="20241031212000 +0000" channel="ABCAustralia.au"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20241031212000 +0000" stop="20241031230000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Pagi</title></programme>
+<programme start="20241031230000 +0000" stop="20241101000000 +0000" channel="ABCAustralia.au"><title lang="id">Special Report</title></programme>
+<programme start="20241101000000 +0000" stop="20241101010000 +0000" channel="ABCAustralia.au"><title lang="id">Morning Update</title></programme>
+<programme start="20241101010000 +0000" stop="20241101013000 +0000" channel="ABCAustralia.au"><title lang="id">Omg</title></programme>
+<programme start="20241101013000 +0000" stop="20241101023000 +0000" channel="ABCAustralia.au"><title lang="id">Lapor Polisi</title></programme>
+<programme start="20241101023000 +0000" stop="20241101040000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Today</title></programme>
+<programme start="20241101040000 +0000" stop="20241101053000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Siang</title></programme>
+<programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="ABCAustralia.au"><title lang="id">Kawal Pilkada</title></programme>
+<programme start="20241101060000 +0000" stop="20241101063000 +0000" channel="ABCAustralia.au"><title lang="id">Silet</title></programme>
+<programme start="20241101063000 +0000" stop="20241101073000 +0000" channel="ABCAustralia.au"><title lang="id">Intens Reborn</title></programme>
+<programme start="20241101073000 +0000" stop="20241101083000 +0000" channel="ABCAustralia.au"><title lang="id">I Seleb</title></programme>
+<programme start="20241101083000 +0000" stop="20241101100000 +0000" channel="ABCAustralia.au"><title lang="id">Realita</title></programme>
+<programme start="20241101100000 +0000" stop="20241101120000 +0000" channel="ABCAustralia.au"><title lang="id">Debat Publik Provinsi Papua Selatan</title></programme>
+<programme start="20241101120000 +0000" stop="20241101130000 +0000" channel="ABCAustralia.au"><title lang="id">Debat Publik Provinsi Papua Selatan</title></programme>
+<programme start="20241101130000 +0000" stop="20241101140000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Files</title></programme>
+<programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Prime</title></programme>
+<programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Malam</title></programme>
+<programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="ABCAustralia.au"><title lang="id">New Top Files</title></programme>
+<programme start="20241101163000 +0000" stop="20241101173000 +0000" channel="ABCAustralia.au"><title lang="id">Realita</title></programme>
 <programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
 <programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story - Eps. 785</title></programme>
 <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
@@ -606,10 +600,21 @@
 <programme start="20241101123000 +0000" stop="20241101140000 +0000" channel="BioskopIndonesia.id"><title lang="id">Pacarku Pelupa</title></programme>
 <programme start="20241101140000 +0000" stop="20241101153000 +0000" channel="BioskopIndonesia.id"><title lang="id">Antara Kau, Aku Dan Papaku</title></programme>
 <programme start="20241101153000 +0000" stop="20241101170000 +0000" channel="BioskopIndonesia.id"><title lang="id">Cinta Numpang Lewat</title></programme>
-<programme start="20241031170000 +0000" stop="20241031180000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg: Balance of Power</title></programme>
-<programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg BusinessWeek</title></programme>
-<programme start="20241031190000 +0000" stop="20241031210000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg The Close</title></programme>
-<programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg: Balance of Power</title></programme>
+<programme start="20241031220000 +0000" stop="20241031223000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Technology</title></programme>
+<programme start="20241031223000 +0000" stop="20241031230000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Screentime: Defining the Next Phase of Pop Culture</title></programme>
+<programme start="20241031230000 +0000" stop="20241101010000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg The Asia Trade</title></programme>
+<programme start="20241101010000 +0000" stop="20241101030000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg: The China Show</title></programme>
+<programme start="20241101030000 +0000" stop="20241101040000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Insight with Haslinda Amin</title></programme>
+<programme start="20241101040000 +0000" stop="20241101053000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Horizons Middle East &amp; Africa</title></programme>
+<programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Africa Amplified</title></programme>
+<programme start="20241101060000 +0000" stop="20241101070000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Daybreak: Europe</title></programme>
+<programme start="20241101070000 +0000" stop="20241101090000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg: The Opening Trade</title></programme>
+<programme start="20241101090000 +0000" stop="20241101100000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Brief</title></programme>
+<programme start="20241101100000 +0000" stop="20241101130000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Surveillance</title></programme>
+<programme start="20241101130000 +0000" stop="20241101150000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Open Interest</title></programme>
+<programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Technology</title></programme>
+<programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Real Yield</title></programme>
+<programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Markets</title></programme>
 <programme start="20241031170000 +0000" stop="20241031170300 +0000" channel="BTV.id"><title lang="id">Lagu Tanah Airku</title></programme>
 <programme start="20241031170300 +0000" stop="20241031180000 +0000" channel="BTV.id"><title lang="id">Delta</title></programme>
 <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
@@ -713,48 +718,6 @@
 <programme start="20241101132500 +0000" stop="20241101150000 +0000" channel="CartoonNetworkAsia.sg"><title lang="id">Over The Garden Wall</title></programme>
 <programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="CartoonNetworkAsia.sg"><title lang="id">Steven Universe</title></programme>
 <programme start="20241101160000 +0000" stop="20241101170000 +0000" channel="CartoonNetworkAsia.sg"><title lang="id">Grizzy And The Lemmings</title></programme>
-<programme start="20241031171500 +0000" stop="20241031174500 +0000" channel="CCTV4Asia.cn"><title lang="id">China Showbiz</title></programme>
-<programme start="20241031174500 +0000" stop="20241031180000 +0000" channel="CCTV4Asia.cn"><title lang="id">Nostalgia</title></programme>
-<programme start="20241031180000 +0000" stop="20241031183000 +0000" channel="CCTV4Asia.cn"><title lang="id">Network News</title></programme>
-<programme start="20241031183000 +0000" stop="20241031190000 +0000" channel="CCTV4Asia.cn"><title lang="id">National Treasures Found</title></programme>
-<programme start="20241031190000 +0000" stop="20241031191000 +0000" channel="CCTV4Asia.cn"><title lang="id">China News</title></programme>
-<programme start="20241031191000 +0000" stop="20241031200000 +0000" channel="CCTV4Asia.cn"><title lang="id">On the Way</title></programme>
-<programme start="20241031200000 +0000" stop="20241031203000 +0000" channel="CCTV4Asia.cn"><title lang="id">China News</title></programme>
-<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="CCTV4Asia.cn"><title lang="id">Focus Today</title></programme>
-<programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="CCTV4Asia.cn"><title lang="id">Nostalgia</title></programme>
-<programme start="20241031213000 +0000" stop="20241031220000 +0000" channel="CCTV4Asia.cn"><title lang="id">National Treasures Found</title></programme>
-<programme start="20241031220000 +0000" stop="20241031223000 +0000" channel="CCTV4Asia.cn"><title lang="id">Across the Strait</title></programme>
-<programme start="20241031223000 +0000" stop="20241031230000 +0000" channel="CCTV4Asia.cn"><title lang="id">Asia Today</title></programme>
-<programme start="20241031230000 +0000" stop="20241031233000 +0000" channel="CCTV4Asia.cn"><title lang="id">China News</title></programme>
-<programme start="20241031233000 +0000" stop="20241101000000 +0000" channel="CCTV4Asia.cn"><title lang="id">Focus Today</title></programme>
-<programme start="20241101000000 +0000" stop="20241101010000 +0000" channel="CCTV4Asia.cn"><title lang="id">Global News</title></programme>
-<programme start="20241101010000 +0000" stop="20241101013000 +0000" channel="CCTV4Asia.cn"><title lang="id">Asia Today</title></programme>
-<programme start="20241101013000 +0000" stop="20241101020000 +0000" channel="CCTV4Asia.cn"><title lang="id">China Showbiz</title></programme>
-<programme start="20241101020000 +0000" stop="20241101021500 +0000" channel="CCTV4Asia.cn"><title lang="id">China News</title></programme>
-<programme start="20241101021500 +0000" stop="20241101030000 +0000" channel="CCTV4Asia.cn"><title lang="id">On the Way</title></programme>
-<programme start="20241101030000 +0000" stop="20241101033000 +0000" channel="CCTV4Asia.cn"><title lang="id">Nostalgia</title></programme>
-<programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="CCTV4Asia.cn"><title lang="id">Across the Strait</title></programme>
-<programme start="20241101040000 +0000" stop="20241101050000 +0000" channel="CCTV4Asia.cn"><title lang="id">China News</title></programme>
-<programme start="20241101050000 +0000" stop="20241101053000 +0000" channel="CCTV4Asia.cn"><title lang="id">National Treasures Found</title></programme>
-<programme start="20241101053000 +0000" stop="20241101061500 +0000" channel="CCTV4Asia.cn"><title lang="id">TV Drama</title></programme>
-<programme start="20241101061500 +0000" stop="20241101070000 +0000" channel="CCTV4Asia.cn"><title lang="id">TV Drama</title></programme>
-<programme start="20241101070000 +0000" stop="20241101074500 +0000" channel="CCTV4Asia.cn"><title lang="id">TV Drama</title></programme>
-<programme start="20241101074500 +0000" stop="20241101083000 +0000" channel="CCTV4Asia.cn"><title lang="id">TV Drama</title></programme>
-<programme start="20241101083000 +0000" stop="20241101091500 +0000" channel="CCTV4Asia.cn"><title lang="id">TV Drama</title></programme>
-<programme start="20241101091500 +0000" stop="20241101100000 +0000" channel="CCTV4Asia.cn"><title lang="id">On the Way</title></programme>
-<programme start="20241101100000 +0000" stop="20241101103000 +0000" channel="CCTV4Asia.cn"><title lang="id">China News</title></programme>
-<programme start="20241101103000 +0000" stop="20241101110000 +0000" channel="CCTV4Asia.cn"><title lang="id">China Showbiz</title></programme>
-<programme start="20241101110000 +0000" stop="20241101113000 +0000" channel="CCTV4Asia.cn"><title lang="id">China News</title></programme>
-<programme start="20241101113000 +0000" stop="20241101120000 +0000" channel="CCTV4Asia.cn"><title lang="id">Asia Today</title></programme>
-<programme start="20241101120000 +0000" stop="20241101123000 +0000" channel="CCTV4Asia.cn"><title lang="id">Nostalgia</title></programme>
-<programme start="20241101123000 +0000" stop="20241101130000 +0000" channel="CCTV4Asia.cn"><title lang="id">Across the Strait</title></programme>
-<programme start="20241101130000 +0000" stop="20241101133000 +0000" channel="CCTV4Asia.cn"><title lang="id">China News</title></programme>
-<programme start="20241101133000 +0000" stop="20241101140000 +0000" channel="CCTV4Asia.cn"><title lang="id">Focus Today</title></programme>
-<programme start="20241101140000 +0000" stop="20241101143000 +0000" channel="CCTV4Asia.cn"><title lang="id">Talk with LuJian</title></programme>
-<programme start="20241101143000 +0000" stop="20241101150000 +0000" channel="CCTV4Asia.cn"><title lang="id">Network News</title></programme>
-<programme start="20241101150000 +0000" stop="20241101154500 +0000" channel="CCTV4Asia.cn"><title lang="id">TV Drama</title></programme>
-<programme start="20241101154500 +0000" stop="20241101163000 +0000" channel="CCTV4Asia.cn"><title lang="id">TV Drama</title></programme>
-<programme start="20241101163000 +0000" stop="20241101171500 +0000" channel="CCTV4Asia.cn"><title lang="id">TV Drama</title></programme>
 <programme start="20241031220000 +0000" stop="20241031234000 +0000" channel="CelestialMoviesIndonesia.id"><title lang="id">Life Must Go On</title></programme>
 <programme start="20241031234000 +0000" stop="20241101013500 +0000" channel="CelestialMoviesIndonesia.id"><title lang="id">Leio</title></programme>
 <programme start="20241101013500 +0000" stop="20241101031500 +0000" channel="CelestialMoviesIndonesia.id"><title lang="id">A Lifetime Treasure</title></programme>
@@ -2258,6 +2221,22 @@
 <programme start="20241101161500 +0000" stop="20241101163000 +0000" channel="IndonesianaTV.id"><title lang="id">Romansa Kasmaran - Eps. 2 Kesetiaan</title></programme>
 <programme start="20241101163000 +0000" stop="20241101164500 +0000" channel="IndonesianaTV.id"><title lang="id">Malam Terasa Main - Main</title></programme>
 <programme start="20241101164500 +0000" stop="20241101170000 +0000" channel="IndonesianaTV.id"><title lang="id">Tuban Tayub</title></programme>
+<programme start="20241031173000 +0000" stop="20241031190000 +0000" channel="Indosiar.id"><title lang="id">Mega Series Action Asia : Pendekar Rase Terbang</title></programme>
+<programme start="20241031190000 +0000" stop="20241031210000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia</title></programme>
+<programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="Indosiar.id"><title lang="id">Pintu Pintu Syurga</title></programme>
+<programme start="20241031213000 +0000" stop="20241031230000 +0000" channel="Indosiar.id"><title lang="id">Fokus Pagi</title></programme>
+<programme start="20241031230000 +0000" stop="20241101010000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
+<programme start="20241101010000 +0000" stop="20241101030000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Pagi Spesial</title></programme>
+<programme start="20241101030000 +0000" stop="20241101040000 +0000" channel="Indosiar.id"><title lang="id">Hot Kiss</title></programme>
+<programme start="20241101040000 +0000" stop="20241101043000 +0000" channel="Indosiar.id"><title lang="id">Patroli Siang</title></programme>
+<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="Indosiar.id"><title lang="id">Fokus Siang</title></programme>
+<programme start="20241101050000 +0000" stop="20241101060000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang Spesial</title></programme>
+<programme start="20241101060000 +0000" stop="20241101080000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Spesial</title></programme>
+<programme start="20241101080000 +0000" stop="20241101103000 +0000" channel="Indosiar.id"><title lang="id">BRI Liga 1 2024 - 2025</title></programme>
+<programme start="20241101103000 +0000" stop="20241101113000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
+<programme start="20241101113000 +0000" stop="20241101140000 +0000" channel="Indosiar.id"><title lang="id">BRI Liga 1 2024 - 2025</title></programme>
+<programme start="20241101140000 +0000" stop="20241101160000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia</title></programme>
+<programme start="20241101160000 +0000" stop="20241101180000 +0000" channel="Indosiar.id"><title lang="id">Mega Series Action Asia : The Shaolin 2</title></programme>
 <programme start="20241031173000 +0000" stop="20241031190000 +0000" channel="iNews.id"><title lang="id">World Cup 2026 Qualifiers Afc</title></programme>
 <programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="iNews.id"><title lang="id">Inews Sore</title></programme>
 <programme start="20241031200000 +0000" stop="20241031210000 +0000" channel="iNews.id"><title lang="id">Inews Malam</title></programme>
@@ -2323,7 +2302,7 @@
 <programme start="20241101030300 +0000" stop="20241101033000 +0000" channel="JTV.id"><title lang="id">Pojok Arena</title></programme>
 <programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="JTV.id"><title lang="id">Jatim Awan</title></programme>
 <programme start="20241101040000 +0000" stop="20241101043000 +0000" channel="JTV.id"><title lang="id">Belajar Baik</title></programme>
-<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="JTV.id"><title lang="id">Penting Gak Penting</title></programme>
+<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="JTV.id"><title lang="id">Mancing Mbois</title></programme>
 <programme start="20241101050000 +0000" stop="20241101060000 +0000" channel="JTV.id"><title lang="id">Stasiun Dangdut</title></programme>
 <programme start="20241101060000 +0000" stop="20241101063000 +0000" channel="JTV.id"><title lang="id">Nusantara Kini</title></programme>
 <programme start="20241101063000 +0000" stop="20241101065700 +0000" channel="JTV.id"><title lang="id">Berita Gress</title></programme>
@@ -2337,10 +2316,10 @@
 <programme start="20241101103000 +0000" stop="20241101110000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Bio 99</title></programme>
 <programme start="20241101110000 +0000" stop="20241101110500 +0000" channel="JTV.id"><title lang="id">Kuis Tul Jaenak</title></programme>
 <programme start="20241101110500 +0000" stop="20241101120000 +0000" channel="JTV.id"><title lang="id">Gak Cuma Cangkruan</title></programme>
-<programme start="20241101120000 +0000" stop="20241101122500 +0000" channel="JTV.id"><title lang="id">Pojok Pitu</title></programme>
-<programme start="20241101122500 +0000" stop="20241101123000 +0000" channel="JTV.id"><title lang="id">Kuis Tul Jaenak</title></programme>
-<programme start="20241101123000 +0000" stop="20241101143000 +0000" channel="JTV.id"><title lang="id">Debat Publik Pilkada Kab. Bangkalan</title></programme>
-<programme start="20241101143000 +0000" stop="20241101150000 +0000" channel="JTV.id"><title lang="id">Pojok Kampung</title></programme>
+<programme start="20241101120000 +0000" stop="20241101130000 +0000" channel="JTV.id"><title lang="id">Pojok Pitu</title></programme>
+<programme start="20241101130000 +0000" stop="20241101130500 +0000" channel="JTV.id"><title lang="id">Kuis Tul Jaenak</title></programme>
+<programme start="20241101130500 +0000" stop="20241101140000 +0000" channel="JTV.id"><title lang="id">Solusi Bisnis</title></programme>
+<programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="JTV.id"><title lang="id">Pojok Kampung</title></programme>
 <programme start="20241101150000 +0000" stop="20241101153000 +0000" channel="JTV.id"><title lang="id">Napak Tilas</title></programme>
 <programme start="20241101153000 +0000" stop="20241101160000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Kesatrian</title></programme>
 <programme start="20241101160000 +0000" stop="20241101170000 +0000" channel="JTV.id"><title lang="id">Ampun Dj</title></programme>
@@ -2823,7 +2802,7 @@
 <programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="NET.id"><title lang="id">Main Hakim Sendiri</title></programme>
 <programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="NET.id"><title lang="id">Jatanras</title></programme>
 <programme start="20241101160000 +0000" stop="20241101180000 +0000" channel="NET.id"><title lang="id">UFC Fight Night: Topuria Vs Holloway</title></programme>
-<programme start="20241031170000 +0000" stop="20241031171500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241031170000 +0000" stop="20241031171500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241031171500 +0000" stop="20241031173000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Design X Stories</title></programme>
 <programme start="20241031180000 +0000" stop="20241031182700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsroom Tokyo</title></programme>
@@ -2832,38 +2811,38 @@
 <programme start="20241031185500 +0000" stop="20241031190000 +0000" channel="NHKWorldJapan.jp"><title lang="id">No Art, No Life</title></programme>
 <programme start="20241031190000 +0000" stop="20241031193000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japan&apos;S Top Inventions</title></programme>
 <programme start="20241031193000 +0000" stop="20241031200000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japanology Plus</title></programme>
-<programme start="20241031200000 +0000" stop="20241031201800 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241031200000 +0000" stop="20241031201800 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241031201800 +0000" stop="20241031203000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline Biz</title></programme>
 <programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japan Railway Journal</title></programme>
-<programme start="20241031210000 +0000" stop="20241031211800 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241031210000 +0000" stop="20241031211800 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241031211800 +0000" stop="20241031213000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline Biz</title></programme>
 <programme start="20241031213000 +0000" stop="20241031220000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Core Kyoto</title></programme>
-<programme start="20241031220000 +0000" stop="20241031221800 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241031220000 +0000" stop="20241031221800 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241031221800 +0000" stop="20241031223000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline Biz</title></programme>
 <programme start="20241031223000 +0000" stop="20241031230000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Design X Stories</title></programme>
-<programme start="20241031230000 +0000" stop="20241031231500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241031230000 +0000" stop="20241031231500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241031231500 +0000" stop="20241031232000 +0000" channel="NHKWorldJapan.jp"><title lang="id">No Art, No Life</title></programme>
 <programme start="20241031232000 +0000" stop="20241031232500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japan Time-Lapse Ainu</title></programme>
 <programme start="20241031232500 +0000" stop="20241031233000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japan From Above: Up Close</title></programme>
 <programme start="20241031233000 +0000" stop="20241101000000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Lunch On!</title></programme>
-<programme start="20241101000000 +0000" stop="20241101001500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101000000 +0000" stop="20241101001500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101001500 +0000" stop="20241101003000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20241101003000 +0000" stop="20241101010000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Asia Insight</title></programme>
-<programme start="20241101010000 +0000" stop="20241101011500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101010000 +0000" stop="20241101011500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101011500 +0000" stop="20241101013000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Direct Talk</title></programme>
 <programme start="20241101013000 +0000" stop="20241101014500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Bento Expo</title></programme>
 <programme start="20241101014500 +0000" stop="20241101020000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Zero Waste Life</title></programme>
-<programme start="20241101020000 +0000" stop="20241101021500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101020000 +0000" stop="20241101021500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101021500 +0000" stop="20241101023000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20241101023000 +0000" stop="20241101024500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cat Encounters</title></programme>
 <programme start="20241101024500 +0000" stop="20241101030000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cat Encounters</title></programme>
-<programme start="20241101030000 +0000" stop="20241101031500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101030000 +0000" stop="20241101031500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101031500 +0000" stop="20241101033000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japan Railway Journal</title></programme>
-<programme start="20241101040000 +0000" stop="20241101041500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101040000 +0000" stop="20241101041500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101041500 +0000" stop="20241101043000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Seasoning The Seasons</title></programme>
-<programme start="20241101050000 +0000" stop="20241101051500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101050000 +0000" stop="20241101051500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101051500 +0000" stop="20241101053000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Direct Talk</title></programme>
 <programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Asia Insight</title></programme>
 <programme start="20241101060000 +0000" stop="20241101063000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline Asia 24</title></programme>
@@ -2872,14 +2851,14 @@
 <programme start="20241101070000 +0000" stop="20241101073000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline Asia 24</title></programme>
 <programme start="20241101073000 +0000" stop="20241101074500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cat Encounters</title></programme>
 <programme start="20241101074500 +0000" stop="20241101080000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cat Encounters</title></programme>
-<programme start="20241101080000 +0000" stop="20241101081500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101080000 +0000" stop="20241101081500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101081500 +0000" stop="20241101082300 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline Biz</title></programme>
 <programme start="20241101082300 +0000" stop="20241101083000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Chatroom Japan</title></programme>
 <programme start="20241101083000 +0000" stop="20241101090000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Document 72 Hours</title></programme>
-<programme start="20241101090000 +0000" stop="20241101091500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101090000 +0000" stop="20241101091500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101091500 +0000" stop="20241101093000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Direct Talk</title></programme>
 <programme start="20241101093000 +0000" stop="20241101100000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japan Railway Journal</title></programme>
-<programme start="20241101100000 +0000" stop="20241101101800 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101100000 +0000" stop="20241101101800 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101101800 +0000" stop="20241101103000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline Biz</title></programme>
 <programme start="20241101103000 +0000" stop="20241101110000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Asia Insight</title></programme>
 <programme start="20241101110000 +0000" stop="20241101112700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsroom Tokyo</title></programme>
@@ -2889,17 +2868,17 @@
 <programme start="20241101120000 +0000" stop="20241101123000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsroom Tokyo</title></programme>
 <programme start="20241101123000 +0000" stop="20241101124500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Bento Expo</title></programme>
 <programme start="20241101124500 +0000" stop="20241101130000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Zero Waste Life</title></programme>
-<programme start="20241101130000 +0000" stop="20241101131500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101130000 +0000" stop="20241101131500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101131500 +0000" stop="20241101133000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20241101133000 +0000" stop="20241101134500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cat Encounters</title></programme>
 <programme start="20241101134500 +0000" stop="20241101140000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cat Encounters</title></programme>
-<programme start="20241101140000 +0000" stop="20241101141500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101140000 +0000" stop="20241101141500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101141500 +0000" stop="20241101143000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20241101143000 +0000" stop="20241101150000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Today&apos;S Close-Up</title></programme>
-<programme start="20241101150000 +0000" stop="20241101151500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101150000 +0000" stop="20241101151500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101151500 +0000" stop="20241101153000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20241101153000 +0000" stop="20241101160000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Asia Insight</title></programme>
-<programme start="20241101160000 +0000" stop="20241101161500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Nhk Newsline</title></programme>
+<programme start="20241101160000 +0000" stop="20241101161500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241101161500 +0000" stop="20241101163000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Direct Talk</title></programme>
 <programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Frontrunners</title></programme>
 <programme start="20241031210000 +0000" stop="20241031212000 +0000" channel="NickelodeonAsia.sg"><title lang="id">SpongeBob SquarePants S11 - Eps.217</title></programme>
