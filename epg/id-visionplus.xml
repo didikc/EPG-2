@@ -137,12 +137,12 @@
 <programme start="20241105133000 +0000" stop="20241105140000 +0000" channel="ABCAustralia.au"><title lang="en">7.30</title></programme>
 <programme start="20241105140000 +0000" stop="20241105141500 +0000" channel="ABCAustralia.au"><title lang="en">ABC Late News</title></programme>
 <programme start="20241105141500 +0000" stop="20241105143000 +0000" channel="ABCAustralia.au"><title lang="en">The Business</title></programme>
-<programme start="20241105143000 +0000" stop="20241105153000 +0000" channel="ABCAustralia.au"><title lang="en">The World</title></programme>
-<programme start="20241105153000 +0000" stop="20241105161500 +0000" channel="ABCAustralia.au"><title lang="en">Four Corners</title></programme>
+<programme start="20241105143000 +0000" stop="20241105152500 +0000" channel="ABCAustralia.au"><title lang="en">The World</title></programme>
+<programme start="20241105152500 +0000" stop="20241105161500 +0000" channel="ABCAustralia.au"><title lang="en">Four Corners</title></programme>
 <programme start="20241105161500 +0000" stop="20241105163000 +0000" channel="ABCAustralia.au"><title lang="en">Media Watch</title></programme>
 <programme start="20241105163000 +0000" stop="20241105173000 +0000" channel="ABCAustralia.au"><title lang="en">Dolphins: Is Our Love Too Deep?</title></programme>
 <programme start="20241105173000 +0000" stop="20241105180000 +0000" channel="ABCAustralia.au"><title lang="en">7.30</title></programme>
-<programme start="20241105180000 +0000" stop="20241105190000 +0000" channel="ABCAustralia.au"><title lang="en">The World</title></programme>
+<programme start="20241105180000 +0000" stop="20241105190000 +0000" channel="ABCAustralia.au"><title lang="en">News Breakfast: USA Votes</title></programme>
 <programme start="20241105190000 +0000" stop="20241105220000 +0000" channel="ABCAustralia.au"><title lang="en">News Breakfast: USA Votes</title></programme>
 <programme start="20241105220000 +0000" stop="20241105230000 +0000" channel="ABCAustralia.au"><title lang="en">News Breakfast: USA Votes</title></programme>
 <programme start="20241105230000 +0000" stop="20241106010000 +0000" channel="ABCAustralia.au"><title lang="en">USA Votes: Election Day (L)</title></programme>
@@ -191,7 +191,8 @@
 <programme start="20241107140000 +0000" stop="20241107141500 +0000" channel="ABCAustralia.au"><title lang="en">ABC Late News</title></programme>
 <programme start="20241107141500 +0000" stop="20241107143000 +0000" channel="ABCAustralia.au"><title lang="en">The Business</title></programme>
 <programme start="20241107143000 +0000" stop="20241107152500 +0000" channel="ABCAustralia.au"><title lang="en">The World</title></programme>
-<programme start="20241107152500 +0000" stop="20241107160000 +0000" channel="ABCAustralia.au"><title lang="en">The Cook Up With Adam Liaw</title></programme>
+<programme start="20241107152500 +0000" stop="20241107155000 +0000" channel="ABCAustralia.au"><title lang="en">The Cook Up With Adam Liaw</title></programme>
+<programme start="20241107155000 +0000" stop="20241107160000 +0000" channel="ABCAustralia.au"><title lang="en">Beyond Awesome</title></programme>
 <programme start="20241107160000 +0000" stop="20241107165000 +0000" channel="ABCAustralia.au"><title lang="en">Australia&apos;s Wild Moments</title></programme>
 <programme start="20241107165000 +0000" stop="20241107170000 +0000" channel="ABCAustralia.au"><title lang="en">How Deadly</title></programme>
 <programme start="20241104170000 +0000" stop="20241104173000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
@@ -227,7 +228,7 @@
 <programme start="20241105100000 +0000" stop="20241105110000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NewsHour</title></programme>
 <programme start="20241105110000 +0000" stop="20241105113000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
 <programme start="20241105113000 +0000" stop="20241105120000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Inside Story</title></programme>
-<programme start="20241105120000 +0000" stop="20241105130000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Al Jazeera World: Libya</title></programme>
+<programme start="20241105120000 +0000" stop="20241105130000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Al Jazeera World: Gaza</title></programme>
 <programme start="20241105130000 +0000" stop="20241105140000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NewsHour</title></programme>
 <programme start="20241105140000 +0000" stop="20241105143000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
 <programme start="20241105143000 +0000" stop="20241105150000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">The Stream: Growing Up Online</title></programme>
@@ -280,7 +281,7 @@
 <programme start="20241106233000 +0000" stop="20241107000000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Dying Earth: Nothing Grows...</title></programme>
 <programme start="20241107000000 +0000" stop="20241107003000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
 <programme start="20241107003000 +0000" stop="20241107010000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Inside Story</title></programme>
-<programme start="20241107010000 +0000" stop="20241107020000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Al Jazeera World: Libya</title></programme>
+<programme start="20241107010000 +0000" stop="20241107020000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Al Jazeera World: Gaza</title></programme>
 <programme start="20241107020000 +0000" stop="20241107023000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
 <programme start="20241107023000 +0000" stop="20241107030000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">The Stream: Growing Up Online</title></programme>
 <programme start="20241107030000 +0000" stop="20241107033000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
@@ -1272,7 +1273,7 @@
 <programme start="20241105053000 +0000" stop="20241105061500 +0000" channel="BTV.id"><title lang="en">Figur Publik</title></programme>
 <programme start="20241105061500 +0000" stop="20241105064500 +0000" channel="BTV.id"><title lang="en">Dunia RANS</title></programme>
 <programme start="20241105064500 +0000" stop="20241105073000 +0000" channel="BTV.id"><title lang="en">Info Seleb</title></programme>
-<programme start="20241105073000 +0000" stop="20241105080000 +0000" channel="BTV.id"><title lang="en">Berita Viral</title></programme>
+<programme start="20241105073000 +0000" stop="20241105080000 +0000" channel="BTV.id"><title lang="en">Dunia Binatang</title></programme>
 <programme start="20241105080000 +0000" stop="20241105083000 +0000" channel="BTV.id"><title lang="en">Kuyliner</title></programme>
 <programme start="20241105083000 +0000" stop="20241105100000 +0000" channel="BTV.id"><title lang="en">Berita Satu Sore</title></programme>
 <programme start="20241105100000 +0000" stop="20241105110000 +0000" channel="BTV.id"><title lang="en">Berita Satu Utama</title></programme>
@@ -1303,7 +1304,7 @@
 <programme start="20241106053000 +0000" stop="20241106061500 +0000" channel="BTV.id"><title lang="en">Figur Publik</title></programme>
 <programme start="20241106061500 +0000" stop="20241106064500 +0000" channel="BTV.id"><title lang="en">Dunia RANS</title></programme>
 <programme start="20241106064500 +0000" stop="20241106073000 +0000" channel="BTV.id"><title lang="en">Info Seleb</title></programme>
-<programme start="20241106073000 +0000" stop="20241106080000 +0000" channel="BTV.id"><title lang="en">Berita Viral</title></programme>
+<programme start="20241106073000 +0000" stop="20241106080000 +0000" channel="BTV.id"><title lang="en">Dunia Binatang</title></programme>
 <programme start="20241106080000 +0000" stop="20241106083000 +0000" channel="BTV.id"><title lang="en">Kuyliner</title></programme>
 <programme start="20241106083000 +0000" stop="20241106100000 +0000" channel="BTV.id"><title lang="en">Berita Satu Sore</title></programme>
 <programme start="20241106100000 +0000" stop="20241106110000 +0000" channel="BTV.id"><title lang="en">Berita Satu Utama</title></programme>
@@ -1333,7 +1334,7 @@
 <programme start="20241107053000 +0000" stop="20241107061500 +0000" channel="BTV.id"><title lang="en">Figur Publik</title></programme>
 <programme start="20241107061500 +0000" stop="20241107064500 +0000" channel="BTV.id"><title lang="en">Dunia RANS</title></programme>
 <programme start="20241107064500 +0000" stop="20241107073000 +0000" channel="BTV.id"><title lang="en">Info Seleb</title></programme>
-<programme start="20241107073000 +0000" stop="20241107080000 +0000" channel="BTV.id"><title lang="en">Berita Viral</title></programme>
+<programme start="20241107073000 +0000" stop="20241107080000 +0000" channel="BTV.id"><title lang="en">Dunia Binatang</title></programme>
 <programme start="20241107080000 +0000" stop="20241107083000 +0000" channel="BTV.id"><title lang="en">Vacation List</title></programme>
 <programme start="20241107083000 +0000" stop="20241107100000 +0000" channel="BTV.id"><title lang="en">Berita Satu Sore</title></programme>
 <programme start="20241107100000 +0000" stop="20241107110000 +0000" channel="BTV.id"><title lang="en">Berita Satu Utama</title></programme>
@@ -4967,7 +4968,7 @@
 <programme start="20241106060000 +0000" stop="20241106083000 +0000" channel="GTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
 <programme start="20241106083000 +0000" stop="20241106100000 +0000" channel="GTV.id"><title lang="en">SpongeBob SquarePants Movie</title></programme>
 <programme start="20241106100000 +0000" stop="20241106103000 +0000" channel="GTV.id"><title lang="en">Haikyu!</title></programme>
-<programme start="20241106103000 +0000" stop="20241106120000 +0000" channel="GTV.id"><title lang="en">Big Trip 3: Race Around World</title></programme>
+<programme start="20241106103000 +0000" stop="20241106120000 +0000" channel="GTV.id"><title lang="en">Ne Zha</title></programme>
 <programme start="20241106120000 +0000" stop="20241106140000 +0000" channel="GTV.id"><title lang="en">Amazing Dance Indonesia</title></programme>
 <programme start="20241106140000 +0000" stop="20241106154500 +0000" channel="GTV.id"><title lang="en">Big Octopus</title></programme>
 <programme start="20241106154500 +0000" stop="20241106164000 +0000" channel="GTV.id"><title lang="en">Crime KV</title></programme>
@@ -4990,8 +4991,7 @@
 <programme start="20241107114000 +0000" stop="20241107133000 +0000" channel="GTV.id"><title lang="en">Super Deal Indonesia</title></programme>
 <programme start="20241107133000 +0000" stop="20241107150000 +0000" channel="GTV.id"><title lang="en">Giant Python</title></programme>
 <programme start="20241107150000 +0000" stop="20241107154500 +0000" channel="GTV.id"><title lang="en">Jelajah Mitos</title></programme>
-<programme start="20241107154500 +0000" stop="20241107164000 +0000" channel="GTV.id"><title lang="en">Crime KV</title></programme>
-<programme start="20241107164000 +0000" stop="20241107174000 +0000" channel="GTV.id"><title lang="en">Buletin iNews Malam</title></programme>
+<programme start="20241107154500 +0000" stop="20241107171000 +0000" channel="GTV.id"><title lang="en">Akhirnya Datang Juga</title></programme>
 <programme start="20241104173500 +0000" stop="20241104183000 +0000" channel="HistoryAsia.us"><title lang="en">Pawn Stars S23, Ep 57</title></programme>
 <programme start="20241104183000 +0000" stop="20241104192000 +0000" channel="HistoryAsia.us"><title lang="en">Pawn Stars Do America, Ep 6</title></programme>
 <programme start="20241104192000 +0000" stop="20241104202000 +0000" channel="HistoryAsia.us"><title lang="en">Pawn Stars S23, Ep 579</title></programme>
@@ -5361,8 +5361,8 @@
 <programme start="20241105073000 +0000" stop="20241105084500 +0000" channel="iNews.id"><title lang="en">iSeleb (L)</title></programme>
 <programme start="20241105084500 +0000" stop="20241105100000 +0000" channel="iNews.id"><title lang="en">Realita (L)</title></programme>
 <programme start="20241105100000 +0000" stop="20241105120000 +0000" channel="iNews.id"><title lang="en">iNews Sore (L)</title></programme>
-<programme start="20241105120000 +0000" stop="20241105150000 +0000" channel="iNews.id"><title lang="en">Debat Kab. Purwakarta (L)</title></programme>
-<programme start="20241105150000 +0000" stop="20241105160000 +0000" channel="iNews.id"><title lang="en">Pemilu Amerika Serikat (L)</title></programme>
+<programme start="20241105120000 +0000" stop="20241105140000 +0000" channel="iNews.id"><title lang="en">Debat Kab. Purwakarta (L)</title></programme>
+<programme start="20241105140000 +0000" stop="20241105160000 +0000" channel="iNews.id"><title lang="en">Pemilu Amerika Serikat (L)</title></programme>
 <programme start="20241105160000 +0000" stop="20241105174500 +0000" channel="iNews.id"><title lang="en">World Cup &apos;26 Qual.: IDN Vs VIE</title></programme>
 <programme start="20241105174500 +0000" stop="20241105181500 +0000" channel="iNews.id"><title lang="en">Realita</title></programme>
 <programme start="20241105181500 +0000" stop="20241105191500 +0000" channel="iNews.id"><title lang="en">Special Report</title></programme>
@@ -5377,13 +5377,12 @@
 <programme start="20241106030000 +0000" stop="20241106040000 +0000" channel="iNews.id"><title lang="en">iNews Today (L)</title></programme>
 <programme start="20241106040000 +0000" stop="20241106053000 +0000" channel="iNews.id"><title lang="en">iNews Siang (L)</title></programme>
 <programme start="20241106053000 +0000" stop="20241106060000 +0000" channel="iNews.id"><title lang="en">Kawal Pilkada (L)</title></programme>
-<programme start="20241106060000 +0000" stop="20241106061500 +0000" channel="iNews.id"><title lang="en">Silet</title></programme>
-<programme start="20241106061500 +0000" stop="20241106070000 +0000" channel="iNews.id"><title lang="en">Intens Reborn</title></programme>
+<programme start="20241106060000 +0000" stop="20241106070000 +0000" channel="iNews.id"><title lang="en">Intens Reborn</title></programme>
 <programme start="20241106070000 +0000" stop="20241106090000 +0000" channel="iNews.id"><title lang="en">Debat Kab. Fak Fak (L)</title></programme>
 <programme start="20241106090000 +0000" stop="20241106100000 +0000" channel="iNews.id"><title lang="en">Realita (L)</title></programme>
 <programme start="20241106100000 +0000" stop="20241106113000 +0000" channel="iNews.id"><title lang="en">iNews Sore (L)</title></programme>
 <programme start="20241106113000 +0000" stop="20241106140000 +0000" channel="iNews.id"><title lang="en">Debat Cagub Prov. NTT (L)</title></programme>
-<programme start="20241106140000 +0000" stop="20241106150000 +0000" channel="iNews.id"><title lang="en">iNews Prime (L)</title></programme>
+<programme start="20241106140000 +0000" stop="20241106150000 +0000" channel="iNews.id"><title lang="en">AB+</title></programme>
 <programme start="20241106150000 +0000" stop="20241106160000 +0000" channel="iNews.id"><title lang="en">iNews Malam (L)</title></programme>
 <programme start="20241106160000 +0000" stop="20241106174500 +0000" channel="iNews.id"><title lang="en">World Cup &apos;26 Qual.: VIE Vs IDN</title></programme>
 <programme start="20241106174500 +0000" stop="20241106181500 +0000" channel="iNews.id"><title lang="en">Realita</title></programme>
@@ -5399,7 +5398,7 @@
 <programme start="20241107013000 +0000" stop="20241107023000 +0000" channel="iNews.id"><title lang="en">Lapor Polisi (L)</title></programme>
 <programme start="20241107023000 +0000" stop="20241107040000 +0000" channel="iNews.id"><title lang="en">iNews Today (L)</title></programme>
 <programme start="20241107040000 +0000" stop="20241107053000 +0000" channel="iNews.id"><title lang="en">iNews Siang (L)</title></programme>
-<programme start="20241107053000 +0000" stop="20241107060000 +0000" channel="iNews.id"><title lang="en">Kawal Pilkada (L)</title></programme>
+<programme start="20241107053000 +0000" stop="20241107060000 +0000" channel="iNews.id"><title lang="en">Speak After Lunch (L)</title></programme>
 <programme start="20241107060000 +0000" stop="20241107063000 +0000" channel="iNews.id"><title lang="en">Silet</title></programme>
 <programme start="20241107063000 +0000" stop="20241107073000 +0000" channel="iNews.id"><title lang="en">Intens Reborn</title></programme>
 <programme start="20241107073000 +0000" stop="20241107084500 +0000" channel="iNews.id"><title lang="en">iSeleb (L)</title></programme>
@@ -5911,136 +5910,70 @@
 <programme start="20241107160000 +0000" stop="20241107163000 +0000" channel="Life.id"><title lang="en">Rhema</title></programme>
 <programme start="20241107163000 +0000" stop="20241107170000 +0000" channel="Life.id"><title lang="en">Solusi</title></programme>
 <programme start="20241104170500 +0000" stop="20241104173500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 18</title></programme>
-<programme start="20241104170500 +0000" stop="20241104173500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 18</title></programme>
-<programme start="20241104173500 +0000" stop="20241104183500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 15</title></programme>
 <programme start="20241104173500 +0000" stop="20241104183500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 15</title></programme>
 <programme start="20241104183500 +0000" stop="20241104202000 +0000" channel="LifetimeAsia.us"><title lang="en">Line Sisters</title></programme>
-<programme start="20241104183500 +0000" stop="20241104202000 +0000" channel="LifetimeAsia.us"><title lang="en">Line Sisters</title></programme>
-<programme start="20241104202000 +0000" stop="20241104220500 +0000" channel="LifetimeAsia.us"><title lang="en">How She Caught A Killer</title></programme>
 <programme start="20241104202000 +0000" stop="20241104220500 +0000" channel="LifetimeAsia.us"><title lang="en">How She Caught A Killer</title></programme>
 <programme start="20241104220500 +0000" stop="20241104225500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 15</title></programme>
-<programme start="20241104220500 +0000" stop="20241104225500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 15</title></programme>
-<programme start="20241104225500 +0000" stop="20241104235500 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 5</title></programme>
 <programme start="20241104225500 +0000" stop="20241104235500 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 5</title></programme>
 <programme start="20241104235500 +0000" stop="20241105005500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 24</title></programme>
-<programme start="20241104235500 +0000" stop="20241105005500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 24</title></programme>
-<programme start="20241105005500 +0000" stop="20241105012500 +0000" channel="LifetimeAsia.us"><title lang="en">Legends Of The Fork, Ep 10</title></programme>
 <programme start="20241105005500 +0000" stop="20241105012500 +0000" channel="LifetimeAsia.us"><title lang="en">Legends Of The Fork, Ep 10</title></programme>
 <programme start="20241105012500 +0000" stop="20241105022500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 9</title></programme>
-<programme start="20241105012500 +0000" stop="20241105022500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 9</title></programme>
-<programme start="20241105022500 +0000" stop="20241105035500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 25</title></programme>
 <programme start="20241105022500 +0000" stop="20241105035500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 25</title></programme>
 <programme start="20241105035500 +0000" stop="20241105045500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 24</title></programme>
-<programme start="20241105035500 +0000" stop="20241105045500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 24</title></programme>
-<programme start="20241105045500 +0000" stop="20241105052500 +0000" channel="LifetimeAsia.us"><title lang="en">Legends Of The Fork, Ep 10</title></programme>
 <programme start="20241105045500 +0000" stop="20241105052500 +0000" channel="LifetimeAsia.us"><title lang="en">Legends Of The Fork, Ep 10</title></programme>
 <programme start="20241105052500 +0000" stop="20241105055500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 18</title></programme>
-<programme start="20241105052500 +0000" stop="20241105055500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 18</title></programme>
-<programme start="20241105055500 +0000" stop="20241105073000 +0000" channel="LifetimeAsia.us"><title lang="en">Line Sisters</title></programme>
 <programme start="20241105055500 +0000" stop="20241105073000 +0000" channel="LifetimeAsia.us"><title lang="en">Line Sisters</title></programme>
 <programme start="20241105073000 +0000" stop="20241105083000 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 6</title></programme>
-<programme start="20241105073000 +0000" stop="20241105083000 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 6</title></programme>
-<programme start="20241105083000 +0000" stop="20241105100000 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 25</title></programme>
 <programme start="20241105083000 +0000" stop="20241105100000 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 25</title></programme>
 <programme start="20241105100000 +0000" stop="20241105103000 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 19</title></programme>
-<programme start="20241105100000 +0000" stop="20241105103000 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 19</title></programme>
-<programme start="20241105103000 +0000" stop="20241105113000 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 16</title></programme>
 <programme start="20241105103000 +0000" stop="20241105113000 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 16</title></programme>
 <programme start="20241105113000 +0000" stop="20241105123000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 10</title></programme>
-<programme start="20241105113000 +0000" stop="20241105123000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 10</title></programme>
-<programme start="20241105123000 +0000" stop="20241105140000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 25</title></programme>
 <programme start="20241105123000 +0000" stop="20241105140000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 25</title></programme>
 <programme start="20241105140000 +0000" stop="20241105153500 +0000" channel="LifetimeAsia.us"><title lang="en">Suitcase...: Melanie McGuire</title></programme>
-<programme start="20241105140000 +0000" stop="20241105153500 +0000" channel="LifetimeAsia.us"><title lang="en">Suitcase...: Melanie McGuire</title></programme>
-<programme start="20241105153500 +0000" stop="20241105170500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 26</title></programme>
 <programme start="20241105153500 +0000" stop="20241105170500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 26</title></programme>
 <programme start="20241105170500 +0000" stop="20241105173500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 19</title></programme>
-<programme start="20241105170500 +0000" stop="20241105173500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 19</title></programme>
-<programme start="20241105173500 +0000" stop="20241105183500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 16</title></programme>
 <programme start="20241105173500 +0000" stop="20241105183500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 16</title></programme>
 <programme start="20241105183500 +0000" stop="20241105202000 +0000" channel="LifetimeAsia.us"><title lang="en">Suitcase...: Melanie McGuire</title></programme>
-<programme start="20241105183500 +0000" stop="20241105202000 +0000" channel="LifetimeAsia.us"><title lang="en">Suitcase...: Melanie McGuire</title></programme>
-<programme start="20241105202000 +0000" stop="20241105220500 +0000" channel="LifetimeAsia.us"><title lang="en">Line Sisters</title></programme>
 <programme start="20241105202000 +0000" stop="20241105220500 +0000" channel="LifetimeAsia.us"><title lang="en">Line Sisters</title></programme>
 <programme start="20241105220500 +0000" stop="20241105225500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 16</title></programme>
-<programme start="20241105220500 +0000" stop="20241105225500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 16</title></programme>
-<programme start="20241105225500 +0000" stop="20241105235500 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 6</title></programme>
 <programme start="20241105225500 +0000" stop="20241105235500 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 6</title></programme>
 <programme start="20241105235500 +0000" stop="20241106012500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 25</title></programme>
-<programme start="20241105235500 +0000" stop="20241106012500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 25</title></programme>
-<programme start="20241106012500 +0000" stop="20241106022500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 10</title></programme>
 <programme start="20241106012500 +0000" stop="20241106022500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 10</title></programme>
 <programme start="20241106022500 +0000" stop="20241106035500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 26</title></programme>
-<programme start="20241106022500 +0000" stop="20241106035500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 26</title></programme>
-<programme start="20241106035500 +0000" stop="20241106052500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 25</title></programme>
 <programme start="20241106035500 +0000" stop="20241106052500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 25</title></programme>
 <programme start="20241106052500 +0000" stop="20241106055500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 19</title></programme>
-<programme start="20241106052500 +0000" stop="20241106055500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 19</title></programme>
-<programme start="20241106055500 +0000" stop="20241106073000 +0000" channel="LifetimeAsia.us"><title lang="en">Suitcase...: Melanie McGuire</title></programme>
 <programme start="20241106055500 +0000" stop="20241106073000 +0000" channel="LifetimeAsia.us"><title lang="en">Suitcase...: Melanie McGuire</title></programme>
 <programme start="20241106073000 +0000" stop="20241106083000 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 7</title></programme>
-<programme start="20241106073000 +0000" stop="20241106083000 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 7</title></programme>
-<programme start="20241106083000 +0000" stop="20241106100000 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 26</title></programme>
 <programme start="20241106083000 +0000" stop="20241106100000 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 26</title></programme>
 <programme start="20241106100000 +0000" stop="20241106103000 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 20</title></programme>
-<programme start="20241106100000 +0000" stop="20241106103000 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 20</title></programme>
-<programme start="20241106103000 +0000" stop="20241106113000 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 17</title></programme>
 <programme start="20241106103000 +0000" stop="20241106113000 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 17</title></programme>
 <programme start="20241106113000 +0000" stop="20241106123000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 11</title></programme>
-<programme start="20241106113000 +0000" stop="20241106123000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 11</title></programme>
-<programme start="20241106123000 +0000" stop="20241106133000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 26</title></programme>
 <programme start="20241106123000 +0000" stop="20241106133000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 26</title></programme>
 <programme start="20241106133000 +0000" stop="20241106140000 +0000" channel="LifetimeAsia.us"><title lang="en">Jason&apos;s Table: Dishes, Ep 9</title></programme>
-<programme start="20241106133000 +0000" stop="20241106140000 +0000" channel="LifetimeAsia.us"><title lang="en">Jason&apos;s Table: Dishes, Ep 9</title></programme>
-<programme start="20241106140000 +0000" stop="20241106153500 +0000" channel="LifetimeAsia.us"><title lang="en">A Model Murder</title></programme>
 <programme start="20241106140000 +0000" stop="20241106153500 +0000" channel="LifetimeAsia.us"><title lang="en">A Model Murder</title></programme>
 <programme start="20241106153500 +0000" stop="20241106170500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 27</title></programme>
-<programme start="20241106153500 +0000" stop="20241106170500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 27</title></programme>
-<programme start="20241106170500 +0000" stop="20241106173500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 20</title></programme>
 <programme start="20241106170500 +0000" stop="20241106173500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 20</title></programme>
 <programme start="20241106173500 +0000" stop="20241106183500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 17</title></programme>
-<programme start="20241106173500 +0000" stop="20241106183500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 17</title></programme>
-<programme start="20241106183500 +0000" stop="20241106202000 +0000" channel="LifetimeAsia.us"><title lang="en">A Model Murder</title></programme>
 <programme start="20241106183500 +0000" stop="20241106202000 +0000" channel="LifetimeAsia.us"><title lang="en">A Model Murder</title></programme>
 <programme start="20241106202000 +0000" stop="20241106220500 +0000" channel="LifetimeAsia.us"><title lang="en">Suitcase...: Melanie McGuire</title></programme>
-<programme start="20241106202000 +0000" stop="20241106220500 +0000" channel="LifetimeAsia.us"><title lang="en">Suitcase...: Melanie McGuire</title></programme>
-<programme start="20241106220500 +0000" stop="20241106225500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 17</title></programme>
 <programme start="20241106220500 +0000" stop="20241106225500 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 17</title></programme>
 <programme start="20241106225500 +0000" stop="20241106235500 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 7</title></programme>
-<programme start="20241106225500 +0000" stop="20241106235500 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 7</title></programme>
-<programme start="20241106235500 +0000" stop="20241107005500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 26</title></programme>
 <programme start="20241106235500 +0000" stop="20241107005500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 26</title></programme>
 <programme start="20241107005500 +0000" stop="20241107012500 +0000" channel="LifetimeAsia.us"><title lang="en">Jason&apos;s Table: Dishes, Ep 9</title></programme>
-<programme start="20241107005500 +0000" stop="20241107012500 +0000" channel="LifetimeAsia.us"><title lang="en">Jason&apos;s Table: Dishes, Ep 9</title></programme>
-<programme start="20241107012500 +0000" stop="20241107022500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 11</title></programme>
 <programme start="20241107012500 +0000" stop="20241107022500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 11</title></programme>
 <programme start="20241107022500 +0000" stop="20241107035500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 27</title></programme>
-<programme start="20241107022500 +0000" stop="20241107035500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 27</title></programme>
-<programme start="20241107035500 +0000" stop="20241107045500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 26</title></programme>
 <programme start="20241107035500 +0000" stop="20241107045500 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 26</title></programme>
 <programme start="20241107045500 +0000" stop="20241107052500 +0000" channel="LifetimeAsia.us"><title lang="en">Jason&apos;s Table: Dishes, Ep 9</title></programme>
-<programme start="20241107045500 +0000" stop="20241107052500 +0000" channel="LifetimeAsia.us"><title lang="en">Jason&apos;s Table: Dishes, Ep 9</title></programme>
-<programme start="20241107052500 +0000" stop="20241107055500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 20</title></programme>
 <programme start="20241107052500 +0000" stop="20241107055500 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 20</title></programme>
 <programme start="20241107055500 +0000" stop="20241107073000 +0000" channel="LifetimeAsia.us"><title lang="en">A Model Murder</title></programme>
-<programme start="20241107055500 +0000" stop="20241107073000 +0000" channel="LifetimeAsia.us"><title lang="en">A Model Murder</title></programme>
-<programme start="20241107073000 +0000" stop="20241107083000 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 8</title></programme>
 <programme start="20241107073000 +0000" stop="20241107083000 +0000" channel="LifetimeAsia.us"><title lang="en">Hit-And-Miss Tour, Ep 8</title></programme>
 <programme start="20241107083000 +0000" stop="20241107100000 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 27</title></programme>
-<programme start="20241107083000 +0000" stop="20241107100000 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 27</title></programme>
-<programme start="20241107100000 +0000" stop="20241107103000 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 21</title></programme>
 <programme start="20241107100000 +0000" stop="20241107103000 +0000" channel="LifetimeAsia.us"><title lang="en">Living Smaller S1, Ep 21</title></programme>
 <programme start="20241107103000 +0000" stop="20241107113000 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 18</title></programme>
-<programme start="20241107103000 +0000" stop="20241107113000 +0000" channel="LifetimeAsia.us"><title lang="en">Theresa Caputo: Spirits, Ep 18</title></programme>
-<programme start="20241107113000 +0000" stop="20241107123000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 12</title></programme>
 <programme start="20241107113000 +0000" stop="20241107123000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef USA S12, Ep 12</title></programme>
 <programme start="20241107123000 +0000" stop="20241107133000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 27</title></programme>
-<programme start="20241107123000 +0000" stop="20241107133000 +0000" channel="LifetimeAsia.us"><title lang="en">MasterChef Australia S15, Ep 27</title></programme>
-<programme start="20241107133000 +0000" stop="20241107140000 +0000" channel="LifetimeAsia.us"><title lang="en">Jason&apos;s Table: Dishes, Ep 10</title></programme>
 <programme start="20241107133000 +0000" stop="20241107140000 +0000" channel="LifetimeAsia.us"><title lang="en">Jason&apos;s Table: Dishes, Ep 10</title></programme>
 <programme start="20241107140000 +0000" stop="20241107153500 +0000" channel="LifetimeAsia.us"><title lang="en">Beware Of The Midwife</title></programme>
-<programme start="20241107140000 +0000" stop="20241107153500 +0000" channel="LifetimeAsia.us"><title lang="en">Beware Of The Midwife</title></programme>
-<programme start="20241107153500 +0000" stop="20241107170500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 28</title></programme>
 <programme start="20241107153500 +0000" stop="20241107170500 +0000" channel="LifetimeAsia.us"><title lang="en">Married At 1st... AUS S8, Ep 28</title></programme>
 <programme start="20241104172500 +0000" stop="20241104182000 +0000" channel="LoveNature.ca"><title lang="en">Gladiators S1, Ep 1</title></programme>
 <programme start="20241104182000 +0000" stop="20241104191500 +0000" channel="LoveNature.ca"><title lang="en">Gladiators S1, Ep 2</title></programme>
@@ -6607,43 +6540,45 @@
 <programme start="20241104200000 +0000" stop="20241104213000 +0000" channel="MNCTV.id"><title lang="en">Lintas iNews Pagi</title></programme>
 <programme start="20241104213000 +0000" stop="20241104220000 +0000" channel="MNCTV.id"><title lang="en">Jurnal Lintas iNews Pagi</title></programme>
 <programme start="20241104220000 +0000" stop="20241104223000 +0000" channel="MNCTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20241104223000 +0000" stop="20241104233000 +0000" channel="MNCTV.id"><title lang="en">Siraman Qolbu</title></programme>
-<programme start="20241104233000 +0000" stop="20241105000000 +0000" channel="MNCTV.id"><title lang="en">Kiko</title></programme>
+<programme start="20241104223000 +0000" stop="20241104230000 +0000" channel="MNCTV.id"><title lang="en">Siraman Qolbu</title></programme>
+<programme start="20241104230000 +0000" stop="20241105000000 +0000" channel="MNCTV.id"><title lang="en">Kiko</title></programme>
 <programme start="20241105000000 +0000" stop="20241105010000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241105010000 +0000" stop="20241105030000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241105030000 +0000" stop="20241105033000 +0000" channel="MNCTV.id"><title lang="en">Lintas iNews Siang</title></programme>
 <programme start="20241105033000 +0000" stop="20241105060000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241105060000 +0000" stop="20241105080000 +0000" channel="MNCTV.id"><title lang="en">AFF Futsal: AUS Vs IDN (L)</title></programme>
-<programme start="20241105080000 +0000" stop="20241105100000 +0000" channel="MNCTV.id"><title lang="en">Petualangan Fantastis Kiko</title></programme>
-<programme start="20241105100000 +0000" stop="20241105120000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20241105120000 +0000" stop="20241105150000 +0000" channel="MNCTV.id"><title lang="en">Family 100</title></programme>
+<programme start="20241105080000 +0000" stop="20241105090000 +0000" channel="MNCTV.id"><title lang="en">Petualangan Fantastis Kiko</title></programme>
+<programme start="20241105090000 +0000" stop="20241105100000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20241105100000 +0000" stop="20241105123000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20241105123000 +0000" stop="20241105150000 +0000" channel="MNCTV.id"><title lang="en">Family 100</title></programme>
 <programme start="20241105150000 +0000" stop="20241105170000 +0000" channel="MNCTV.id"><title lang="en">Orkes Semesta</title></programme>
 <programme start="20241105170000 +0000" stop="20241105173000 +0000" channel="MNCTV.id"><title lang="en">Suparman Reborn</title></programme>
 <programme start="20241105173000 +0000" stop="20241105190000 +0000" channel="MNCTV.id"><title lang="en">Suparman Reborn</title></programme>
-<programme start="20241105190000 +0000" stop="20241105200000 +0000" channel="MNCTV.id"><title lang="en">Suparman Reborn</title></programme>
-<programme start="20241105200000 +0000" stop="20241105213000 +0000" channel="MNCTV.id"><title lang="en">Lintas iNews Pagi</title></programme>
+<programme start="20241105190000 +0000" stop="20241105203000 +0000" channel="MNCTV.id"><title lang="en">Suparman Reborn</title></programme>
+<programme start="20241105203000 +0000" stop="20241105213000 +0000" channel="MNCTV.id"><title lang="en">Lintas iNews Pagi</title></programme>
 <programme start="20241105213000 +0000" stop="20241105220000 +0000" channel="MNCTV.id"><title lang="en">Jurnal Lintas iNews Pagi</title></programme>
 <programme start="20241105220000 +0000" stop="20241105223000 +0000" channel="MNCTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20241105223000 +0000" stop="20241105233000 +0000" channel="MNCTV.id"><title lang="en">Siraman Qolbu</title></programme>
-<programme start="20241105233000 +0000" stop="20241106000000 +0000" channel="MNCTV.id"><title lang="en">Kiko</title></programme>
+<programme start="20241105223000 +0000" stop="20241105230000 +0000" channel="MNCTV.id"><title lang="en">Siraman Qolbu</title></programme>
+<programme start="20241105230000 +0000" stop="20241106000000 +0000" channel="MNCTV.id"><title lang="en">Kiko</title></programme>
 <programme start="20241106000000 +0000" stop="20241106010000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241106010000 +0000" stop="20241106030000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241106030000 +0000" stop="20241106033000 +0000" channel="MNCTV.id"><title lang="en">Lintas iNews Siang</title></programme>
 <programme start="20241106033000 +0000" stop="20241106060000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241106060000 +0000" stop="20241106080000 +0000" channel="MNCTV.id"><title lang="en">AFF Futsal: IDN Vs MYA (L)</title></programme>
-<programme start="20241106080000 +0000" stop="20241106100000 +0000" channel="MNCTV.id"><title lang="en">Petualangan Fantastis Kiko</title></programme>
-<programme start="20241106100000 +0000" stop="20241106120000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
-<programme start="20241106120000 +0000" stop="20241106150000 +0000" channel="MNCTV.id"><title lang="en">Family 100</title></programme>
+<programme start="20241106080000 +0000" stop="20241106090000 +0000" channel="MNCTV.id"><title lang="en">Petualangan Fantastis Kiko</title></programme>
+<programme start="20241106090000 +0000" stop="20241106100000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20241106100000 +0000" stop="20241106123000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
+<programme start="20241106123000 +0000" stop="20241106150000 +0000" channel="MNCTV.id"><title lang="en">Family 100</title></programme>
 <programme start="20241106150000 +0000" stop="20241106163000 +0000" channel="MNCTV.id"><title lang="en">MVP: Most Valuable Player</title></programme>
 <programme start="20241106163000 +0000" stop="20241106170000 +0000" channel="MNCTV.id"><title lang="en">Bawang Merah Bawang Putih</title></programme>
 <programme start="20241106170000 +0000" stop="20241106173000 +0000" channel="MNCTV.id"><title lang="en">Suparman Reborn</title></programme>
 <programme start="20241106173000 +0000" stop="20241106190000 +0000" channel="MNCTV.id"><title lang="en">Suparman Reborn</title></programme>
-<programme start="20241106190000 +0000" stop="20241106200000 +0000" channel="MNCTV.id"><title lang="en">Suparman Reborn</title></programme>
-<programme start="20241106200000 +0000" stop="20241106213000 +0000" channel="MNCTV.id"><title lang="en">Lintas iNews Pagi</title></programme>
+<programme start="20241106190000 +0000" stop="20241106203000 +0000" channel="MNCTV.id"><title lang="en">Suparman Reborn</title></programme>
+<programme start="20241106203000 +0000" stop="20241106213000 +0000" channel="MNCTV.id"><title lang="en">Lintas iNews Pagi</title></programme>
 <programme start="20241106213000 +0000" stop="20241106220000 +0000" channel="MNCTV.id"><title lang="en">Jurnal Lintas iNews Pagi</title></programme>
 <programme start="20241106220000 +0000" stop="20241106223000 +0000" channel="MNCTV.id"><title lang="en">Seleb On News</title></programme>
-<programme start="20241106223000 +0000" stop="20241106233000 +0000" channel="MNCTV.id"><title lang="en">Siraman Qolbu</title></programme>
-<programme start="20241106233000 +0000" stop="20241107000000 +0000" channel="MNCTV.id"><title lang="en">Kiko</title></programme>
+<programme start="20241106223000 +0000" stop="20241106230000 +0000" channel="MNCTV.id"><title lang="en">Siraman Qolbu</title></programme>
+<programme start="20241106230000 +0000" stop="20241107000000 +0000" channel="MNCTV.id"><title lang="en">Kiko</title></programme>
 <programme start="20241107000000 +0000" stop="20241107010000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241107010000 +0000" stop="20241107030000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241107030000 +0000" stop="20241107033000 +0000" channel="MNCTV.id"><title lang="en">Lintas iNews Siang</title></programme>
@@ -6652,7 +6587,7 @@
 <programme start="20241107080000 +0000" stop="20241107100000 +0000" channel="MNCTV.id"><title lang="en">Petualangan Fantastis Kiko</title></programme>
 <programme start="20241107100000 +0000" stop="20241107130000 +0000" channel="MNCTV.id"><title lang="en">Upin &amp; Ipin</title></programme>
 <programme start="20241107130000 +0000" stop="20241107160000 +0000" channel="MNCTV.id"><title lang="en">KDI 2024 (L)</title></programme>
-<programme start="20241107160000 +0000" stop="20241107170000 +0000" channel="MNCTV.id"><title lang="en">Kampung Jakarta</title></programme>
+<programme start="20241107160000 +0000" stop="20241107173000 +0000" channel="MNCTV.id"><title lang="en">Melodi Cinta Rhoma Irama</title></programme>
 <programme start="20241104170000 +0000" stop="20241104200000 +0000" channel="MTV90s.uk"><title lang="en">Boys Vs Girls: 90s Hits!</title></programme>
 <programme start="20241104200000 +0000" stop="20241104210000 +0000" channel="MTV90s.uk"><title lang="en">Alternative Nation!</title></programme>
 <programme start="20241104210000 +0000" stop="20241105000000 +0000" channel="MTV90s.uk"><title lang="en">Ultimate 90s Playlist!</title></programme>
@@ -6874,16 +6809,18 @@
 <programme start="20241107063000 +0000" stop="20241107073000 +0000" channel="MusicTV.id"><title lang="en">Reyunian</title></programme>
 <programme start="20241107073000 +0000" stop="20241107080000 +0000" channel="MusicTV.id"><title lang="en">Behind The Song</title></programme>
 <programme start="20241107073000 +0000" stop="20241107080000 +0000" channel="MusicTV.id"><title lang="en">Behind The Song</title></programme>
-<programme start="20241107080000 +0000" stop="20241107100000 +0000" channel="MusicTV.id"><title lang="en">Mega Konser Padi Reborn</title></programme>
-<programme start="20241107080000 +0000" stop="20241107100000 +0000" channel="MusicTV.id"><title lang="en">Mega Konser Padi Reborn</title></programme>
-<programme start="20241107100000 +0000" stop="20241107110000 +0000" channel="MusicTV.id"><title lang="en">Adu Dahsyat</title></programme>
-<programme start="20241107100000 +0000" stop="20241107110000 +0000" channel="MusicTV.id"><title lang="en">Adu Dahsyat</title></programme>
-<programme start="20241107110000 +0000" stop="20241107120000 +0000" channel="MusicTV.id"><title lang="en">K-Hits</title></programme>
-<programme start="20241107110000 +0000" stop="20241107120000 +0000" channel="MusicTV.id"><title lang="en">K-Hits</title></programme>
-<programme start="20241107120000 +0000" stop="20241107133000 +0000" channel="MusicTV.id"><title lang="en">Juke Box</title></programme>
-<programme start="20241107120000 +0000" stop="20241107133000 +0000" channel="MusicTV.id"><title lang="en">Juke Box</title></programme>
-<programme start="20241107133000 +0000" stop="20241107164500 +0000" channel="MusicTV.id"><title lang="en">KDI 2024 (L)</title></programme>
-<programme start="20241107133000 +0000" stop="20241107164500 +0000" channel="MusicTV.id"><title lang="en">KDI 2024 (L)</title></programme>
+<programme start="20241107080000 +0000" stop="20241107093000 +0000" channel="MusicTV.id"><title lang="en">Mega Konser Padi Reborn</title></programme>
+<programme start="20241107080000 +0000" stop="20241107093000 +0000" channel="MusicTV.id"><title lang="en">Mega Konser Padi Reborn</title></programme>
+<programme start="20241107093000 +0000" stop="20241107103000 +0000" channel="MusicTV.id"><title lang="en">Adu Dahsyat</title></programme>
+<programme start="20241107093000 +0000" stop="20241107103000 +0000" channel="MusicTV.id"><title lang="en">Adu Dahsyat</title></programme>
+<programme start="20241107103000 +0000" stop="20241107113000 +0000" channel="MusicTV.id"><title lang="en">K-Hits</title></programme>
+<programme start="20241107103000 +0000" stop="20241107113000 +0000" channel="MusicTV.id"><title lang="en">K-Hits</title></programme>
+<programme start="20241107113000 +0000" stop="20241107130000 +0000" channel="MusicTV.id"><title lang="en">Juke Box</title></programme>
+<programme start="20241107113000 +0000" stop="20241107130000 +0000" channel="MusicTV.id"><title lang="en">Juke Box</title></programme>
+<programme start="20241107130000 +0000" stop="20241107160000 +0000" channel="MusicTV.id"><title lang="en">KDI 2024 (L)</title></programme>
+<programme start="20241107130000 +0000" stop="20241107160000 +0000" channel="MusicTV.id"><title lang="en">KDI 2024 (L)</title></programme>
+<programme start="20241107160000 +0000" stop="20241107164500 +0000" channel="MusicTV.id"><title lang="en">Music Files</title></programme>
+<programme start="20241107160000 +0000" stop="20241107164500 +0000" channel="MusicTV.id"><title lang="en">Music Files</title></programme>
 <programme start="20241107164500 +0000" stop="20241107184500 +0000" channel="MusicTV.id"><title lang="en">Mega Konser Padi Reborn</title></programme>
 <programme start="20241107164500 +0000" stop="20241107184500 +0000" channel="MusicTV.id"><title lang="en">Mega Konser Padi Reborn</title></programme>
 <programme start="20241104180000 +0000" stop="20241104183000 +0000" channel="MuslimTV.id"><title lang="en">World Of Moslem</title></programme>
@@ -8285,8 +8222,8 @@
 <programme start="20241107114000 +0000" stop="20241107130000 +0000" channel="ONE.sg"><title lang="en">Band Of Sisters, Ep 27</title></programme>
 <programme start="20241107130000 +0000" stop="20241107134500 +0000" channel="ONE.sg"><title lang="en">Meant To Be, Ep 118</title></programme>
 <programme start="20241107134500 +0000" stop="20241107143000 +0000" channel="ONE.sg"><title lang="en">Meant To Be, Ep 119</title></programme>
-<programme start="20241107143000 +0000" stop="20241107161500 +0000" channel="ONE.sg"><title lang="en">The Half-Star Hotel..., Ep 25</title></programme>
-<programme start="20241107161500 +0000" stop="20241107173500 +0000" channel="ONE.sg"><title lang="en">Band Of Sisters, Ep 27</title></programme>
+<programme start="20241107143000 +0000" stop="20241107162000 +0000" channel="ONE.sg"><title lang="en">The Half-Star Hotel..., Ep 25</title></programme>
+<programme start="20241107162000 +0000" stop="20241107173500 +0000" channel="ONE.sg"><title lang="en">Band Of Sisters, Ep 27</title></programme>
 <programme start="20241104170000 +0000" stop="20241104180000 +0000" channel="OutdoorChannel.us"><title lang="en">Running Wild S1, Ep 1</title></programme>
 <programme start="20241104180000 +0000" stop="20241104183000 +0000" channel="OutdoorChannel.us"><title lang="en">Wild Fed S1, Ep 2</title></programme>
 <programme start="20241104183000 +0000" stop="20241104190000 +0000" channel="OutdoorChannel.us"><title lang="en">Wild Australia S1, Ep 5</title></programme>
@@ -8412,7 +8349,7 @@
 <programme start="20241105123000 +0000" stop="20241105140000 +0000" channel="RajawaliTV.id"><title lang="en">Mechamato</title></programme>
 <programme start="20241105140000 +0000" stop="20241105143000 +0000" channel="RajawaliTV.id"><title lang="en">Si Paling Trending!</title></programme>
 <programme start="20241105143000 +0000" stop="20241105150000 +0000" channel="RajawaliTV.id"><title lang="en">Terkepo-Kepo</title></programme>
-<programme start="20241105150000 +0000" stop="20241105160000 +0000" channel="RajawaliTV.id"><title lang="en">Takdir Cinta Kera Sakti</title></programme>
+<programme start="20241105150000 +0000" stop="20241105160000 +0000" channel="RajawaliTV.id"><title lang="en">Novoland: Eagle Flag</title></programme>
 <programme start="20241105160000 +0000" stop="20241105163000 +0000" channel="RajawaliTV.id"><title lang="en">Lensa Indonesia Malam</title></programme>
 <programme start="20241105163000 +0000" stop="20241105170000 +0000" channel="RajawaliTV.id"><title lang="en">Catatan Seputar Investigasi</title></programme>
 <programme start="20241105170000 +0000" stop="20241105180000 +0000" channel="RajawaliTV.id"><title lang="en">Jagoan Silat</title></programme>
@@ -8420,7 +8357,7 @@
 <programme start="20241105183000 +0000" stop="20241105193000 +0000" channel="RajawaliTV.id"><title lang="en">STB (Sangat Tidak Biasa)</title></programme>
 <programme start="20241105193000 +0000" stop="20241105203000 +0000" channel="RajawaliTV.id"><title lang="en">BESTI (Best Informasi)</title></programme>
 <programme start="20241105203000 +0000" stop="20241105210000 +0000" channel="RajawaliTV.id"><title lang="en">Buka Mata Buka Hati</title></programme>
-<programme start="20241105210000 +0000" stop="20241105213000 +0000" channel="RajawaliTV.id"><title lang="en">Kumprank</title></programme>
+<programme start="20241105210000 +0000" stop="20241105213000 +0000" channel="RajawaliTV.id"><title lang="en">Omar &amp; Hana</title></programme>
 <programme start="20241105213000 +0000" stop="20241105220000 +0000" channel="RajawaliTV.id"><title lang="en">Mina Mila</title></programme>
 <programme start="20241105220000 +0000" stop="20241105230000 +0000" channel="RajawaliTV.id"><title lang="en">Ibra Berkisah</title></programme>
 <programme start="20241105230000 +0000" stop="20241105233000 +0000" channel="RajawaliTV.id"><title lang="en">Riko The Series</title></programme>
@@ -8432,15 +8369,14 @@
 <programme start="20241106053000 +0000" stop="20241106070000 +0000" channel="RajawaliTV.id"><title lang="en">BoBoiBoy</title></programme>
 <programme start="20241106070000 +0000" stop="20241106073000 +0000" channel="RajawaliTV.id"><title lang="en">Tawa Satwa</title></programme>
 <programme start="20241106073000 +0000" stop="20241106080000 +0000" channel="RajawaliTV.id"><title lang="en">BOBA (Bombastis Banget)</title></programme>
-<programme start="20241106080000 +0000" stop="20241106083000 +0000" channel="RajawaliTV.id"><title lang="en">Lego Ninjago Dragon Rising</title></programme>
-<programme start="20241106083000 +0000" stop="20241106100000 +0000" channel="RajawaliTV.id"><title lang="en">Ejen Ali</title></programme>
+<programme start="20241106080000 +0000" stop="20241106100000 +0000" channel="RajawaliTV.id"><title lang="en">Ejen Ali</title></programme>
 <programme start="20241106100000 +0000" stop="20241106110000 +0000" channel="RajawaliTV.id"><title lang="en">BoBoiBoy Galaxy 2</title></programme>
 <programme start="20241106110000 +0000" stop="20241106113000 +0000" channel="RajawaliTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
 <programme start="20241106113000 +0000" stop="20241106123000 +0000" channel="RajawaliTV.id"><title lang="en">BoBoiBoy Galaxy 2</title></programme>
 <programme start="20241106123000 +0000" stop="20241106140000 +0000" channel="RajawaliTV.id"><title lang="en">Mechamato</title></programme>
 <programme start="20241106140000 +0000" stop="20241106143000 +0000" channel="RajawaliTV.id"><title lang="en">Si Paling Trending!</title></programme>
 <programme start="20241106143000 +0000" stop="20241106150000 +0000" channel="RajawaliTV.id"><title lang="en">Terkepo-Kepo</title></programme>
-<programme start="20241106150000 +0000" stop="20241106160000 +0000" channel="RajawaliTV.id"><title lang="en">Takdir Cinta Kera Sakti</title></programme>
+<programme start="20241106150000 +0000" stop="20241106160000 +0000" channel="RajawaliTV.id"><title lang="en">Novoland: Eagle Flag</title></programme>
 <programme start="20241106160000 +0000" stop="20241106163000 +0000" channel="RajawaliTV.id"><title lang="en">Lensa Indonesia Malam</title></programme>
 <programme start="20241106163000 +0000" stop="20241106170000 +0000" channel="RajawaliTV.id"><title lang="en">Catatan Seputar Investigasi</title></programme>
 <programme start="20241106170000 +0000" stop="20241106180000 +0000" channel="RajawaliTV.id"><title lang="en">Jagoan Silat</title></programme>
@@ -8448,7 +8384,7 @@
 <programme start="20241106183000 +0000" stop="20241106193000 +0000" channel="RajawaliTV.id"><title lang="en">STB (Sangat Tidak Biasa)</title></programme>
 <programme start="20241106193000 +0000" stop="20241106203000 +0000" channel="RajawaliTV.id"><title lang="en">Top Trending</title></programme>
 <programme start="20241106203000 +0000" stop="20241106210000 +0000" channel="RajawaliTV.id"><title lang="en">Buka Mata Buka Hati</title></programme>
-<programme start="20241106210000 +0000" stop="20241106213000 +0000" channel="RajawaliTV.id"><title lang="en">Kumprank</title></programme>
+<programme start="20241106210000 +0000" stop="20241106213000 +0000" channel="RajawaliTV.id"><title lang="en">Omar &amp; Hana</title></programme>
 <programme start="20241106213000 +0000" stop="20241106220000 +0000" channel="RajawaliTV.id"><title lang="en">Mina Mila</title></programme>
 <programme start="20241106220000 +0000" stop="20241106230000 +0000" channel="RajawaliTV.id"><title lang="en">Ibra Berkisah</title></programme>
 <programme start="20241106230000 +0000" stop="20241106233000 +0000" channel="RajawaliTV.id"><title lang="en">Riko The Series</title></programme>
@@ -8460,15 +8396,14 @@
 <programme start="20241107053000 +0000" stop="20241107070000 +0000" channel="RajawaliTV.id"><title lang="en">BoBoiBoy</title></programme>
 <programme start="20241107070000 +0000" stop="20241107073000 +0000" channel="RajawaliTV.id"><title lang="en">Tawa Satwa</title></programme>
 <programme start="20241107073000 +0000" stop="20241107080000 +0000" channel="RajawaliTV.id"><title lang="en">Kokom (Kompilasi Komedi)</title></programme>
-<programme start="20241107080000 +0000" stop="20241107083000 +0000" channel="RajawaliTV.id"><title lang="en">Lego Ninjago Dragon Rising</title></programme>
-<programme start="20241107083000 +0000" stop="20241107100000 +0000" channel="RajawaliTV.id"><title lang="en">Ejen Ali</title></programme>
+<programme start="20241107080000 +0000" stop="20241107100000 +0000" channel="RajawaliTV.id"><title lang="en">Ejen Ali</title></programme>
 <programme start="20241107100000 +0000" stop="20241107110000 +0000" channel="RajawaliTV.id"><title lang="en">BoBoiBoy Galaxy 2</title></programme>
-<programme start="20241107110000 +0000" stop="20241107113000 +0000" channel="RajawaliTV.id"><title lang="en">Tendangan Halilintar</title></programme>
+<programme start="20241107110000 +0000" stop="20241107113000 +0000" channel="RajawaliTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
 <programme start="20241107113000 +0000" stop="20241107123000 +0000" channel="RajawaliTV.id"><title lang="en">BoBoiBoy Galaxy 2</title></programme>
 <programme start="20241107123000 +0000" stop="20241107140000 +0000" channel="RajawaliTV.id"><title lang="en">Mechamato</title></programme>
 <programme start="20241107140000 +0000" stop="20241107143000 +0000" channel="RajawaliTV.id"><title lang="en">Jejak Raja Jawa</title></programme>
 <programme start="20241107143000 +0000" stop="20241107150000 +0000" channel="RajawaliTV.id"><title lang="en">Kumprank</title></programme>
-<programme start="20241107150000 +0000" stop="20241107160000 +0000" channel="RajawaliTV.id"><title lang="en">Takdir Cinta Kera Sakti</title></programme>
+<programme start="20241107150000 +0000" stop="20241107160000 +0000" channel="RajawaliTV.id"><title lang="en">Novoland: Eagle Flag</title></programme>
 <programme start="20241107160000 +0000" stop="20241107163000 +0000" channel="RajawaliTV.id"><title lang="en">Lensa Indonesia Malam</title></programme>
 <programme start="20241107163000 +0000" stop="20241107170000 +0000" channel="RajawaliTV.id"><title lang="en">Catatan Seputar Investigasi</title></programme>
 <programme start="20241104173000 +0000" stop="20241104190000 +0000" channel="RCTI.id"><title lang="en">AFC Champions League (L)</title></programme>
@@ -8897,7 +8832,7 @@
 <programme start="20241106080000 +0000" stop="20241106100000 +0000" channel="SoccerChannel.id"><title lang="en">ACL Elite: WAS Vs SDD</title></programme>
 <programme start="20241106100000 +0000" stop="20241106120000 +0000" channel="SoccerChannel.id"><title lang="en">ACL Elite: FMA Vs BUR (L)</title></programme>
 <programme start="20241106120000 +0000" stop="20241106140000 +0000" channel="SoccerChannel.id"><title lang="en">AFC Champions League Two (L)</title></programme>
-<programme start="20241106140000 +0000" stop="20241106160000 +0000" channel="SoccerChannel.id"><title lang="en">ACL Elite: ALT Vs TWN (L)</title></programme>
+<programme start="20241106140000 +0000" stop="20241106160000 +0000" channel="SoccerChannel.id"><title lang="en">ACL Two: ALT Vs TAA (L)</title></programme>
 <programme start="20241106160000 +0000" stop="20241106180000 +0000" channel="SoccerChannel.id"><title lang="en">AFC Champions League Two (L)</title></programme>
 <programme start="20241106180000 +0000" stop="20241106183000 +0000" channel="SoccerChannel.id"><title lang="en">The Ultimate Goals</title></programme>
 <programme start="20241106183000 +0000" stop="20241106203000 +0000" channel="SoccerChannel.id"><title lang="en">ACL Elite: NSR Vs AIN</title></programme>
@@ -8944,8 +8879,7 @@
 <programme start="20241106083000 +0000" stop="20241106103000 +0000" channel="Sportstars2.id"><title lang="en">ASEAN Futsal: TLS Vs MAS (L)</title></programme>
 <programme start="20241106103000 +0000" stop="20241106110000 +0000" channel="Sportstars2.id"><title lang="en">World Classic League</title></programme>
 <programme start="20241106110000 +0000" stop="20241106130000 +0000" channel="Sportstars2.id"><title lang="en">ASEAN Futsal: THA Vs VIE (L)</title></programme>
-<programme start="20241106130000 +0000" stop="20241106140000 +0000" channel="Sportstars2.id"><title lang="en">BWF Hylo Open</title></programme>
-<programme start="20241106140000 +0000" stop="20241106160000 +0000" channel="Sportstars2.id"><title lang="en">AFC Champions League Two (L)</title></programme>
+<programme start="20241106130000 +0000" stop="20241106160000 +0000" channel="Sportstars2.id"><title lang="en">BNI Indonesia Masters</title></programme>
 <programme start="20241106160000 +0000" stop="20241106180000 +0000" channel="Sportstars2.id"><title lang="en">AFC Champions League Two (L)</title></programme>
 <programme start="20241106180000 +0000" stop="20241106183000 +0000" channel="Sportstars2.id"><title lang="en">World Classic League</title></programme>
 <programme start="20241106183000 +0000" stop="20241106190000 +0000" channel="Sportstars2.id"><title lang="en">30 Minutes Extreme</title></programme>
@@ -8955,13 +8889,18 @@
 <programme start="20241107020000 +0000" stop="20241107023000 +0000" channel="Sportstars2.id"><title lang="en">Sports Today</title></programme>
 <programme start="20241107023000 +0000" stop="20241107030000 +0000" channel="Sportstars2.id"><title lang="en">World Classic League</title></programme>
 <programme start="20241107030000 +0000" stop="20241107050000 +0000" channel="Sportstars2.id"><title lang="en">Proliga</title></programme>
-<programme start="20241107050000 +0000" stop="20241107063000 +0000" channel="Sportstars2.id"><title lang="en">TPI Fighting Championship</title></programme>
-<programme start="20241107063000 +0000" stop="20241107083000 +0000" channel="Sportstars2.id"><title lang="en">Proliga 2020</title></programme>
-<programme start="20241107083000 +0000" stop="20241107090000 +0000" channel="Sportstars2.id"><title lang="en">The Ultimate Goals</title></programme>
-<programme start="20241107090000 +0000" stop="20241107103000 +0000" channel="Sportstars2.id"><title lang="en">FIBA</title></programme>
-<programme start="20241107103000 +0000" stop="20241107123000 +0000" channel="Sportstars2.id"><title lang="en">Shopee ASEAN Club C&apos;ships</title></programme>
-<programme start="20241107123000 +0000" stop="20241107153000 +0000" channel="Sportstars2.id"><title lang="en">BWF Hong Kong Open 2024</title></programme>
-<programme start="20241107153000 +0000" stop="20241107183000 +0000" channel="Sportstars2.id"><title lang="en">BWF Hong Kong Open 2024</title></programme>
+<programme start="20241107050000 +0000" stop="20241107064500 +0000" channel="Sportstars2.id"><title lang="en">TPI Fighting Championship</title></programme>
+<programme start="20241107064500 +0000" stop="20241107080000 +0000" channel="Sportstars2.id"><title lang="en">Drawing AFC U20 Asian Cup (L)</title></programme>
+<programme start="20241107080000 +0000" stop="20241107083000 +0000" channel="Sportstars2.id"><title lang="en">World Classic League</title></programme>
+<programme start="20241107083000 +0000" stop="20241107090000 +0000" channel="Sportstars2.id"><title lang="en">Sports Today</title></programme>
+<programme start="20241107090000 +0000" stop="20241107110000 +0000" channel="Sportstars2.id"><title lang="en">Bundesliga: BVB Vs RBL</title></programme>
+<programme start="20241107110000 +0000" stop="20241107113000 +0000" channel="Sportstars2.id"><title lang="en">World Classic League</title></programme>
+<programme start="20241107113000 +0000" stop="20241107120000 +0000" channel="Sportstars2.id"><title lang="en">Sport Trivia</title></programme>
+<programme start="20241107120000 +0000" stop="20241107140000 +0000" channel="Sportstars2.id"><title lang="en">AFC Champions League Two (L)</title></programme>
+<programme start="20241107140000 +0000" stop="20241107143000 +0000" channel="Sportstars2.id"><title lang="en">30 Minutes Extreme</title></programme>
+<programme start="20241107143000 +0000" stop="20241107150000 +0000" channel="Sportstars2.id"><title lang="en">World Classic League</title></programme>
+<programme start="20241107150000 +0000" stop="20241107163000 +0000" channel="Sportstars2.id"><title lang="en">TPI Fighting Championship</title></programme>
+<programme start="20241107163000 +0000" stop="20241107183000 +0000" channel="Sportstars2.id"><title lang="en">Rodri &amp; Yamal Show: SPA Vs ENG</title></programme>
 <programme start="20241104180000 +0000" stop="20241104210000 +0000" channel="Sportstars.id"><title lang="en">BWF Hylo Open</title></programme>
 <programme start="20241104210000 +0000" stop="20241104230000 +0000" channel="Sportstars.id"><title lang="en">Proliga</title></programme>
 <programme start="20241104230000 +0000" stop="20241104233000 +0000" channel="Sportstars.id"><title lang="en">Sports Today</title></programme>
@@ -9760,7 +9699,7 @@
 <programme start="20241107110000 +0000" stop="20241107130000 +0000" channel="TVMu.id"><title lang="en">TV MU</title></programme>
 <programme start="20241107130000 +0000" stop="20241107150000 +0000" channel="TVMu.id"><title lang="en">TV MU</title></programme>
 <programme start="20241107150000 +0000" stop="20241107170000 +0000" channel="TVMu.id"><title lang="en">TV MU</title></programme>
-<programme start="20241104191000 +0000" stop="20241104194000 +0000" channel="tvN.kr"><title lang="en">Chansung&apos;s Cooking, Ep 9</title></programme>
+<programme start="20241104192000 +0000" stop="20241104194000 +0000" channel="tvN.kr"><title lang="en">You Can Cook, Sam Kim, Ep 19</title></programme>
 <programme start="20241104194000 +0000" stop="20241104201000 +0000" channel="tvN.kr"><title lang="en">Chansung&apos;s Cooking, Ep 10</title></programme>
 <programme start="20241104201000 +0000" stop="20241104220000 +0000" channel="tvN.kr"><title lang="en">The Skip Dating, Ep 2</title></programme>
 <programme start="20241104220000 +0000" stop="20241104232000 +0000" channel="tvN.kr"><title lang="en">Bro&amp;Marble In Dubai, Ep 1</title></programme>
@@ -9769,10 +9708,9 @@
 <programme start="20241105030000 +0000" stop="20241105041500 +0000" channel="tvN.kr"><title lang="en">Diary Of A Prosecutor, Ep 7</title></programme>
 <programme start="20241105041500 +0000" stop="20241105053000 +0000" channel="tvN.kr"><title lang="en">Diary Of A Prosecutor, Ep 8</title></programme>
 <programme start="20241105053000 +0000" stop="20241105072000 +0000" channel="tvN.kr"><title lang="en">3 Meals A Day: Light, Ep 6</title></programme>
-<programme start="20241105072000 +0000" stop="20241105075000 +0000" channel="tvN.kr"><title lang="en">Chansung&apos;s Cooking, Ep 9</title></programme>
-<programme start="20241105075000 +0000" stop="20241105082000 +0000" channel="tvN.kr"><title lang="en">Chansung&apos;s Cooking, Ep 10</title></programme>
-<programme start="20241105082000 +0000" stop="20241105100500 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 1</title></programme>
-<programme start="20241105100500 +0000" stop="20241105115000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 2</title></programme>
+<programme start="20241105072000 +0000" stop="20241105075000 +0000" channel="tvN.kr"><title lang="en">Chansung&apos;s Cooking, Ep 10</title></programme>
+<programme start="20241105075000 +0000" stop="20241105095000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 1</title></programme>
+<programme start="20241105095000 +0000" stop="20241105115000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 2</title></programme>
 <programme start="20241105115000 +0000" stop="20241105133000 +0000" channel="tvN.kr"><title lang="en">The Genius Paik S2, Ep 9</title></programme>
 <programme start="20241105133000 +0000" stop="20241105143000 +0000" channel="tvN.kr"><title lang="en">Dongjae, Good Or Bad, Ep 7</title></programme>
 <programme start="20241105143000 +0000" stop="20241105162000 +0000" channel="tvN.kr"><title lang="en">The Backpacker Chef S2, Ep 22</title></programme>
@@ -9781,32 +9719,31 @@
 <programme start="20241105192000 +0000" stop="20241105195000 +0000" channel="tvN.kr"><title lang="en">Chansung&apos;s Cooking, Ep 10</title></programme>
 <programme start="20241105195000 +0000" stop="20241105201000 +0000" channel="tvN.kr"><title lang="en">You Can Cook, Sam Kim, Ep 19</title></programme>
 <programme start="20241105201000 +0000" stop="20241105220000 +0000" channel="tvN.kr"><title lang="en">The Backpacker Chef S2, Ep 22</title></programme>
-<programme start="20241105220000 +0000" stop="20241105234000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 1</title></programme>
-<programme start="20241105234000 +0000" stop="20241106012000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 2</title></programme>
-<programme start="20241106012000 +0000" stop="20241106014000 +0000" channel="tvN.kr"><title lang="en">You Can Cook, Sam Kim, Ep 19</title></programme>
+<programme start="20241105220000 +0000" stop="20241105234000 +0000" channel="tvN.kr"><title lang="en">The Genius Paik S2, Ep 9</title></programme>
+<programme start="20241105234000 +0000" stop="20241106014000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 2</title></programme>
 <programme start="20241106014000 +0000" stop="20241106030000 +0000" channel="tvN.kr"><title lang="en">Bro&amp;Marble In Dubai, Ep 1</title></programme>
 <programme start="20241106030000 +0000" stop="20241106040000 +0000" channel="tvN.kr"><title lang="en">Dongjae, Good Or Bad, Ep 7</title></programme>
 <programme start="20241106040000 +0000" stop="20241106055000 +0000" channel="tvN.kr"><title lang="en">3 Meals A Day: Light, Ep 6</title></programme>
-<programme start="20241106055000 +0000" stop="20241106073000 +0000" channel="tvN.kr"><title lang="en">The Genius Paik S2, Ep 8</title></programme>
-<programme start="20241106073000 +0000" stop="20241106091000 +0000" channel="tvN.kr"><title lang="en">The Genius Paik S2, Ep 9</title></programme>
-<programme start="20241106091000 +0000" stop="20241106114000 +0000" channel="tvN.kr"><title lang="en">Stage Fighter, Ep 5</title></programme>
-<programme start="20241106114000 +0000" stop="20241106133000 +0000" channel="tvN.kr"><title lang="en">The Backpacker Chef S2, Ep 22</title></programme>
+<programme start="20241106055000 +0000" stop="20241106073000 +0000" channel="tvN.kr"><title lang="en">The Genius Paik S2, Ep 9</title></programme>
+<programme start="20241106073000 +0000" stop="20241106101500 +0000" channel="tvN.kr"><title lang="en">Stage Fighter, Ep 5</title></programme>
+<programme start="20241106101500 +0000" stop="20241106103000 +0000" channel="tvN.kr"><title lang="en">You Can Cook, Sam Kim, Ep 19</title></programme>
+<programme start="20241106103000 +0000" stop="20241106115000 +0000" channel="tvN.kr"><title lang="en">Bro&amp;Marble In Dubai, Ep 1</title></programme>
+<programme start="20241106115000 +0000" stop="20241106133000 +0000" channel="tvN.kr"><title lang="en">The Backpacker Chef S2, Ep 22</title></programme>
 <programme start="20241106133000 +0000" stop="20241106143000 +0000" channel="tvN.kr"><title lang="en">Dongjae, Good Or Bad, Ep 8</title></programme>
-<programme start="20241106143000 +0000" stop="20241106161000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 3</title></programme>
-<programme start="20241106161000 +0000" stop="20241106173000 +0000" channel="tvN.kr"><title lang="en">Be Melodramatic, Ep 7</title></programme>
-<programme start="20241106173000 +0000" stop="20241106184500 +0000" channel="tvN.kr"><title lang="en">Be Melodramatic, Ep 8</title></programme>
-<programme start="20241106184500 +0000" stop="20241106202000 +0000" channel="tvN.kr"><title lang="en">The Genius Paik S2, Ep 9</title></programme>
-<programme start="20241106202000 +0000" stop="20241106220000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 3</title></programme>
-<programme start="20241106220000 +0000" stop="20241106232000 +0000" channel="tvN.kr"><title lang="en">Bro&amp;Marble In Dubai, Ep 1</title></programme>
+<programme start="20241106143000 +0000" stop="20241106163000 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 3</title></programme>
+<programme start="20241106163000 +0000" stop="20241106175000 +0000" channel="tvN.kr"><title lang="en">Be Melodramatic, Ep 7</title></programme>
+<programme start="20241106175000 +0000" stop="20241106190500 +0000" channel="tvN.kr"><title lang="en">Be Melodramatic, Ep 8</title></programme>
+<programme start="20241106190500 +0000" stop="20241106204500 +0000" channel="tvN.kr"><title lang="en">The Genius Paik S2, Ep 9</title></programme>
+<programme start="20241106204500 +0000" stop="20241106224500 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 3</title></programme>
+<programme start="20241106224500 +0000" stop="20241106232000 +0000" channel="tvN.kr"><title lang="en">Chansung&apos;s Cooking, Ep 10</title></programme>
 <programme start="20241106232000 +0000" stop="20241107011000 +0000" channel="tvN.kr"><title lang="en">3 Meals A Day: Light, Ep 5</title></programme>
 <programme start="20241107011000 +0000" stop="20241107030000 +0000" channel="tvN.kr"><title lang="en">3 Meals A Day: Light, Ep 6</title></programme>
 <programme start="20241107030000 +0000" stop="20241107040000 +0000" channel="tvN.kr"><title lang="en">Dongjae, Good Or Bad, Ep 8</title></programme>
 <programme start="20241107040000 +0000" stop="20241107052000 +0000" channel="tvN.kr"><title lang="en">Be Melodramatic, Ep 7</title></programme>
 <programme start="20241107052000 +0000" stop="20241107063500 +0000" channel="tvN.kr"><title lang="en">Be Melodramatic, Ep 8</title></programme>
 <programme start="20241107063500 +0000" stop="20241107082500 +0000" channel="tvN.kr"><title lang="en">The Backpacker Chef S2, Ep 22</title></programme>
-<programme start="20241107082500 +0000" stop="20241107084500 +0000" channel="tvN.kr"><title lang="en">You Can Cook, Sam Kim, Ep 19</title></programme>
-<programme start="20241107084500 +0000" stop="20241107103500 +0000" channel="tvN.kr"><title lang="en">The Skip Dating, Ep 2</title></programme>
-<programme start="20241107103500 +0000" stop="20241107121500 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 3</title></programme>
+<programme start="20241107082500 +0000" stop="20241107101500 +0000" channel="tvN.kr"><title lang="en">The Skip Dating, Ep 2</title></programme>
+<programme start="20241107101500 +0000" stop="20241107121500 +0000" channel="tvN.kr"><title lang="en">Europe Outside...: Italy, Ep 3</title></programme>
 <programme start="20241107121500 +0000" stop="20241107131500 +0000" channel="tvN.kr"><title lang="en">Dongjae, Good Or Bad, Ep 9</title></programme>
 <programme start="20241107131500 +0000" stop="20241107143000 +0000" channel="tvN.kr"><title lang="en">Be Melodramatic, Ep 9</title></programme>
 <programme start="20241107143000 +0000" stop="20241107162000 +0000" channel="tvN.kr"><title lang="en">3 Meals A Day: Light, Ep 7</title></programme>
