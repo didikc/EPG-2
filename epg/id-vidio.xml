@@ -1622,8 +1622,9 @@
 <programme start="20241205170000 +0000" stop="20241205193000 +0000" channel="ChampionsTV3.id"><title lang="id">Golden State Warriors at Denver Nuggets : NBA Basketball</title></programme>
 <programme start="20241205193000 +0000" stop="20241205220000 +0000" channel="ChampionsTV3.id"><title lang="id">Los Angeles Lakers at Miami Heat : NBA Basketball</title></programme>
 <programme start="20241205220000 +0000" stop="20241206000000 +0000" channel="ChampionsTV3.id"><title lang="id">Finals: Italy vs. Argentina : 2024 Davis Cup Tennis</title></programme>
-<programme start="20241206000000 +0000" stop="20241206030000 +0000" channel="ChampionsTV3.id"><title lang="id">Denver Nuggets vs Cleveland Cavaliers - NBA</title></programme>
-<programme start="20241206030000 +0000" stop="20241206053000 +0000" channel="ChampionsTV3.id"><title lang="id">Finals, First Semi-Final: Germany vs. Netherlands : 2024 Davis Cup Tennis</title></programme>
+<programme start="20241206000000 +0000" stop="20241206021800 +0000" channel="ChampionsTV3.id"><title lang="id">Denver Nuggets vs Cleveland Cavaliers - NBA</title></programme>
+<programme start="20241206021800 +0000" stop="20241206023000 +0000" channel="ChampionsTV3.id"><title lang="id">Filler</title></programme>
+<programme start="20241206023000 +0000" stop="20241206053000 +0000" channel="ChampionsTV3.id"><title lang="id">Finals, First Semi-Final: Germany vs. Netherlands : 2024 Davis Cup Tennis</title></programme>
 <programme start="20241206053000 +0000" stop="20241206083000 +0000" channel="ChampionsTV3.id"><title lang="id">Italy vs. Australia : 2024 Davis Cup Tennis</title></programme>
 <programme start="20241206083000 +0000" stop="20241206103000 +0000" channel="ChampionsTV3.id"><title lang="id">Italy vs. Australia : 2024 Davis Cup Tennis</title></programme>
 <programme start="20241206103000 +0000" stop="20241206110000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
@@ -3127,36 +3128,33 @@
 <programme start="20241206153000 +0000" stop="20241206163000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
 <programme start="20241206163000 +0000" stop="20241206170000 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
 <programme start="20241206170000 +0000" stop="20241206173000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport Malam</title></programme>
-<programme start="20241206173000 +0000" stop="20241206183000 +0000" channel="KompasTV.id"><title lang="id">Indonesia Update</title></programme>
-<programme start="20241206183000 +0000" stop="20241206190000 +0000" channel="KompasTV.id"><title lang="id">Bingkai Inspirasi</title></programme>
+<programme start="20241206173000 +0000" stop="20241206183000 +0000" channel="KompasTV.id"><title lang="id">Rumah Pilkada</title></programme>
+<programme start="20241206183000 +0000" stop="20241206190000 +0000" channel="KompasTV.id"><title lang="id">Indonesia Update</title></programme>
 <programme start="20241206190000 +0000" stop="20241206200000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
 <programme start="20241206200000 +0000" stop="20241206210000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
 <programme start="20241206210000 +0000" stop="20241206213000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport Pagi</title></programme>
 <programme start="20241206213000 +0000" stop="20241207000000 +0000" channel="KompasTV.id"><title lang="id">Kompas Pagi Akhir Pekan</title></programme>
 <programme start="20241207000000 +0000" stop="20241207013000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Pagi</title></programme>
-<programme start="20241207013000 +0000" stop="20241207020000 +0000" channel="KompasTV.id"><title lang="id">Bincang Kita</title></programme>
+<programme start="20241207013000 +0000" stop="20241207020000 +0000" channel="KompasTV.id"><title lang="id">Jelajah Kutai Timur</title></programme>
 <programme start="20241207020000 +0000" stop="20241207023000 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
 <programme start="20241207023000 +0000" stop="20241207030000 +0000" channel="KompasTV.id"><title lang="id">Pop News</title></programme>
-<programme start="20241207030000 +0000" stop="20241207033000 +0000" channel="KompasTV.id"><title lang="id">Cake Story</title></programme>
+<programme start="20241207030000 +0000" stop="20241207033000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sepekan</title></programme>
 <programme start="20241207033000 +0000" stop="20241207040000 +0000" channel="KompasTV.id"><title lang="id">Cerita Rasa</title></programme>
 <programme start="20241207040000 +0000" stop="20241207053000 +0000" channel="KompasTV.id"><title lang="id">Kompas Siang</title></programme>
 <programme start="20241207053000 +0000" stop="20241207060000 +0000" channel="KompasTV.id"><title lang="id">News Or Hoax</title></programme>
-<programme start="20241207060000 +0000" stop="20241207070000 +0000" channel="KompasTV.id"><title lang="id">Ni Luh</title></programme>
+<programme start="20241207060000 +0000" stop="20241207070000 +0000" channel="KompasTV.id"><title lang="id">Dipo Investigasi</title></programme>
 <programme start="20241207070000 +0000" stop="20241207080000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20241207080000 +0000" stop="20241207090000 +0000" channel="KompasTV.id"><title lang="id">Cerita Militer</title></programme>
+<programme start="20241207080000 +0000" stop="20241207090000 +0000" channel="KompasTV.id"><title lang="id">Cerita Militer On Sail</title></programme>
 <programme start="20241207090000 +0000" stop="20241207110000 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
 <programme start="20241207110000 +0000" stop="20241207120000 +0000" channel="KompasTV.id"><title lang="id">Gelar Perkara</title></programme>
-<programme start="20241207120000 +0000" stop="20241207130000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Malam</title></programme>
-<programme start="20241207130000 +0000" stop="20241207140000 +0000" channel="KompasTV.id"><title lang="id">Semarak Satria</title></programme>
-<programme start="20241207140000 +0000" stop="20241207150000 +0000" channel="KompasTV.id"><title lang="id">Ngopi</title></programme>
+<programme start="20241207120000 +0000" stop="20241207123000 +0000" channel="KompasTV.id"><title lang="id">Akhir Pekan : Sapa Indonesia Malam</title></programme>
+<programme start="20241207123000 +0000" stop="20241207150000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
 <programme start="20241207150000 +0000" stop="20241207160000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
-<programme start="20241207160000 +0000" stop="20241207170000 +0000" channel="KompasTV.id"><title lang="id">Rosi</title></programme>
-<programme start="20241207170000 +0000" stop="20241207173000 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20241207173000 +0000" stop="20241207183000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Malam</title></programme>
-<programme start="20241207183000 +0000" stop="20241207190000 +0000" channel="KompasTV.id"><title lang="id">Bingkai Inspirasi</title></programme>
-<programme start="20241207190000 +0000" stop="20241207200000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
-<programme start="20241207200000 +0000" stop="20241207203000 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20241207203000 +0000" stop="20241207210000 +0000" channel="KompasTV.id"><title lang="id">News Or Hoax</title></programme>
+<programme start="20241207160000 +0000" stop="20241207170000 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
+<programme start="20241207170000 +0000" stop="20241207183000 +0000" channel="KompasTV.id"><title lang="id">Akhir Pekan : Sapa Indonesia Malam</title></programme>
+<programme start="20241207183000 +0000" stop="20241207190000 +0000" channel="KompasTV.id"><title lang="id">Pop News</title></programme>
+<programme start="20241207190000 +0000" stop="20241207200000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
+<programme start="20241207200000 +0000" stop="20241207210000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
 <programme start="20241207210000 +0000" stop="20241207213000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport Pagi</title></programme>
 <programme start="20241207213000 +0000" stop="20241208000000 +0000" channel="KompasTV.id"><title lang="id">Kompas Pagi Akhir Pekan</title></programme>
 <programme start="20241208000000 +0000" stop="20241208013000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Pagi</title></programme>
