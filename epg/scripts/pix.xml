@@ -8,4 +8,11 @@
   <channel site="nostv.pt" lang="pt" xmltv_id="Eleven4.pt" site_id="514">ELEVEN SPORTS 4</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="Eleven5.pt" site_id="515">ELEVEN SPORTS 5</channel>
   <channel site="nostv.pt" lang="pt" xmltv_id="Eleven6.pt" site_id="516">ELEVEN SPORTS 6</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CinemaxAsia.sg" site_id="6424">CINEMAX (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HBOAsia.sg" site_id="6420">HBO HD</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HBOFamilyAsia.sg" site_id="6422">HBO Family (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="6423">HBO Hits (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HBOSignatureAsia.sg" site_id="6421">HBO Signature (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HITS.sg" site_id="5326">HITS (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HITSMovies.sg" site_id="6301">HITS Movies HD</channel>
 </channels>
