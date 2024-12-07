@@ -32,7 +32,7 @@ npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
 
 # Singtel EPG
 
-# npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3 --maxConnections=10
+npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3 --maxConnections=10
 
 # Pix EPG
 
@@ -43,7 +43,7 @@ cd ../epg/
 
 gzip -k -f -9 ../epg/id*.xml
 gzip -k -f -9 ../epg/pix.xml
-# gzip -k -f -9 ../epg/sg*.xml
+gzip -k -f -9 ../epg/sg*.xml
 
 # Remove EPG xml files
 
