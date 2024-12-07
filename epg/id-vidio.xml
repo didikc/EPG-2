@@ -1597,7 +1597,8 @@
 <programme start="20241207130000 +0000" stop="20241207133000 +0000" channel="ChampionsTV2.id"><title lang="id">Darts</title></programme>
 <programme start="20241207133000 +0000" stop="20241207134500 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
 <programme start="20241207134500 +0000" stop="20241207160000 +0000" channel="ChampionsTV2.id"><title lang="id">Genoa vs. Torino : Italian Serie A Soccer</title></programme>
-<programme start="20241207160000 +0000" stop="20241207170000 +0000" channel="ChampionsTV2.id"><title lang="id">Cardiff City vs Watford - EFL Championship</title></programme>
+<programme start="20241207160500 +0000" stop="20241207163000 +0000" channel="ChampionsTV2.id"><title lang="id">Darts National Competition</title></programme>
+<programme start="20241207163000 +0000" stop="20241207170000 +0000" channel="ChampionsTV2.id"><title lang="id">EFL Highlights</title></programme>
 <programme start="20241207170000 +0000" stop="20241207173000 +0000" channel="ChampionsTV2.id"><title lang="id">Darts</title></programme>
 <programme start="20241207173000 +0000" stop="20241207183000 +0000" channel="ChampionsTV2.id"><title lang="id">Darts</title></programme>
 <programme start="20241207183000 +0000" stop="20241207185500 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
@@ -1636,16 +1637,11 @@
 <programme start="20241207053800 +0000" stop="20241207073000 +0000" channel="ChampionsTV3.id"><title lang="id">Finals, Final: Italy vs. Netherlands : 2024 Davis Cup Tennis</title></programme>
 <programme start="20241207073000 +0000" stop="20241207100000 +0000" channel="ChampionsTV3.id"><title lang="id">Finals, Final: Italy vs. Netherlands : 2024 Davis Cup Tennis</title></programme>
 <programme start="20241207100000 +0000" stop="20241207130000 +0000" channel="ChampionsTV3.id"><title lang="id">Milwaukee Bucks at Boston Celtics : NBA Basketball</title></programme>
-<programme start="20241207130000 +0000" stop="20241207140000 +0000" channel="ChampionsTV3.id"><title lang="id">London: Alex De Minaur - Denis Shapovalov : Ultimate Tennis Showdown</title></programme>
-<programme start="20241207140000 +0000" stop="20241207150000 +0000" channel="ChampionsTV3.id"><title lang="id">Ultimate Tennis Showdown</title></programme>
-<programme start="20241207150000 +0000" stop="20241207160000 +0000" channel="ChampionsTV3.id"><title lang="id">Ultimate Tennis Showdown</title></programme>
-<programme start="20241207160000 +0000" stop="20241207170000 +0000" channel="ChampionsTV3.id"><title lang="id">London: Andrey Rublev - Ugo Humbert : Ultimate Tennis Showdown</title></programme>
-<programme start="20241207170000 +0000" stop="20241207173000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA On Fire</title></programme>
-<programme start="20241207173000 +0000" stop="20241207180000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
-<programme start="20241207180000 +0000" stop="20241207190000 +0000" channel="ChampionsTV3.id"><title lang="id">London: Alex De Minaur - Alexander Bublik : Ultimate Tennis Showdown</title></programme>
-<programme start="20241207190000 +0000" stop="20241207200000 +0000" channel="ChampionsTV3.id"><title lang="id">Ultimate Tennis Showdown</title></programme>
-<programme start="20241207200000 +0000" stop="20241207210000 +0000" channel="ChampionsTV3.id"><title lang="id">Ultimate Tennis Showdown</title></programme>
-<programme start="20241207210000 +0000" stop="20241207220000 +0000" channel="ChampionsTV3.id"><title lang="id">London: Holger Rune - Denis Shapovalov : Ultimate Tennis Showdown</title></programme>
+<programme start="20241207130000 +0000" stop="20241207133000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
+<programme start="20241207133000 +0000" stop="20241207140000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA On Fire</title></programme>
+<programme start="20241207143000 +0000" stop="20241207170000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Cup</title></programme>
+<programme start="20241207170000 +0000" stop="20241207193000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA 2024/25</title></programme>
+<programme start="20241207193000 +0000" stop="20241207220000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA 2024/25</title></programme>
 <programme start="20241207220000 +0000" stop="20241208003000 +0000" channel="ChampionsTV3.id"><title lang="id">Golden State Warriors at Denver Nuggets : NBA Basketball</title></programme>
 <programme start="20241208003000 +0000" stop="20241208030000 +0000" channel="ChampionsTV3.id"><title lang="id">Los Angeles Lakers at Miami Heat : NBA Basketball</title></programme>
 <programme start="20241208030000 +0000" stop="20241208053000 +0000" channel="ChampionsTV3.id"><title lang="id">Phoenix Suns vs Miami Heat - NBA</title></programme>
@@ -1716,8 +1712,8 @@
 <programme start="20241207093000 +0000" stop="20241207100000 +0000" channel="ChampionsTV6.id"><title lang="id">Premier League: The Big Interview</title></programme>
 <programme start="20241207100000 +0000" stop="20241207120000 +0000" channel="ChampionsTV6.id"><title lang="id">AFC Bournemouth vs. Tottenham Hotspur : Premier League Soccer</title></programme>
 <programme start="20241207120000 +0000" stop="20241207140000 +0000" channel="ChampionsTV6.id"><title lang="id">Manchester City vs. Nottingham Forest : Premier League Soccer</title></programme>
-<programme start="20241207140000 +0000" stop="20241207143000 +0000" channel="ChampionsTV6.id"><title lang="id">PL Preview</title></programme>
-<programme start="20241207143000 +0000" stop="20241207170000 +0000" channel="ChampionsTV6.id"><title lang="id">Brentford vs Newcastle - Premier League</title></programme>
+<programme start="20241207140000 +0000" stop="20241207142900 +0000" channel="ChampionsTV6.id"><title lang="id">PL Preview</title></programme>
+<programme start="20241207142900 +0000" stop="20241207170000 +0000" channel="ChampionsTV6.id"><title lang="id">Brentford vs Newcastle - Premier League</title></programme>
 <programme start="20241207170000 +0000" stop="20241207190000 +0000" channel="ChampionsTV6.id"><title lang="id">Southampton vs. Chelsea : Premier League Soccer</title></programme>
 <programme start="20241207190000 +0000" stop="20241207193000 +0000" channel="ChampionsTV6.id"><title lang="id">Premier League Netbusters</title></programme>
 <programme start="20241207193000 +0000" stop="20241207200000 +0000" channel="ChampionsTV6.id"><title lang="id">Premier League Stories</title></programme>
@@ -2806,8 +2802,8 @@
 <programme start="20241207060000 +0000" stop="20241207075500 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang Spesial : Akibat Terjerat Perempuan Pemikat</title></programme>
 <programme start="20241207075500 +0000" stop="20241207103600 +0000" channel="Indosiar.id"><title lang="id">Persebaya Surabaya VS Arema FC - BRI Liga 1</title></programme>
 <programme start="20241207103600 +0000" stop="20241207113300 +0000" channel="Indosiar.id"><title lang="id">Magic 5 Season 3</title></programme>
-<programme start="20241207113300 +0000" stop="20241207141500 +0000" channel="Indosiar.id"><title lang="id">Bali United vs. Persatuan Sepakbola Makassar : Liga 1 Indonesian Soccer</title></programme>
-<programme start="20241207141500 +0000" stop="20241207153000 +0000" channel="Indosiar.id"><title lang="id">Island of Fire</title></programme>
+<programme start="20241207113300 +0000" stop="20241207140400 +0000" channel="Indosiar.id"><title lang="id">Bali United vs. Persatuan Sepakbola Makassar : Liga 1 Indonesian Soccer</title></programme>
+<programme start="20241207140400 +0000" stop="20241207153000 +0000" channel="Indosiar.id"><title lang="id">Island of Fire</title></programme>
 <programme start="20241207153000 +0000" stop="20241207160000 +0000" channel="Indosiar.id"><title lang="id">Senandung Nikmat</title></programme>
 <programme start="20241207160000 +0000" stop="20241207180000 +0000" channel="Indosiar.id"><title lang="id">Once Upon a Time in China V</title></programme>
 <programme start="20241207180000 +0000" stop="20241207193000 +0000" channel="Indosiar.id"><title lang="id">Pendekar Rase Terbang</title></programme>
