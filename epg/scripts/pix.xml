@@ -15,6 +15,30 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Channel5HD.uk" site_id="1580/channel-5-hd">Channel 5 HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Film4HD.uk" site_id="1581/film4-hd">Film4 HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="More4HD.uk" site_id="1780/more4-hd">More4 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTVHD.uk" site_id="1896/mutv-hd">MUTV HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TNTSports1HD.uk" site_id="1805/tnt-sports-1-hd">TNT Sports 1 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TNTSports2HD.uk" site_id="1807/tnt-sports-2-hd">TNT Sports 2 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TNTSports3HD.uk" site_id="1953/tnt-sports-3-hd">TNT Sports 3 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TNTSports4HD.uk" site_id="1493/tnt-sports-4-hd">TNT Sports 4 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="TNTSports5HD.uk" site_id="1962/tnt-sports-5-hd">TNT Sports 5 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="BBCNewsHD.uk" site_id="1853/bbc-news-hd">BBC News HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyNewsHD.uk" site_id="1564/sky-news-hd">Sky News HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Eurosport1HD.uk" site_id="1434/eurosport-1-hd">Eurosport 1 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="Eurosport2HD.uk" site_id="1745/eurosport-2-hd">Eurosport 2 HD</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#645e7828e1979c00087b75b4">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/gb#6401d85a49839300087b116c">MovieSphere by Lionsgate</channel>  
+  <channel site="dishtv.in" lang="en" xmltv_id="MNX.in" site_id="10000000045360000">MNX</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="MoviesNow.in" site_id="10000000006570000">Movies Now</channel>
+  <channel site="dishtv.in" lang="en" xmltv_id="MoviesNowPlus.in" site_id="10000000025870000">MN+ HD</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="AMC.es" site_id="AMC">AMC</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="AMCBreak.es" site_id="BIOGRA">AMC Break</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="AXNEurope.gr" site_id="AXN">AXN</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="AXNWhite.us" site_id="SET">AXN Movies</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="XTRM.es" site_id="XTRM">XTRM</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="SundanceTV.es" site_id="SUNDAN">Sundance</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="Syfy.es" site_id="SCI-FI">SYFY</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="Historia.es" site_id="HIST">Historia</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="ComedyCentral.es" site_id="PCM">Comedy Central</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="Calle13Universal.es" site_id="CL13">Calle 13</channel>
+  <channel site="movistarplus.es" lang="es" xmltv_id="TNT.es" site_id="TNT">Warner TV</channel>
 </channels>
