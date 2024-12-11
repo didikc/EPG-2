@@ -66,26 +66,6 @@
 <channel id="TVRISport.id"><display-name>TVRI Sport</display-name><url>https://dens.tv</url></channel>
 <channel id="WION.in"><display-name>WION</display-name><url>https://dens.tv</url></channel>
 <channel id="WSport.za"><display-name>W-Sport</display-name><url>https://dens.tv</url></channel>
-<programme start="20241210170000 +0000" stop="20241210180000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210180000 +0000" stop="20241210200000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210200000 +0000" stop="20241210213000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210213000 +0000" stop="20241210230000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210230000 +0000" stop="20241210235900 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210235900 +0000" stop="20241211010000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211010000 +0000" stop="20241211013000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211013000 +0000" stop="20241211030000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211030000 +0000" stop="20241211050000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211050000 +0000" stop="20241211060000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211060000 +0000" stop="20241211063000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211063000 +0000" stop="20241211070000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211070000 +0000" stop="20241211083000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211083000 +0000" stop="20241211110000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211110000 +0000" stop="20241211120000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211120000 +0000" stop="20241211133000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211133000 +0000" stop="20241211153000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211153000 +0000" stop="20241211163000 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211163000 +0000" stop="20241211165950 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211165950 +0000" stop="20241211165959 +0000" channel="120"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210170000 +0000" stop="20241210180000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210180000 +0000" stop="20241210200000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210200000 +0000" stop="20241210213000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -753,6 +733,37 @@
 <programme start="20241212160000 +0000" stop="20241212163000 +0000" channel="BTV.id"><title lang="id">Mitos</title></programme>
 <programme start="20241212163000 +0000" stop="20241212165950 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
 <programme start="20241212165950 +0000" stop="20241212165959 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
+<programme start="20241212173000 +0000" stop="20241212180000 +0000" channel="BTV.id"><title lang="id">Film Pendek Indonesia</title></programme>
+<programme start="20241212180000 +0000" stop="20241212180300 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
+<programme start="20241212180300 +0000" stop="20241212190000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20241212190000 +0000" stop="20241212200000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20241212200000 +0000" stop="20241212210000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20241212210000 +0000" stop="20241212220000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20241212220000 +0000" stop="20241212230000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20241212230000 +0000" stop="20241213000000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20241213000000 +0000" stop="20241213004500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20241213004500 +0000" stop="20241213011500 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20241213011500 +0000" stop="20241213020000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
+<programme start="20241213020000 +0000" stop="20241213024500 +0000" channel="BTV.id"><title lang="id">Dunia RANS</title></programme>
+<programme start="20241213024500 +0000" stop="20241213033000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20241213033000 +0000" stop="20241213043000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20241213043000 +0000" stop="20241213053000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20241213053000 +0000" stop="20241213061500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20241213061500 +0000" stop="20241213064500 +0000" channel="BTV.id"><title lang="id">Dunia RANS</title></programme>
+<programme start="20241213064500 +0000" stop="20241213073000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
+<programme start="20241213073000 +0000" stop="20241213080000 +0000" channel="BTV.id"><title lang="id">Vacation List</title></programme>
+<programme start="20241213080000 +0000" stop="20241213083000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
+<programme start="20241213083000 +0000" stop="20241213100000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20241213100000 +0000" stop="20241213110000 +0000" channel="BTV.id"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20241213110000 +0000" stop="20241213120000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20241213120000 +0000" stop="20241213124500 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
+<programme start="20241213124500 +0000" stop="20241213133000 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20241213133000 +0000" stop="20241213140000 +0000" channel="BTV.id"><title lang="id">Asal Usul</title></programme>
+<programme start="20241213140000 +0000" stop="20241213150000 +0000" channel="BTV.id"><title lang="id">Jendela Dunia</title></programme>
+<programme start="20241213150000 +0000" stop="20241213160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20241213160000 +0000" stop="20241213163000 +0000" channel="BTV.id"><title lang="id">Mitos</title></programme>
+<programme start="20241213163000 +0000" stop="20241213165950 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
+<programme start="20241213165950 +0000" stop="20241213165959 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
 <programme start="20241210170000 +0000" stop="20241210180000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210180000 +0000" stop="20241210200000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210200000 +0000" stop="20241210213000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2501,26 +2512,6 @@
 <programme start="20241213153000 +0000" stop="20241213163000 +0000" channel="FREEDOM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241213163000 +0000" stop="20241213165950 +0000" channel="FREEDOM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241213165950 +0000" stop="20241213165959 +0000" channel="FREEDOM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210170000 +0000" stop="20241210180000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210180000 +0000" stop="20241210200000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210200000 +0000" stop="20241210213000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210213000 +0000" stop="20241210230000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210230000 +0000" stop="20241210235900 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241210235900 +0000" stop="20241211010000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211010000 +0000" stop="20241211013000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211013000 +0000" stop="20241211030000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211030000 +0000" stop="20241211050000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211050000 +0000" stop="20241211060000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211060000 +0000" stop="20241211063000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211063000 +0000" stop="20241211070000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211070000 +0000" stop="20241211083000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211083000 +0000" stop="20241211110000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211110000 +0000" stop="20241211120000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211120000 +0000" stop="20241211133000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211133000 +0000" stop="20241211153000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211153000 +0000" stop="20241211163000 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211163000 +0000" stop="20241211165950 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20241211165950 +0000" stop="20241211165959 +0000" channel="HorizonSports.us"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210170000 +0000" stop="20241210180000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210180000 +0000" stop="20241210200000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210200000 +0000" stop="20241210213000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -3282,6 +3273,34 @@
 <programme start="20241211140000 +0000" stop="20241211160000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241211160000 +0000" stop="20241211165950 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241211165950 +0000" stop="20241211165959 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211170000 +0000" stop="20241211175500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211175500 +0000" stop="20241211194500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211194500 +0000" stop="20241211213500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211213500 +0000" stop="20241211234500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211234500 +0000" stop="20241212020000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212020000 +0000" stop="20241212040500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212040500 +0000" stop="20241212061000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212061000 +0000" stop="20241212081500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212081500 +0000" stop="20241212101500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212101500 +0000" stop="20241212121500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212121500 +0000" stop="20241212140000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212140000 +0000" stop="20241212160000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212160000 +0000" stop="20241212165950 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212165950 +0000" stop="20241212165959 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212170000 +0000" stop="20241212175500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212175500 +0000" stop="20241212194500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212194500 +0000" stop="20241212213500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212213500 +0000" stop="20241212234500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212234500 +0000" stop="20241213020000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213020000 +0000" stop="20241213040500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213040500 +0000" stop="20241213061000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213061000 +0000" stop="20241213081500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213081500 +0000" stop="20241213101500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213101500 +0000" stop="20241213121500 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213121500 +0000" stop="20241213140000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213140000 +0000" stop="20241213160000 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213160000 +0000" stop="20241213165950 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241213165950 +0000" stop="20241213165959 +0000" channel="MetroTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210170000 +0000" stop="20241210172000 +0000" channel="Motorvision.de"><title lang="id">Perfect Ride</title></programme>
 <programme start="20241210172000 +0000" stop="20241210174500 +0000" channel="Motorvision.de"><title lang="id">Bike World 2024</title></programme>
 <programme start="20241210174500 +0000" stop="20241210182500 +0000" channel="Motorvision.de"><title lang="id">Australian Drag Racing Championship 2024</title></programme>
@@ -5136,6 +5155,42 @@
 <programme start="20241211160000 +0000" stop="20241211163000 +0000" channel="TVRINasional.id"><title lang="id">Flashback</title></programme>
 <programme start="20241211163000 +0000" stop="20241211165950 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam (L)</title></programme>
 <programme start="20241211165950 +0000" stop="20241211165959 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam (L)</title></programme>
+<programme start="20241211170000 +0000" stop="20241211173000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211173000 +0000" stop="20241211190000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211190000 +0000" stop="20241211200000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211200000 +0000" stop="20241211203000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211203000 +0000" stop="20241211210000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211210000 +0000" stop="20241211213000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211213000 +0000" stop="20241211230000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241211230000 +0000" stop="20241212000000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212000000 +0000" stop="20241212010000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212010000 +0000" stop="20241212013000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212013000 +0000" stop="20241212020000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212020000 +0000" stop="20241212020300 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212020300 +0000" stop="20241212023000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212023000 +0000" stop="20241212030000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212030000 +0000" stop="20241212030300 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212030300 +0000" stop="20241212033000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212033000 +0000" stop="20241212040000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212040000 +0000" stop="20241212040300 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212040300 +0000" stop="20241212050000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212050000 +0000" stop="20241212060000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212060000 +0000" stop="20241212070000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212070000 +0000" stop="20241212070300 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212070300 +0000" stop="20241212073000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212073000 +0000" stop="20241212080000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212080000 +0000" stop="20241212080300 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212080300 +0000" stop="20241212090000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212090000 +0000" stop="20241212100000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212100000 +0000" stop="20241212110000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212110000 +0000" stop="20241212120000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212120000 +0000" stop="20241212123000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212123000 +0000" stop="20241212140000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212140000 +0000" stop="20241212143000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212143000 +0000" stop="20241212153000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212153000 +0000" stop="20241212163000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212163000 +0000" stop="20241212165950 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20241212165950 +0000" stop="20241212165959 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210170000 +0000" stop="20241210180000 +0000" channel="TVRISport.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210180000 +0000" stop="20241210200000 +0000" channel="TVRISport.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20241210200000 +0000" stop="20241210213000 +0000" channel="TVRISport.id"><title lang="id">The Schedule Is Not Available</title></programme>
