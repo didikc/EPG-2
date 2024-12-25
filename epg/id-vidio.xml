@@ -1490,8 +1490,8 @@
 <programme start="20241225110000 +0000" stop="20241225133000 +0000" channel="ChampionsTV3.id"><title lang="id">Indiana Pacers at Golden State Warriors : NBA Basketball</title></programme>
 <programme start="20241225133000 +0000" stop="20241225140000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
 <programme start="20241225140000 +0000" stop="20241225170000 +0000" channel="ChampionsTV3.id"><title lang="id">Milwaukee Bucks vs. Oklahoma City Thunder : Baloncesto NBA</title></programme>
-<programme start="20241225170000 +0000" stop="20241225193000 +0000" channel="ChampionsTV3.id"><title lang="id">San Antonio Spurs vs New York Knicks - NBA</title></programme>
-<programme start="20241225193000 +0000" stop="20241225220000 +0000" channel="ChampionsTV3.id"><title lang="id">Minnesota Timberwolves vs Dallas Mavericks - NBA</title></programme>
+<programme start="20241225170000 +0000" stop="20241225193100 +0000" channel="ChampionsTV3.id"><title lang="id">San Antonio Spurs vs New York Knicks - NBA</title></programme>
+<programme start="20241225193100 +0000" stop="20241225220000 +0000" channel="ChampionsTV3.id"><title lang="id">Minnesota Timberwolves vs Dallas Mavericks - NBA</title></programme>
 <programme start="20241225220000 +0000" stop="20241226003000 +0000" channel="ChampionsTV3.id"><title lang="id">Philadelphia 76ers vs Boston Celtics - NBA</title></programme>
 <programme start="20241226003000 +0000" stop="20241226010000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA On Fire</title></programme>
 <programme start="20241226010000 +0000" stop="20241226033000 +0000" channel="ChampionsTV3.id"><title lang="id">LA Lakers vs Golden State Warriors - NBA</title></programme>
@@ -3722,9 +3722,10 @@
 <programme start="20241226073000 +0000" stop="20241226080000 +0000" channel="RajawaliTV.id"><title lang="id">Pokemon Ultimate Journeys</title></programme>
 <programme start="20241226080000 +0000" stop="20241226110000 +0000" channel="RajawaliTV.id"><title lang="id">BOBOIBOY GALAXY THE MOVIE</title></programme>
 <programme start="20241226110000 +0000" stop="20241226130000 +0000" channel="RajawaliTV.id"><title lang="id">Ejen Ali</title></programme>
-<programme start="20241226130000 +0000" stop="20241226153000 +0000" channel="RajawaliTV.id"><title lang="id">Ejen Ali</title></programme>
-<programme start="20241226153000 +0000" stop="20241226160000 +0000" channel="RajawaliTV.id"><title lang="id">Sangat Tidak Biasa</title></programme>
-<programme start="20241226160000 +0000" stop="20241226173000 +0000" channel="RajawaliTV.id"><title lang="id">Perjalanan Kera Sakti</title></programme>
+<programme start="20241226130000 +0000" stop="20241226143000 +0000" channel="RajawaliTV.id"><title lang="id">Mechamato</title></programme>
+<programme start="20241226143000 +0000" stop="20241226150000 +0000" channel="RajawaliTV.id"><title lang="id">Jejak Raja Jawa</title></programme>
+<programme start="20241226150000 +0000" stop="20241226153000 +0000" channel="RajawaliTV.id"><title lang="id">Kumprank</title></programme>
+<programme start="20241226153000 +0000" stop="20241226170000 +0000" channel="RajawaliTV.id"><title lang="id">Layar Aksi</title></programme>
 <programme start="20241226173000 +0000" stop="20241226180000 +0000" channel="RajawaliTV.id"><title lang="id">Catatan Seputar Investigasi</title></programme>
 <programme start="20241226180000 +0000" stop="20241226183000 +0000" channel="RajawaliTV.id"><title lang="id">Terang Kasih</title></programme>
 <programme start="20241226183000 +0000" stop="20241226190000 +0000" channel="RajawaliTV.id"><title lang="id">Tendangan Si Madun</title></programme>
@@ -3744,31 +3745,18 @@
 <programme start="20241227150000 +0000" stop="20241227160000 +0000" channel="RajawaliTV.id"><title lang="id">Kokom</title></programme>
 <programme start="20241227160000 +0000" stop="20241227173000 +0000" channel="RajawaliTV.id"><title lang="id">Perjalanan Kera Sakti</title></programme>
 <programme start="20241224174500 +0000" stop="20241224193000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Letters to Juliet</title></programme>
-<programme start="20241224193000 +0000" stop="20241224220000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Across the Universe</title></programme>
-<programme start="20241224220000 +0000" stop="20241224222000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hiatus : 30 Rock</title></programme>
-<programme start="20241224222000 +0000" stop="20241224230500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Pilot : The Irrational</title></programme>
-<programme start="20241224230500 +0000" stop="20241224235000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Dead Woman Walking : The Irrational</title></programme>
-<programme start="20241224235000 +0000" stop="20241225003500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Barnum Effect : The Irrational</title></programme>
-<programme start="20241225003500 +0000" stop="20241225011500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Zero Sum : The Irrational</title></programme>
-<programme start="20241225011500 +0000" stop="20241225020000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Lucky Charms : The Irrational</title></programme>
-<programme start="20241225020000 +0000" stop="20241225024500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Point and Shoot : The Irrational</title></programme>
-<programme start="20241225024500 +0000" stop="20241225033000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Real Deal : The Irrational</title></programme>
-<programme start="20241225033000 +0000" stop="20241225052000 +0000" channel="ROCKEntertainment.sg"><title lang="id">What to Expect When You&apos;re Expecting</title></programme>
-<programme start="20241225052000 +0000" stop="20241225075000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Ali</title></programme>
-<programme start="20241225075000 +0000" stop="20241225083000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Kendall&apos;s Story : Accused</title></programme>
-<programme start="20241225083000 +0000" stop="20241225091500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Naataanii&apos;s Story : Accused</title></programme>
-<programme start="20241225091500 +0000" stop="20241225100000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Brenda&apos;s Story : Accused</title></programme>
-<programme start="20241225100000 +0000" stop="20241225104500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Scorched Earth : The Irrational</title></programme>
-<programme start="20241225104500 +0000" stop="20241225113000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Cheating Life : The Irrational</title></programme>
-<programme start="20241225113000 +0000" stop="20241225121500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Bombshell : The Irrational</title></programme>
-<programme start="20241225121500 +0000" stop="20241225130000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Reciprocity : The Irrational</title></programme>
-<programme start="20241225130000 +0000" stop="20241225134500 +0000" channel="ROCKEntertainment.sg"><title lang="id">TIME100: The World&apos;s Most Influential People</title></programme>
-<programme start="20241225134500 +0000" stop="20241225151000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Star</title></programme>
-<programme start="20241225151000 +0000" stop="20241225173000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Minority Report</title></programme>
-<programme start="20241225173000 +0000" stop="20241225181500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Point and Shoot : The Irrational</title></programme>
-<programme start="20241225181500 +0000" stop="20241225190000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Real Deal : The Irrational</title></programme>
-<programme start="20241225190000 +0000" stop="20241225194500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Scorched Earth : The Irrational</title></programme>
-<programme start="20241225194500 +0000" stop="20241225202500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Cheating Life : The Irrational</title></programme>
+<programme start="20241224193000 +0000" stop="20241224213500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Across the Universe</title></programme>
+<programme start="20241224213500 +0000" stop="20241224231000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hope Springs</title></programme>
+<programme start="20241224231000 +0000" stop="20241225015500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Aviator</title></programme>
+<programme start="20241225015500 +0000" stop="20241225042500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Ali</title></programme>
+<programme start="20241225042500 +0000" stop="20241225061000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Shanghai</title></programme>
+<programme start="20241225061000 +0000" stop="20241225081000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Social Network</title></programme>
+<programme start="20241225081000 +0000" stop="20241225105500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Aviator</title></programme>
+<programme start="20241225105500 +0000" stop="20241225132500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Ali</title></programme>
+<programme start="20241225132500 +0000" stop="20241225151000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Shanghai</title></programme>
+<programme start="20241225151000 +0000" stop="20241225170000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Rocketman</title></programme>
+<programme start="20241225170000 +0000" stop="20241225182500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Star</title></programme>
+<programme start="20241225182500 +0000" stop="20241225202500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Social Network</title></programme>
 <programme start="20241225202500 +0000" stop="20241225221500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Rocketman</title></programme>
 <programme start="20241225221500 +0000" stop="20241226001500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Around the World in 80 Days</title></programme>
 <programme start="20241226001500 +0000" stop="20241226020500 +0000" channel="ROCKEntertainment.sg"><title lang="id">What to Expect When You&apos;re Expecting</title></programme>
@@ -3848,8 +3836,8 @@
 <programme start="20241225111500 +0000" stop="20241225124000 +0000" channel="SCTV.id"><title lang="id">Asmara Gen Z</title></programme>
 <programme start="20241225124000 +0000" stop="20241225143000 +0000" channel="SCTV.id"><title lang="id">Naik Ranjang</title></programme>
 <programme start="20241225143000 +0000" stop="20241225160000 +0000" channel="SCTV.id"><title lang="id">Luka Cinta</title></programme>
-<programme start="20241225160000 +0000" stop="20241225180000 +0000" channel="SCTV.id"><title lang="id">Film Layar Lebar Spesial Liburan : Calon Bini</title></programme>
-<programme start="20241225180000 +0000" stop="20241225190000 +0000" channel="SCTV.id"><title lang="id">FTV Utama</title></programme>
+<programme start="20241225160000 +0000" stop="20241225174500 +0000" channel="SCTV.id"><title lang="id">Film Layar Lebar Spesial Liburan : Calon Bini</title></programme>
+<programme start="20241225174500 +0000" stop="20241225190000 +0000" channel="SCTV.id"><title lang="id">FTV Utama</title></programme>
 <programme start="20241225190000 +0000" stop="20241225193000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
 <programme start="20241225193000 +0000" stop="20241225200000 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
 <programme start="20241225200000 +0000" stop="20241225210000 +0000" channel="SCTV.id"><title lang="id">Sinema Dini Hari</title></programme>
@@ -3883,7 +3871,7 @@
 <programme start="20241227093000 +0000" stop="20241227110000 +0000" channel="SCTV.id"><title lang="id">Tajwid Cinta</title></programme>
 <programme start="20241227110000 +0000" stop="20241227123000 +0000" channel="SCTV.id"><title lang="id">Bidadari Surgamu</title></programme>
 <programme start="20241227123000 +0000" stop="20241227140000 +0000" channel="SCTV.id"><title lang="id">Cinta Setelah Cinta</title></programme>
-<programme start="20241227140000 +0000" stop="20241227174500 +0000" channel="SCTV.id"><title lang="id">Takdir Cinta Yang Kupilih</title></programme>
+<programme start="20241227160000 +0000" stop="20241227180000 +0000" channel="SCTV.id"><title lang="id">Film Layar Lebar Spesial Liburan : Warkop DKI Reborn : Jangkrik Boss! Part 1</title></programme>
 <programme start="20241224170000 +0000" stop="20241224173000 +0000" channel="SEAToday.id"><title lang="id">Super Octogeneranians</title></programme>
 <programme start="20241224173000 +0000" stop="20241224180000 +0000" channel="SEAToday.id"><title lang="id">The Night Shift</title></programme>
 <programme start="20241224180000 +0000" stop="20241224183000 +0000" channel="SEAToday.id"><title lang="id">Reality Trip</title></programme>
