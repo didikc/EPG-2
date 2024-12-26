@@ -37,14 +37,14 @@ npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days
 # Compress EPG xml files
 cd ../epg/
 
-gzip -k -f -9 ../epg/id*.xml
-gzip -k -f -9 ../epg/pix.xml
-gzip -k -f -9 ../epg/sg*.xml
+# gzip -k -f -9 ../epg/id*.xml
+# gzip -k -f -9 ../epg/pix.xml
+# gzip -k -f -9 ../epg/sg*.xml
 
 # Remove EPG xml files
 
-# rm ../epg/id*.xml
-# rm ../epg/sg*.xml
-# rm ../epg/pix.xml
+rm ../epg/id*.xml.gz
+rm ../epg/sg*.xml.gz
+rm ../epg/pix.xml.gz
 
 exit 0
