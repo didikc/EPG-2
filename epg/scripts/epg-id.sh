@@ -43,8 +43,8 @@ cd ../epg/
 
 # Remove EPG xml files
 
-rm ../epg/id*.xml.gz
-rm ../epg/sg*.xml.gz
-rm ../epg/pix.xml.gz
+# rm ../epg/id*.xml.gz
+# rm ../epg/sg*.xml.gz
+# rm ../epg/pix.xml.gz
 
 exit 0
