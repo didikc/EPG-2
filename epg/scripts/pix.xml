@@ -23,6 +23,16 @@
   <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyNewsHD.uk" site_id="1564/sky-news-hd">Sky News HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Eurosport1HD.uk" site_id="1434/eurosport-1-hd">Eurosport 1 HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="Eurosport2HD.uk" site_id="1745/eurosport-2-hd">Eurosport 2 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaActionHD.uk" site_id="1444/sky-cinema-action-hd">Sky Cinema Action HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaFamilyHD.uk" site_id="1448/sky-cinema-family-hd">Sky Cinema Family HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaPremiereHD.uk" site_id="1417/sky-cinema-premiere-hd">Sky Cinema Premiere HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaSciFiHorrorHD.uk" site_id="1447/sky-cinema-sci-fihorror-hd">Sky Cinema Sci-fi/Horror HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkyCinemaThrillerHD.uk" site_id="1537/sky-cinema-thriller-hd">Sky Cinema Thriller HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsF1HD.uk" site_id="1671/sky-sports-f1-hd">Sky Sports F1 HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsFootballHD.uk" site_id="2087/sky-sports-football-hd">Sky Sports Football HD</channel>
+  <channel site="mytelly.co.uk" lang="en" xmltv_id="SkySportsPremierLeagueHD.uk" site_id="1890/sky-sports-premier-league-hd">Sky Sports Premier League HD</channel>
+  <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyCinemaHitsHD.uk" site_id="http://bds.tv/services/BT_727788_1814_HD">Sky Cinema Hits HD</channel>
+  <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyCinemaThrillerHD.uk" site_id="http://bds.tv/services/BT_755087_1818_HD">Sky Cinema Thriller HD</channel> 
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#645e7828e1979c00087b75b4">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/gb#6401d85a49839300087b116c">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#64a3d96f060e830008af6745">MovieSphere by Lionsgate</channel>
