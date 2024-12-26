@@ -42,9 +42,16 @@
   <channel site="movistarplus.es" lang="es" xmltv_id="Calle13Universal.es" site_id="CL13">Calle 13</channel>
   <channel site="movistarplus.es" lang="es" xmltv_id="TNT.es" site_id="TNT">Warner TV</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="TennisChannel.us" site_id="33395">Tennis Channel</channel>
+  <channel site="i.mjh.nz" lang="de" xmltv_id="" site_id="SamsungTVPlus/at#ATBA2200008XN">Tennis Channel</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="BritBoxMysteries.us" site_id="PlutoTV/us#60f5d389985a0c0007357304">BritBox Mysteries</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-639a0b83812b6c1429f7acd1">BritBox Mysteries</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="MovieSphere.us" site_id="Plex/all#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f">MOVIESPHERE</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/us#USBD1200007FE">OuterSphere</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a">OuterSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/us#USBD2500012DH">Ebony TV by Lionsgate</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-6533de63bd43e1c8b1865152">Ebony TV by Lionsgate</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0">HerSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/gb#GBBA33000557H">MovieSphere</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f">MOVIESPHERE</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec">Miramax Movie Channel</channel>
 </channels>
