@@ -68,4 +68,5 @@
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Historia.es" site_id="148">Historia</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="ComedyCentral.es" site_id="493">Comedy Central</channel>
   <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Calle13Universal.es" site_id="64">Calle 13</channel>
+  <channel site="https://jiotv.com" lang="en" xmltv_id="" site_id="2854">KCM</channel>
 </channels>
