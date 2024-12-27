@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/runner/work/TV-EPG/TV-EPG/iptv-org-epg && npm install
+cd /home/runner/work/EPG-2/EPG-2/iptv-org-epg && npm install
 
 # Indihome TV EPG
 
@@ -32,7 +32,7 @@ npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3 --max
 
 # Pix EPG
 
-npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3 --maxConnections=10
+# npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3 --maxConnections=10
 
 # Compress EPG xml files
 cd ../epg/
@@ -45,6 +45,6 @@ cd ../epg/
 
 # rm ../epg/id*.xml.gz
 # rm ../epg/sg*.xml.gz
-# rm ../epg/pix.xml.gz
+rm ../epg/pix.xml
 
 exit 0
