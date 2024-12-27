@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20241227">
-<channel id="492"><display-name>AMC Break</display-name><url>https://programacion-tv.elpais.com</url></channel>
-<channel id="10000000048830000"><display-name>MNX HD</display-name><url>https://dishtv.in</url></channel>
-<channel id="AMC.es"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"/><url>https://programacion-tv.elpais.com</url></channel>
-<channel id="AXNEurope.gr"><display-name>AXN Europe</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://programacion-tv.elpais.com</url></channel>
-<channel id="AXNWhite.us"><display-name>AXN White</display-name><icon src="https://i.imgur.com/47IKxmt.png"/><url>https://programacion-tv.elpais.com</url></channel>
 <channel id="BBCNewsHD.uk"><display-name>BBC News HD</display-name><icon src="https://i.imgur.com/gXX6Qed.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="BritBoxMysteries.us"><display-name>BritBox Mysteries</display-name><icon src="https://i.imgur.com/PJdzoLN.png"/><url>https://i.mjh.nz</url></channel>
-<channel id="Calle13Universal.es"><display-name>Calle 13 Universal</display-name><icon src="https://i.imgur.com/Lu1l4qD.png"/><url>https://programacion-tv.elpais.com</url></channel>
 <channel id="Channel4HD.uk"><display-name>Channel 4 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4075.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="Channel5HD.uk"><display-name>Channel 5 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4058.png"/><url>https://mytelly.co.uk</url></channel>
-<channel id="ComedyCentral.es"><display-name>Comedy Central</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"/><url>https://programacion-tv.elpais.com</url></channel>
 <channel id="DoveChannel.us"><display-name>Dove Channel</display-name><icon src="https://i.imgur.com/FVWqYQG.png"/><url>https://i.mjh.nz</url></channel>
 <channel id="Eleven1.pt"><display-name>Eleven 1</display-name><icon src="https://i.imgur.com/BKkcayq.png"/><url>https://nostv.pt</url></channel>
 <channel id="Eleven2.pt"><display-name>Eleven 2</display-name><icon src="https://i.imgur.com/bGRgFwo.png"/><url>https://nostv.pt</url></channel>
@@ -20,14 +13,10 @@
 <channel id="Eurosport1HD.uk"><display-name>Eurosport 1 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4004.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="Eurosport2HD.uk"><display-name>Eurosport 2 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4009.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="Film4HD.uk"><display-name>Film4 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4044.png"/><url>https://mytelly.co.uk</url></channel>
-<channel id="Historia.es"><display-name>Historia</display-name><icon src="https://i.imgur.com/VUy8xIG.png"/><url>https://programacion-tv.elpais.com</url></channel>
 <channel id="ITV2HD.uk"><display-name>ITV2 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb6532.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="ITV3HD.uk"><display-name>ITV3 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb6533.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="ITV4HD.uk"><display-name>ITV4 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb6534.png"/><url>https://mytelly.co.uk</url></channel>
-<channel id="MNX.in"><display-name>MNX</display-name><icon src="https://i.imgur.com/Fo7n4xX.png"/><url>https://dishtv.in</url></channel>
 <channel id="More4HD.uk"><display-name>More4 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4043.png"/><url>https://mytelly.co.uk</url></channel>
-<channel id="MoviesNow.in"><display-name>Movies Now</display-name><icon src="https://i.imgur.com/lShH4Z8.png"/><url>https://dishtv.in</url></channel>
-<channel id="MoviesNowPlus.in"><display-name>Movies Now +</display-name><icon src="https://i.imgur.com/asPDFeu.png"/><url>https://dishtv.in</url></channel>
 <channel id="MovieSphere.us"><display-name>MovieSphere</display-name><icon src="https://i.imgur.com/h1ejU90.png"/><url>https://i.mjh.nz</url></channel>
 <channel id="MUTVHD.uk"><display-name>MUTV HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1003.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="nz/epg#mjh-redbull-tv"><display-name>Redbull TV</display-name><url>https://i.mjh.nz</url></channel>
@@ -61,16 +50,11 @@
 <channel id="SkySportsF1HD.uk"><display-name>Sky Sports F1 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3835.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="SkySportsFootballHD.uk"><display-name>Sky Sports Football HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3939.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="SkySportsPremierLeagueHD.uk"><display-name>Sky Sports Premier League HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4010.png"/><url>https://mytelly.co.uk</url></channel>
-<channel id="SundanceTV.es"><display-name>Sundance TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png"/><url>https://programacion-tv.elpais.com</url></channel>
-<channel id="Syfy.es"><display-name>Syfy</display-name><icon src="https://i.imgur.com/4fMWhUE.png"/><url>https://programacion-tv.elpais.com</url></channel>
-<channel id="TennisChannel.us"><display-name>Tennis Channel</display-name><icon src="https://i.imgur.com/tsljAnY.png"/><url>https://tvtv.us</url></channel>
-<channel id="TNT.es"><display-name>TNT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png"/><url>https://programacion-tv.elpais.com</url></channel>
 <channel id="TNTSports1HD.uk"><display-name>TNT Sports 1 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3625.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="TNTSports2HD.uk"><display-name>TNT Sports 2 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3627.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="TNTSports3HD.uk"><display-name>TNT Sports 3 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3629.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="TNTSports4HD.uk"><display-name>TNT Sports 4 HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4040.png"/><url>https://mytelly.co.uk</url></channel>
 <channel id="TNTSports5HD.uk"><display-name>TNT Sports 5 HD</display-name><icon src="https://i.imgur.com/FD5DLQD.png"/><url>https://mytelly.co.uk</url></channel>
-<channel id="XTRM.es"><display-name>XTRM</display-name><icon src="https://i.imgur.com/NNMa2HQ.png"/><url>https://programacion-tv.elpais.com</url></channel>
 <programme start="20241227000000 +0000" stop="20241227003000 +0000" channel="BBCNewsHD.uk"><title lang="en">BBC News</title><desc lang="en">The latest news from the BBC.</desc><category lang="en">News</category><category lang="en">News/Current Affairs</category><image>https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8329d0fee2ebe570a33bcb0cce9d83e0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cT9v8uLydyRFaTPgdIvFFUBEU4Uzg0ZPlvLC3xl5yveDMxgKvSDkiGRAsREeCRQTQ%3D</image></programme>
 <programme start="20241227003000 +0000" stop="20241227010000 +0000" channel="BBCNewsHD.uk"><title lang="en">HARDtalk</title><desc lang="en">Interviews with newsmakers and personalities from across the globe</desc><category lang="en">Interview</category><category lang="en">News/Current Affairs</category><image>https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/49da77ad0e5f4e4731725a86dc2e9c9d.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dbcM4Lh33qgzH3G7A05k8zzbl3UW1ALeOMKNeLInLpvfeyHEHbzTtZ2t6AcsJEiOw%3D</image></programme>
 <programme start="20241227010000 +0000" stop="20241227013000 +0000" channel="BBCNewsHD.uk"><title lang="en">BBC News</title><desc lang="en">The latest news from the BBC.</desc><category lang="en">News</category><category lang="en">News/Current Affairs</category><image>https://d16ia5iwuvax6y.cloudfront.net/uk-prog-images/8329d0fee2ebe570a33bcb0cce9d83e0.jpg?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cT9v8uLydyRFaTPgdIvFFUBEU4Uzg0ZPlvLC3xl5yveDMxgKvSDkiGRAsREeCRQTQ%3D</image></programme>
