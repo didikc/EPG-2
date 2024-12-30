@@ -4,7 +4,7 @@ on:
     - cron: "5 06,18 * * *"
   pull_request:
       branches:
-        - master
+        - main
 
   workflow_dispatch:
 
