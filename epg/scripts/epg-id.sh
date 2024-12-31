@@ -32,7 +32,7 @@ npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3 --max
 
 # Pix EPG
 
-# npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3 --maxConnections=10
+npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3 --maxConnections=10
 
 # Compress EPG xml files
 # cd ../epg/
