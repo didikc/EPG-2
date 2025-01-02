@@ -61,34 +61,4 @@
   <channel site="orangetv.orange.es" lang="es" xmltv_id="Eurosport1.fr" site_id="11035">Eurosport 1</channel>
   <channel site="orangetv.orange.es" lang="es" xmltv_id="Eurosport2.fr" site_id="11059">Eurosport 2</channel>
   <channel site="orangetv.orange.es" lang="es" xmltv_id="Historia.es" site_id="11019">Canal Historia</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="AMC.es" site_id="AMC">AMC</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="AMCBreak.es" site_id="BIOGRA">AMC Break</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="AXNEurope.gr" site_id="AXN">AXN</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="AXNWhite.us" site_id="SET">AXN Movies</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="Calle13Universal.es" site_id="CL13">Calle 13</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="ComedyCentral.es" site_id="PCM">Comedy Central</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="DAZN1.es" site_id="M1SD">DAZN 1</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="DAZN2.es" site_id="M2SD">DAZN 2</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="DAZN3.es" site_id="DAZN3">DAZN 3</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="DAZN4.es" site_id="DAZN4">DAZN 4</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="DAZNF1.es" site_id="MVF1">DAZN F1</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="Eurosport1.fr" site_id="ESP">Eurosport 1</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="Eurosport2.fr" site_id="ESP2">Eurosport 2</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="Historia.es" site_id="HIST">Historia</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="SundanceTV.es" site_id="SUNDAN">Sundance</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="Syfy.es" site_id="SCI-FI">SYFY</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="TNT.es" site_id="TNT">Warner TV</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="XTRM.es" site_id="XTRM">XTRM</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="AMC.es" site_id="481">AMC</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="AXNEurope.gr" site_id="63">AXN</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="AXNWhite.us" site_id="512">AXN Movies</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Calle13Universal.es" site_id="64">Calle 13</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="SundanceTV.es" site_id="699">Sundance Channel</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Syfy.es" site_id="520">Syfy</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="TNT.es" site_id="577">Warner TV</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="XTRM.es" site_id="68">XTRM</channel>
-  <channel site="programacion-tv.elpais.com" lang="es" xmltv_id="Historia.es" site_id="148">Historia</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="" site_id="10000000048830000">MNX HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="MoviesNowPlus.in" site_id="10000000025870000">MN+ HD</channel>
-  <channel site="dishtv.in" lang="en" xmltv_id="MoviesNow.in" site_id="10000000006570000">Movies Now</channel>  
 </channels>
