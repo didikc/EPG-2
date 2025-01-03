@@ -61,4 +61,72 @@
   <channel site="orangetv.orange.es" lang="es" xmltv_id="Eurosport1.fr" site_id="11035">Eurosport 1</channel>
   <channel site="orangetv.orange.es" lang="es" xmltv_id="Eurosport2.fr" site_id="11059">Eurosport 2</channel>
   <channel site="orangetv.orange.es" lang="es" xmltv_id="Historia.es" site_id="11019">Canal Historia</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="beINSports1.id" site_id="6299">Bein 1</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="beINSports2.id" site_id="17875">Bein 2</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="beINSports3.id" site_id="6317">Bein 3</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV1.id" site_id="6685">CTV 1</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV2.id" site_id="6686">CTV 2</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV3.id" site_id="6786">CTV 3</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV5.id" site_id="9182">CTV 5</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV6.id" site_id="9183">CTV 6</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTVEPL.id" site_id="9353">Premier League TV</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="SPOTV2.id" site_id="17140">SPOTV 2</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="SPOTV.id" site_id="17139">SPOTV</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="ABCAustralia.au" site_id="5251">ABC Australia</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="AnimalPlanetSoutheastAsia.sg" site_id="5208">Animal Planet (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="AnimaxAsia.sg" site_id="5342">Animax (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="AniplusAsia.sg" site_id="5340">ANIPLUS HD</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="AXN.sg" site_id="5304">AXN (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="BBCEarthAsia.uk" site_id="6203">BBC Earth (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="BBCNewsAsiaPacific.uk" site_id="6166">BBC News</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="beINSports.qa" site_id="6126">beIN SPORTS (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="beINSports2.qa" site_id="6127">beIN SPORTS 2 (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="beINSports3.qa" site_id="6110">beIN SPORTS 3 (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="beINSports4.qa" site_id="5127">beIN SPORTS 4 (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="beINSports5.qa" site_id="5128">beIN SPORTS 5 (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="BloombergTVAsia.hk" site_id="5171">Bloomberg Television (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="BoomerangAsia.sg" site_id="5228">Cartoonito (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CartoonNetworkAsia.sg" site_id="5226">Cartoon Network (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CBeebiesAsia.uk" site_id="5236">CBeebies (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CGTN.cn" site_id="5155">CGTN</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CGTNDocumentary.cn" site_id="5211">CGTN-Documentary</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CinemaxAsia.sg" site_id="6424">CINEMAX (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CitraDrama.id" site_id="5610">Citra Drama (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CNA.sg" site_id="5006">CNA (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CNBCAsia.sg" site_id="5173">CNBC Asia</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CNNInternationalAsiaPacific.hk" site_id="5167">CNN International (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="CrimePlusInvestigationAsia.sg" site_id="5206">Crime + Investigation™ (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="DiscoveryAsia.sg" site_id="5204">Discovery Asia (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="DiscoveryChannelSoutheastAsia.sg" site_id="5202">Discovery Channel (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="DreamWorksChannelAsia.us" site_id="5233">DreamWorks (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="DWEnglish.de" site_id="5161">Deutsche Welle (English)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="FoodNetworkAsia.sg" site_id="5252">Food Network (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="France24English.fr" site_id="5041">France 24 (English)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HBOAsia.sg" site_id="6420">HBO HD</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HBOFamilyAsia.sg" site_id="6422">HBO Family (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="6423">HBO Hits (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HBOSignatureAsia.sg" site_id="6421">HBO Signature (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HITS.sg" site_id="5326">HITS (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="HITSMovies.sg" site_id="6301">HITS Movies HD</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="LifetimeAsia.us" site_id="5302">Lifetime (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="5157">NHK World – Japan (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="NHKWorldPremium.jp" site_id="5682">NHK World Premium</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="NickelodeonAsia.sg" site_id="5240">Nickelodeon Asia HD</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="NickJrAsia.sg" site_id="5238">Nick Jr.</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="ONE.sg" site_id="5604">ONE HD (Malay)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="ParamountNetwork.sg" site_id="5418">Paramount Network (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="ROCKEntertainment.sg" site_id="5318">ROCK Entertainment (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="SEAToday.id" site_id="5615">SEA Today</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="SPOTV.kr" site_id="6114">SPOTV (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="SPOTV2.kr" site_id="6115">SPOTV 2 (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="TechStorm.sg" site_id="5260">TechStorm (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="tvNAsia.hk" site_id="5619">tvN HD (Malay)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="ZeeTV.in" site_id="5646">ZEE TV</channel>
+  <channel site="singtel.com" lang="fr" xmltv_id="France24French.fr" site_id="5040">France 24 (French)</channel>
+  <channel site="singtel.com" lang="zh" xmltv_id="CCM.hk" site_id="5580">CCM</channel>
+  <channel site="singtel.com" lang="zh" xmltv_id="CCTVEntertainment.cn" site_id="5534">CCTV Entertainment</channel>
+  <channel site="singtel.com" lang="zh" xmltv_id="CelestialMovies.hk" site_id="5585">Celestial Movies (HD)</channel>
+  <channel site="singtel.com" lang="zh" xmltv_id="GEM.sg" site_id="5519">GEM (HD)</channel>
+  <channel site="singtel.com" lang="zh" xmltv_id="HunanTVInternational.cn" site_id="5536">Hunan International</channel>
+  <channel site="singtel.com" lang="zh" xmltv_id="tvNAsia.hk" site_id="5518">tvN HD (Mandarin)</channel>
 </channels>
