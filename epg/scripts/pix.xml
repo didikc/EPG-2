@@ -129,4 +129,10 @@
   <channel site="singtel.com" lang="zh" xmltv_id="GEM.sg" site_id="5519">GEM (HD)</channel>
   <channel site="singtel.com" lang="zh" xmltv_id="HunanTVInternational.cn" site_id="5536">Hunan International</channel>
   <channel site="singtel.com" lang="zh" xmltv_id="tvNAsia.hk" site_id="5518">tvN HD (Mandarin)</channel>
+  <channel site="visionplus.id" lang="id" xmltv_id="GTV.id" site_id="00000000000000000003">GTV</channel>
+  <channel site="visionplus.id" lang="id" xmltv_id="MNCTV.id" site_id="00000000000000000002">MNCTV</channel>
+  <channel site="visionplus.id" lang="id" xmltv_id="SindoNewsTV.id" site_id="00000000000000000005">SindoNews</channel>
+  <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="MoonbugKids.uk" site_id="465">Moonbug</channel>
+  <channel site="playtv.unifi.com.my" lang="en" xmltv_id="" site_id="59924306">Moonbug</channel>
 </channels>
