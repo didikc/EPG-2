@@ -107,6 +107,7 @@
   <channel site="singtel.com" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="6423">HBO Hits (HD)</channel>
   <channel site="singtel.com" lang="en" xmltv_id="HBOSignatureAsia.sg" site_id="6421">HBO Signature (HD)</channel>
   <channel site="singtel.com" lang="en" xmltv_id="HITS.sg" site_id="5326">HITS (HD)</channel>
+  <channel site="singtel.com" lang="en" xmltv_id="" site_id="5303">HITS NOW (HD)</channel>
   <channel site="singtel.com" lang="en" xmltv_id="HITSMovies.sg" site_id="6301">HITS Movies HD</channel>
   <channel site="singtel.com" lang="en" xmltv_id="LifetimeAsia.us" site_id="5302">Lifetime (HD)</channel>
   <channel site="singtel.com" lang="en" xmltv_id="NHKWorldJapan.jp" site_id="5157">NHK World – Japan (HD)</channel>
@@ -133,6 +134,25 @@
   <channel site="visionplus.id" lang="id" xmltv_id="MNCTV.id" site_id="00000000000000000002">MNCTV</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="SindoNewsTV.id" site_id="00000000000000000005">SindoNews</channel>
   <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="CartoonNetworkAsia.sg" site_id="371">Cartoon Network HD</channel>
+  <channel site="content.astro.com.my" lang="ms" xmltv_id="" site_id="481">CBeebies</channel>
+  <channel site="content.astro.com.my" lang="ms" xmltv_id="AstroCeria.my" site_id="386">Astro Ceria HD</channel>
+  <channel site="content.astro.com.my" lang="ms" xmltv_id="" site_id="485">DreamWorks</channel>
   <channel site="content.astro.com.my" lang="en" xmltv_id="MoonbugKids.uk" site_id="465">Moonbug</channel>
-  <channel site="playtv.unifi.com.my" lang="en" xmltv_id="" site_id="59924306">Moonbug</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="NickelodeonAsia.sg" site_id="370">Nickelodeon HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="NickJrAsia.sg" site_id="392">Nick Jr.</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="HBOAsia.sg" site_id="143">HBO HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="HBOFamilyAsia.sg" site_id="450">HBO Family</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="449">HBO Hits</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="HITS.sg" site_id="179">HITS HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="HITSMovies.sg" site_id="391">HITS Movies HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="AXN.my" site_id="131">AXN HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="Boo.my" site_id="251">BOO HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="ShowcaseMovies.my" site_id="454">SHOWCASE</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="WarnerTVAsia.us" site_id="270">Warner TV HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="beINSports2.qa" site_id="466">beIN Sports 2</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="beINSports3.qa" site_id="313">beIN Sports 3</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="beINSports.qa" site_id="236">beIN Sports HD</channel>
+  <channel site="content.astro.com.my" lang="en" xmltv_id="SPOTV.kr" site_id="456">SPOTV</channel>
+  <channel site="content.astro.com.my" lang="ms" xmltv_id="" site_id="474">SPOTV2</channel>
 </channels>
