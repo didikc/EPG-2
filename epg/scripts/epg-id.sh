@@ -35,10 +35,10 @@ npm run grab -- --site=visionplus.id --output=../epg/id-visionplus.xml --days=3 
 npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3 --maxConnections=10
 
 # Compress EPG xml files
-# cd ../epg/
+cd ../epg/
 
 # gzip -k -f -9 ../epg/id*.xml
-# gzip -k -f -9 ../epg/pix.xml
+gzip -k -f -9 ../epg/pix.xml
 # gzip -k -f -9 ../epg/sg*.xml
 
 # Remove EPG xml files
