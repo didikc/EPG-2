@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Eleven1.pt" site_id="518">ELEVEN SPORTS 1</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Eleven2.pt" site_id="519">ELEVEN SPORTS 2</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Eleven3.pt" site_id="513">ELEVEN SPORTS 3</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Eleven4.pt" site_id="514">ELEVEN SPORTS 4</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Eleven5.pt" site_id="515">ELEVEN SPORTS 5</channel>
-  <channel site="nostv.pt" lang="pt" xmltv_id="Eleven6.pt" site_id="516">ELEVEN SPORTS 6</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV2HD.uk" site_id="1602/itv2-hd">ITV2 HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV3HD.uk" site_id="1612/itv3-hd">ITV3 HD</channel>
   <channel site="mytelly.co.uk" lang="en" xmltv_id="ITV4HD.uk" site_id="1613/itv4-hd">ITV4 HD</channel>
