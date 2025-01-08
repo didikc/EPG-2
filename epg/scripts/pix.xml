@@ -87,5 +87,23 @@
   <channel site="visionplus.id" lang="id" xmltv_id="GTV.id" site_id="00000000000000000003">GTV</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="MNCTV.id" site_id="00000000000000000002">MNCTV</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="SindoNewsTV.id" site_id="00000000000000000005">SindoNews</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="NickJrAsia.sg" site_id="nickjr">Nick Junior</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="DaVinciAsia.de" site_id="davinci">Da Vinci Learning</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="DuniaAnak.id" site_id="duniaanak">Dunia anak</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="IndiKids.id" site_id="indikids">FunPlanet</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="RodjaTV.id" site_id="rodjatv">Rodja TV</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CNNIndonesia.id" site_id="cnnindonesia">CNN Indonesia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="DiscoveryAsia.sg" site_id="discoveryasia">Discovery Asia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="EatNGo.id" site_id="eatgo">Eat &amp; Go</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="ABCAustralia.au" site_id="abcaustralia">ABC Australia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="Flik.id" site_id="flik">Flik</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="BioskopIndonesia.id" site_id="bioskopindonesia">Bioskop Indonesia</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CinemaWorld.my" site_id="cinemaworld">Cinema World</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="CitraDrama.id" site_id="cdrama">Citra Drama</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="MAXStream.id" site_id="maxstream">Maxstream</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="WarnerTVAsia.us" site_id="warner">Warner</channel>
+  <channel site="indihometv.com" lang="id" xmltv_id="HITSNowHD.sg" site_id="hitsnow">HITS Now</channel>
+  <channel site="dens.tv" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa" site_id="88">Sunna TV</channel>
+  <channel site="dens.tv" lang="id" xmltv_id="MyCinema.id" site_id="95">My Cinema HD</channel>
   <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
 </channels>
