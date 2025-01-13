@@ -100,4 +100,18 @@
   <channel site="dens.tv" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa" site_id="88">Sunna TV</channel>
   <channel site="dens.tv" lang="id" xmltv_id="MyCinema.id" site_id="95">My Cinema HD</channel>
   <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="viasat-film-action">Viasat Film Action</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="viasat-film-family-hd">Viasat Film Family HD</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="viasat-film-hits">Viasat Film Hits</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="viasat-film-premiere">Viasat Film Premiere</channel>
+  <channel site="tv24.se" lang="sv" xmltv_id="VSeries.se" site_id="viasat-series">Viasat Series</channel>
+  <channel site="allente.se" lang="sv" xmltv_id="VFilmAction.se" site_id="0299">V film action HD (T)</channel>
+  <channel site="allente.se" lang="sv" xmltv_id="VFilmFamily.se" site_id="0308">V film family (T)</channel>
+  <channel site="allente.se" lang="sv" xmltv_id="VFilmHits.se" site_id="0322">V film hits HD (T)</channel>
+  <channel site="allente.se" lang="sv" xmltv_id="VFilmPremiere.se" site_id="0321">V film premiere HD (T)</channel>
+  <channel site="allente.se" lang="sv" xmltv_id="VSeries.se" site_id="0320">V series HD (T)</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports1.pl" site_id="eleven-208">Eleven Sports 1</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports2.pl" site_id="eleven-sports-212">Eleven Sports 2</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports3.pl" site_id="eleven-extra-531">Eleven Sports 3</channel>
+  <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports4.pl" site_id="eleven-sports-4-607">Eleven Sports 4</channel>
 </channels>
