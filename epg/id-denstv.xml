@@ -800,7 +800,6 @@
 <programme start="20250306160000 +0000" stop="20250306163000 +0000" channel="BTV.id"><title lang="id">Mitos</title></programme>
 <programme start="20250306163000 +0000" stop="20250306165950 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
 <programme start="20250306165950 +0000" stop="20250306165959 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
-<programme start="20250306170000 +0000" stop="20250306173000 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
 <programme start="20250304170000 +0000" stop="20250304180000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250304180000 +0000" stop="20250304183000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250304183000 +0000" stop="20250304190000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -3839,29 +3838,104 @@
 <programme start="20250307163000 +0000" stop="20250307165950 +0000" channel="NHKWorldJapan.jp"><title lang="id">Grand Sumo Preview</title></programme>
 <programme start="20250307165950 +0000" stop="20250307165959 +0000" channel="NHKWorldJapan.jp"><title lang="id">Grand Sumo Preview</title></programme>
 <programme start="20250304170000 +0000" stop="20250304180000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250304170000 +0000" stop="20250304180000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
 <programme start="20250304180000 +0000" stop="20250304190000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250304180000 +0000" stop="20250304190000 +0000" channel="NusantaraTV.id"><title lang="id">ASHOP</title></programme>
 <programme start="20250304190000 +0000" stop="20250304200000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250304190000 +0000" stop="20250304200000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
 <programme start="20250304200000 +0000" stop="20250304210000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250304200000 +0000" stop="20250304210000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
 <programme start="20250304210000 +0000" stop="20250304220000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250304210000 +0000" stop="20250304220000 +0000" channel="NusantaraTV.id"><title lang="id">ASHOP</title></programme>
 <programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250304220000 +0000" stop="20250304230000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
 <programme start="20250304230000 +0000" stop="20250305003000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250304230000 +0000" stop="20250305003000 +0000" channel="NusantaraTV.id"><title lang="id">NTV MORNING</title></programme>
 <programme start="20250305003000 +0000" stop="20250305010000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305003000 +0000" stop="20250305010000 +0000" channel="NusantaraTV.id"><title lang="id">JELAJAH RASA</title></programme>
 <programme start="20250305010000 +0000" stop="20250305020000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305010000 +0000" stop="20250305013000 +0000" channel="NusantaraTV.id"><title lang="id">OOH I SEE</title></programme>
+<programme start="20250305013000 +0000" stop="20250305023000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
 <programme start="20250305020000 +0000" stop="20250305023000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250305023000 +0000" stop="20250305030000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305023000 +0000" stop="20250305030000 +0000" channel="NusantaraTV.id"><title lang="id">JELAJAH RASA</title></programme>
 <programme start="20250305030000 +0000" stop="20250305040000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305030000 +0000" stop="20250305040000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
 <programme start="20250305040000 +0000" stop="20250305050000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305040000 +0000" stop="20250305050000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
 <programme start="20250305050000 +0000" stop="20250305063000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305050000 +0000" stop="20250305063000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
 <programme start="20250305063000 +0000" stop="20250305073000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305063000 +0000" stop="20250305073000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
 <programme start="20250305073000 +0000" stop="20250305083000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305073000 +0000" stop="20250305083000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
 <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
 <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
 <programme start="20250305100000 +0000" stop="20250305130000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305100000 +0000" stop="20250305120000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
 <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="NusantaraTV.id"><title lang="id">MERAH PUTIH</title></programme>
 <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
 <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TONIGHT</title></programme>
 <programme start="20250305160000 +0000" stop="20250305165950 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305160000 +0000" stop="20250305165950 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
 <programme start="20250305165950 +0000" stop="20250305165959 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250305165950 +0000" stop="20250305165959 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250305170000 +0000" stop="20250305180000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="NusantaraTV.id"><title lang="id">ASHOP</title></programme>
+<programme start="20250305190000 +0000" stop="20250305200000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
+<programme start="20250305200000 +0000" stop="20250305210000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="NusantaraTV.id"><title lang="id">ASHOP</title></programme>
+<programme start="20250305220000 +0000" stop="20250305230000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250305230000 +0000" stop="20250306003000 +0000" channel="NusantaraTV.id"><title lang="id">NTV MORNING</title></programme>
+<programme start="20250306003000 +0000" stop="20250306010000 +0000" channel="NusantaraTV.id"><title lang="id">JELAJAH RASA</title></programme>
+<programme start="20250306010000 +0000" stop="20250306013000 +0000" channel="NusantaraTV.id"><title lang="id">OOH I SEE</title></programme>
+<programme start="20250306013000 +0000" stop="20250306023000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250306023000 +0000" stop="20250306030000 +0000" channel="NusantaraTV.id"><title lang="id">JELAJAH RASA</title></programme>
+<programme start="20250306030000 +0000" stop="20250306040000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250306040000 +0000" stop="20250306050000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250306050000 +0000" stop="20250306063000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20250306063000 +0000" stop="20250306073000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250306073000 +0000" stop="20250306083000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250306083000 +0000" stop="20250306090000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250306090000 +0000" stop="20250306100000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250306100000 +0000" stop="20250306120000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250306120000 +0000" stop="20250306130000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250306130000 +0000" stop="20250306140000 +0000" channel="NusantaraTV.id"><title lang="id">DON CAST</title></programme>
+<programme start="20250306140000 +0000" stop="20250306150000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
+<programme start="20250306150000 +0000" stop="20250306160000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20250306160000 +0000" stop="20250306165950 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250306165950 +0000" stop="20250306165959 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250306170000 +0000" stop="20250306180000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250306180000 +0000" stop="20250306190000 +0000" channel="NusantaraTV.id"><title lang="id">ASHOP</title></programme>
+<programme start="20250306190000 +0000" stop="20250306200000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
+<programme start="20250306200000 +0000" stop="20250306210000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250306210000 +0000" stop="20250306220000 +0000" channel="NusantaraTV.id"><title lang="id">ASHOP</title></programme>
+<programme start="20250306220000 +0000" stop="20250306230000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250306230000 +0000" stop="20250307003000 +0000" channel="NusantaraTV.id"><title lang="id">NTV MORNING</title></programme>
+<programme start="20250307003000 +0000" stop="20250307010000 +0000" channel="NusantaraTV.id"><title lang="id">JELAJAH RASA</title></programme>
+<programme start="20250307010000 +0000" stop="20250307013000 +0000" channel="NusantaraTV.id"><title lang="id">OOH I SEE</title></programme>
+<programme start="20250307013000 +0000" stop="20250307023000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250307023000 +0000" stop="20250307030000 +0000" channel="NusantaraTV.id"><title lang="id">JELAJAH RASA</title></programme>
+<programme start="20250307030000 +0000" stop="20250307040000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250307040000 +0000" stop="20250307050000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250307050000 +0000" stop="20250307063000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20250307063000 +0000" stop="20250307073000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250307073000 +0000" stop="20250307083000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250307083000 +0000" stop="20250307090000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250307090000 +0000" stop="20250307100000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250307100000 +0000" stop="20250307120000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250307120000 +0000" stop="20250307130000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250307130000 +0000" stop="20250307140000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT CAST</title></programme>
+<programme start="20250307140000 +0000" stop="20250307150000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
+<programme start="20250307150000 +0000" stop="20250307160000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20250307160000 +0000" stop="20250307165950 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250307165950 +0000" stop="20250307165959 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
 <programme start="20250304170000 +0000" stop="20250304180000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250304180000 +0000" stop="20250304183000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250304183000 +0000" stop="20250304190000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
