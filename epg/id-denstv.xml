@@ -722,7 +722,6 @@
 <programme start="20250308030000 +0000" stop="20250308033000 +0000" channel="BTV.id"><title lang="id">Vacation List</title></programme>
 <programme start="20250308033000 +0000" stop="20250308040000 +0000" channel="BTV.id"><title lang="id">Ini Indonesia</title></programme>
 <programme start="20250308040000 +0000" stop="20250308050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
-<programme start="20250308050000 +0000" stop="20250308060000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah Ramadan</title></programme>
 <programme start="20250308060000 +0000" stop="20250308064500 +0000" channel="BTV.id"><title lang="id">Cerita Manusia</title></programme>
 <programme start="20250308064500 +0000" stop="20250308073000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
 <programme start="20250308073000 +0000" stop="20250308080000 +0000" channel="BTV.id"><title lang="id">Dunia RANS</title></programme>
@@ -740,8 +739,6 @@
 <programme start="20250308140000 +0000" stop="20250308150000 +0000" channel="BTV.id"><title lang="id">Chuang Asia</title></programme>
 <programme start="20250308150000 +0000" stop="20250308160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20250308160000 +0000" stop="20250308163000 +0000" channel="BTV.id"><title lang="id">Monster Jam</title></programme>
-<programme start="20250308163000 +0000" stop="20250308165950 +0000" channel="BTV.id"><title lang="id">Inside Sailing</title></programme>
-<programme start="20250308165950 +0000" stop="20250308165959 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
 <programme start="20250308170000 +0000" stop="20250308173000 +0000" channel="BTV.id"><title lang="id">In Good Shapes</title></programme>
 <programme start="20250308173000 +0000" stop="20250308180000 +0000" channel="BTV.id"><title lang="id">Film Pendek Indonesia</title></programme>
 <programme start="20250308180000 +0000" stop="20250308180300 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
@@ -764,7 +761,6 @@
 <programme start="20250309030000 +0000" stop="20250309033000 +0000" channel="BTV.id"><title lang="id">Vacation List</title></programme>
 <programme start="20250309033000 +0000" stop="20250309040000 +0000" channel="BTV.id"><title lang="id">Ini Indonesia</title></programme>
 <programme start="20250309040000 +0000" stop="20250309050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
-<programme start="20250309050000 +0000" stop="20250309060000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah Ramadan</title></programme>
 <programme start="20250309060000 +0000" stop="20250309064500 +0000" channel="BTV.id"><title lang="id">Cerita Manusia</title></programme>
 <programme start="20250309064500 +0000" stop="20250309073000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
 <programme start="20250309073000 +0000" stop="20250309080000 +0000" channel="BTV.id"><title lang="id">Dunia RANS</title></programme>
@@ -782,7 +778,46 @@
 <programme start="20250309140000 +0000" stop="20250309150000 +0000" channel="BTV.id"><title lang="id">Chuang Asia</title></programme>
 <programme start="20250309150000 +0000" stop="20250309160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20250309160000 +0000" stop="20250309165950 +0000" channel="BTV.id"><title lang="id">Supercar Championship 2025</title></programme>
-<programme start="20250309165950 +0000" stop="20250309165959 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
+<programme start="20250309170000 +0000" stop="20250309173000 +0000" channel="BTV.id"><title lang="id">Rev</title></programme>
+<programme start="20250309173000 +0000" stop="20250309180000 +0000" channel="BTV.id"><title lang="id">Film Pendek Indonesia</title></programme>
+<programme start="20250309180000 +0000" stop="20250309180300 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
+<programme start="20250309180300 +0000" stop="20250309190000 +0000" channel="BTV.id"><title lang="id">Solat Tarawih Masjidil Haram</title></programme>
+<programme start="20250309190000 +0000" stop="20250309193000 +0000" channel="BTV.id"><title lang="id">Cari Berkah</title></programme>
+<programme start="20250309193000 +0000" stop="20250309203000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah Ramadan</title></programme>
+<programme start="20250309203000 +0000" stop="20250309210000 +0000" channel="BTV.id"><title lang="id">Setulus Hati Ramadan</title></programme>
+<programme start="20250309210000 +0000" stop="20250309212500 +0000" channel="BTV.id"><title lang="id">Sejarah Islam</title></programme>
+<programme start="20250309212500 +0000" stop="20250309213600 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20250309213600 +0000" stop="20250309214300 +0000" channel="BTV.id"><title lang="id">Gema Ramadan</title></programme>
+<programme start="20250309214300 +0000" stop="20250309214600 +0000" channel="BTV.id"><title lang="id">Adzan Subuh Jakarta</title></programme>
+<programme start="20250309214600 +0000" stop="20250309223000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20250309223000 +0000" stop="20250309230000 +0000" channel="BTV.id"><title lang="id">Jendela Dunia Ramadan</title></programme>
+<programme start="20250309230000 +0000" stop="20250309230300 +0000" channel="BTV.id"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20250309230300 +0000" stop="20250310000000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah Ramadan</title></programme>
+<programme start="20250310000000 +0000" stop="20250310003000 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan...</title></programme>
+<programme start="20250310003000 +0000" stop="20250310011500 +0000" channel="BTV.id"><title lang="id">Didi &amp; Friends</title></programme>
+<programme start="20250310011500 +0000" stop="20250310021500 +0000" channel="BTV.id"><title lang="id">Boonie Cubs</title></programme>
+<programme start="20250310021500 +0000" stop="20250310030000 +0000" channel="BTV.id"><title lang="id">Motu Patlu</title></programme>
+<programme start="20250310030000 +0000" stop="20250310040000 +0000" channel="BTV.id"><title lang="id">Ruang Tengah Ramadan</title></programme>
+<programme start="20250310040000 +0000" stop="20250310050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20250310050000 +0000" stop="20250310060000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20250310060000 +0000" stop="20250310064500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20250310064500 +0000" stop="20250310073000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
+<programme start="20250310073000 +0000" stop="20250310080000 +0000" channel="BTV.id"><title lang="id">Dunia RANS</title></programme>
+<programme start="20250310080000 +0000" stop="20250310090000 +0000" channel="BTV.id"><title lang="id">Didi &amp; Friends</title></programme>
+<programme start="20250310090000 +0000" stop="20250310100000 +0000" channel="BTV.id"><title lang="id">Motu Patlu</title></programme>
+<programme start="20250310100000 +0000" stop="20250310105900 +0000" channel="BTV.id"><title lang="id">Boonie Cubs</title></programme>
+<programme start="20250310105900 +0000" stop="20250310111100 +0000" channel="BTV.id"><title lang="id">Kultum The Power Of Ramadan</title></programme>
+<programme start="20250310111100 +0000" stop="20250310111900 +0000" channel="BTV.id"><title lang="id">Adzan Maghrib Jakarta + Doa...</title></programme>
+<programme start="20250310111900 +0000" stop="20250310120000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
+<programme start="20250310120000 +0000" stop="20250310124500 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
+<programme start="20250310124500 +0000" stop="20250310134000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20250310134000 +0000" stop="20250310134500 +0000" channel="BTV.id"><title lang="id">Gema Ramadan</title></programme>
+<programme start="20250310134500 +0000" stop="20250310143000 +0000" channel="BTV.id"><title lang="id">Setulus Hati Ramadan</title></programme>
+<programme start="20250310143000 +0000" stop="20250310150000 +0000" channel="BTV.id"><title lang="id">Jendela Dunia Ramadan</title></programme>
+<programme start="20250310150000 +0000" stop="20250310160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20250310160000 +0000" stop="20250310163000 +0000" channel="BTV.id"><title lang="id">Mitos</title></programme>
+<programme start="20250310163000 +0000" stop="20250310165950 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
+<programme start="20250310165950 +0000" stop="20250310165959 +0000" channel="BTV.id"><title lang="id">ONE Vault 2022</title></programme>
 <programme start="20250307170000 +0000" stop="20250307180000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307180000 +0000" stop="20250307183000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307183000 +0000" stop="20250307190000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2592,6 +2627,66 @@
 <programme start="20250310150000 +0000" stop="20250310160000 +0000" channel="FREEDOM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250310160000 +0000" stop="20250310165950 +0000" channel="FREEDOM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250310165950 +0000" stop="20250310165959 +0000" channel="FREEDOM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250307170000 +0000" stop="20250307180000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250307180000 +0000" stop="20250307200000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250307200000 +0000" stop="20250307213000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250307213000 +0000" stop="20250307230000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250307230000 +0000" stop="20250307235900 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250307235900 +0000" stop="20250308010000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308010000 +0000" stop="20250308013000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308013000 +0000" stop="20250308030000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308030000 +0000" stop="20250308050000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308050000 +0000" stop="20250308060000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308060000 +0000" stop="20250308063000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308063000 +0000" stop="20250308070000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308070000 +0000" stop="20250308083000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308083000 +0000" stop="20250308110000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308110000 +0000" stop="20250308120000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308120000 +0000" stop="20250308133000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308133000 +0000" stop="20250308153000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308153000 +0000" stop="20250308163000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308163000 +0000" stop="20250308165950 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308165950 +0000" stop="20250308165959 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308170000 +0000" stop="20250308180000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308180000 +0000" stop="20250308200000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308200000 +0000" stop="20250308213000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308213000 +0000" stop="20250308230000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308230000 +0000" stop="20250308235900 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308235900 +0000" stop="20250309010000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309010000 +0000" stop="20250309013000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309013000 +0000" stop="20250309030000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309030000 +0000" stop="20250309050000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309050000 +0000" stop="20250309060000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309060000 +0000" stop="20250309063000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309063000 +0000" stop="20250309070000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309070000 +0000" stop="20250309083000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309083000 +0000" stop="20250309110000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309110000 +0000" stop="20250309120000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309120000 +0000" stop="20250309133000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309133000 +0000" stop="20250309153000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309153000 +0000" stop="20250309163000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309163000 +0000" stop="20250309165950 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309165950 +0000" stop="20250309165959 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309170000 +0000" stop="20250309180000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309180000 +0000" stop="20250309200000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309200000 +0000" stop="20250309213000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309213000 +0000" stop="20250309230000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309230000 +0000" stop="20250309235900 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309235900 +0000" stop="20250310010000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310010000 +0000" stop="20250310013000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310013000 +0000" stop="20250310030000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310030000 +0000" stop="20250310050000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310050000 +0000" stop="20250310060000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310060000 +0000" stop="20250310063000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310063000 +0000" stop="20250310070000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310070000 +0000" stop="20250310083000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310083000 +0000" stop="20250310110000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310110000 +0000" stop="20250310120000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310120000 +0000" stop="20250310133000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310133000 +0000" stop="20250310153000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310153000 +0000" stop="20250310163000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310163000 +0000" stop="20250310165950 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310165950 +0000" stop="20250310165959 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307170000 +0000" stop="20250307200000 +0000" channel="JakTV.id"><title lang="id">Offline</title></programme>
 <programme start="20250307200000 +0000" stop="20250307203000 +0000" channel="JakTV.id"><title lang="id">Inside</title></programme>
 <programme start="20250307203000 +0000" stop="20250307210000 +0000" channel="JakTV.id"><title lang="id">Jendela Sarawak</title></programme>
@@ -3646,6 +3741,27 @@
 <programme start="20250309151500 +0000" stop="20250309165950 +0000" channel="NET.id"><title lang="id">Moonrise Over Egypt</title></programme>
 <programme start="20250309165950 +0000" stop="20250309165959 +0000" channel="NET.id"><title lang="id">Moonrise Over Egypt</title></programme>
 <programme start="20250309170000 +0000" stop="20250309171500 +0000" channel="NET.id"><title lang="id">Moonrise Over Egypt</title></programme>
+<programme start="20250309171500 +0000" stop="20250309180000 +0000" channel="NET.id"><title lang="id">Muslim Travelers</title></programme>
+<programme start="20250309180000 +0000" stop="20250309193000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
+<programme start="20250309193000 +0000" stop="20250309213500 +0000" channel="NET.id"><title lang="id">Ini Baru Sahur</title></programme>
+<programme start="20250309213500 +0000" stop="20250309220000 +0000" channel="NET.id"><title lang="id">Ramadan Di Dunia</title></programme>
+<programme start="20250309220000 +0000" stop="20250309230000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
+<programme start="20250309230000 +0000" stop="20250310000000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
+<programme start="20250310000000 +0000" stop="20250310010000 +0000" channel="NET.id"><title lang="id">AADD Spesial Ramadan</title></programme>
+<programme start="20250310010000 +0000" stop="20250310020000 +0000" channel="NET.id"><title lang="id">Fakta +62</title></programme>
+<programme start="20250310020000 +0000" stop="20250310030000 +0000" channel="NET.id"><title lang="id">New SensasiHot</title></programme>
+<programme start="20250310030000 +0000" stop="20250310043000 +0000" channel="NET.id"><title lang="id">Cahaya Cinta</title></programme>
+<programme start="20250310043000 +0000" stop="20250310053000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
+<programme start="20250310053000 +0000" stop="20250310063000 +0000" channel="NET.id"><title lang="id">Masak Gesss!!! Spesial Ramadan</title></programme>
+<programme start="20250310063000 +0000" stop="20250310073000 +0000" channel="NET.id"><title lang="id">Seru-Seruan</title></programme>
+<programme start="20250310073000 +0000" stop="20250310083000 +0000" channel="NET.id"><title lang="id">AADD Spesial Ramadan</title></programme>
+<programme start="20250310083000 +0000" stop="20250310090000 +0000" channel="NET.id"><title lang="id">Adit Sopo Jarwo</title></programme>
+<programme start="20250310090000 +0000" stop="20250310103000 +0000" channel="NET.id"><title lang="id">Cinta Fitri S2</title></programme>
+<programme start="20250310103000 +0000" stop="20250310121500 +0000" channel="NET.id"><title lang="id">Samuel</title></programme>
+<programme start="20250310121500 +0000" stop="20250310134500 +0000" channel="NET.id"><title lang="id">Cinta Cinderella</title></programme>
+<programme start="20250310134500 +0000" stop="20250310151500 +0000" channel="NET.id"><title lang="id">Terlanjur Indah</title></programme>
+<programme start="20250310151500 +0000" stop="20250310165950 +0000" channel="NET.id"><title lang="id">I Need You Baby</title></programme>
+<programme start="20250310165950 +0000" stop="20250310165959 +0000" channel="NET.id"><title lang="id">I Need You Baby</title></programme>
 <programme start="20250307170000 +0000" stop="20250307171500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20250307171500 +0000" stop="20250307173000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline In Depth</title></programme>
 <programme start="20250307173000 +0000" stop="20250307174500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Bento Expo</title></programme>
@@ -3935,6 +4051,35 @@
 <programme start="20250309150000 +0000" stop="20250309160000 +0000" channel="NusantaraTV.id"><title lang="id">NTV HIGHLIGHT</title></programme>
 <programme start="20250309160000 +0000" stop="20250309165950 +0000" channel="NusantaraTV.id"><title lang="id">SPORT ARENA</title></programme>
 <programme start="20250309165950 +0000" stop="20250309165959 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250309170000 +0000" stop="20250309173053 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309173053 +0000" stop="20250309182202 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309182202 +0000" stop="20250309191545 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309191545 +0000" stop="20250309201041 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309201041 +0000" stop="20250309210617 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309210617 +0000" stop="20250309215659 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309215659 +0000" stop="20250309225021 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309225021 +0000" stop="20250309234245 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309234245 +0000" stop="20250310003716 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310003716 +0000" stop="20250310013111 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310013111 +0000" stop="20250310022529 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310022529 +0000" stop="20250310031728 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310031728 +0000" stop="20250310041153 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310041153 +0000" stop="20250310050106 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310050106 +0000" stop="20250310060007 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310060007 +0000" stop="20250310065353 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310065353 +0000" stop="20250310074512 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310074512 +0000" stop="20250310083909 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310083909 +0000" stop="20250310093250 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310093250 +0000" stop="20250310102634 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310102634 +0000" stop="20250310112009 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310112009 +0000" stop="20250310121518 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310121518 +0000" stop="20250310130837 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310130837 +0000" stop="20250310140348 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310140348 +0000" stop="20250310145536 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310145536 +0000" stop="20250310155218 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310155218 +0000" stop="20250310164342 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310164342 +0000" stop="20250310165950 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310165950 +0000" stop="20250310165959 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307170000 +0000" stop="20250307180000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307180000 +0000" stop="20250307183000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307183000 +0000" stop="20250307190000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -5074,6 +5219,46 @@
 <programme start="20250308160000 +0000" stop="20250308163000 +0000" channel="TVRINasional.id"><title lang="id">Flashback</title></programme>
 <programme start="20250308163000 +0000" stop="20250308165950 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam (L)</title></programme>
 <programme start="20250308165950 +0000" stop="20250308165959 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam (L)</title></programme>
+<programme start="20250308170000 +0000" stop="20250308180000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308180000 +0000" stop="20250308200000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308200000 +0000" stop="20250308213000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308213000 +0000" stop="20250308230000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308230000 +0000" stop="20250308235900 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250308235900 +0000" stop="20250309010000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309010000 +0000" stop="20250309013000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309013000 +0000" stop="20250309030000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309030000 +0000" stop="20250309050000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309050000 +0000" stop="20250309060000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309060000 +0000" stop="20250309063000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309063000 +0000" stop="20250309070000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309070000 +0000" stop="20250309083000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309083000 +0000" stop="20250309110000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309110000 +0000" stop="20250309120000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309120000 +0000" stop="20250309133000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309133000 +0000" stop="20250309153000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309153000 +0000" stop="20250309163000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309163000 +0000" stop="20250309165950 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309165950 +0000" stop="20250309165959 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309170000 +0000" stop="20250309180000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309180000 +0000" stop="20250309200000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309200000 +0000" stop="20250309213000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309213000 +0000" stop="20250309230000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309230000 +0000" stop="20250309235900 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250309235900 +0000" stop="20250310010000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310010000 +0000" stop="20250310013000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310013000 +0000" stop="20250310030000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310030000 +0000" stop="20250310050000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310050000 +0000" stop="20250310060000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310060000 +0000" stop="20250310063000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310063000 +0000" stop="20250310070000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310070000 +0000" stop="20250310083000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310083000 +0000" stop="20250310110000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310110000 +0000" stop="20250310120000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310120000 +0000" stop="20250310133000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310133000 +0000" stop="20250310153000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310153000 +0000" stop="20250310163000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310163000 +0000" stop="20250310165950 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250310165950 +0000" stop="20250310165959 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307170000 +0000" stop="20250307180000 +0000" channel="TVRISport.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307180000 +0000" stop="20250307183000 +0000" channel="TVRISport.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250307183000 +0000" stop="20250307190000 +0000" channel="TVRISport.id"><title lang="id">The Schedule Is Not Available</title></programme>
