@@ -1350,12 +1350,10 @@
 <programme start="20250410080000 +0000" stop="20250410090000 +0000" channel="DensFoodChannel.id"><title lang="id">The Food Ranger</title></programme>
 <programme start="20250410090000 +0000" stop="20250410100000 +0000" channel="DensFoodChannel.id"><title lang="id">Mark Wiens Around The World</title></programme>
 <programme start="20250410100000 +0000" stop="20250410110000 +0000" channel="DensFoodChannel.id"><title lang="id">Almazan Kitchen</title></programme>
-<programme start="20250410110000 +0000" stop="20250410130000 +0000" channel="DensFoodChannel.id"><title lang="id">Live Cooking (Recorded)</title></programme>
-<programme start="20250410130000 +0000" stop="20250410140000 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
+<programme start="20250410110000 +0000" stop="20250410140000 +0000" channel="DensFoodChannel.id"><title lang="id">Live Cooking (Recorded)</title></programme>
 <programme start="20250410140000 +0000" stop="20250410143000 +0000" channel="DensFoodChannel.id"><title lang="id">Halal Kuliner</title></programme>
 <programme start="20250410143000 +0000" stop="20250410150000 +0000" channel="DensFoodChannel.id"><title lang="id">Pecah Rasa</title></programme>
-<programme start="20250410150000 +0000" stop="20250410153000 +0000" channel="DensFoodChannel.id"><title lang="id">Tentang Rasa</title></programme>
-<programme start="20250410153000 +0000" stop="20250410160000 +0000" channel="DensFoodChannel.id"><title lang="id">Cooking Duck</title></programme>
+<programme start="20250410150000 +0000" stop="20250410160000 +0000" channel="DensFoodChannel.id"><title lang="id">Cooking Duck</title></programme>
 <programme start="20250410160000 +0000" stop="20250410165959 +0000" channel="DensFoodChannel.id"><title lang="id">Meat And Great</title></programme>
 <programme start="20250410230000 +0000" stop="20250411000000 +0000" channel="DensFoodChannel.id"><title lang="id">How Tasty</title></programme>
 <programme start="20250411000000 +0000" stop="20250411010000 +0000" channel="DensFoodChannel.id"><title lang="id">Cooki Stacey Cook</title></programme>
@@ -1374,10 +1372,10 @@
 <programme start="20250411110000 +0000" stop="20250411120000 +0000" channel="DensFoodChannel.id"><title lang="id">Meat And Great</title></programme>
 <programme start="20250411120000 +0000" stop="20250411123000 +0000" channel="DensFoodChannel.id"><title lang="id">Escape</title></programme>
 <programme start="20250411123000 +0000" stop="20250411130000 +0000" channel="DensFoodChannel.id"><title lang="id">Ngopi Cantik</title></programme>
-<programme start="20250411130000 +0000" stop="20250411140000 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
-<programme start="20250411140000 +0000" stop="20250411143000 +0000" channel="DensFoodChannel.id"><title lang="id">Tentang Rasa</title></programme>
-<programme start="20250411143000 +0000" stop="20250411150000 +0000" channel="DensFoodChannel.id"><title lang="id">Taste Good</title></programme>
-<programme start="20250411150000 +0000" stop="20250411165959 +0000" channel="DensFoodChannel.id"><title lang="id">Live Cooking (Recorded)</title></programme>
+<programme start="20250411130000 +0000" stop="20250411134200 +0000" channel="DensFoodChannel.id"><title lang="id">The Boston</title></programme>
+<programme start="20250411134200 +0000" stop="20250411140000 +0000" channel="DensFoodChannel.id"><title lang="id">Tentang Rasa</title></programme>
+<programme start="20250411140000 +0000" stop="20250411142600 +0000" channel="DensFoodChannel.id"><title lang="id">Taste Good</title></programme>
+<programme start="20250411142600 +0000" stop="20250411165959 +0000" channel="DensFoodChannel.id"><title lang="id">Live Cooking (Recorded)</title></programme>
 <programme start="20250408230000 +0000" stop="20250409000000 +0000" channel="DensLearningKnowledge.id"><title lang="id">Wild Daily</title></programme>
 <programme start="20250409000000 +0000" stop="20250409010000 +0000" channel="DensLearningKnowledge.id"><title lang="id">The Story Of</title></programme>
 <programme start="20250409010000 +0000" stop="20250409020000 +0000" channel="DensLearningKnowledge.id"><title lang="id">Big Think</title></programme>
@@ -3633,26 +3631,84 @@
 <programme start="20250411160000 +0000" stop="20250411163000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20250411163000 +0000" stop="20250411165950 +0000" channel="NHKWorldJapan.jp"><title lang="id">Frontrunners</title></programme>
 <programme start="20250411165950 +0000" stop="20250411165959 +0000" channel="NHKWorldJapan.jp"><title lang="id">Frontrunners</title></programme>
-<programme start="20250408170000 +0000" stop="20250408180000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250408180000 +0000" stop="20250408200000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250408200000 +0000" stop="20250408213000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250408213000 +0000" stop="20250408230000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250408230000 +0000" stop="20250408235900 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250408235900 +0000" stop="20250409010000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409010000 +0000" stop="20250409013000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409013000 +0000" stop="20250409030000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409030000 +0000" stop="20250409050000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409050000 +0000" stop="20250409060000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409060000 +0000" stop="20250409063000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409063000 +0000" stop="20250409070000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409070000 +0000" stop="20250409083000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409083000 +0000" stop="20250409110000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409110000 +0000" stop="20250409120000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409120000 +0000" stop="20250409133000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409133000 +0000" stop="20250409153000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409153000 +0000" stop="20250409163000 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409163000 +0000" stop="20250409165950 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250409165950 +0000" stop="20250409165959 +0000" channel="NusantaraTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250408170000 +0000" stop="20250408170000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250408180000 +0000" stop="20250408180000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250408190000 +0000" stop="20250408190000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250408210000 +0000" stop="20250408210000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE SENANDUNG RELIGI</title></programme>
+<programme start="20250408220000 +0000" stop="20250408220000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250408230000 +0000" stop="20250408230000 +0000" channel="NusantaraTV.id"><title lang="id">NTV MORNING</title></programme>
+<programme start="20250409003000 +0000" stop="20250409003000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250409013000 +0000" stop="20250409013000 +0000" channel="NusantaraTV.id"><title lang="id">OOH I SEE</title></programme>
+<programme start="20250409023000 +0000" stop="20250409023000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE SENANDUNG RELIGI</title></programme>
+<programme start="20250409030000 +0000" stop="20250409030000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250409040000 +0000" stop="20250409040000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250409050000 +0000" stop="20250409050000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20250409063000 +0000" stop="20250409063000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250409073000 +0000" stop="20250409073000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250409083000 +0000" stop="20250409083000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250409090000 +0000" stop="20250409090000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250409100000 +0000" stop="20250409100000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250409110000 +0000" stop="20250409110000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20250409113000 +0000" stop="20250409113000 +0000" channel="NusantaraTV.id"><title lang="id">NUSANTARASA</title></programme>
+<programme start="20250409120000 +0000" stop="20250409120000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250409130000 +0000" stop="20250409130000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250409150000 +0000" stop="20250409150000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
+<programme start="20250409153000 +0000" stop="20250409153000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20250409160000 +0000" stop="20250409160000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250409165950 +0000" stop="20250409165950 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250409165959 +0000" stop="20250409165959 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250409170000 +0000" stop="20250409170000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250409180000 +0000" stop="20250409180000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250409190000 +0000" stop="20250409190000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250409210000 +0000" stop="20250409210000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE SENANDUNG RELIGI</title></programme>
+<programme start="20250409220000 +0000" stop="20250409220000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250409230000 +0000" stop="20250409230000 +0000" channel="NusantaraTV.id"><title lang="id">NTV MORNING</title></programme>
+<programme start="20250410003000 +0000" stop="20250410003000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250410013000 +0000" stop="20250410013000 +0000" channel="NusantaraTV.id"><title lang="id">OOH I SEE</title></programme>
+<programme start="20250410023000 +0000" stop="20250410023000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE SENANDUNG RELIGI</title></programme>
+<programme start="20250410030000 +0000" stop="20250410030000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250410040000 +0000" stop="20250410040000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250410050000 +0000" stop="20250410050000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20250410063000 +0000" stop="20250410063000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250410073000 +0000" stop="20250410073000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250410083000 +0000" stop="20250410083000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250410090000 +0000" stop="20250410090000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250410100000 +0000" stop="20250410100000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250410110000 +0000" stop="20250410110000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20250410113000 +0000" stop="20250410113000 +0000" channel="NusantaraTV.id"><title lang="id">NUSANTARASA</title></programme>
+<programme start="20250410120000 +0000" stop="20250410120000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250410130000 +0000" stop="20250410130000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250410150000 +0000" stop="20250410150000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
+<programme start="20250410153000 +0000" stop="20250410153000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20250410160000 +0000" stop="20250410160000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250410165950 +0000" stop="20250410165950 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250410165959 +0000" stop="20250410165959 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250410170000 +0000" stop="20250410170000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250410180000 +0000" stop="20250410180000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250410190000 +0000" stop="20250410190000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250410210000 +0000" stop="20250410210000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE SENANDUNG RELIGI</title></programme>
+<programme start="20250410220000 +0000" stop="20250410220000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250410230000 +0000" stop="20250410230000 +0000" channel="NusantaraTV.id"><title lang="id">NTV MORNING</title></programme>
+<programme start="20250411003000 +0000" stop="20250411003000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250411013000 +0000" stop="20250411013000 +0000" channel="NusantaraTV.id"><title lang="id">OOH I SEE</title></programme>
+<programme start="20250411023000 +0000" stop="20250411023000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE SENANDUNG RELIGI</title></programme>
+<programme start="20250411030000 +0000" stop="20250411030000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250411040000 +0000" stop="20250411040000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250411050000 +0000" stop="20250411050000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20250411063000 +0000" stop="20250411063000 +0000" channel="NusantaraTV.id"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20250411073000 +0000" stop="20250411073000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250411083000 +0000" stop="20250411083000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TODAY</title></programme>
+<programme start="20250411090000 +0000" stop="20250411090000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
+<programme start="20250411100000 +0000" stop="20250411100000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250411110000 +0000" stop="20250411110000 +0000" channel="NusantaraTV.id"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20250411113000 +0000" stop="20250411113000 +0000" channel="NusantaraTV.id"><title lang="id">NUSANTARASA</title></programme>
+<programme start="20250411120000 +0000" stop="20250411120000 +0000" channel="NusantaraTV.id"><title lang="id">NTV PRIME</title></programme>
+<programme start="20250411130000 +0000" stop="20250411130000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20250411150000 +0000" stop="20250411150000 +0000" channel="NusantaraTV.id"><title lang="id">NTV SPORT</title></programme>
+<programme start="20250411153000 +0000" stop="20250411153000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20250411160000 +0000" stop="20250411160000 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250411165950 +0000" stop="20250411165950 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20250411165959 +0000" stop="20250411165959 +0000" channel="NusantaraTV.id"><title lang="id">KOK BISA VIRAL</title></programme>
 <programme start="20250408170000 +0000" stop="20250408180000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250408180000 +0000" stop="20250408200000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250408200000 +0000" stop="20250408213000 +0000" channel="RajawaliTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
