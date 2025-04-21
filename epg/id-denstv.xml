@@ -66,6 +66,41 @@
 <channel id="TVRISport.id"><display-name>TVRI Sport</display-name><icon src="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png"/><url>https://dens.tv</url></channel>
 <channel id="WION.in"><display-name>WION</display-name><icon src="https://i.imgur.com/Wc5Z3iS.png"/><url>https://dens.tv</url></channel>
 <channel id="WSport.za"><display-name>W-Sport</display-name><icon src="https://i.imgur.com/K4GDwMp.png"/><url>https://dens.tv</url></channel>
+<programme start="20250420170000 +0000" stop="20250420173000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420173000 +0000" stop="20250420180000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420180000 +0000" stop="20250420183000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420183000 +0000" stop="20250420190000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420190000 +0000" stop="20250420203000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420200000 +0000" stop="20250420203000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420203000 +0000" stop="20250420200000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420203000 +0000" stop="20250420210000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420210000 +0000" stop="20250420213000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420213000 +0000" stop="20250420220000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420220000 +0000" stop="20250420223000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420223000 +0000" stop="20250420230000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420230000 +0000" stop="20250420233000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420233000 +0000" stop="20250421000000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421000000 +0000" stop="20250421003000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421003000 +0000" stop="20250421010000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421010000 +0000" stop="20250421013000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421013000 +0000" stop="20250421020000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421020000 +0000" stop="20250421023000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421023000 +0000" stop="20250421030000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421030000 +0000" stop="20250421033000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421033000 +0000" stop="20250421040000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421040000 +0000" stop="20250421043000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421043000 +0000" stop="20250421050000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421050000 +0000" stop="20250421053000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421053000 +0000" stop="20250421060000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421060000 +0000" stop="20250421063000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421063000 +0000" stop="20250421070000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421070000 +0000" stop="20250421090000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421090000 +0000" stop="20250421140000 +0000" channel="3"><title lang="id">BREAKING NEWS (LIVE)</title></programme>
+<programme start="20250421140000 +0000" stop="20250421143000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421143000 +0000" stop="20250421150000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421150000 +0000" stop="20250421153000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421153000 +0000" stop="20250421160000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250421160000 +0000" stop="20250421163000 +0000" channel="3"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250420170000 +0000" stop="20250420180000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250420180000 +0000" stop="20250420200000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250420200000 +0000" stop="20250420213000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1503,8 +1538,7 @@
 <programme start="20250422010000 +0000" stop="20250422030000 +0000" channel="DensPlay.id"><title lang="id">WTG by Lalajo Laura</title></programme>
 <programme start="20250422030000 +0000" stop="20250422040000 +0000" channel="DensPlay.id"><title lang="id">TenZ Valorant</title></programme>
 <programme start="20250422040000 +0000" stop="20250422050000 +0000" channel="DensPlay.id"><title lang="id">Gameranx Before You Buy</title></programme>
-<programme start="20250422050000 +0000" stop="20250422053000 +0000" channel="DensPlay.id"><title lang="id">CBN Survivor Showdown S4</title></programme>
-<programme start="20250422053000 +0000" stop="20250422060000 +0000" channel="DensPlay.id"><title lang="id">Highlight Xccurate</title></programme>
+<programme start="20250422050000 +0000" stop="20250422060000 +0000" channel="DensPlay.id"><title lang="id">CBN Survivor Showdown S4</title></programme>
 <programme start="20250422060000 +0000" stop="20250422063000 +0000" channel="DensPlay.id"><title lang="id">Evos TV</title></programme>
 <programme start="20250422063000 +0000" stop="20250422070000 +0000" channel="DensPlay.id"><title lang="id">Rabinfi Racing Tim</title></programme>
 <programme start="20250422070000 +0000" stop="20250422080000 +0000" channel="DensPlay.id"><title lang="id">Markiplier Game</title></programme>
@@ -2606,6 +2640,76 @@
 <programme start="20250421162500 +0000" stop="20250421165000 +0000" channel="KBSKorea.kr"><title lang="id">Hutos</title></programme>
 <programme start="20250421165000 +0000" stop="20250421165950 +0000" channel="KBSKorea.kr"><title lang="id">Korean Language Competition</title></programme>
 <programme start="20250421165950 +0000" stop="20250421165959 +0000" channel="KBSKorea.kr"><title lang="id">Korean Language Competition</title></programme>
+<programme start="20250421170000 +0000" stop="20250421174000 +0000" channel="KBSKorea.kr"><title lang="id">Korean Language Competition Episode 1039Â</title><episode-num system="xmltv_ns">0.1038.0/1</episode-num><episode-num system="onscreen">S01E1039</episode-num></programme>
+<programme start="20250421174000 +0000" stop="20250421181000 +0000" channel="KBSKorea.kr"><title lang="id">Good Luck! Episode 6Â</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20250421181000 +0000" stop="20250421190000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 9 [LIVE]</title></programme>
+<programme start="20250421190000 +0000" stop="20250421200000 +0000" channel="KBSKorea.kr"><title lang="id">Golden Oldies Episode 1895Â</title><episode-num system="xmltv_ns">0.1894.0/1</episode-num><episode-num system="onscreen">S01E1895</episode-num></programme>
+<programme start="20250421200000 +0000" stop="20250421201000 +0000" channel="KBSKorea.kr"><title lang="id">Discovery in Daily Life</title></programme>
+<programme start="20250421201000 +0000" stop="20250421210000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report Special</title></programme>
+<programme start="20250421210000 +0000" stop="20250421225000 +0000" channel="KBSKorea.kr"><title lang="id">News Plaza</title></programme>
+<programme start="20250421225000 +0000" stop="20250421232500 +0000" channel="KBSKorea.kr"><title lang="id">Screening Humanity</title></programme>
+<programme start="20250421232500 +0000" stop="20250422003000 +0000" channel="KBSKorea.kr"><title lang="id">Morning Forum</title></programme>
+<programme start="20250422003000 +0000" stop="20250422010000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 930</title></programme>
+<programme start="20250422010000 +0000" stop="20250422020500 +0000" channel="KBSKorea.kr"><title lang="id">Any Questions</title></programme>
+<programme start="20250422020500 +0000" stop="20250422030000 +0000" channel="KBSKorea.kr"><title lang="id">Field Report Companion</title></programme>
+<programme start="20250422030000 +0000" stop="20250422040000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 12</title></programme>
+<programme start="20250422040000 +0000" stop="20250422045000 +0000" channel="KBSKorea.kr"><title lang="id">KBS Network Special: Our Neighborhood</title></programme>
+<programme start="20250422045000 +0000" stop="20250422050000 +0000" channel="KBSKorea.kr"><title lang="id">Discovery in Daily Life</title></programme>
+<programme start="20250422050000 +0000" stop="20250422051000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News</title></programme>
+<programme start="20250422051000 +0000" stop="20250422060000 +0000" channel="KBSKorea.kr"><title lang="id">Mysteries of the Human Body</title></programme>
+<programme start="20250422060000 +0000" stop="20250422061000 +0000" channel="KBSKorea.kr"><title lang="id">Where is this? Episode 5Â</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20250422061000 +0000" stop="20250422070000 +0000" channel="KBSKorea.kr"><title lang="id">Backpack Travels</title></programme>
+<programme start="20250422070000 +0000" stop="20250422080000 +0000" channel="KBSKorea.kr"><title lang="id">Each and Every Case</title></programme>
+<programme start="20250422080000 +0000" stop="20250422083000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 5</title></programme>
+<programme start="20250422083000 +0000" stop="20250422090000 +0000" channel="KBSKorea.kr"><title lang="id">Hutos - The Lost Forest Episode 9Â</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20250422090000 +0000" stop="20250422100000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report</title></programme>
+<programme start="20250422100000 +0000" stop="20250422104000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 7</title></programme>
+<programme start="20250422104000 +0000" stop="20250422113000 +0000" channel="KBSKorea.kr"><title lang="id">My Neighbor, Charles Episode 481Â</title><episode-num system="xmltv_ns">0.480.0/1</episode-num><episode-num system="onscreen">S01E481</episode-num></programme>
+<programme start="20250422113000 +0000" stop="20250422120000 +0000" channel="KBSKorea.kr"><title lang="id">Good Luck! Episode 7Â</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20250422120000 +0000" stop="20250422130000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 9 [LIVE]</title></programme>
+<programme start="20250422130000 +0000" stop="20250422135000 +0000" channel="KBSKorea.kr"><title lang="id">Documentary Window</title></programme>
+<programme start="20250422135000 +0000" stop="20250422144000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report Special</title></programme>
+<programme start="20250422144000 +0000" stop="20250422151500 +0000" channel="KBSKorea.kr"><title lang="id">Screening Humanity</title></programme>
+<programme start="20250422151500 +0000" stop="20250422162000 +0000" channel="KBSKorea.kr"><title lang="id">Morning Forum</title></programme>
+<programme start="20250422162000 +0000" stop="20250422164500 +0000" channel="KBSKorea.kr"><title lang="id">Hutos - The Lost Forest Episode 9Â</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20250422164500 +0000" stop="20250422165950 +0000" channel="KBSKorea.kr"><title lang="id">My Neighbor, Charles Episode 481Â</title><episode-num system="xmltv_ns">0.480.0/1</episode-num><episode-num system="onscreen">S01E481</episode-num></programme>
+<programme start="20250422165950 +0000" stop="20250422165959 +0000" channel="KBSKorea.kr"><title lang="id">My Neighbor, Charles Episode 481Â</title><episode-num system="xmltv_ns">0.480.0/1</episode-num><episode-num system="onscreen">S01E481</episode-num></programme>
+<programme start="20250422170000 +0000" stop="20250422173500 +0000" channel="KBSKorea.kr"><title lang="id">My Neighbor, Charles Episode 481Â</title><episode-num system="xmltv_ns">0.480.0/1</episode-num><episode-num system="onscreen">S01E481</episode-num></programme>
+<programme start="20250422173500 +0000" stop="20250422180500 +0000" channel="KBSKorea.kr"><title lang="id">Good Luck! Episode 7Â</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20250422180500 +0000" stop="20250422190000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 9 [LIVE]</title></programme>
+<programme start="20250422190000 +0000" stop="20250422200000 +0000" channel="KBSKorea.kr"><title lang="id">Documentary Window</title></programme>
+<programme start="20250422200000 +0000" stop="20250422201000 +0000" channel="KBSKorea.kr"><title lang="id">Discovery in Daily Life</title></programme>
+<programme start="20250422201000 +0000" stop="20250422210000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report Special</title></programme>
+<programme start="20250422210000 +0000" stop="20250422225000 +0000" channel="KBSKorea.kr"><title lang="id">News Plaza</title></programme>
+<programme start="20250422225000 +0000" stop="20250422232500 +0000" channel="KBSKorea.kr"><title lang="id">Screening Humanity</title></programme>
+<programme start="20250422232500 +0000" stop="20250423003000 +0000" channel="KBSKorea.kr"><title lang="id">Morning Forum</title></programme>
+<programme start="20250423003000 +0000" stop="20250423010000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 930</title></programme>
+<programme start="20250423010000 +0000" stop="20250423021000 +0000" channel="KBSKorea.kr"><title lang="id">Any Questions</title></programme>
+<programme start="20250423021000 +0000" stop="20250423030000 +0000" channel="KBSKorea.kr"><title lang="id">Documentary Window</title></programme>
+<programme start="20250423030000 +0000" stop="20250423040000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 12</title></programme>
+<programme start="20250423040000 +0000" stop="20250423045000 +0000" channel="KBSKorea.kr"><title lang="id">Stories Behind Place Names</title></programme>
+<programme start="20250423045000 +0000" stop="20250423050000 +0000" channel="KBSKorea.kr"><title lang="id">Discovery in Daily Life</title></programme>
+<programme start="20250423050000 +0000" stop="20250423051000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News</title></programme>
+<programme start="20250423051000 +0000" stop="20250423061000 +0000" channel="KBSKorea.kr"><title lang="id">Who Sings Better Episode 960Â</title><episode-num system="xmltv_ns">0.959.0/1</episode-num><episode-num system="onscreen">S01E960</episode-num></programme>
+<programme start="20250423061000 +0000" stop="20250423064000 +0000" channel="KBSKorea.kr"><title lang="id">Kids&apos; Animal TV</title></programme>
+<programme start="20250423064000 +0000" stop="20250423064500 +0000" channel="KBSKorea.kr"><title lang="id">ItÃ¢â‚¬â„¢s Okay to Be Inconvenient</title></programme>
+<programme start="20250423064500 +0000" stop="20250423070000 +0000" channel="KBSKorea.kr"><title lang="id">Dishes of Korea</title></programme>
+<programme start="20250423070000 +0000" stop="20250423080000 +0000" channel="KBSKorea.kr"><title lang="id">Each and Every Case</title></programme>
+<programme start="20250423080000 +0000" stop="20250423082000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 5</title></programme>
+<programme start="20250423082000 +0000" stop="20250423083000 +0000" channel="KBSKorea.kr"><title lang="id">The 21st Presidential Election Party Platform Speech</title></programme>
+<programme start="20250423083000 +0000" stop="20250423090000 +0000" channel="KBSKorea.kr"><title lang="id">Hutos - The Lost Forest Episode 10Â</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20250423090000 +0000" stop="20250423100000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report</title></programme>
+<programme start="20250423100000 +0000" stop="20250423104000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 7</title></programme>
+<programme start="20250423104000 +0000" stop="20250423113000 +0000" channel="KBSKorea.kr"><title lang="id">KBS Network Special: Our Golden Calf</title></programme>
+<programme start="20250423113000 +0000" stop="20250423120000 +0000" channel="KBSKorea.kr"><title lang="id">Good Luck! Episode 8Â</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20250423120000 +0000" stop="20250423130000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 9 [LIVE]</title></programme>
+<programme start="20250423130000 +0000" stop="20250423135000 +0000" channel="KBSKorea.kr"><title lang="id">Mysteries of the Human Body Episode 948Â</title><episode-num system="xmltv_ns">0.947.0/1</episode-num><episode-num system="onscreen">S01E948</episode-num></programme>
+<programme start="20250423135000 +0000" stop="20250423144000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report Special</title></programme>
+<programme start="20250423144000 +0000" stop="20250423151500 +0000" channel="KBSKorea.kr"><title lang="id">Screening Humanity</title></programme>
+<programme start="20250423151500 +0000" stop="20250423162000 +0000" channel="KBSKorea.kr"><title lang="id">Morning Forum</title></programme>
+<programme start="20250423162000 +0000" stop="20250423164500 +0000" channel="KBSKorea.kr"><title lang="id">Hutos - The Lost Forest Episode 10Â</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20250423164500 +0000" stop="20250423165950 +0000" channel="KBSKorea.kr"><title lang="id">KBS Network Special: Our Golden Calf</title></programme>
+<programme start="20250423165950 +0000" stop="20250423165959 +0000" channel="KBSKorea.kr"><title lang="id">KBS Network Special: Our Golden Calf</title></programme>
 <programme start="20250420170000 +0000" stop="20250420171500 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons Episode 4Â</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
 <programme start="20250420171500 +0000" stop="20250420185500 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4 Episode 269Â</title><episode-num system="xmltv_ns">0.268.0/1</episode-num><episode-num system="onscreen">S01E269</episode-num></programme>
 <programme start="20250420185500 +0000" stop="20250420201000 +0000" channel="KBSWorld.kr"><title lang="id">The Return of Superman Episode 568Â</title><episode-num system="xmltv_ns">0.567.0/1</episode-num><episode-num system="onscreen">S01E568</episode-num></programme>
@@ -2631,6 +2735,60 @@
 <programme start="20250421153500 +0000" stop="20250421165000 +0000" channel="KBSWorld.kr"><title lang="id">The Slave Hunters Episode 7Â</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
 <programme start="20250421165000 +0000" stop="20250421165950 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4 Episode 269Â</title><episode-num system="xmltv_ns">0.268.0/1</episode-num><episode-num system="onscreen">S01E269</episode-num></programme>
 <programme start="20250421165950 +0000" stop="20250421165959 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4 Episode 269Â</title><episode-num system="xmltv_ns">0.268.0/1</episode-num><episode-num system="onscreen">S01E269</episode-num></programme>
+<programme start="20250421170000 +0000" stop="20250421183000 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4 Episode 269</title><episode-num system="xmltv_ns">0.268.0/1</episode-num><episode-num system="onscreen">S01E269</episode-num></programme>
+<programme start="20250421183000 +0000" stop="20250421190500 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! Episode 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20250421190500 +0000" stop="20250421194500 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game Episode 92</title><episode-num system="xmltv_ns">0.91.0/1</episode-num><episode-num system="onscreen">S01E92</episode-num></programme>
+<programme start="20250421194500 +0000" stop="20250421210000 +0000" channel="KBSWorld.kr"><title lang="id">Villains Everywhere Episode 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20250421210000 +0000" stop="20250421223000 +0000" channel="KBSWorld.kr"><title lang="id">Stars&apos; Top Recipe at Fun-Staurant Episode 266</title><episode-num system="xmltv_ns">0.265.0/1</episode-num><episode-num system="onscreen">S01E266</episode-num></programme>
+<programme start="20250421223000 +0000" stop="20250421231000 +0000" channel="KBSWorld.kr"><title lang="id">Snow White&apos;s Revenge Episode 41</title><episode-num system="xmltv_ns">0.40.0/1</episode-num><episode-num system="onscreen">S01E41</episode-num></programme>
+<programme start="20250421231000 +0000" stop="20250422002500 +0000" channel="KBSWorld.kr"><title lang="id">The Slave Hunters Episode 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20250422002500 +0000" stop="20250422010000 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! Episode 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20250422010000 +0000" stop="20250422014000 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game Episode 92</title><episode-num system="xmltv_ns">0.91.0/1</episode-num><episode-num system="onscreen">S01E92</episode-num></programme>
+<programme start="20250422014000 +0000" stop="20250422022000 +0000" channel="KBSWorld.kr"><title lang="id">Snow White&apos;s Revenge Episode 41</title><episode-num system="xmltv_ns">0.40.0/1</episode-num><episode-num system="onscreen">S01E41</episode-num></programme>
+<programme start="20250422022000 +0000" stop="20250422033500 +0000" channel="KBSWorld.kr"><title lang="id">For Eagle Brothers Episode 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250422033500 +0000" stop="20250422034000 +0000" channel="KBSWorld.kr"><title lang="id">The Best of Immortal Songs</title></programme>
+<programme start="20250422034000 +0000" stop="20250422051000 +0000" channel="KBSWorld.kr"><title lang="id">Stars&apos; Top Recipe at Fun-Staurant Episode 266</title><episode-num system="xmltv_ns">0.265.0/1</episode-num><episode-num system="onscreen">S01E266</episode-num></programme>
+<programme start="20250422051000 +0000" stop="20250422062500 +0000" channel="KBSWorld.kr"><title lang="id">Villains Everywhere Episode 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20250422062500 +0000" stop="20250422074000 +0000" channel="KBSWorld.kr"><title lang="id">The Slave Hunters Episode 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20250422074000 +0000" stop="20250422080000 +0000" channel="KBSWorld.kr"><title lang="id">KBS WORLD News Today</title></programme>
+<programme start="20250422080000 +0000" stop="20250422085500 +0000" channel="KBSWorld.kr"><title lang="id">DOCU INSIGHT</title></programme>
+<programme start="20250422085500 +0000" stop="20250422102000 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons Episode 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20250422102000 +0000" stop="20250422113500 +0000" channel="KBSWorld.kr"><title lang="id">Queen of Mystery Season 2 Episode 6</title><episode-num system="xmltv_ns">1.5.0/1</episode-num><episode-num system="onscreen">S02E06</episode-num></programme>
+<programme start="20250422113500 +0000" stop="20250422121000 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! Episode 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250422121000 +0000" stop="20250422125000 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game Episode 93</title><episode-num system="xmltv_ns">0.92.0/1</episode-num><episode-num system="onscreen">S01E93</episode-num></programme>
+<programme start="20250422125000 +0000" stop="20250422140500 +0000" channel="KBSWorld.kr"><title lang="id">Villains Everywhere Episode 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250422140500 +0000" stop="20250422153500 +0000" channel="KBSWorld.kr"><title lang="id">Moving Voices Episode 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20250422153500 +0000" stop="20250422165000 +0000" channel="KBSWorld.kr"><title lang="id">The Slave Hunters Episode 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20250422165000 +0000" stop="20250422165950 +0000" channel="KBSWorld.kr"><title lang="id">Immortal Songs Episode 700</title><episode-num system="xmltv_ns">0.699.0/1</episode-num><episode-num system="onscreen">S01E700</episode-num></programme>
+<programme start="20250422165950 +0000" stop="20250422165959 +0000" channel="KBSWorld.kr"><title lang="id">Immortal Songs Episode 700</title><episode-num system="xmltv_ns">0.699.0/1</episode-num><episode-num system="onscreen">S01E700</episode-num></programme>
+<programme start="20250422170000 +0000" stop="20250422183000 +0000" channel="KBSWorld.kr"><title lang="id">Immortal Songs Episode 700</title><episode-num system="xmltv_ns">0.699.0/1</episode-num><episode-num system="onscreen">S01E700</episode-num></programme>
+<programme start="20250422183000 +0000" stop="20250422190500 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! Episode 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250422190500 +0000" stop="20250422194500 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game Episode 93</title><episode-num system="xmltv_ns">0.92.0/1</episode-num><episode-num system="onscreen">S01E93</episode-num></programme>
+<programme start="20250422194500 +0000" stop="20250422210000 +0000" channel="KBSWorld.kr"><title lang="id">Villains Everywhere Episode 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250422210000 +0000" stop="20250422223000 +0000" channel="KBSWorld.kr"><title lang="id">Moving Voices Episode 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20250422223000 +0000" stop="20250422231000 +0000" channel="KBSWorld.kr"><title lang="id">Snow White&apos;s Revenge Episode 42</title><episode-num system="xmltv_ns">0.41.0/1</episode-num><episode-num system="onscreen">S01E42</episode-num></programme>
+<programme start="20250422231000 +0000" stop="20250423002500 +0000" channel="KBSWorld.kr"><title lang="id">The Slave Hunters Episode 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20250423002500 +0000" stop="20250423010000 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! Episode 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250423010000 +0000" stop="20250423014000 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game Episode 93</title><episode-num system="xmltv_ns">0.92.0/1</episode-num><episode-num system="onscreen">S01E93</episode-num></programme>
+<programme start="20250423014000 +0000" stop="20250423022000 +0000" channel="KBSWorld.kr"><title lang="id">Snow White&apos;s Revenge Episode 42</title><episode-num system="xmltv_ns">0.41.0/1</episode-num><episode-num system="onscreen">S01E42</episode-num></programme>
+<programme start="20250423022000 +0000" stop="20250423033500 +0000" channel="KBSWorld.kr"><title lang="id">For Eagle Brothers Episode 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250423033500 +0000" stop="20250423034000 +0000" channel="KBSWorld.kr"><title lang="id">ROUND PLAYLIST</title></programme>
+<programme start="20250423034000 +0000" stop="20250423051000 +0000" channel="KBSWorld.kr"><title lang="id">Moving Voices Episode 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20250423051000 +0000" stop="20250423062500 +0000" channel="KBSWorld.kr"><title lang="id">Villains Everywhere Episode 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250423062500 +0000" stop="20250423074000 +0000" channel="KBSWorld.kr"><title lang="id">The Slave Hunters Episode 8</title><episode-num system="xmltv_ns">0.7.0/1</episode-num><episode-num system="onscreen">S01E08</episode-num></programme>
+<programme start="20250423074000 +0000" stop="20250423080000 +0000" channel="KBSWorld.kr"><title lang="id">KBS WORLD News Today</title></programme>
+<programme start="20250423080000 +0000" stop="20250423084000 +0000" channel="KBSWorld.kr"><title lang="id">My Only One Episode 29</title><episode-num system="xmltv_ns">0.28.0/1</episode-num><episode-num system="onscreen">S01E29</episode-num></programme>
+<programme start="20250423084000 +0000" stop="20250423091500 +0000" channel="KBSWorld.kr"><title lang="id">My Only One Episode 30</title><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
+<programme start="20250423091500 +0000" stop="20250423095500 +0000" channel="KBSWorld.kr"><title lang="id">My Only One Episode 31</title><episode-num system="xmltv_ns">0.30.0/1</episode-num><episode-num system="onscreen">S01E31</episode-num></programme>
+<programme start="20250423095500 +0000" stop="20250423102500 +0000" channel="KBSWorld.kr"><title lang="id">My Only One Episode 32</title><episode-num system="xmltv_ns">0.31.0/1</episode-num><episode-num system="onscreen">S01E32</episode-num></programme>
+<programme start="20250423102500 +0000" stop="20250423113500 +0000" channel="KBSWorld.kr"><title lang="id">The Return of Superman Episode 568</title><episode-num system="xmltv_ns">0.567.0/1</episode-num><episode-num system="onscreen">S01E568</episode-num></programme>
+<programme start="20250423113500 +0000" stop="20250423121000 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! Episode 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20250423121000 +0000" stop="20250423125000 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game Episode 94</title><episode-num system="xmltv_ns">0.93.0/1</episode-num><episode-num system="onscreen">S01E94</episode-num></programme>
+<programme start="20250423125000 +0000" stop="20250423140500 +0000" channel="KBSWorld.kr"><title lang="id">2019 Drama Special</title></programme>
+<programme start="20250423140500 +0000" stop="20250423152000 +0000" channel="KBSWorld.kr"><title lang="id">Animals Are Incredible Episode 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250423152000 +0000" stop="20250423153500 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons W</title></programme>
+<programme start="20250423153500 +0000" stop="20250423165950 +0000" channel="KBSWorld.kr"><title lang="id">Stars&apos; Top Recipe at Fun-Staurant Episode 266</title><episode-num system="xmltv_ns">0.265.0/1</episode-num><episode-num system="onscreen">S01E266</episode-num></programme>
+<programme start="20250423165950 +0000" stop="20250423165959 +0000" channel="KBSWorld.kr"><title lang="id">Stars&apos; Top Recipe at Fun-Staurant Episode 266</title><episode-num system="xmltv_ns">0.265.0/1</episode-num><episode-num system="onscreen">S01E266</episode-num></programme>
 <programme start="20250420170000 +0000" stop="20250420180000 +0000" channel="KIX.hk"><title lang="id">The Fishermen and the Sea S3</title></programme>
 <programme start="20250420180000 +0000" stop="20250420193000 +0000" channel="KIX.hk"><title lang="id">Iron Squad 2</title></programme>
 <programme start="20250420193000 +0000" stop="20250420195500 +0000" channel="KIX.hk"><title lang="id">RUTE:Toughness Redefined</title></programme>
@@ -3778,88 +3936,87 @@
 <programme start="20250423143000 +0000" stop="20250423162500 +0000" channel="ROCKAction.sg"><title lang="id">Bad Boys</title></programme>
 <programme start="20250423162500 +0000" stop="20250423165950 +0000" channel="ROCKAction.sg"><title lang="id">Backdraft 2</title></programme>
 <programme start="20250423165950 +0000" stop="20250423165959 +0000" channel="ROCKAction.sg"><title lang="id">Backdraft 2</title></programme>
-<programme start="20250420170000 +0000" stop="20250420174500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Battle In Seattle</title></programme>
-<programme start="20250420174500 +0000" stop="20250420191000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hancock</title></programme>
-<programme start="20250420191000 +0000" stop="20250420212500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Minority Report</title></programme>
-<programme start="20250420212500 +0000" stop="20250420230000 +0000" channel="ROCKEntertainment.sg"><title lang="id">City Of Ember</title></programme>
-<programme start="20250420230000 +0000" stop="20250420234500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers S12 - EP85</title></programme>
-<programme start="20250420234500 +0000" stop="20250421003000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon S12 - EP103</title></programme>
-<programme start="20250421003000 +0000" stop="20250421011500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP14</title></programme>
-<programme start="20250421011500 +0000" stop="20250421020000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP15</title></programme>
-<programme start="20250421020000 +0000" stop="20250421024500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP16</title></programme>
-<programme start="20250421024500 +0000" stop="20250421032500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP17</title></programme>
-<programme start="20250421032500 +0000" stop="20250421041000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP18</title></programme>
-<programme start="20250421041000 +0000" stop="20250421054000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hancock</title></programme>
-<programme start="20250421054000 +0000" stop="20250421062500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon S12 - EP103</title></programme>
-<programme start="20250421062500 +0000" stop="20250421071000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers S12 - EP85</title></programme>
-<programme start="20250421071000 +0000" stop="20250421075500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP14</title></programme>
-<programme start="20250421075500 +0000" stop="20250421084000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP15</title></programme>
-<programme start="20250421084000 +0000" stop="20250421092500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP16</title></programme>
-<programme start="20250421092500 +0000" stop="20250421101000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP17</title></programme>
-<programme start="20250421101000 +0000" stop="20250421123000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Minority Report</title></programme>
-<programme start="20250421123000 +0000" stop="20250421131500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP18</title></programme>
-<programme start="20250421131500 +0000" stop="20250421140000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP19</title></programme>
-<programme start="20250421140000 +0000" stop="20250421144500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP18</title></programme>
-<programme start="20250421144500 +0000" stop="20250421153000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP19</title></programme>
-<programme start="20250421153000 +0000" stop="20250421165950 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hotel Transylvania 2</title></programme>
-<programme start="20250421165950 +0000" stop="20250421165959 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hotel Transylvania 2</title></programme>
-<programme start="20250421170000 +0000" stop="20250421174500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon S12 - EP104</title></programme>
-<programme start="20250421174500 +0000" stop="20250421183000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers S12 - EP86</title></programme>
-<programme start="20250421183000 +0000" stop="20250421191500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP18</title></programme>
-<programme start="20250421191500 +0000" stop="20250421200000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP19</title></programme>
-<programme start="20250421200000 +0000" stop="20250421204500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7 - EP13</title></programme>
-<programme start="20250421204500 +0000" stop="20250421213000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7 - EP14</title></programme>
-<programme start="20250421213000 +0000" stop="20250421221500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7 - EP15</title></programme>
-<programme start="20250421221500 +0000" stop="20250421230000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7 - EP16</title></programme>
-<programme start="20250421230000 +0000" stop="20250421234500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers S12 - EP86</title></programme>
-<programme start="20250421234500 +0000" stop="20250422003000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon S12 - EP104</title></programme>
-<programme start="20250422003000 +0000" stop="20250422011000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP14</title></programme>
-<programme start="20250422011000 +0000" stop="20250422015500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP15</title></programme>
-<programme start="20250422015500 +0000" stop="20250422024000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP16</title></programme>
-<programme start="20250422024000 +0000" stop="20250422032500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP17</title></programme>
-<programme start="20250422032500 +0000" stop="20250422045500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hotel Transylvania 2</title></programme>
-<programme start="20250422045500 +0000" stop="20250422054000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP18</title></programme>
-<programme start="20250422054000 +0000" stop="20250422062500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP19</title></programme>
-<programme start="20250422062500 +0000" stop="20250422071000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon S12 - EP104</title></programme>
-<programme start="20250422071000 +0000" stop="20250422075500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers S12 - EP86</title></programme>
-<programme start="20250422075500 +0000" stop="20250422085500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP10</title></programme>
-<programme start="20250422085500 +0000" stop="20250422095500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP11</title></programme>
-<programme start="20250422095500 +0000" stop="20250422105500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP12</title></programme>
-<programme start="20250422105500 +0000" stop="20250422123000 +0000" channel="ROCKEntertainment.sg"><title lang="id">City Of Ember</title></programme>
-<programme start="20250422123000 +0000" stop="20250422131500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP17</title></programme>
-<programme start="20250422131500 +0000" stop="20250422140000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP18</title></programme>
-<programme start="20250422140000 +0000" stop="20250422144500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP17</title></programme>
-<programme start="20250422144500 +0000" stop="20250422153000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP18</title></programme>
-<programme start="20250422153000 +0000" stop="20250422165950 +0000" channel="ROCKEntertainment.sg"><title lang="id">Pixels</title></programme>
-<programme start="20250422165950 +0000" stop="20250422165959 +0000" channel="ROCKEntertainment.sg"><title lang="id">Pixels</title></programme>
-<programme start="20250422170000 +0000" stop="20250422171500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Pixels</title></programme>
-<programme start="20250422171500 +0000" stop="20250422180000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon S12 - EP105</title></programme>
-<programme start="20250422180000 +0000" stop="20250422184500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers S12 - EP87</title></programme>
-<programme start="20250422184500 +0000" stop="20250422193000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP17</title></programme>
-<programme start="20250422193000 +0000" stop="20250422201500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP18</title></programme>
-<programme start="20250422201500 +0000" stop="20250422210000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7 - EP9</title></programme>
-<programme start="20250422210000 +0000" stop="20250422214500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7 - EP10</title></programme>
-<programme start="20250422214500 +0000" stop="20250422223500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7 - EP11</title></programme>
-<programme start="20250422223500 +0000" stop="20250422230000 +0000" channel="ROCKEntertainment.sg"><title lang="id">A.P. Bio S3 - EP3</title></programme>
-<programme start="20250422230000 +0000" stop="20250422234500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers S12 - EP87</title></programme>
-<programme start="20250422234500 +0000" stop="20250423003000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon S12 - EP105</title></programme>
-<programme start="20250423003000 +0000" stop="20250423011500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: Special Victims Unit S26 - EP18</title></programme>
-<programme start="20250423011500 +0000" stop="20250423021500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP11</title></programme>
-<programme start="20250423021500 +0000" stop="20250423031500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP12</title></programme>
-<programme start="20250423031500 +0000" stop="20250423050000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Pixels</title></programme>
-<programme start="20250423050000 +0000" stop="20250423054500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP17</title></programme>
-<programme start="20250423054500 +0000" stop="20250423063000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22 - EP18</title></programme>
-<programme start="20250423063000 +0000" stop="20250423071500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon S12 - EP105</title></programme>
-<programme start="20250423071500 +0000" stop="20250423080000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers S12 - EP87</title></programme>
-<programme start="20250423080000 +0000" stop="20250423085000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Next Level Chef S4 - EP1</title></programme>
-<programme start="20250423085000 +0000" stop="20250423094000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Next Level Chef S4 - EP2</title></programme>
-<programme start="20250423094000 +0000" stop="20250423103000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Next Level Chef S4 - EP3</title></programme>
-<programme start="20250423103000 +0000" stop="20250423120000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hancock</title></programme>
-<programme start="20250423120000 +0000" stop="20250423130000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP13</title></programme>
-<programme start="20250423130000 +0000" stop="20250423140000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP14</title></programme>
-<programme start="20250423140000 +0000" stop="20250423150000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP13</title></programme>
-<programme start="20250423150000 +0000" stop="20250423160000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands - EP14</title></programme>
-<programme start="20250423160000 +0000" stop="20250423165950 +0000" channel="ROCKEntertainment.sg"><title lang="id">Minority Report</title></programme>
+<programme start="20250420170000 +0000" stop="20250420181000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hancock</title></programme>
+<programme start="20250420181000 +0000" stop="20250420202600 +0000" channel="ROCKEntertainment.sg"><title lang="id">Minority Report</title></programme>
+<programme start="20250420202600 +0000" stop="20250420220000 +0000" channel="ROCKEntertainment.sg"><title lang="id">City Of Ember</title></programme>
+<programme start="20250420220000 +0000" stop="20250420224500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 77</title><episode-num system="xmltv_ns">0.76.0/1</episode-num><episode-num system="onscreen">S01E77</episode-num></programme>
+<programme start="20250420224500 +0000" stop="20250420233000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 95</title><episode-num system="xmltv_ns">0.94.0/1</episode-num><episode-num system="onscreen">S01E95</episode-num></programme>
+<programme start="20250420233000 +0000" stop="20250421001500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20250421001500 +0000" stop="20250421010000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20250421010000 +0000" stop="20250421014500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250421014500 +0000" stop="20250421022500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250421022500 +0000" stop="20250421031000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250421031000 +0000" stop="20250421044000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hancock</title></programme>
+<programme start="20250421044000 +0000" stop="20250421052500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 95</title><episode-num system="xmltv_ns">0.94.0/1</episode-num><episode-num system="onscreen">S01E95</episode-num></programme>
+<programme start="20250421052500 +0000" stop="20250421061000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 77</title><episode-num system="xmltv_ns">0.76.0/1</episode-num><episode-num system="onscreen">S01E77</episode-num></programme>
+<programme start="20250421061000 +0000" stop="20250421065500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20250421065500 +0000" stop="20250421074000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20250421074000 +0000" stop="20250421082500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250421082500 +0000" stop="20250421091000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250421091000 +0000" stop="20250421113000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Minority Report</title></programme>
+<programme start="20250421113000 +0000" stop="20250421121500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250421121500 +0000" stop="20250421130000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 19</title><episode-num system="xmltv_ns">0.18.0/1</episode-num><episode-num system="onscreen">S01E19</episode-num></programme>
+<programme start="20250421130000 +0000" stop="20250421134500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250421134500 +0000" stop="20250421143000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 19</title><episode-num system="xmltv_ns">0.18.0/1</episode-num><episode-num system="onscreen">S01E19</episode-num></programme>
+<programme start="20250421143000 +0000" stop="20250421160000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hotel Transylvania 2</title></programme>
+<programme start="20250421160000 +0000" stop="20250421164500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 96</title><episode-num system="xmltv_ns">0.95.0/1</episode-num><episode-num system="onscreen">S01E96</episode-num></programme>
+<programme start="20250421164500 +0000" stop="20250421165950 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 78</title><episode-num system="xmltv_ns">0.77.0/1</episode-num><episode-num system="onscreen">S01E78</episode-num></programme>
+<programme start="20250421165950 +0000" stop="20250421165959 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 78</title><episode-num system="xmltv_ns">0.77.0/1</episode-num><episode-num system="onscreen">S01E78</episode-num></programme>
+<programme start="20250421170000 +0000" stop="20250421173000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 78</title><episode-num system="xmltv_ns">0.77.0/1</episode-num><episode-num system="onscreen">S01E78</episode-num></programme>
+<programme start="20250421173000 +0000" stop="20250421181500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250421181500 +0000" stop="20250421190000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 19</title><episode-num system="xmltv_ns">0.18.0/1</episode-num><episode-num system="onscreen">S01E19</episode-num></programme>
+<programme start="20250421190000 +0000" stop="20250421194500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20250421194500 +0000" stop="20250421203000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20250421203000 +0000" stop="20250421211500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7, Ep 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20250421211500 +0000" stop="20250421220000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250421220000 +0000" stop="20250421224500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 78</title><episode-num system="xmltv_ns">0.77.0/1</episode-num><episode-num system="onscreen">S01E78</episode-num></programme>
+<programme start="20250421224500 +0000" stop="20250421233000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 96</title><episode-num system="xmltv_ns">0.95.0/1</episode-num><episode-num system="onscreen">S01E96</episode-num></programme>
+<programme start="20250421233000 +0000" stop="20250422001000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20250422001000 +0000" stop="20250422005500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20250422005500 +0000" stop="20250422014000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250422014000 +0000" stop="20250422022500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250422022500 +0000" stop="20250422035500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hotel Transylvania 2</title></programme>
+<programme start="20250422035500 +0000" stop="20250422044000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250422044000 +0000" stop="20250422052500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 19</title><episode-num system="xmltv_ns">0.18.0/1</episode-num><episode-num system="onscreen">S01E19</episode-num></programme>
+<programme start="20250422052500 +0000" stop="20250422061000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 96</title><episode-num system="xmltv_ns">0.95.0/1</episode-num><episode-num system="onscreen">S01E96</episode-num></programme>
+<programme start="20250422061000 +0000" stop="20250422065500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 78</title><episode-num system="xmltv_ns">0.77.0/1</episode-num><episode-num system="onscreen">S01E78</episode-num></programme>
+<programme start="20250422065500 +0000" stop="20250422075500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20250422075500 +0000" stop="20250422085500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
+<programme start="20250422085500 +0000" stop="20250422095500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20250422095500 +0000" stop="20250422113000 +0000" channel="ROCKEntertainment.sg"><title lang="id">City Of Ember</title></programme>
+<programme start="20250422113000 +0000" stop="20250422121500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250422121500 +0000" stop="20250422130000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250422130000 +0000" stop="20250422134500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250422134500 +0000" stop="20250422143000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250422143000 +0000" stop="20250422161500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Pixels</title></programme>
+<programme start="20250422161500 +0000" stop="20250422165950 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 97</title><episode-num system="xmltv_ns">0.96.0/1</episode-num><episode-num system="onscreen">S01E97</episode-num></programme>
+<programme start="20250422165950 +0000" stop="20250422165959 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 97</title><episode-num system="xmltv_ns">0.96.0/1</episode-num><episode-num system="onscreen">S01E97</episode-num></programme>
+<programme start="20250422170000 +0000" stop="20250422174500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 79</title><episode-num system="xmltv_ns">0.78.0/1</episode-num><episode-num system="onscreen">S01E79</episode-num></programme>
+<programme start="20250422174500 +0000" stop="20250422183000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250422183000 +0000" stop="20250422191500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250422191500 +0000" stop="20250422200000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20250422200000 +0000" stop="20250422204500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7, Ep 10</title><episode-num system="xmltv_ns">0.9.0/1</episode-num><episode-num system="onscreen">S01E10</episode-num></programme>
+<programme start="20250422204500 +0000" stop="20250422213500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Chicago Med S7, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
+<programme start="20250422213500 +0000" stop="20250422220000 +0000" channel="ROCKEntertainment.sg"><title lang="id">A.P. Bio S3, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20250422220000 +0000" stop="20250422224500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 79</title><episode-num system="xmltv_ns">0.78.0/1</episode-num><episode-num system="onscreen">S01E79</episode-num></programme>
+<programme start="20250422224500 +0000" stop="20250422233000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 97</title><episode-num system="xmltv_ns">0.96.0/1</episode-num><episode-num system="onscreen">S01E97</episode-num></programme>
+<programme start="20250422233000 +0000" stop="20250423001500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Law &amp; Order: SVU S26, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250423001500 +0000" stop="20250423011500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
+<programme start="20250423011500 +0000" stop="20250423021500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
+<programme start="20250423021500 +0000" stop="20250423040000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Pixels</title></programme>
+<programme start="20250423040000 +0000" stop="20250423044500 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250423044500 +0000" stop="20250423053000 +0000" channel="ROCKEntertainment.sg"><title lang="id">NCIS S22, Ep 18</title><episode-num system="xmltv_ns">0.17.0/1</episode-num><episode-num system="onscreen">S01E18</episode-num></programme>
+<programme start="20250423053000 +0000" stop="20250423061500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 97</title><episode-num system="xmltv_ns">0.96.0/1</episode-num><episode-num system="onscreen">S01E97</episode-num></programme>
+<programme start="20250423061500 +0000" stop="20250423070000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 79</title><episode-num system="xmltv_ns">0.78.0/1</episode-num><episode-num system="onscreen">S01E79</episode-num></programme>
+<programme start="20250423070000 +0000" stop="20250423075000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Next Level Chef S4, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20250423075000 +0000" stop="20250423084000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Next Level Chef S4, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250423084000 +0000" stop="20250423093000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Next Level Chef S4, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20250423093000 +0000" stop="20250423110000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Hancock</title></programme>
+<programme start="20250423110000 +0000" stop="20250423120000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20250423120000 +0000" stop="20250423130000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20250423130000 +0000" stop="20250423140000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20250423140000 +0000" stop="20250423150000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20250423150000 +0000" stop="20250423165950 +0000" channel="ROCKEntertainment.sg"><title lang="id">Minority Report</title></programme>
 <programme start="20250423165950 +0000" stop="20250423165959 +0000" channel="ROCKEntertainment.sg"><title lang="id">Minority Report</title></programme>
 <programme start="20250420170000 +0000" stop="20250420180000 +0000" channel="RodjaTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250420180000 +0000" stop="20250420200000 +0000" channel="RodjaTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -4121,26 +4278,146 @@
 <programme start="20250423143500 +0000" stop="20250423161000 +0000" channel="Thrill.hk"><title lang="id">The Revenge</title></programme>
 <programme start="20250423161000 +0000" stop="20250423165950 +0000" channel="Thrill.hk"><title lang="id">IBLIS</title></programme>
 <programme start="20250423165950 +0000" stop="20250423165959 +0000" channel="Thrill.hk"><title lang="id">IBLIS</title></programme>
-<programme start="20250420170000 +0000" stop="20250420180000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250420180000 +0000" stop="20250420200000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250420200000 +0000" stop="20250420213000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250420213000 +0000" stop="20250420230000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250420230000 +0000" stop="20250420235900 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250420235900 +0000" stop="20250421010000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421010000 +0000" stop="20250421013000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421013000 +0000" stop="20250421030000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421030000 +0000" stop="20250421050000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421050000 +0000" stop="20250421060000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421060000 +0000" stop="20250421063000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421063000 +0000" stop="20250421070000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421070000 +0000" stop="20250421083000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421083000 +0000" stop="20250421110000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421110000 +0000" stop="20250421120000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421120000 +0000" stop="20250421133000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421133000 +0000" stop="20250421153000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421153000 +0000" stop="20250421163000 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421163000 +0000" stop="20250421165950 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250421165950 +0000" stop="20250421165959 +0000" channel="TRTWorld.tr"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250420170000 +0000" stop="20250420173000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250420173000 +0000" stop="20250420180000 +0000" channel="TRTWorld.tr"><title lang="id">WESTMINSTER WATCH</title></programme>
+<programme start="20250420180000 +0000" stop="20250420181500 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250420181500 +0000" stop="20250420183000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSFEED</title></programme>
+<programme start="20250420183000 +0000" stop="20250420190000 +0000" channel="TRTWorld.tr"><title lang="id">THE INNERVIEW</title></programme>
+<programme start="20250420190000 +0000" stop="20250420200000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR - LONDON</title></programme>
+<programme start="20250420200000 +0000" stop="20250420203000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250420203000 +0000" stop="20250420210000 +0000" channel="TRTWorld.tr"><title lang="id">NEXUS</title></programme>
+<programme start="20250420210000 +0000" stop="20250420213000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250420213000 +0000" stop="20250420220000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250420220000 +0000" stop="20250420223000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250420223000 +0000" stop="20250420230000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250420230000 +0000" stop="20250420233000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250420233000 +0000" stop="20250421000000 +0000" channel="TRTWorld.tr"><title lang="id">INSIDE AMERICA</title></programme>
+<programme start="20250421000000 +0000" stop="20250421003000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421003000 +0000" stop="20250421010000 +0000" channel="TRTWorld.tr"><title lang="id">WESTMINSTER WATCH</title></programme>
+<programme start="20250421010000 +0000" stop="20250421011500 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421011500 +0000" stop="20250421013000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSFEED</title></programme>
+<programme start="20250421013000 +0000" stop="20250421020000 +0000" channel="TRTWorld.tr"><title lang="id">SHOWCASE</title></programme>
+<programme start="20250421020000 +0000" stop="20250421023000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421023000 +0000" stop="20250421030000 +0000" channel="TRTWorld.tr"><title lang="id">THE INNERVIEW</title></programme>
+<programme start="20250421030000 +0000" stop="20250421040000 +0000" channel="TRTWorld.tr"><title lang="id">STORYTELLER</title></programme>
+<programme start="20250421040000 +0000" stop="20250421043000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421043000 +0000" stop="20250421050000 +0000" channel="TRTWorld.tr"><title lang="id">NEXUS</title></programme>
+<programme start="20250421050000 +0000" stop="20250421053000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421053000 +0000" stop="20250421060000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250421060000 +0000" stop="20250421063000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421063000 +0000" stop="20250421070000 +0000" channel="TRTWorld.tr"><title lang="id">INSIDE AMERICA</title></programme>
+<programme start="20250421070000 +0000" stop="20250421073000 +0000" channel="TRTWorld.tr"><title lang="id">BUSINESS NEWS</title></programme>
+<programme start="20250421073000 +0000" stop="20250421080000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250421080000 +0000" stop="20250421090000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250421090000 +0000" stop="20250421093000 +0000" channel="TRTWorld.tr"><title lang="id">AFRICA MATTERS</title></programme>
+<programme start="20250421093000 +0000" stop="20250421100000 +0000" channel="TRTWorld.tr"><title lang="id">JUST 2 DEGREES</title></programme>
+<programme start="20250421100000 +0000" stop="20250421103000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421103000 +0000" stop="20250421110000 +0000" channel="TRTWorld.tr"><title lang="id">WESTMINSTER WATCH</title></programme>
+<programme start="20250421110000 +0000" stop="20250421113000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421113000 +0000" stop="20250421120000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250421120000 +0000" stop="20250421130000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250421130000 +0000" stop="20250421133000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421133000 +0000" stop="20250421140000 +0000" channel="TRTWorld.tr"><title lang="id">BIGGER THAN FIVE</title></programme>
+<programme start="20250421140000 +0000" stop="20250421143000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421143000 +0000" stop="20250421150000 +0000" channel="TRTWorld.tr"><title lang="id">THE INNERVIEW</title></programme>
+<programme start="20250421150000 +0000" stop="20250421153000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250421153000 +0000" stop="20250421160000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250421160000 +0000" stop="20250421165950 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250421165950 +0000" stop="20250421165959 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250421170000 +0000" stop="20250421173000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250421173000 +0000" stop="20250421180000 +0000" channel="TRTWorld.tr"><title lang="id">MY AMERICA</title></programme>
+<programme start="20250421180000 +0000" stop="20250421181500 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250421181500 +0000" stop="20250421183000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSFEED</title></programme>
+<programme start="20250421183000 +0000" stop="20250421190000 +0000" channel="TRTWorld.tr"><title lang="id">STRAIT TALK</title></programme>
+<programme start="20250421190000 +0000" stop="20250421200000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR - LONDON</title></programme>
+<programme start="20250421200000 +0000" stop="20250421203000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250421203000 +0000" stop="20250421210000 +0000" channel="TRTWorld.tr"><title lang="id">ACROSS THE BALKANS</title></programme>
+<programme start="20250421210000 +0000" stop="20250421213000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250421213000 +0000" stop="20250421220000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250421220000 +0000" stop="20250421223000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421223000 +0000" stop="20250421230000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250421230000 +0000" stop="20250421233000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250421233000 +0000" stop="20250422000000 +0000" channel="TRTWorld.tr"><title lang="id">STRAIT TALK</title></programme>
+<programme start="20250422000000 +0000" stop="20250422003000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422003000 +0000" stop="20250422010000 +0000" channel="TRTWorld.tr"><title lang="id">AFRICA MATTERS</title></programme>
+<programme start="20250422010000 +0000" stop="20250422011500 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422011500 +0000" stop="20250422013000 +0000" channel="TRTWorld.tr"><title lang="id">DOCUMENTARY</title></programme>
+<programme start="20250422013000 +0000" stop="20250422020000 +0000" channel="TRTWorld.tr"><title lang="id">WHERE TO NEXT</title></programme>
+<programme start="20250422020000 +0000" stop="20250422023000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422023000 +0000" stop="20250422030000 +0000" channel="TRTWorld.tr"><title lang="id">JUST 2 DEGREES</title></programme>
+<programme start="20250422030000 +0000" stop="20250422033000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250422033000 +0000" stop="20250422040000 +0000" channel="TRTWorld.tr"><title lang="id">BEYOND BORDERS</title></programme>
+<programme start="20250422040000 +0000" stop="20250422043000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422043000 +0000" stop="20250422050000 +0000" channel="TRTWorld.tr"><title lang="id">WESTMINSTER WATCH</title></programme>
+<programme start="20250422050000 +0000" stop="20250422053000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422053000 +0000" stop="20250422060000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250422060000 +0000" stop="20250422063000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422063000 +0000" stop="20250422070000 +0000" channel="TRTWorld.tr"><title lang="id">THE INNERVIEW</title></programme>
+<programme start="20250422070000 +0000" stop="20250422073000 +0000" channel="TRTWorld.tr"><title lang="id">BUSINESS NEWS</title></programme>
+<programme start="20250422073000 +0000" stop="20250422080000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250422080000 +0000" stop="20250422090000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250422090000 +0000" stop="20250422093000 +0000" channel="TRTWorld.tr"><title lang="id">NEXUS</title></programme>
+<programme start="20250422093000 +0000" stop="20250422100000 +0000" channel="TRTWorld.tr"><title lang="id">BIGGER THAN FIVE</title></programme>
+<programme start="20250422100000 +0000" stop="20250422103000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422103000 +0000" stop="20250422110000 +0000" channel="TRTWorld.tr"><title lang="id">INSIDE AMERICA</title></programme>
+<programme start="20250422110000 +0000" stop="20250422113000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422113000 +0000" stop="20250422120000 +0000" channel="TRTWorld.tr"><title lang="id">STRAIT TALK</title></programme>
+<programme start="20250422120000 +0000" stop="20250422130000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250422130000 +0000" stop="20250422133000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422133000 +0000" stop="20250422140000 +0000" channel="TRTWorld.tr"><title lang="id">MY AMERICA</title></programme>
+<programme start="20250422140000 +0000" stop="20250422143000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422143000 +0000" stop="20250422150000 +0000" channel="TRTWorld.tr"><title lang="id">JUST 2 DEGREES</title></programme>
+<programme start="20250422150000 +0000" stop="20250422153000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250422153000 +0000" stop="20250422160000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250422160000 +0000" stop="20250422165950 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250422165950 +0000" stop="20250422165959 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250422170000 +0000" stop="20250422173000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250422173000 +0000" stop="20250422180000 +0000" channel="TRTWorld.tr"><title lang="id">NEXTECH</title></programme>
+<programme start="20250422180000 +0000" stop="20250422181500 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250422181500 +0000" stop="20250422183000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSFEED</title></programme>
+<programme start="20250422183000 +0000" stop="20250422190000 +0000" channel="TRTWorld.tr"><title lang="id">ACROSS THE BALKANS</title></programme>
+<programme start="20250422190000 +0000" stop="20250422200000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR - LONDON</title></programme>
+<programme start="20250422200000 +0000" stop="20250422203000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250422203000 +0000" stop="20250422210000 +0000" channel="TRTWorld.tr"><title lang="id">BEYOND THE GAME</title></programme>
+<programme start="20250422210000 +0000" stop="20250422213000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS - LONDON</title></programme>
+<programme start="20250422213000 +0000" stop="20250422220000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250422220000 +0000" stop="20250422223000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422223000 +0000" stop="20250422230000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250422230000 +0000" stop="20250422233000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250422233000 +0000" stop="20250423000000 +0000" channel="TRTWorld.tr"><title lang="id">SHOWCASE</title></programme>
+<programme start="20250423000000 +0000" stop="20250423003000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423003000 +0000" stop="20250423010000 +0000" channel="TRTWorld.tr"><title lang="id">ACROSS THE BALKANS</title></programme>
+<programme start="20250423010000 +0000" stop="20250423011500 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423011500 +0000" stop="20250423013000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSFEED</title></programme>
+<programme start="20250423013000 +0000" stop="20250423020000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250423020000 +0000" stop="20250423023000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423023000 +0000" stop="20250423030000 +0000" channel="TRTWorld.tr"><title lang="id">BEYOND THE GAME</title></programme>
+<programme start="20250423030000 +0000" stop="20250423034500 +0000" channel="TRTWorld.tr"><title lang="id">DOCUMENTARY</title></programme>
+<programme start="20250423034500 +0000" stop="20250423040000 +0000" channel="TRTWorld.tr"><title lang="id">DOCUMENTARY</title></programme>
+<programme start="20250423040000 +0000" stop="20250423043000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423043000 +0000" stop="20250423050000 +0000" channel="TRTWorld.tr"><title lang="id">STRAIT TALK</title></programme>
+<programme start="20250423050000 +0000" stop="20250423053000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423053000 +0000" stop="20250423060000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250423060000 +0000" stop="20250423063000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423063000 +0000" stop="20250423070000 +0000" channel="TRTWorld.tr"><title lang="id">BEYOND THE GAME</title></programme>
+<programme start="20250423070000 +0000" stop="20250423073000 +0000" channel="TRTWorld.tr"><title lang="id">BUSINESS NEWS</title></programme>
+<programme start="20250423073000 +0000" stop="20250423080000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250423080000 +0000" stop="20250423090000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250423090000 +0000" stop="20250423094500 +0000" channel="TRTWorld.tr"><title lang="id">DOCUMENTARY</title></programme>
+<programme start="20250423094500 +0000" stop="20250423100000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSFEED</title></programme>
+<programme start="20250423100000 +0000" stop="20250423103000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423103000 +0000" stop="20250423110000 +0000" channel="TRTWorld.tr"><title lang="id">THE INNERVIEW</title></programme>
+<programme start="20250423110000 +0000" stop="20250423113000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423113000 +0000" stop="20250423120000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250423120000 +0000" stop="20250423130000 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250423130000 +0000" stop="20250423133000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423133000 +0000" stop="20250423140000 +0000" channel="TRTWorld.tr"><title lang="id">BEYOND THE GAME</title></programme>
+<programme start="20250423140000 +0000" stop="20250423143000 +0000" channel="TRTWorld.tr"><title lang="id">NEWS</title></programme>
+<programme start="20250423143000 +0000" stop="20250423150000 +0000" channel="TRTWorld.tr"><title lang="id">BEYOND BORDERS</title></programme>
+<programme start="20250423150000 +0000" stop="20250423153000 +0000" channel="TRTWorld.tr"><title lang="id">ROUNDTABLE</title></programme>
+<programme start="20250423153000 +0000" stop="20250423160000 +0000" channel="TRTWorld.tr"><title lang="id">THE NEWSMAKERS</title></programme>
+<programme start="20250423160000 +0000" stop="20250423165950 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
+<programme start="20250423165950 +0000" stop="20250423165959 +0000" channel="TRTWorld.tr"><title lang="id">NEWSHOUR</title></programme>
 <programme start="20250420170000 +0000" stop="20250420190000 +0000" channel="TV5MondeAsia.fr"><title lang="id">DES RACINES &amp; DES AILES</title></programme>
 <programme start="20250420190000 +0000" stop="20250420192700 +0000" channel="TV5MondeAsia.fr"><title lang="id">64&apos; LE MONDE EN FRANÃ‡AIS - 1RE PARTIE</title></programme>
 <programme start="20250420192700 +0000" stop="20250420194700 +0000" channel="TV5MondeAsia.fr"><title lang="id">64&apos; LE MONDE EN FRANÃ‡AIS - 2E PARTIE</title></programme>
