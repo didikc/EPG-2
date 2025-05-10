@@ -8,7 +8,7 @@ npm run grab -- --site=indihometv.com --output=../epg/id-indihometv.xml --days=3
 
 # Cubmu EPG
 
-npm run grab -- --site=cubmu.com --output=../epg/id-cubmu.xml --days=3 --maxConnections=10
+# npm run grab -- --site=cubmu.com --lang=id --output=../epg/id-cubmu.xml --days=3 --maxConnections=10
 
 # Dens TV EPG
 
