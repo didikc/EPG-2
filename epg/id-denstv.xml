@@ -3,7 +3,7 @@
 <channel id="120"><display-name>MotoRRacing TV</display-name><url>https://dens.tv</url></channel>
 <channel id="127"><display-name>crema.tv</display-name><url>https://dens.tv</url></channel>
 <channel id="AlJazeera.qa"><display-name>Al Jazeera Arabic</display-name><icon src="https://i.imgur.com/7bRVpnu.png"/><url>https://dens.tv</url></channel>
-<channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><url>https://dens.tv</url></channel>
+<channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://i.imgur.com/7bRVpnu.png"/><url>https://dens.tv</url></channel>
 <channel id="AlQuranAlKareemTV.sa"><display-name>Quran TV</display-name><icon src="https://i.imgur.com/A2fJysM.png"/><url>https://dens.tv</url></channel>
 <channel id="AlSunnahAlNabawiyahTV.sa"><display-name>Sunna TV</display-name><icon src="https://i.imgur.com/S6LcTJv.png"/><url>https://dens.tv</url></channel>
 <channel id="AniplusAsia.sg"><display-name>ANIPLUS HD</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://dens.tv</url></channel>
@@ -17,17 +17,17 @@
 <channel id="CNA.sg"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://dens.tv</url></channel>
 <channel id="DAAITV.id"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
 <channel id="DanceTelevision.nl"><display-name>Dance TV</display-name><icon src="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg"/><url>https://dens.tv</url></channel>
-<channel id="DeluxeLounge.de@HD"><display-name>Deluxe Lounge</display-name><url>https://dens.tv</url></channel>
+<channel id="DeluxeLounge.de@HD"><display-name>Deluxe Lounge</display-name><icon src="https://i.imgur.com/pgCA35z.png"/><url>https://dens.tv</url></channel>
 <channel id="DensFoodChannel.id"><display-name>DensFood Channel</display-name><icon src="https://i.ibb.co/G2GTSC4/117.jpg"/><url>https://dens.tv</url></channel>
 <channel id="DensLearningKnowledge.id"><display-name>DensKnowledge</display-name><icon src="https://i.ibb.co/5YsGbSB/1-36.jpg"/><url>https://dens.tv</url></channel>
 <channel id="DensLifeStyle.id"><display-name>DensLife &amp; Style</display-name><icon src="https://i.ibb.co/0D7XJh1/42-1.jpg"/><url>https://dens.tv</url></channel>
 <channel id="DensPlay.id"><display-name>DensPlay</display-name><icon src="https://i.ibb.co/M8PLzg2/107.jpg"/><url>https://dens.tv</url></channel>
 <channel id="DensShowBiz.id"><display-name>DensShowBiz</display-name><icon src="https://i.ibb.co/VYD17Ng/102.jpg"/><url>https://dens.tv</url></channel>
 <channel id="DIM.ua"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
-<channel id="DW.de@English"><display-name>DW-TV</display-name><url>https://dens.tv</url></channel>
+<channel id="DW.de@English"><display-name>DW-TV</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://dens.tv</url></channel>
 <channel id="ElshintaTV.id"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://dens.tv</url></channel>
 <channel id="FightSports.us"><display-name>FIGHT SPORTS HD</display-name><icon src="https://i.imgur.com/nV55veq.png"/><url>https://dens.tv</url></channel>
-<channel id="France24.fr@English"><display-name>France 24</display-name><url>https://dens.tv</url></channel>
+<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://i.imgur.com/u8N6uoj.png"/><url>https://dens.tv</url></channel>
 <channel id="FREEDOM.ua"><display-name>FREEDOM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="HorizonSports.us"><display-name>HorizonSports</display-name><icon src="https://i.imgur.com/w2JzGSy.png"/><url>https://dens.tv</url></channel>
 <channel id="IDTV.id"><display-name>IDTV</display-name><icon src="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png"/><url>https://dens.tv</url></channel>
@@ -1769,6 +1769,37 @@
 <programme start="20250727161500 +0000" stop="20250727165950 +0000" channel="DIM.ua"><title lang="id">Cities</title></programme>
 <programme start="20250727165950 +0000" stop="20250727165959 +0000" channel="DIM.ua"><title lang="id">Cities</title></programme>
 <programme start="20250727170000 +0000" stop="20250727182500 +0000" channel="DIM.ua"><title lang="id">Cities</title></programme>
+<programme start="20250727182500 +0000" stop="20250727184000 +0000" channel="DIM.ua"><title lang="id">Russia, Back off! (12+)</title></programme>
+<programme start="20250727184000 +0000" stop="20250727200000 +0000" channel="DIM.ua"><title lang="id">F f Ivan Syla</title></programme>
+<programme start="20250727200000 +0000" stop="20250727204500 +0000" channel="DIM.ua"><title lang="id">I Will Never Forget (Premiere)</title></programme>
+<programme start="20250727204500 +0000" stop="20250727223000 +0000" channel="DIM.ua"><title lang="id">F f Heroes (12+)</title></programme>
+<programme start="20250727223000 +0000" stop="20250727231500 +0000" channel="DIM.ua"><title lang="id">Breaking News</title></programme>
+<programme start="20250727231500 +0000" stop="20250728000500 +0000" channel="DIM.ua"><title lang="id">Music for The Sake of Victory</title></programme>
+<programme start="20250728000500 +0000" stop="20250728011500 +0000" channel="DIM.ua"><title lang="id">Checkpoint Show</title></programme>
+<programme start="20250728011500 +0000" stop="20250728031500 +0000" channel="DIM.ua"><title lang="id">Forgotten Paths (12+)</title></programme>
+<programme start="20250728031500 +0000" stop="20250728040000 +0000" channel="DIM.ua"><title lang="id">Breaking News</title></programme>
+<programme start="20250728040000 +0000" stop="20250728044000 +0000" channel="DIM.ua"><title lang="id">Pro et Contra (12+)</title></programme>
+<programme start="20250728044000 +0000" stop="20250728045500 +0000" channel="DIM.ua"><title lang="id">History of War</title></programme>
+<programme start="20250728045500 +0000" stop="20250728054500 +0000" channel="DIM.ua"><title lang="id">Foothold</title></programme>
+<programme start="20250728054500 +0000" stop="20250728060000 +0000" channel="DIM.ua"><title lang="id">Popular History</title></programme>
+<programme start="20250728060000 +0000" stop="20250728062000 +0000" channel="DIM.ua"><title lang="id">Music Day</title></programme>
+<programme start="20250728062000 +0000" stop="20250728065000 +0000" channel="DIM.ua"><title lang="id">Night at the Museum</title></programme>
+<programme start="20250728065000 +0000" stop="20250728071500 +0000" channel="DIM.ua"><title lang="id">Metro</title></programme>
+<programme start="20250728071500 +0000" stop="20250728080000 +0000" channel="DIM.ua"><title lang="id">Breaking News</title></programme>
+<programme start="20250728080000 +0000" stop="20250728090000 +0000" channel="DIM.ua"><title lang="id">Popular History</title></programme>
+<programme start="20250728090000 +0000" stop="20250728090100 +0000" channel="DIM.ua"><title lang="id">Minute of Silence</title></programme>
+<programme start="20250728090100 +0000" stop="20250728100000 +0000" channel="DIM.ua"><title lang="id">Popular History</title></programme>
+<programme start="20250728100000 +0000" stop="20250728105000 +0000" channel="DIM.ua"><title lang="id">I Will Never Forget</title></programme>
+<programme start="20250728105000 +0000" stop="20250728115000 +0000" channel="DIM.ua"><title lang="id">Uzol and Manko</title></programme>
+<programme start="20250728115000 +0000" stop="20250728130000 +0000" channel="DIM.ua"><title lang="id">The Real History of Ukraine</title></programme>
+<programme start="20250728130000 +0000" stop="20250728134000 +0000" channel="DIM.ua"><title lang="id">Pro et Contra (12+)</title></programme>
+<programme start="20250728134000 +0000" stop="20250728140000 +0000" channel="DIM.ua"><title lang="id">History of War</title></programme>
+<programme start="20250728140000 +0000" stop="20250728141500 +0000" channel="DIM.ua"><title lang="id">Night at the Museum</title></programme>
+<programme start="20250728141500 +0000" stop="20250728150000 +0000" channel="DIM.ua"><title lang="id">Foothold</title></programme>
+<programme start="20250728150000 +0000" stop="20250728154500 +0000" channel="DIM.ua"><title lang="id">I Keep Waiting</title></programme>
+<programme start="20250728154500 +0000" stop="20250728162500 +0000" channel="DIM.ua"><title lang="id">Navigating The Frontline (12+)</title></programme>
+<programme start="20250728162500 +0000" stop="20250728165950 +0000" channel="DIM.ua"><title lang="id">All Inclusive. Foot Drop</title></programme>
+<programme start="20250728165950 +0000" stop="20250728165959 +0000" channel="DIM.ua"><title lang="id">All Inclusive. Foot Drop</title></programme>
 <programme start="20250725170000 +0000" stop="20250725171500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
 <programme start="20250725171500 +0000" stop="20250725173000 +0000" channel="DW.de@English"><title lang="id">Business Beyond: How China...</title></programme>
 <programme start="20250725173000 +0000" stop="20250725180000 +0000" channel="DW.de@English"><title lang="id">Afrimaxx: African Lifestyle</title></programme>
