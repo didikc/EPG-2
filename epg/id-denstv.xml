@@ -1010,49 +1010,62 @@
 <programme start="20250816160300 +0000" stop="20250816165950 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20250816165950 +0000" stop="20250816165959 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20250816170000 +0000" stop="20250816180000 +0000" channel="CNA.sg"><title lang="id">Born In 1965, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20250816170000 +0000" stop="20250816173000 +0000" channel="CNA.sg"><title lang="id">Lunch With Us, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20250816173000 +0000" stop="20250816180000 +0000" channel="CNA.sg"><title lang="id">Talking Point, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
 <programme start="20250816180000 +0000" stop="20250816190000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
-<programme start="20250816190000 +0000" stop="20250816200000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A... S2, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20250816180000 +0000" stop="20250816183000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20250816183000 +0000" stop="20250816190000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20250816190000 +0000" stop="20250816200000 +0000" channel="CNA.sg"><title lang="id">Born In 1965, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20250816200000 +0000" stop="20250816210000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
-<programme start="20250816210000 +0000" stop="20250816220000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20250816200000 +0000" stop="20250816203000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20250816203000 +0000" stop="20250816210000 +0000" channel="CNA.sg"><title lang="id">A Street Like This, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250816210000 +0000" stop="20250816220000 +0000" channel="CNA.sg"><title lang="id">Hidden Histories, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20250816220000 +0000" stop="20250816230000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20250816220000 +0000" stop="20250816223000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20250816223000 +0000" stop="20250816230000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
 <programme start="20250816230000 +0000" stop="20250816233000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
-<programme start="20250816233000 +0000" stop="20250817000000 +0000" channel="CNA.sg"><title lang="id">Remarkable Living S6, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20250816233000 +0000" stop="20250817000000 +0000" channel="CNA.sg"><title lang="id">Money Mind, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
 <programme start="20250817000000 +0000" stop="20250817003000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
-<programme start="20250817003000 +0000" stop="20250817010000 +0000" channel="CNA.sg"><title lang="id">Talking Point, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
+<programme start="20250817003000 +0000" stop="20250817010000 +0000" channel="CNA.sg"><title lang="id">A Street Like This, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
 <programme start="20250817010000 +0000" stop="20250817013000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
-<programme start="20250817013000 +0000" stop="20250817020000 +0000" channel="CNA.sg"><title lang="id">A Street Like This, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250817013000 +0000" stop="20250817020000 +0000" channel="CNA.sg"><title lang="id">Talking Point, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
 <programme start="20250817020000 +0000" stop="20250817020200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
-<programme start="20250817020200 +0000" stop="20250817030000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
+<programme start="20250817020200 +0000" stop="20250817030000 +0000" channel="CNA.sg"><title lang="id">Hidden Histories, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20250817030000 +0000" stop="20250817033000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
-<programme start="20250817033000 +0000" stop="20250817040000 +0000" channel="CNA.sg"><title lang="id">Remarkable Living S6, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20250817033000 +0000" stop="20250817040000 +0000" channel="CNA.sg"><title lang="id">Lunch With Us, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
 <programme start="20250817040000 +0000" stop="20250817043000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
-<programme start="20250817043000 +0000" stop="20250817050000 +0000" channel="CNA.sg"><title lang="id">Lunch With Us, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
+<programme start="20250817043000 +0000" stop="20250817050000 +0000" channel="CNA.sg"><title lang="id">Money Mind, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
 <programme start="20250817050000 +0000" stop="20250817050200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
-<programme start="20250817050200 +0000" stop="20250817060000 +0000" channel="CNA.sg"><title lang="id">Insight, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
+<programme start="20250817050200 +0000" stop="20250817060000 +0000" channel="CNA.sg"><title lang="id">Japan Hour, Ep 33</title><episode-num system="xmltv_ns">0.32.0/1</episode-num><episode-num system="onscreen">S01E33</episode-num></programme>
 <programme start="20250817060000 +0000" stop="20250817063000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
-<programme start="20250817063000 +0000" stop="20250817070000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250817063000 +0000" stop="20250817070000 +0000" channel="CNA.sg"><title lang="id">A Street Like This, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
 <programme start="20250817070000 +0000" stop="20250817073000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
-<programme start="20250817073000 +0000" stop="20250817080000 +0000" channel="CNA.sg"><title lang="id">A Street Like This, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250817073000 +0000" stop="20250817080000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
 <programme start="20250817080000 +0000" stop="20250817080200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
-<programme start="20250817080200 +0000" stop="20250817090000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot, Ep 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
+<programme start="20250817080200 +0000" stop="20250817090000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A... S2, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
 <programme start="20250817090000 +0000" stop="20250817093000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
-<programme start="20250817093000 +0000" stop="20250817100000 +0000" channel="CNA.sg"><title lang="id">Talking Point, Ep 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
+<programme start="20250817093000 +0000" stop="20250817100000 +0000" channel="CNA.sg"><title lang="id">Money Mind, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
 <programme start="20250817100000 +0000" stop="20250817103000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
 <programme start="20250817103000 +0000" stop="20250817110000 +0000" channel="CNA.sg"><title lang="id">A Street Like This, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20250817103000 +0000" stop="20250817111500 +0000" channel="CNA.sg"><title lang="id">National Day Rally 2025, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20250817110000 +0000" stop="20250817110200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
 <programme start="20250817110200 +0000" stop="20250817120000 +0000" channel="CNA.sg"><title lang="id">Japan Hour, Ep 33</title><episode-num system="xmltv_ns">0.32.0/1</episode-num><episode-num system="onscreen">S01E33</episode-num></programme>
+<programme start="20250817111500 +0000" stop="20250817120000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
 <programme start="20250817120000 +0000" stop="20250817123000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20250817120000 +0000" stop="20250817133000 +0000" channel="CNA.sg"><title lang="id">National Day Rally 2025, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
 <programme start="20250817123000 +0000" stop="20250817130000 +0000" channel="CNA.sg"><title lang="id">Money Mind, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
 <programme start="20250817130000 +0000" stop="20250817130200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
 <programme start="20250817130200 +0000" stop="20250817140000 +0000" channel="CNA.sg"><title lang="id">Hidden Histories, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20250817133000 +0000" stop="20250817140000 +0000" channel="CNA.sg"><title lang="id">Talking Point, Ep 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
 <programme start="20250817140000 +0000" stop="20250817143000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20250817140000 +0000" stop="20250817150000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
 <programme start="20250817143000 +0000" stop="20250817150000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
 <programme start="20250817150000 +0000" stop="20250817150300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
-<programme start="20250817150300 +0000" stop="20250817160000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A... S2, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20250817150300 +0000" stop="20250817160000 +0000" channel="CNA.sg"><title lang="id">Hidden Histories, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20250817160000 +0000" stop="20250817160300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
-<programme start="20250817160300 +0000" stop="20250817163000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
-<programme start="20250817163000 +0000" stop="20250817165950 +0000" channel="CNA.sg"><title lang="id">Money Mind, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
-<programme start="20250817165950 +0000" stop="20250817165959 +0000" channel="CNA.sg"><title lang="id">Money Mind, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250817160300 +0000" stop="20250817163000 +0000" channel="CNA.sg"><title lang="id">Money Mind, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250817163000 +0000" stop="20250817165950 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
+<programme start="20250817165950 +0000" stop="20250817165959 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent, Ep 16</title><episode-num system="xmltv_ns">0.15.0/1</episode-num><episode-num system="onscreen">S01E16</episode-num></programme>
 <programme start="20250817170000 +0000" stop="20250817180000 +0000" channel="CNA.sg"><title lang="id">Insight, Ep 17</title><episode-num system="xmltv_ns">0.16.0/1</episode-num><episode-num system="onscreen">S01E17</episode-num></programme>
 <programme start="20250817180000 +0000" stop="20250817190000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
 <programme start="20250817190000 +0000" stop="20250817193000 +0000" channel="CNA.sg"><title lang="id">Lunch With Us, Ep 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
@@ -3323,6 +3336,28 @@
 <programme start="20250817150500 +0000" stop="20250817164500 +0000" channel="NET.id"><title lang="id">MDTV SINEMA: HABIBIE &amp; AINUN 3</title></programme>
 <programme start="20250817164500 +0000" stop="20250817165950 +0000" channel="NET.id"><title lang="id">GERBANG ANTAR DIMENSI</title></programme>
 <programme start="20250817165950 +0000" stop="20250817165959 +0000" channel="NET.id"><title lang="id">GERBANG ANTAR DIMENSI</title></programme>
+<programme start="20250817170000 +0000" stop="20250817174500 +0000" channel="NET.id"><title lang="id">GERBANG ANTAR DIMENSI</title></programme>
+<programme start="20250817174500 +0000" stop="20250817191000 +0000" channel="NET.id"><title lang="id">INILAH KISAHNYA</title></programme>
+<programme start="20250817191000 +0000" stop="20250817202000 +0000" channel="NET.id"><title lang="id">DI BALIK MITOS</title></programme>
+<programme start="20250817202000 +0000" stop="20250817212000 +0000" channel="NET.id"><title lang="id">KEAJAIBAN DUNIA</title></programme>
+<programme start="20250817212000 +0000" stop="20250817224000 +0000" channel="NET.id"><title lang="id">TOP SPOT</title></programme>
+<programme start="20250817224000 +0000" stop="20250817234000 +0000" channel="NET.id"><title lang="id">MDTV ANIMASI: ADIT SOPO JARWO</title></programme>
+<programme start="20250817234000 +0000" stop="20250818010000 +0000" channel="NET.id"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
+<programme start="20250818010000 +0000" stop="20250818020000 +0000" channel="NET.id"><title lang="id">FAKTA +62</title></programme>
+<programme start="20250818020000 +0000" stop="20250818030000 +0000" channel="NET.id"><title lang="id">SENSASIHOT</title></programme>
+<programme start="20250818030000 +0000" stop="20250818043000 +0000" channel="NET.id"><title lang="id">MDTV CERITA NYATA PAGI</title></programme>
+<programme start="20250818043000 +0000" stop="20250818060000 +0000" channel="NET.id"><title lang="id">MDTV CERITA NYATA</title></programme>
+<programme start="20250818060000 +0000" stop="20250818070000 +0000" channel="NET.id"><title lang="id">CINTA FITRI S3</title></programme>
+<programme start="20250818070000 +0000" stop="20250818075500 +0000" channel="NET.id"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20250818075500 +0000" stop="20250818085500 +0000" channel="NET.id"><title lang="id">MASAK GESSS!!!</title></programme>
+<programme start="20250818085500 +0000" stop="20250818093000 +0000" channel="NET.id"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20250818093000 +0000" stop="20250818110000 +0000" channel="NET.id"><title lang="id">MDTV SERIES FAMILY: NADA CINTA</title></programme>
+<programme start="20250818110000 +0000" stop="20250818123000 +0000" channel="NET.id"><title lang="id">MD ENTERTAINMENT SERIES: DIA ANAKKU</title></programme>
+<programme start="20250818123000 +0000" stop="20250818132000 +0000" channel="NET.id"><title lang="id">MD ENTERTAINMENT SERIES: KUPU MALAM</title></programme>
+<programme start="20250818132000 +0000" stop="20250818145500 +0000" channel="NET.id"><title lang="id">MD ENTERTAINMENT SERIES: ANTARA CINTA DAN DUSTA</title></programme>
+<programme start="20250818145500 +0000" stop="20250818160000 +0000" channel="NET.id"><title lang="id">MDTV K-DRAMA: EVE</title></programme>
+<programme start="20250818160000 +0000" stop="20250818165950 +0000" channel="NET.id"><title lang="id">MDTV NIGHT DRAMA: MY SASSY PSYCHIC</title></programme>
+<programme start="20250818165950 +0000" stop="20250818165959 +0000" channel="NET.id"><title lang="id">MDTV NIGHT DRAMA: MY SASSY PSYCHIC</title></programme>
 <programme start="20250815170000 +0000" stop="20250815171000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20250815171000 +0000" stop="20250815173000 +0000" channel="NHKWorldJapan.jp"><title lang="id">My Street Piano</title></programme>
 <programme start="20250815173000 +0000" stop="20250815180000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Repairing Post-Quake Community</title></programme>
@@ -3399,6 +3434,186 @@
 <programme start="20250816161000 +0000" stop="20250816164000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japanese Armor: Beauty In...</title></programme>
 <programme start="20250816164000 +0000" stop="20250816165950 +0000" channel="NHKWorldJapan.jp"><title lang="id">My Street Piano</title></programme>
 <programme start="20250816165950 +0000" stop="20250816165959 +0000" channel="NHKWorldJapan.jp"><title lang="id">My Street Piano</title></programme>
+<programme start="20250816170000 +0000" stop="20250816171000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250816171000 +0000" stop="20250816174000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Face To Face</title></programme>
+<programme start="20250816174000 +0000" stop="20250816175500 +0000" channel="NHKWorldJapan.jp"><title lang="id">BOSAI</title></programme>
+<programme start="20250816175500 +0000" stop="20250816180000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Icy Landscapes</title></programme>
+<programme start="20250816180000 +0000" stop="20250816181000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250816181000 +0000" stop="20250816190000 +0000" channel="NHKWorldJapan.jp"><title lang="id">My Grandfather&apos;s Story</title></programme>
+<programme start="20250816190000 +0000" stop="20250816191000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250816191000 +0000" stop="20250816200000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Save And Be Saved</title></programme>
+<programme start="20250816200000 +0000" stop="20250816201000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250816201000 +0000" stop="20250816203500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Darwin&apos;s Amazing Animals</title></programme>
+<programme start="20250816203500 +0000" stop="20250816204000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Time-Lapse Journey</title></programme>
+<programme start="20250816204000 +0000" stop="20250816205000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Viewpoint Science</title></programme>
+<programme start="20250816205000 +0000" stop="20250816210000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Story Land</title></programme>
+<programme start="20250816210000 +0000" stop="20250816211000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250816211000 +0000" stop="20250816220000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cycle Around Japan: Sanriku</title></programme>
+<programme start="20250816220000 +0000" stop="20250816221000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250816221000 +0000" stop="20250816224000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Face To Face</title></programme>
+<programme start="20250816224000 +0000" stop="20250816225500 +0000" channel="NHKWorldJapan.jp"><title lang="id">BOSAI</title></programme>
+<programme start="20250816225500 +0000" stop="20250816230000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Icy Landscapes</title></programme>
+<programme start="20250816230000 +0000" stop="20250816231000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250816231000 +0000" stop="20250816234000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japanese Armor: Beauty In...</title></programme>
+<programme start="20250816234000 +0000" stop="20250817000000 +0000" channel="NHKWorldJapan.jp"><title lang="id">My Street Piano</title></programme>
+<programme start="20250817000000 +0000" stop="20250817001000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817001000 +0000" stop="20250817010000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Voices From Battle Of Saipan</title></programme>
+<programme start="20250817010000 +0000" stop="20250817011000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817011000 +0000" stop="20250817020000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Manben: BTS Of Manga</title></programme>
+<programme start="20250817020000 +0000" stop="20250817021000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817021000 +0000" stop="20250817024000 +0000" channel="NHKWorldJapan.jp"><title lang="id">J-Melo</title></programme>
+<programme start="20250817024000 +0000" stop="20250817025000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Little Charo</title></programme>
+<programme start="20250817025000 +0000" stop="20250817025500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japanology Plus Mini</title></programme>
+<programme start="20250817025500 +0000" stop="20250817030000 +0000" channel="NHKWorldJapan.jp"><title lang="id">A Cat&apos;s-Eye View Of Japan</title></programme>
+<programme start="20250817030000 +0000" stop="20250817031000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817031000 +0000" stop="20250817034000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cycle Around Japan Highlights</title></programme>
+<programme start="20250817034000 +0000" stop="20250817035000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Story Land In Classical...</title></programme>
+<programme start="20250817035000 +0000" stop="20250817040000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Take Tech</title></programme>
+<programme start="20250817040000 +0000" stop="20250817041000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817041000 +0000" stop="20250817045700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Somewhere Street</title></programme>
+<programme start="20250817045700 +0000" stop="20250817050000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Time-Lapse Journey</title></programme>
+<programme start="20250817050000 +0000" stop="20250817051000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817051000 +0000" stop="20250817052500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Ninja Truth</title></programme>
+<programme start="20250817052500 +0000" stop="20250817053000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Core Kyoto Mini</title></programme>
+<programme start="20250817053000 +0000" stop="20250817054500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20250817054500 +0000" stop="20250817060000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Zero Waste Life</title></programme>
+<programme start="20250817060000 +0000" stop="20250817061000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817061000 +0000" stop="20250817070000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Voices From Battle Of Saipan</title></programme>
+<programme start="20250817070000 +0000" stop="20250817071000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817071000 +0000" stop="20250817080000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Manben: BTS Of Manga</title></programme>
+<programme start="20250817080000 +0000" stop="20250817081000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817081000 +0000" stop="20250817085700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Somewhere Street</title></programme>
+<programme start="20250817085700 +0000" stop="20250817090000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Time-Lapse Journey</title></programme>
+<programme start="20250817090000 +0000" stop="20250817091000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817091000 +0000" stop="20250817094000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cycle Around Japan Highlights</title></programme>
+<programme start="20250817094000 +0000" stop="20250817095000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Story Land In Classical...</title></programme>
+<programme start="20250817095000 +0000" stop="20250817100000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Take Tech</title></programme>
+<programme start="20250817100000 +0000" stop="20250817101000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817101000 +0000" stop="20250817104000 +0000" channel="NHKWorldJapan.jp"><title lang="id">J-Melo</title></programme>
+<programme start="20250817104000 +0000" stop="20250817105000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Little Charo</title></programme>
+<programme start="20250817105000 +0000" stop="20250817105500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japanology Plus Mini</title></programme>
+<programme start="20250817105500 +0000" stop="20250817110000 +0000" channel="NHKWorldJapan.jp"><title lang="id">A Cat&apos;s-Eye View Of Japan</title></programme>
+<programme start="20250817110000 +0000" stop="20250817111000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817111000 +0000" stop="20250817112500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Ninja Truth</title></programme>
+<programme start="20250817112500 +0000" stop="20250817113000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Core Kyoto Mini</title></programme>
+<programme start="20250817113000 +0000" stop="20250817114500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20250817114500 +0000" stop="20250817120000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Zero Waste Life</title></programme>
+<programme start="20250817120000 +0000" stop="20250817121000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817121000 +0000" stop="20250817130000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Voices From Battle Of Saipan</title></programme>
+<programme start="20250817130000 +0000" stop="20250817131000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817131000 +0000" stop="20250817140000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Manben: BTS Of Manga</title></programme>
+<programme start="20250817140000 +0000" stop="20250817141000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817141000 +0000" stop="20250817144000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cycle Around Japan Highlights</title></programme>
+<programme start="20250817144000 +0000" stop="20250817145000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Story Land In Classical...</title></programme>
+<programme start="20250817145000 +0000" stop="20250817150000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Take Tech</title></programme>
+<programme start="20250817150000 +0000" stop="20250817151000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817151000 +0000" stop="20250817154000 +0000" channel="NHKWorldJapan.jp"><title lang="id">J-Melo</title></programme>
+<programme start="20250817154000 +0000" stop="20250817155000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Little Charo</title></programme>
+<programme start="20250817155000 +0000" stop="20250817155500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japanology Plus Mini</title></programme>
+<programme start="20250817155500 +0000" stop="20250817160000 +0000" channel="NHKWorldJapan.jp"><title lang="id">A Cat&apos;s-Eye View Of Japan</title></programme>
+<programme start="20250817160000 +0000" stop="20250817161000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817161000 +0000" stop="20250817165700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Somewhere Street</title></programme>
+<programme start="20250817165700 +0000" stop="20250817165950 +0000" channel="NHKWorldJapan.jp"><title lang="id">Time-Lapse Journey</title></programme>
+<programme start="20250817165950 +0000" stop="20250817165959 +0000" channel="NHKWorldJapan.jp"><title lang="id">Time-Lapse Journey</title></programme>
+<programme start="20250817170000 +0000" stop="20250817171000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817171000 +0000" stop="20250817172500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Ninja Truth</title></programme>
+<programme start="20250817172500 +0000" stop="20250817173000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Core Kyoto Mini</title></programme>
+<programme start="20250817173000 +0000" stop="20250817174500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20250817174500 +0000" stop="20250817180000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Zero Waste Life</title></programme>
+<programme start="20250817180000 +0000" stop="20250817181000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817181000 +0000" stop="20250817190000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Voices From Battle Of Saipan</title></programme>
+<programme start="20250817190000 +0000" stop="20250817191000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817191000 +0000" stop="20250817200000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Manben: BTS Of Manga</title></programme>
+<programme start="20250817200000 +0000" stop="20250817201000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817201000 +0000" stop="20250817204000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cycle Around Japan Highlights</title></programme>
+<programme start="20250817204000 +0000" stop="20250817205000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Story Land In Classical...</title></programme>
+<programme start="20250817205000 +0000" stop="20250817210000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Take Tech</title></programme>
+<programme start="20250817210000 +0000" stop="20250817211000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817211000 +0000" stop="20250817214000 +0000" channel="NHKWorldJapan.jp"><title lang="id">J-Melo</title></programme>
+<programme start="20250817214000 +0000" stop="20250817215000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Little Charo</title></programme>
+<programme start="20250817215000 +0000" stop="20250817215500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Japanology Plus Mini</title></programme>
+<programme start="20250817215500 +0000" stop="20250817220000 +0000" channel="NHKWorldJapan.jp"><title lang="id">A Cat&apos;s-Eye View Of Japan</title></programme>
+<programme start="20250817220000 +0000" stop="20250817221000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817221000 +0000" stop="20250817222500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Ninja Truth</title></programme>
+<programme start="20250817222500 +0000" stop="20250817223000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Core Kyoto Mini</title></programme>
+<programme start="20250817223000 +0000" stop="20250817224500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20250817224500 +0000" stop="20250817230000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Zero Waste Life</title></programme>
+<programme start="20250817230000 +0000" stop="20250817231000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250817231000 +0000" stop="20250818000000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Somewhere Street</title></programme>
+<programme start="20250818000000 +0000" stop="20250818001500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818001500 +0000" stop="20250818003000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Direct Talk</title></programme>
+<programme start="20250818003000 +0000" stop="20250818005700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Where We Call Home</title></programme>
+<programme start="20250818005700 +0000" stop="20250818010000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Travel Japanese</title></programme>
+<programme start="20250818010000 +0000" stop="20250818011000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818011000 +0000" stop="20250818011500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Kaizoku: Seto Inland Sea</title></programme>
+<programme start="20250818011500 +0000" stop="20250818013000 +0000" channel="NHKWorldJapan.jp"><title lang="id">BOSAI</title></programme>
+<programme start="20250818013000 +0000" stop="20250818014500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20250818014500 +0000" stop="20250818015500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20250818015500 +0000" stop="20250818020000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Hello! NHK World-Japan</title></programme>
+<programme start="20250818020000 +0000" stop="20250818021000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818021000 +0000" stop="20250818022300 +0000" channel="NHKWorldJapan.jp"><title lang="id">Biz Stream Special Edition</title></programme>
+<programme start="20250818022300 +0000" stop="20250818023000 +0000" channel="NHKWorldJapan.jp"><title lang="id">1 156: Transgenders</title></programme>
+<programme start="20250818023000 +0000" stop="20250818030000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20250818030000 +0000" stop="20250818031000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818031000 +0000" stop="20250818032000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Matsuri: The Heartbeat Of Japan</title></programme>
+<programme start="20250818032000 +0000" stop="20250818033000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Trails To Oishii Tokyo Mini</title></programme>
+<programme start="20250818033000 +0000" stop="20250818040000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Darwin&apos;s Amazing Animals</title></programme>
+<programme start="20250818040000 +0000" stop="20250818041000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818041000 +0000" stop="20250818042300 +0000" channel="NHKWorldJapan.jp"><title lang="id">Biz Stream Special Edition</title></programme>
+<programme start="20250818042300 +0000" stop="20250818043000 +0000" channel="NHKWorldJapan.jp"><title lang="id">The Beauty Of Japanese Swords</title></programme>
+<programme start="20250818043000 +0000" stop="20250818045700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Hometown Stories</title></programme>
+<programme start="20250818045700 +0000" stop="20250818050000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Japanese</title></programme>
+<programme start="20250818050000 +0000" stop="20250818051000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818051000 +0000" stop="20250818052500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cinematic Journey</title></programme>
+<programme start="20250818052500 +0000" stop="20250818053000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Ramen Japan</title></programme>
+<programme start="20250818053000 +0000" stop="20250818060000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Where We Call Home</title></programme>
+<programme start="20250818060000 +0000" stop="20250818061000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818061000 +0000" stop="20250818062300 +0000" channel="NHKWorldJapan.jp"><title lang="id">Biz Stream Special Edition</title></programme>
+<programme start="20250818062300 +0000" stop="20250818063000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Passing The Torch Of Peace</title></programme>
+<programme start="20250818063000 +0000" stop="20250818064500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20250818064500 +0000" stop="20250818065500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20250818065500 +0000" stop="20250818070000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Hello! NHK World-Japan</title></programme>
+<programme start="20250818070000 +0000" stop="20250818071000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818071000 +0000" stop="20250818072500 +0000" channel="NHKWorldJapan.jp"><title lang="id">World Heritage Sites In Japan</title></programme>
+<programme start="20250818072500 +0000" stop="20250818073000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Hit The Road</title></programme>
+<programme start="20250818073000 +0000" stop="20250818080000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20250818080000 +0000" stop="20250818081000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818081000 +0000" stop="20250818083000 +0000" channel="NHKWorldJapan.jp"><title lang="id">My Street Piano</title></programme>
+<programme start="20250818083000 +0000" stop="20250818090000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Hometown Stories</title></programme>
+<programme start="20250818090000 +0000" stop="20250818091000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818091000 +0000" stop="20250818092000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Matsuri: The Heartbeat Of Japan</title></programme>
+<programme start="20250818092000 +0000" stop="20250818093000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Trails To Oishii Tokyo Mini</title></programme>
+<programme start="20250818093000 +0000" stop="20250818100000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Darwin&apos;s Amazing Animals</title></programme>
+<programme start="20250818100000 +0000" stop="20250818101500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818101500 +0000" stop="20250818103000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cinematic Journey</title></programme>
+<programme start="20250818103000 +0000" stop="20250818110000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Where We Call Home</title></programme>
+<programme start="20250818110000 +0000" stop="20250818111500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818111500 +0000" stop="20250818112800 +0000" channel="NHKWorldJapan.jp"><title lang="id">Biz Stream Special Edition</title></programme>
+<programme start="20250818112800 +0000" stop="20250818114300 +0000" channel="NHKWorldJapan.jp"><title lang="id">Direct Talk</title></programme>
+<programme start="20250818114300 +0000" stop="20250818115500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Herbal Symphony: Summer</title></programme>
+<programme start="20250818115500 +0000" stop="20250818120000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Ukiyoe Edo-Life: Rush Hour</title></programme>
+<programme start="20250818120000 +0000" stop="20250818121500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818121500 +0000" stop="20250818123000 +0000" channel="NHKWorldJapan.jp"><title lang="id">World Heritage Sites In Japan</title></programme>
+<programme start="20250818123000 +0000" stop="20250818124500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20250818124500 +0000" stop="20250818130000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20250818130000 +0000" stop="20250818131000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818131000 +0000" stop="20250818133000 +0000" channel="NHKWorldJapan.jp"><title lang="id">My Street Piano</title></programme>
+<programme start="20250818133000 +0000" stop="20250818140000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20250818140000 +0000" stop="20250818141000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818141000 +0000" stop="20250818142000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Matsuri: The Heartbeat Of Japan</title></programme>
+<programme start="20250818142000 +0000" stop="20250818143000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Trails To Oishii Tokyo Mini</title></programme>
+<programme start="20250818143000 +0000" stop="20250818150000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Medical Frontiers</title></programme>
+<programme start="20250818150000 +0000" stop="20250818151000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818151000 +0000" stop="20250818152500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Cinematic Journey</title></programme>
+<programme start="20250818152500 +0000" stop="20250818153000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Ramen Japan</title></programme>
+<programme start="20250818153000 +0000" stop="20250818155700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Where We Call Home</title></programme>
+<programme start="20250818155700 +0000" stop="20250818160000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Travel Japanese</title></programme>
+<programme start="20250818160000 +0000" stop="20250818161000 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
+<programme start="20250818161000 +0000" stop="20250818162500 +0000" channel="NHKWorldJapan.jp"><title lang="id">World Heritage Sites In Japan</title></programme>
+<programme start="20250818162500 +0000" stop="20250818163000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Hit The Road</title></programme>
+<programme start="20250818163000 +0000" stop="20250818165700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Hometown Stories</title></programme>
+<programme start="20250818165700 +0000" stop="20250818165950 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Japanese</title></programme>
+<programme start="20250818165950 +0000" stop="20250818165959 +0000" channel="NHKWorldJapan.jp"><title lang="id">Easy Japanese</title></programme>
 <programme start="20250815170000 +0000" stop="20250815180000 +0000" channel="NusantaraTV.id"><title lang="id">NTV CRIME</title></programme>
 <programme start="20250815180000 +0000" stop="20250815183000 +0000" channel="NusantaraTV.id"><title lang="id">KULKAS</title></programme>
 <programme start="20250815183000 +0000" stop="20250815193000 +0000" channel="NusantaraTV.id"><title lang="id">NTV TOPLINES</title></programme>
