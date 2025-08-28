@@ -1535,7 +1535,7 @@
 <programme start="20250830023000 +0000" stop="20250830030000 +0000" channel="DensShowBiz.id"><title lang="id">Podcast Terkuat Di Bumi</title></programme>
 <programme start="20250830030000 +0000" stop="20250830040000 +0000" channel="DensShowBiz.id"><title lang="id">Peluit Akhir Podcast</title></programme>
 <programme start="20250830040000 +0000" stop="20250830050000 +0000" channel="DensShowBiz.id"><title lang="id">Podcastis Season 2</title></programme>
-<programme start="20250830050000 +0000" stop="20250830060000 +0000" channel="DensShowBiz.id"><title lang="id">All Event</title></programme>
+<programme start="20250830050000 +0000" stop="20250830060000 +0000" channel="DensShowBiz.id"><title lang="id">All Event Liputan</title></programme>
 <programme start="20250830060000 +0000" stop="20250830063000 +0000" channel="DensShowBiz.id"><title lang="id">Hilang Jejak</title></programme>
 <programme start="20250830063000 +0000" stop="20250830070000 +0000" channel="DensShowBiz.id"><title lang="id">Podcast Terkuat Di Bumi</title></programme>
 <programme start="20250830070000 +0000" stop="20250830080000 +0000" channel="DensShowBiz.id"><title lang="id">Office Hour - All Performance</title></programme>
@@ -2705,6 +2705,31 @@
 <programme start="20250829160000 +0000" stop="20250829163000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport</title></programme>
 <programme start="20250829163000 +0000" stop="20250829165950 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
 <programme start="20250829165950 +0000" stop="20250829165959 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
+<programme start="20250829170000 +0000" stop="20250829183000 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
+<programme start="20250829183000 +0000" stop="20250829193000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
+<programme start="20250829193000 +0000" stop="20250829203000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
+<programme start="20250829203000 +0000" stop="20250829210000 +0000" channel="KompasTV.id"><title lang="id">Kalam Hati</title></programme>
+<programme start="20250829210000 +0000" stop="20250829213000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport</title></programme>
+<programme start="20250829213000 +0000" stop="20250830000000 +0000" channel="KompasTV.id"><title lang="id">Kompas Pagi Akhir Pekan</title></programme>
+<programme start="20250830000000 +0000" stop="20250830013000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Pagi</title></programme>
+<programme start="20250830013000 +0000" stop="20250830020000 +0000" channel="KompasTV.id"><title lang="id">Sasaran</title></programme>
+<programme start="20250830020000 +0000" stop="20250830023000 +0000" channel="KompasTV.id"><title lang="id">Jalan-Jalan</title></programme>
+<programme start="20250830023000 +0000" stop="20250830030000 +0000" channel="KompasTV.id"><title lang="id">Pop News</title></programme>
+<programme start="20250830030000 +0000" stop="20250830033000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sepekan</title></programme>
+<programme start="20250830033000 +0000" stop="20250830040000 +0000" channel="KompasTV.id"><title lang="id">Cerita Rasa</title></programme>
+<programme start="20250830040000 +0000" stop="20250830050000 +0000" channel="KompasTV.id"><title lang="id">Kompas Siang</title></programme>
+<programme start="20250830050000 +0000" stop="20250830053000 +0000" channel="KompasTV.id"><title lang="id">Borgol</title></programme>
+<programme start="20250830053000 +0000" stop="20250830060000 +0000" channel="KompasTV.id"><title lang="id">News Or Hoax</title></programme>
+<programme start="20250830060000 +0000" stop="20250830070000 +0000" channel="KompasTV.id"><title lang="id">Dipo Investigasi</title></programme>
+<programme start="20250830070000 +0000" stop="20250830080000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
+<programme start="20250830080000 +0000" stop="20250830090000 +0000" channel="KompasTV.id"><title lang="id">Cerita Militer On Sail</title></programme>
+<programme start="20250830090000 +0000" stop="20250830111500 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
+<programme start="20250830111500 +0000" stop="20250830121500 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Malam</title></programme>
+<programme start="20250830121500 +0000" stop="20250830131500 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
+<programme start="20250830131500 +0000" stop="20250830141500 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
+<programme start="20250830141500 +0000" stop="20250830163000 +0000" channel="KompasTV.id"><title lang="id">Eredivisie 2025 26</title></programme>
+<programme start="20250830163000 +0000" stop="20250830165950 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
+<programme start="20250830165950 +0000" stop="20250830165959 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
 <programme start="20250827170000 +0000" stop="20250827181500 +0000" channel="KPlus.sg"><title lang="id">Queen of Masks Episode 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
 <programme start="20250827181500 +0000" stop="20250827193000 +0000" channel="KPlus.sg"><title lang="id">Perfect Marriage Revenge Episode 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
 <programme start="20250827193000 +0000" stop="20250827211500 +0000" channel="KPlus.sg"><title lang="id">Knowing Bros Episode 491</title><episode-num system="xmltv_ns">0.490.0/1</episode-num><episode-num system="onscreen">S01E491</episode-num></programme>
@@ -3802,6 +3827,21 @@
 <programme start="20250829144500 +0000" stop="20250829162000 +0000" channel="ROCKAction.sg"><title lang="id">The Whole Nine Yards</title></programme>
 <programme start="20250829162000 +0000" stop="20250829165950 +0000" channel="ROCKAction.sg"><title lang="id">Dragonheart: Vengeance</title></programme>
 <programme start="20250829165950 +0000" stop="20250829165959 +0000" channel="ROCKAction.sg"><title lang="id">Dragonheart: Vengeance</title></programme>
+<programme start="20250829170000 +0000" stop="20250829175500 +0000" channel="ROCKAction.sg"><title lang="id">Dragonheart: Vengeance</title></programme>
+<programme start="20250829175500 +0000" stop="20250829195500 +0000" channel="ROCKAction.sg"><title lang="id">Miami Vice</title></programme>
+<programme start="20250829195500 +0000" stop="20250829215000 +0000" channel="ROCKAction.sg"><title lang="id">Total Recall</title></programme>
+<programme start="20250829215000 +0000" stop="20250829232500 +0000" channel="ROCKAction.sg"><title lang="id">Dragonheart: The Heartfire</title></programme>
+<programme start="20250829232500 +0000" stop="20250830014500 +0000" channel="ROCKAction.sg"><title lang="id">Minority Report</title></programme>
+<programme start="20250830014500 +0000" stop="20250830033000 +0000" channel="ROCKAction.sg"><title lang="id">The Last Dragonslayer</title></programme>
+<programme start="20250830033000 +0000" stop="20250830053000 +0000" channel="ROCKAction.sg"><title lang="id">Twilight</title></programme>
+<programme start="20250830053000 +0000" stop="20250830072500 +0000" channel="ROCKAction.sg"><title lang="id">Collateral</title></programme>
+<programme start="20250830072500 +0000" stop="20250830092000 +0000" channel="ROCKAction.sg"><title lang="id">TMNT: Out Of The Shadows</title></programme>
+<programme start="20250830092000 +0000" stop="20250830110000 +0000" channel="ROCKAction.sg"><title lang="id">Dragonheart: The Heartfire</title></programme>
+<programme start="20250830110000 +0000" stop="20250830125500 +0000" channel="ROCKAction.sg"><title lang="id">Total Recall</title></programme>
+<programme start="20250830125500 +0000" stop="20250830142500 +0000" channel="ROCKAction.sg"><title lang="id">The One</title></programme>
+<programme start="20250830142500 +0000" stop="20250830161000 +0000" channel="ROCKAction.sg"><title lang="id">War</title></programme>
+<programme start="20250830161000 +0000" stop="20250830165950 +0000" channel="ROCKAction.sg"><title lang="id">Minority Report</title></programme>
+<programme start="20250830165950 +0000" stop="20250830165959 +0000" channel="ROCKAction.sg"><title lang="id">Minority Report</title></programme>
 <programme start="20250827170000 +0000" stop="20250827172500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show S12, Ep 157</title><episode-num system="xmltv_ns">0.156.0/1</episode-num><episode-num system="onscreen">S01E157</episode-num></programme>
 <programme start="20250827172500 +0000" stop="20250827181000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With... S12, Ep 136</title><episode-num system="xmltv_ns">0.135.0/1</episode-num><episode-num system="onscreen">S01E136</episode-num></programme>
 <programme start="20250827181000 +0000" stop="20250827191000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC: In Your Hands S2, Ep 7</title><episode-num system="xmltv_ns">0.6.0/1</episode-num><episode-num system="onscreen">S01E07</episode-num></programme>
@@ -3852,6 +3892,19 @@
 <programme start="20250829131000 +0000" stop="20250829144500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Zombieland: Double Tap</title></programme>
 <programme start="20250829144500 +0000" stop="20250829165950 +0000" channel="ROCKEntertainment.sg"><title lang="id">Blade Runner 2049</title></programme>
 <programme start="20250829165950 +0000" stop="20250829165959 +0000" channel="ROCKEntertainment.sg"><title lang="id">Blade Runner 2049</title></programme>
+<programme start="20250829170000 +0000" stop="20250829171500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Blade Runner 2049</title></programme>
+<programme start="20250829171500 +0000" stop="20250829195500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Patriot</title></programme>
+<programme start="20250829195500 +0000" stop="20250829214000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Scorpion King 4: Quest...</title></programme>
+<programme start="20250829214000 +0000" stop="20250829235000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Woman King</title></programme>
+<programme start="20250829235000 +0000" stop="20250830020000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Legend Of Zorro</title></programme>
+<programme start="20250830020000 +0000" stop="20250830043000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Blade Runner 2049</title></programme>
+<programme start="20250830043000 +0000" stop="20250830064000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Woman King</title></programme>
+<programme start="20250830064000 +0000" stop="20250830082500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Scorpion King 4: Quest...</title></programme>
+<programme start="20250830082500 +0000" stop="20250830110500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Patriot</title></programme>
+<programme start="20250830110500 +0000" stop="20250830133500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Blade Runner 2049</title></programme>
+<programme start="20250830133500 +0000" stop="20250830154500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Woman King</title></programme>
+<programme start="20250830154500 +0000" stop="20250830165950 +0000" channel="ROCKEntertainment.sg"><title lang="id">Zombieland: Double Tap</title></programme>
+<programme start="20250830165950 +0000" stop="20250830165959 +0000" channel="ROCKEntertainment.sg"><title lang="id">Zombieland: Double Tap</title></programme>
 <programme start="20250827170000 +0000" stop="20250827180000 +0000" channel="RodjaTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250827180000 +0000" stop="20250827183000 +0000" channel="RodjaTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250827183000 +0000" stop="20250827190000 +0000" channel="RodjaTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
