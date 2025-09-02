@@ -3,7 +3,7 @@
 <channel id="120"><display-name>MotoRRacing TV</display-name><url>https://dens.tv</url></channel>
 <channel id="127"><display-name>crema.tv</display-name><url>https://dens.tv</url></channel>
 <channel id="AlJazeera.qa"><display-name>Al Jazeera Arabic</display-name><icon src="https://i.imgur.com/7bRVpnu.png"/><url>https://dens.tv</url></channel>
-<channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://i.imgur.com/7bRVpnu.png"/><url>https://dens.tv</url></channel>
+<channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="AlQuranAlKareemTV.sa"><display-name>Quran TV</display-name><icon src="https://i.imgur.com/A2fJysM.png"/><url>https://dens.tv</url></channel>
 <channel id="AlSunnahAlNabawiyahTV.sa"><display-name>Sunna TV</display-name><icon src="https://i.imgur.com/S6LcTJv.png"/><url>https://dens.tv</url></channel>
 <channel id="AniplusAsia.sg"><display-name>ANIPLUS HD</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://dens.tv</url></channel>
@@ -988,6 +988,64 @@
 <programme start="20250902160000 +0000" stop="20250902163000 +0000" channel="ChannelJowo.id"><title lang="id">Guyon Gayeng # Eps 59</title></programme>
 <programme start="20250902163000 +0000" stop="20250902163000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Sarpakenaka Senapati1 150525</title></programme>
 <programme start="20250902163000 +0000" stop="20250902165900 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Sarpakenaka Senapati1 150525</title></programme>
+<programme start="20250902170000 +0000" stop="20250902180000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Sarpakenaka Senapati2 150525</title></programme>
+<programme start="20250902180000 +0000" stop="20250902190000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 311</title></programme>
+<programme start="20250902190000 +0000" stop="20250902200000 +0000" channel="ChannelJowo.id"><title lang="id">Guyon Gayeng # Eps 32</title></programme>
+<programme start="20250902200000 +0000" stop="20250902210000 +0000" channel="ChannelJowo.id"><title lang="id">Ki Danang Bagus # Bimo Bumbu1</title></programme>
+<programme start="20250902210000 +0000" stop="20250902230000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Antasena Lair</title></programme>
+<programme start="20250902230000 +0000" stop="20250902233000 +0000" channel="ChannelJowo.id"><title lang="id">Goro - Goro # Eps 15</title></programme>
+<programme start="20250902233000 +0000" stop="20250903000000 +0000" channel="ChannelJowo.id"><title lang="id">Tarian # Eps 8</title></programme>
+<programme start="20250903000000 +0000" stop="20250903010000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 246</title></programme>
+<programme start="20250903010000 +0000" stop="20250903013000 +0000" channel="ChannelJowo.id"><title lang="id">Mlaku - Mlaku # Eps 8</title></programme>
+<programme start="20250903013000 +0000" stop="20250903020000 +0000" channel="ChannelJowo.id"><title lang="id">Babat Tanah Jowo # Eps 41</title></programme>
+<programme start="20250903020000 +0000" stop="20250903030000 +0000" channel="ChannelJowo.id"><title lang="id">Punakawan # Eps 37</title></programme>
+<programme start="20250903030000 +0000" stop="20250903033000 +0000" channel="ChannelJowo.id"><title lang="id">Wiwitane # Eps 21</title></programme>
+<programme start="20250903033000 +0000" stop="20250903040000 +0000" channel="ChannelJowo.id"><title lang="id">Jowo Pedia # Eps 25</title></programme>
+<programme start="20250903040000 +0000" stop="20250903050000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 367</title></programme>
+<programme start="20250903050000 +0000" stop="20250903053000 +0000" channel="ChannelJowo.id"><title lang="id">Nusantara # Eps24</title></programme>
+<programme start="20250903053000 +0000" stop="20250903060000 +0000" channel="ChannelJowo.id"><title lang="id">Pusaka Jawa # Eps24</title></programme>
+<programme start="20250903060000 +0000" stop="20250903080000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Antasena Lair</title></programme>
+<programme start="20250903080000 +0000" stop="20250903090000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 246</title></programme>
+<programme start="20250903090000 +0000" stop="20250903100000 +0000" channel="ChannelJowo.id"><title lang="id">KI Bayu Aji # Wahyu Kalimasada3</title></programme>
+<programme start="20250903100000 +0000" stop="20250903103000 +0000" channel="ChannelJowo.id"><title lang="id">Ragam Desa # Eps 15</title></programme>
+<programme start="20250903103000 +0000" stop="20250903110000 +0000" channel="ChannelJowo.id"><title lang="id">Jowo Pedia # Eps 22</title></programme>
+<programme start="20250903110000 +0000" stop="20250903113000 +0000" channel="ChannelJowo.id"><title lang="id">Babat Tanah Jowo # Eps 17</title></programme>
+<programme start="20250903113000 +0000" stop="20250903120000 +0000" channel="ChannelJowo.id"><title lang="id">Nusantara # Eps26</title></programme>
+<programme start="20250903120000 +0000" stop="20250903140000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Abimanyu Kerem 200525</title></programme>
+<programme start="20250903140000 +0000" stop="20250903150000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 282</title></programme>
+<programme start="20250903150000 +0000" stop="20250903160000 +0000" channel="ChannelJowo.id"><title lang="id">Guyon Gayeng # Eps 60</title></programme>
+<programme start="20250903160000 +0000" stop="20250903163000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Petruk Dadi Ratu1</title></programme>
+<programme start="20250903163000 +0000" stop="20250903165950 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Petruk Dadi Ratu1</title></programme>
+<programme start="20250903165950 +0000" stop="20250903165959 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Petruk Dadi Ratu1</title></programme>
+<programme start="20250903170000 +0000" stop="20250903180000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Petruk Dadi Ratu2</title></programme>
+<programme start="20250903180000 +0000" stop="20250903190000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 312</title></programme>
+<programme start="20250903190000 +0000" stop="20250903200000 +0000" channel="ChannelJowo.id"><title lang="id">Guyon Gayeng # Eps 33</title></programme>
+<programme start="20250903200000 +0000" stop="20250903210000 +0000" channel="ChannelJowo.id"><title lang="id">Ki Danang Bagus # Bimo Bumbu2</title></programme>
+<programme start="20250903210000 +0000" stop="20250903230000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Laire Guru</title></programme>
+<programme start="20250903230000 +0000" stop="20250903233000 +0000" channel="ChannelJowo.id"><title lang="id">Goro - Goro # Eps 16</title></programme>
+<programme start="20250903233000 +0000" stop="20250904000000 +0000" channel="ChannelJowo.id"><title lang="id">Tarian # Eps 9</title></programme>
+<programme start="20250904000000 +0000" stop="20250904010000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 247</title></programme>
+<programme start="20250904010000 +0000" stop="20250904013000 +0000" channel="ChannelJowo.id"><title lang="id">Mlaku - Mlaku # Eps 9</title></programme>
+<programme start="20250904013000 +0000" stop="20250904020000 +0000" channel="ChannelJowo.id"><title lang="id">Babat Tanah Jowo # Eps 42</title></programme>
+<programme start="20250904020000 +0000" stop="20250904030000 +0000" channel="ChannelJowo.id"><title lang="id">Punakawan # Eps 38</title></programme>
+<programme start="20250904030000 +0000" stop="20250904033000 +0000" channel="ChannelJowo.id"><title lang="id">Wiwitane # Eps 22</title></programme>
+<programme start="20250904033000 +0000" stop="20250904040000 +0000" channel="ChannelJowo.id"><title lang="id">Jowo Pedia # Eps 26</title></programme>
+<programme start="20250904040000 +0000" stop="20250904050000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 368</title></programme>
+<programme start="20250904050000 +0000" stop="20250904053000 +0000" channel="ChannelJowo.id"><title lang="id">Nusantara # Eps25</title></programme>
+<programme start="20250904053000 +0000" stop="20250904060000 +0000" channel="ChannelJowo.id"><title lang="id">Pusaka Jawa # Eps25</title></programme>
+<programme start="20250904060000 +0000" stop="20250904080000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Laire Guru</title></programme>
+<programme start="20250904080000 +0000" stop="20250904090000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 247</title></programme>
+<programme start="20250904090000 +0000" stop="20250904100000 +0000" channel="ChannelJowo.id"><title lang="id">KI Bayu Aji # Wahyu Kalimasada4</title></programme>
+<programme start="20250904100000 +0000" stop="20250904103000 +0000" channel="ChannelJowo.id"><title lang="id">Ragam Desa # Eps 16</title></programme>
+<programme start="20250904103000 +0000" stop="20250904110000 +0000" channel="ChannelJowo.id"><title lang="id">Jowo Pedia # Eps 23</title></programme>
+<programme start="20250904110000 +0000" stop="20250904113000 +0000" channel="ChannelJowo.id"><title lang="id">Babat Tanah Jowo # Eps 18</title></programme>
+<programme start="20250904113000 +0000" stop="20250904120000 +0000" channel="ChannelJowo.id"><title lang="id">Nusantara # Eps27</title></programme>
+<programme start="20250904120000 +0000" stop="20250904140000 +0000" channel="ChannelJowo.id"><title lang="id">Wayang Orang # Burbuh Alengka 220525</title></programme>
+<programme start="20250904140000 +0000" stop="20250904150000 +0000" channel="ChannelJowo.id"><title lang="id">Tembang Jowo # 283</title></programme>
+<programme start="20250904150000 +0000" stop="20250904160000 +0000" channel="ChannelJowo.id"><title lang="id">Guyon Gayeng # Eps 61</title></programme>
+<programme start="20250904160000 +0000" stop="20250904163000 +0000" channel="ChannelJowo.id"><title lang="id">Ki Cahyo Kuntadi # Karno Tanding1</title></programme>
+<programme start="20250904163000 +0000" stop="20250904165950 +0000" channel="ChannelJowo.id"><title lang="id">Ki Cahyo Kuntadi # Karno Tanding1</title></programme>
+<programme start="20250904165950 +0000" stop="20250904165959 +0000" channel="ChannelJowo.id"><title lang="id">Ki Cahyo Kuntadi # Karno Tanding1</title></programme>
 <programme start="20250901170000 +0000" stop="20250901180000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
 <programme start="20250901180000 +0000" stop="20250901190000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
 <programme start="20250901190000 +0000" stop="20250901200000 +0000" channel="CNA.sg"><title lang="id">Separation Declassified, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
@@ -1423,9 +1481,9 @@
 <programme start="20250902113000 +0000" stop="20250902123000 +0000" channel="DensPlay.id"><title lang="id">Anak Rental</title></programme>
 <programme start="20250902123000 +0000" stop="20250902133000 +0000" channel="DensPlay.id"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20250902133000 +0000" stop="20250902140000 +0000" channel="DensPlay.id"><title lang="id">Esports Play &amp; Pro</title></programme>
-<programme start="20250902140000 +0000" stop="20250902160000 +0000" channel="DensPlay.id"><title lang="id">Game On By KekeLawar (LIVE)</title></programme>
-<programme start="20250902160000 +0000" stop="20250902165959 +0000" channel="DensPlay.id"><title lang="id">Isekai Podcast</title></programme>
-<programme start="20250902170600 +0000" stop="20250903010000 +0000" channel="DensPlay.id"><title lang="id">Valoverse</title></programme>
+<programme start="20250902140000 +0000" stop="20250902150000 +0000" channel="DensPlay.id"><title lang="id">Esports Spectator by SL</title></programme>
+<programme start="20250902150000 +0000" stop="20250902165959 +0000" channel="DensPlay.id"><title lang="id">Game On By KekeLawar (LIVE)</title></programme>
+<programme start="20250902230000 +0000" stop="20250903010000 +0000" channel="DensPlay.id"><title lang="id">Valoverse</title></programme>
 <programme start="20250903010000 +0000" stop="20250903013000 +0000" channel="DensPlay.id"><title lang="id">Isekai Podcast</title></programme>
 <programme start="20250903013000 +0000" stop="20250903023000 +0000" channel="DensPlay.id"><title lang="id">CBN Survivor Showdown S4</title></programme>
 <programme start="20250903023000 +0000" stop="20250903030000 +0000" channel="DensPlay.id"><title lang="id">Alter Ego Esports</title></programme>
