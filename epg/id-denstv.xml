@@ -1,52 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250928">
 <channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="120"><display-name>MotoRRacing TV</display-name><url>https://dens.tv</url></channel>
-<channel id="127"><display-name>crema.tv</display-name><url>https://dens.tv</url></channel>
+<channel id="127"><display-name>Crema TV</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
 <channel id="AlJazeera.qa"><display-name>Al Jazeera Arabic</display-name><icon src="https://i.imgur.com/7bRVpnu.png"/><url>https://dens.tv</url></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="AlQuranAlKareemTV.sa"><display-name>Quran TV</display-name><icon src="https://i.imgur.com/A2fJysM.png"/><url>https://dens.tv</url></channel>
 <channel id="AlSunnahAlNabawiyahTV.sa"><display-name>Sunna TV</display-name><icon src="https://i.imgur.com/S6LcTJv.png"/><url>https://dens.tv</url></channel>
 <channel id="AniplusAsia.sg"><display-name>ANIPLUS HD</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://dens.tv</url></channel>
-<channel id="ANTV.id"><display-name>antv</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="BTV.id"><display-name>BTV</display-name><icon src="https://i.imgur.com/fdygcVx.png"/><url>https://dens.tv</url></channel>
 <channel id="CCTV4Asia.cn"><display-name>CCTV-4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://dens.tv</url></channel>
-<channel id="CelestialClassicMovies.id"><display-name>CCM (Celestial Classic MV)</display-name><icon src="https://i.imgur.com/X7OZ3w5.png"/><url>https://dens.tv</url></channel>
-<channel id="CelestialMoviesIndonesia.id"><display-name>Celestial Movies HD</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://dens.tv</url></channel>
 <channel id="CGTN.cn"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="ChannelJowo.id"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
 <channel id="CNA.sg"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://dens.tv</url></channel>
 <channel id="DAAITV.id"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
 <channel id="DanceTelevision.nl"><display-name>Dance TV</display-name><icon src="https://i.postimg.cc/nLQHQCnV/dancetelevision.png"/><url>https://dens.tv</url></channel>
-<channel id="DeluxeLounge.de@HD"><display-name>Deluxe Lounge</display-name><icon src="https://i.imgur.com/pgCA35z.png"/><url>https://dens.tv</url></channel>
 <channel id="DensFoodChannel.id"><display-name>DensFood Channel</display-name><url>https://dens.tv</url></channel>
 <channel id="DensLearningKnowledge.id"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="DensLifeStyle.id"><display-name>DensLife &amp; Style</display-name><url>https://dens.tv</url></channel>
+<channel id="DensLifeStyle.id"><display-name>DensLife&amp;Style</display-name><url>https://dens.tv</url></channel>
 <channel id="DensPlay.id"><display-name>DensPlay</display-name><url>https://dens.tv</url></channel>
 <channel id="DensShowBiz.id"><display-name>DensShowBiz</display-name><url>https://dens.tv</url></channel>
 <channel id="DIM.ua"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
 <channel id="DW.de@English"><display-name>DW-TV</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://dens.tv</url></channel>
 <channel id="ElshintaTV.id"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://dens.tv</url></channel>
-<channel id="FightSports.us"><display-name>FIGHT SPORTS HD</display-name><icon src="https://i.imgur.com/nV55veq.png"/><url>https://dens.tv</url></channel>
 <channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://i.imgur.com/u8N6uoj.png"/><url>https://dens.tv</url></channel>
 <channel id="FREEDOM.ua"><display-name>FREEDOM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="HorizonSports.us"><display-name>HorizonSports</display-name><icon src="https://i.postimg.cc/zXqj0c2K/horizonsports.png"/><url>https://dens.tv</url></channel>
-<channel id="IDTV.id"><display-name>IDTV</display-name><url>https://dens.tv</url></channel>
-<channel id="IndonesianaTV.id"><display-name>Indonesiana TV</display-name><icon src="https://i.imgur.com/192wiS1.png"/><url>https://dens.tv</url></channel>
+<channel id="IDTV.id"><display-name>Berita Satu</display-name><url>https://dens.tv</url></channel>
 <channel id="JakTV.id"><display-name>Jak tv</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
-<channel id="KIX.hk"><display-name>KIX HD</display-name><icon src="https://i.imgur.com/zWcUAdb.png"/><url>https://dens.tv</url></channel>
-<channel id="KompasTV.id"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://dens.tv</url></channel>
 <channel id="KPlus.sg"><display-name>K-PLUS HD</display-name><icon src="https://i.imgur.com/RbS0q71.png"/><url>https://dens.tv</url></channel>
 <channel id="MagnaChannel.id"><display-name>Magna Channel</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://dens.tv</url></channel>
 <channel id="MetroTV.id"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
 <channel id="Motorvision.de"><display-name>Motorvision+</display-name><icon src="https://i.imgur.com/v4kj8pI.png"/><url>https://dens.tv</url></channel>
-<channel id="MyCinema.id"><display-name>My Cinema HD</display-name><icon src="https://i.imgur.com/BTmcTQO.png"/><url>https://dens.tv</url></channel>
 <channel id="MyCinemaAsia.id"><display-name>My Cinema Asia</display-name><icon src="https://i.imgur.com/4XVZLW0.png"/><url>https://dens.tv</url></channel>
 <channel id="MyCinemaEurope.ch"><display-name>My Cinema Europe HD</display-name><icon src="https://i.imgur.com/jz0d8tH.png"/><url>https://dens.tv</url></channel>
-<channel id="MyFamily.id"><display-name>My Family Channel</display-name><icon src="https://i.imgur.com/IaCmCt9.png"/><url>https://dens.tv</url></channel>
 <channel id="MyKidz.id"><display-name>My Kidz HD</display-name><icon src="https://i.imgur.com/qzZFU6d.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="NHKWorldJapan.jp"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="NusantaraTV.id"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
 <channel id="RajawaliTV.id"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
@@ -55,17 +45,14 @@
 <channel id="RodjaTV.id"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="StingrayClassica.ca"><display-name>Stingray Classica</display-name><icon src="https://i.imgur.com/nh1k5RC.png"/><url>https://dens.tv</url></channel>
 <channel id="TBN.ru"><display-name>TBN</display-name><icon src="https://i.imgur.com/XAmPtWu.png"/><url>https://dens.tv</url></channel>
-<channel id="Thrill.hk"><display-name>Thrill</display-name><icon src="https://i.imgur.com/Y282owj.png"/><url>https://dens.tv</url></channel>
 <channel id="TRTWorld.tr"><display-name>TRT World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="TV5MondeAsia.fr"><display-name>TV5MONDE ASIE</display-name><icon src="https://i.imgur.com/FRsRXRR.png"/><url>https://dens.tv</url></channel>
 <channel id="TV5MondeStyle.fr"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
 <channel id="tvNAsia.hk"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="tvNMoviesAsia.hk"><display-name>tvN Movies HD</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://dens.tv</url></channel>
-<channel id="tvOne.id"><display-name>tvOne</display-name><icon src="https://i.imgur.com/LCzQYdy.png"/><url>https://dens.tv</url></channel>
 <channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
 <channel id="TVRISport.id"><display-name>TVRI Sport</display-name><icon src="https://i.postimg.cc/PrqBt2h1/tvrisport.png"/><url>https://dens.tv</url></channel>
 <channel id="WION.in"><display-name>WION</display-name><icon src="https://i.imgur.com/Wc5Z3iS.png"/><url>https://dens.tv</url></channel>
-<channel id="WSport.za"><display-name>W-Sport</display-name><icon src="https://i.imgur.com/K4GDwMp.png"/><url>https://dens.tv</url></channel>
 <programme start="20250927170000 +0000" stop="20250927180000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250927180000 +0000" stop="20250927183000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250927183000 +0000" stop="20250927190000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -144,6 +131,199 @@
 <programme start="20250930150000 +0000" stop="20250930160000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930160000 +0000" stop="20250930165950 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250927170000 +0000" stop="20250927170200 +0000" channel="143"><title lang="id">The Fearless Flyers - Live in Paris</title></programme>
+<programme start="20250927170200 +0000" stop="20250927185300 +0000" channel="143"><title lang="id">Tromboranga Orchestra</title></programme>
+<programme start="20250927185300 +0000" stop="20250927203300 +0000" channel="143"><title lang="id">Sullivan Fortner - Live in Paris</title></programme>
+<programme start="20250927203300 +0000" stop="20250927220000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title></programme>
+<programme start="20250927220000 +0000" stop="20250927230200 +0000" channel="143"><title lang="id">The Fearless Flyers - Live in Paris</title></programme>
+<programme start="20250927230200 +0000" stop="20250928005300 +0000" channel="143"><title lang="id">Tromboranga Orchestra</title></programme>
+<programme start="20250928005300 +0000" stop="20250928023300 +0000" channel="143"><title lang="id">Sullivan Fortner - Live in Paris</title></programme>
+<programme start="20250928023300 +0000" stop="20250928030000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title></programme>
+<programme start="20250928030000 +0000" stop="20250928055000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title></programme>
+<programme start="20250928055000 +0000" stop="20250928084200 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title></programme>
+<programme start="20250928084200 +0000" stop="20250928112600 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title></programme>
+<programme start="20250928112600 +0000" stop="20250928141900 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
+<programme start="20250928141900 +0000" stop="20250928160000 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title></programme>
+<programme start="20250928160000 +0000" stop="20250928165950 +0000" channel="143"><title lang="id">Manu KatchÃ©: One Shot Not</title></programme>
+<programme start="20250928165950 +0000" stop="20250928165959 +0000" channel="143"><title lang="id">Manu KatchÃ©: One Shot Not</title></programme>
+<programme start="20250928170000 +0000" stop="20250928171200 +0000" channel="143"><title lang="id">Manu KatchÃ©: One Shot Not</title></programme>
+<programme start="20250928171200 +0000" stop="20250928180000 +0000" channel="143"><title lang="id">Ray Charles - Salle Pleyel, Paris</title></programme>
+<programme start="20250928180000 +0000" stop="20250928194200 +0000" channel="143"><title lang="id">Lucky Peterson - Live in Germany</title></programme>
+<programme start="20250928194200 +0000" stop="20250928220000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title></programme>
+<programme start="20250928220000 +0000" stop="20250928231200 +0000" channel="143"><title lang="id">Manu KatchÃ©: One Shot Not</title></programme>
+<programme start="20250928231200 +0000" stop="20250929000000 +0000" channel="143"><title lang="id">Ray Charles - Salle Pleyel, Paris</title></programme>
+<programme start="20250929000000 +0000" stop="20250929014200 +0000" channel="143"><title lang="id">Lucky Peterson - Live in Germany</title></programme>
+<programme start="20250929014200 +0000" stop="20250929030000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title></programme>
+<programme start="20250929030000 +0000" stop="20250929054300 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title></programme>
+<programme start="20250929054300 +0000" stop="20250929083400 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title></programme>
+<programme start="20250929083400 +0000" stop="20250929112100 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title></programme>
+<programme start="20250929112100 +0000" stop="20250929141100 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
+<programme start="20250929141100 +0000" stop="20250929160000 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title></programme>
+<programme start="20250929160000 +0000" stop="20250929165950 +0000" channel="143"><title lang="id">Tromboranga Orchestra</title></programme>
+<programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="143"><title lang="id">Tromboranga Orchestra</title></programme>
+<programme start="20250929170000 +0000" stop="20250929175100 +0000" channel="143"><title lang="id">Tromboranga Orchestra</title></programme>
+<programme start="20250929175100 +0000" stop="20250929193500 +0000" channel="143"><title lang="id">Ingoma Busuku - Live at Moods</title></programme>
+<programme start="20250929193500 +0000" stop="20250929204800 +0000" channel="143"><title lang="id">Crystal Murray</title></programme>
+<programme start="20250929204800 +0000" stop="20250929220000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title></programme>
+<programme start="20250929220000 +0000" stop="20250929235100 +0000" channel="143"><title lang="id">Tromboranga Orchestra</title></programme>
+<programme start="20250929235100 +0000" stop="20250930013500 +0000" channel="143"><title lang="id">Ingoma Busuku - Live at Moods</title></programme>
+<programme start="20250930013500 +0000" stop="20250930024800 +0000" channel="143"><title lang="id">Crystal Murray</title></programme>
+<programme start="20250930024800 +0000" stop="20250930030000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title></programme>
+<programme start="20250930030000 +0000" stop="20250930053300 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title></programme>
+<programme start="20250930053300 +0000" stop="20250930082300 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title></programme>
+<programme start="20250930082300 +0000" stop="20250930111300 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title></programme>
+<programme start="20250930111300 +0000" stop="20250930135600 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
+<programme start="20250930135600 +0000" stop="20250930160000 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title></programme>
+<programme start="20250930160000 +0000" stop="20250930164800 +0000" channel="143"><title lang="id">Ray Charles - Salle Pleyel, Paris</title></programme>
+<programme start="20250930164800 +0000" stop="20250930165950 +0000" channel="143"><title lang="id">Jimmy Johnson - Live</title></programme>
+<programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="143"><title lang="id">Jimmy Johnson - Live</title></programme>
+<programme start="20250927170000 +0000" stop="20250927173000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250927173000 +0000" stop="20250927180000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250927180000 +0000" stop="20250927183000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250927183000 +0000" stop="20250927190000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250927190000 +0000" stop="20250927193000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250927193000 +0000" stop="20250927200000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250927200000 +0000" stop="20250927203000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250927203000 +0000" stop="20250927210000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250927210000 +0000" stop="20250927213000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250927213000 +0000" stop="20250927220000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250927220000 +0000" stop="20250927223000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250927223000 +0000" stop="20250927230000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250927230000 +0000" stop="20250927233000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250927233000 +0000" stop="20250928000000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928000000 +0000" stop="20250928003000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928003000 +0000" stop="20250928010000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250928010000 +0000" stop="20250928013000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928013000 +0000" stop="20250928020000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928020000 +0000" stop="20250928023000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928023000 +0000" stop="20250928030000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250928030000 +0000" stop="20250928033000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928033000 +0000" stop="20250928040000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928040000 +0000" stop="20250928043000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928043000 +0000" stop="20250928050000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928050000 +0000" stop="20250928053000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250928053000 +0000" stop="20250928060000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928060000 +0000" stop="20250928063000 +0000" channel="144"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20250928063000 +0000" stop="20250928070000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928070000 +0000" stop="20250928073000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928073000 +0000" stop="20250928080000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928080000 +0000" stop="20250928083000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250928083000 +0000" stop="20250928090000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928090000 +0000" stop="20250928093000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928093000 +0000" stop="20250928100000 +0000" channel="144"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20250928100000 +0000" stop="20250928103000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928103000 +0000" stop="20250928110000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928110000 +0000" stop="20250928113000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928113000 +0000" stop="20250928120000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928120000 +0000" stop="20250928123000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928123000 +0000" stop="20250928130000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928130000 +0000" stop="20250928133000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928133000 +0000" stop="20250928140000 +0000" channel="144"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20250928140000 +0000" stop="20250928143000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928143000 +0000" stop="20250928150000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928150000 +0000" stop="20250928153000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928153000 +0000" stop="20250928160000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928160000 +0000" stop="20250928163000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928163000 +0000" stop="20250928165950 +0000" channel="144"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20250928165950 +0000" stop="20250928165959 +0000" channel="144"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20250928170000 +0000" stop="20250928173000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928173000 +0000" stop="20250928180000 +0000" channel="144"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20250928180000 +0000" stop="20250928183000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928183000 +0000" stop="20250928190000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928190000 +0000" stop="20250928193000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928193000 +0000" stop="20250928200000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928200000 +0000" stop="20250928203000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928203000 +0000" stop="20250928210000 +0000" channel="144"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20250928210000 +0000" stop="20250928213000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928213000 +0000" stop="20250928220000 +0000" channel="144"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20250928220000 +0000" stop="20250928223000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928223000 +0000" stop="20250928230000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250928230000 +0000" stop="20250928233000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250928233000 +0000" stop="20250929000000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929000000 +0000" stop="20250929003000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929003000 +0000" stop="20250929010000 +0000" channel="144"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20250929010000 +0000" stop="20250929013000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929013000 +0000" stop="20250929020000 +0000" channel="144"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20250929020000 +0000" stop="20250929023000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929023000 +0000" stop="20250929030000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929030000 +0000" stop="20250929033000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929033000 +0000" stop="20250929040000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929040000 +0000" stop="20250929043000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929043000 +0000" stop="20250929050000 +0000" channel="144"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20250929050000 +0000" stop="20250929053000 +0000" channel="144"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20250929053000 +0000" stop="20250929060000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250929060000 +0000" stop="20250929063000 +0000" channel="144"><title lang="id">Cross Talk</title></programme>
+<programme start="20250929063000 +0000" stop="20250929070000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929070000 +0000" stop="20250929073000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929073000 +0000" stop="20250929080000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929080000 +0000" stop="20250929083000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929083000 +0000" stop="20250929090000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929090000 +0000" stop="20250929093000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929093000 +0000" stop="20250929100000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250929100000 +0000" stop="20250929103000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929103000 +0000" stop="20250929110000 +0000" channel="144"><title lang="id">Cross Talk</title></programme>
+<programme start="20250929110000 +0000" stop="20250929113000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929113000 +0000" stop="20250929120000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929120000 +0000" stop="20250929123000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929123000 +0000" stop="20250929130000 +0000" channel="144"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20250929130000 +0000" stop="20250929133000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929133000 +0000" stop="20250929140000 +0000" channel="144"><title lang="id">Sanchez Effect</title></programme>
+<programme start="20250929140000 +0000" stop="20250929143000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929143000 +0000" stop="20250929150000 +0000" channel="144"><title lang="id">Cross Talk</title></programme>
+<programme start="20250929150000 +0000" stop="20250929153000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929153000 +0000" stop="20250929160000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929163000 +0000" stop="20250929165950 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250929170000 +0000" stop="20250929173000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929173000 +0000" stop="20250929180000 +0000" channel="144"><title lang="id">Imperial Receipts with Dr.Â Shashi Tharoor NEW</title></programme>
+<programme start="20250929180000 +0000" stop="20250929183000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929183000 +0000" stop="20250929190000 +0000" channel="144"><title lang="id">Sanchez Effect</title></programme>
+<programme start="20250929190000 +0000" stop="20250929193000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929193000 +0000" stop="20250929200000 +0000" channel="144"><title lang="id">Cross Talk</title></programme>
+<programme start="20250929200000 +0000" stop="20250929203000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929203000 +0000" stop="20250929210000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250929210000 +0000" stop="20250929213000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929213000 +0000" stop="20250929220000 +0000" channel="144"><title lang="id">Imperial Receipts with Dr.Â Shashi Tharoor</title></programme>
+<programme start="20250929220000 +0000" stop="20250929223000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929223000 +0000" stop="20250929230000 +0000" channel="144"><title lang="id">Sanchez Effect</title></programme>
+<programme start="20250929230000 +0000" stop="20250929233000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250929233000 +0000" stop="20250930000000 +0000" channel="144"><title lang="id">Cross Talk</title></programme>
+<programme start="20250930000000 +0000" stop="20250930003000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930003000 +0000" stop="20250930010000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250930010000 +0000" stop="20250930013000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930013000 +0000" stop="20250930020000 +0000" channel="144"><title lang="id">Imperial Receipts with Dr.Â Shashi Tharoor</title></programme>
+<programme start="20250930020000 +0000" stop="20250930023000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930023000 +0000" stop="20250930030000 +0000" channel="144"><title lang="id">Sanchez Effect</title></programme>
+<programme start="20250930030000 +0000" stop="20250930033000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930033000 +0000" stop="20250930040000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250930040000 +0000" stop="20250930043000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930043000 +0000" stop="20250930050000 +0000" channel="144"><title lang="id">Cross Talk</title></programme>
+<programme start="20250930050000 +0000" stop="20250930053000 +0000" channel="144"><title lang="id">Going Underground</title></programme>
+<programme start="20250930053000 +0000" stop="20250930060000 +0000" channel="144"><title lang="id">Imperial Receipts with Dr.Â Shashi Tharoor</title></programme>
+<programme start="20250930060000 +0000" stop="20250930063000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250930063000 +0000" stop="20250930070000 +0000" channel="144"><title lang="id">Sanchez Effect</title></programme>
+<programme start="20250930070000 +0000" stop="20250930073000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930073000 +0000" stop="20250930080000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250930080000 +0000" stop="20250930083000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930083000 +0000" stop="20250930090000 +0000" channel="144"><title lang="id">Cross Talk</title></programme>
+<programme start="20250930090000 +0000" stop="20250930093000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930093000 +0000" stop="20250930100000 +0000" channel="144"><title lang="id">Imperial Receipts with Dr.Â Shashi Tharoor</title></programme>
+<programme start="20250930100000 +0000" stop="20250930103000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930103000 +0000" stop="20250930110000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250930110000 +0000" stop="20250930113000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930113000 +0000" stop="20250930120000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250930120000 +0000" stop="20250930123000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930123000 +0000" stop="20250930130000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250930130000 +0000" stop="20250930133000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930133000 +0000" stop="20250930140000 +0000" channel="144"><title lang="id">Sanchez Effect</title></programme>
+<programme start="20250930140000 +0000" stop="20250930143000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930143000 +0000" stop="20250930150000 +0000" channel="144"><title lang="id">Imperial Receipts with Dr.Â Shashi Tharoor</title></programme>
+<programme start="20250930150000 +0000" stop="20250930153000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930153000 +0000" stop="20250930160000 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250930160000 +0000" stop="20250930163000 +0000" channel="144"><title lang="id">Headline News</title></programme>
+<programme start="20250930163000 +0000" stop="20250930165950 +0000" channel="144"><title lang="id">Documentary</title></programme>
+<programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="144"><title lang="id">Documentary</title></programme>
 <programme start="20250927170000 +0000" stop="20250927173000 +0000" channel="AlJazeera.qa"><title lang="id">News Bulletin</title></programme>
 <programme start="20250927173000 +0000" stop="20250927180000 +0000" channel="AlJazeera.qa"><title lang="id">Behind the News</title></programme>
 <programme start="20250927180000 +0000" stop="20250927200000 +0000" channel="AlJazeera.qa"><title lang="id">News Bulletin</title></programme>
@@ -699,6 +879,66 @@
 <programme start="20250928163000 +0000" stop="20250928165950 +0000" channel="BTV.id"><title lang="id">Supercar Championship 2025</title></programme>
 <programme start="20250928165950 +0000" stop="20250928165959 +0000" channel="BTV.id"><title lang="id">Supercar Championship 2025</title></programme>
 <programme start="20250928170000 +0000" stop="20250928173000 +0000" channel="BTV.id"><title lang="id">Supercar Championship 2025</title></programme>
+<programme start="20250928170000 +0000" stop="20250928173000 +0000" channel="BTV.id"><title lang="id">Supercar Championship 2025</title></programme>
+<programme start="20250928173000 +0000" stop="20250928182700 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20250928182700 +0000" stop="20250928183000 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
+<programme start="20250928183000 +0000" stop="20250928193000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20250928193000 +0000" stop="20250928203000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20250928203000 +0000" stop="20250928213000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20250928213000 +0000" stop="20250928223000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20250928223000 +0000" stop="20250928230000 +0000" channel="BTV.id"><title lang="id">Jendela Dunia</title></programme>
+<programme start="20250928230000 +0000" stop="20250928230300 +0000" channel="BTV.id"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20250928230300 +0000" stop="20250929003000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20250929003000 +0000" stop="20250929010000 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20250929010000 +0000" stop="20250929013000 +0000" channel="BTV.id"><title lang="id">Kuyliner</title></programme>
+<programme start="20250929013000 +0000" stop="20250929021500 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20250929021500 +0000" stop="20250929030000 +0000" channel="BTV.id"><title lang="id">Selera Rasa</title></programme>
+<programme start="20250929030000 +0000" stop="20250929040000 +0000" channel="BTV.id"><title lang="id">Masak Seru Gaes</title></programme>
+<programme start="20250929040000 +0000" stop="20250929050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20250929050000 +0000" stop="20250929060000 +0000" channel="BTV.id"><title lang="id">Investor Market Today</title></programme>
+<programme start="20250929060000 +0000" stop="20250929063000 +0000" channel="BTV.id"><title lang="id">Investor Daily Talk</title></programme>
+<programme start="20250929063000 +0000" stop="20250929080000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20250929080000 +0000" stop="20250929083000 +0000" channel="BTV.id"><title lang="id">Dikit-Dikit Damkar</title></programme>
+<programme start="20250929083000 +0000" stop="20250929093000 +0000" channel="BTV.id"><title lang="id">Cetar: Celeb On Target</title></programme>
+<programme start="20250929093000 +0000" stop="20250929103000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20250929103000 +0000" stop="20250929123000 +0000" channel="BTV.id"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20250929123000 +0000" stop="20250929130000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
+<programme start="20250929130000 +0000" stop="20250929140000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20250929140000 +0000" stop="20250929150000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20250929150000 +0000" stop="20250929160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="BTV.id"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20250929163000 +0000" stop="20250929165900 +0000" channel="BTV.id"><title lang="id">ONE Vault</title></programme>
+<programme start="20250929165950 +0000" stop="20250929165900 +0000" channel="BTV.id"><title lang="id">ONE Vault</title></programme>
+<programme start="20250929170000 +0000" stop="20250929173000 +0000" channel="BTV.id"><title lang="id">ONE Vault</title></programme>
+<programme start="20250929173000 +0000" stop="20250929182700 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20250929182700 +0000" stop="20250929183000 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
+<programme start="20250929183000 +0000" stop="20250929193000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20250929193000 +0000" stop="20250929203000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20250929203000 +0000" stop="20250929213000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20250929213000 +0000" stop="20250929223000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20250929223000 +0000" stop="20250929230000 +0000" channel="BTV.id"><title lang="id">Jendela Dunia</title></programme>
+<programme start="20250929230000 +0000" stop="20250929230300 +0000" channel="BTV.id"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20250929230300 +0000" stop="20250930003000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20250930003000 +0000" stop="20250930010000 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20250930010000 +0000" stop="20250930013000 +0000" channel="BTV.id"><title lang="id">Kuyliner</title></programme>
+<programme start="20250930013000 +0000" stop="20250930021500 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20250930021500 +0000" stop="20250930030000 +0000" channel="BTV.id"><title lang="id">Selera Rasa</title></programme>
+<programme start="20250930030000 +0000" stop="20250930040000 +0000" channel="BTV.id"><title lang="id">Masak Seru Gaes</title></programme>
+<programme start="20250930040000 +0000" stop="20250930050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20250930050000 +0000" stop="20250930060000 +0000" channel="BTV.id"><title lang="id">Investor Market Today</title></programme>
+<programme start="20250930060000 +0000" stop="20250930063000 +0000" channel="BTV.id"><title lang="id">Investor Daily Talk</title></programme>
+<programme start="20250930063000 +0000" stop="20250930080000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20250930080000 +0000" stop="20250930083000 +0000" channel="BTV.id"><title lang="id">Dikit-Dikit Damkar</title></programme>
+<programme start="20250930083000 +0000" stop="20250930093000 +0000" channel="BTV.id"><title lang="id">Cetar: Celeb On Target</title></programme>
+<programme start="20250930093000 +0000" stop="20250930103000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20250930103000 +0000" stop="20250930123000 +0000" channel="BTV.id"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20250930123000 +0000" stop="20250930130000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
+<programme start="20250930130000 +0000" stop="20250930140000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20250930140000 +0000" stop="20250930150000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20250930150000 +0000" stop="20250930160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20250930160000 +0000" stop="20250930163000 +0000" channel="BTV.id"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20250930163000 +0000" stop="20250930165900 +0000" channel="BTV.id"><title lang="id">ONE Vault</title></programme>
+<programme start="20250930165950 +0000" stop="20250930165900 +0000" channel="BTV.id"><title lang="id">ONE Vault</title></programme>
 <programme start="20250927170000 +0000" stop="20250927180000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250927180000 +0000" stop="20250927183000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250927183000 +0000" stop="20250927190000 +0000" channel="CCTV4Asia.cn"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1531,7 +1771,33 @@
 <programme start="20250928121000 +0000" stop="20250928151500 +0000" channel="DIM.ua"><title lang="id">The Real History of Ukraine</title></programme>
 <programme start="20250928151500 +0000" stop="20250928165950 +0000" channel="DIM.ua"><title lang="id">F s Destination Happiness (12+)</title></programme>
 <programme start="20250928165950 +0000" stop="20250928165959 +0000" channel="DIM.ua"><title lang="id">F s Destination Happiness (12+)</title></programme>
-<programme start="20250928170000 +0000" stop="20250928183500 +0000" channel="DIM.ua"><title lang="id">F s Destination Happiness (12+)</title></programme>
+<programme start="20250928170000 +0000" stop="20250928175000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250928175000 +0000" stop="20250928180000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250928180000 +0000" stop="20250928195500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250928195500 +0000" stop="20250928204500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250928204500 +0000" stop="20250928223000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250928223000 +0000" stop="20250928231500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250928231500 +0000" stop="20250929000500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929000500 +0000" stop="20250929004500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929004500 +0000" stop="20250929013000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929013000 +0000" stop="20250929023000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929023000 +0000" stop="20250929031500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929031500 +0000" stop="20250929040000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929040000 +0000" stop="20250929050000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929050000 +0000" stop="20250929060000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929060000 +0000" stop="20250929065000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929065000 +0000" stop="20250929074500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929074500 +0000" stop="20250929083000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929083000 +0000" stop="20250929090000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929090000 +0000" stop="20250929090100 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929090100 +0000" stop="20250929110000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929110000 +0000" stop="20250929120000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929120000 +0000" stop="20250929140000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929140000 +0000" stop="20250929150000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929150000 +0000" stop="20250929151000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929151000 +0000" stop="20250929164000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929164000 +0000" stop="20250929165950 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250927170000 +0000" stop="20250927171500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
 <programme start="20250927171500 +0000" stop="20250927173000 +0000" channel="DW.de@English"><title lang="id">Shift: Living In Digital Age</title></programme>
 <programme start="20250927173000 +0000" stop="20250927180000 +0000" channel="DW.de@English"><title lang="id">The 77 Percent: Africa&apos;s Youth</title></programme>
@@ -2285,14 +2551,11 @@
 <programme start="20250928183000 +0000" stop="20250928190000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928190000 +0000" stop="20250928200000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928200000 +0000" stop="20250928213000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250928213000 +0000" stop="20250928223000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250928223000 +0000" stop="20250928230000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928230000 +0000" stop="20250928233000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928233000 +0000" stop="20250929000000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929000000 +0000" stop="20250929010000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929010000 +0000" stop="20250929023000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929023000 +0000" stop="20250929030000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250929030000 +0000" stop="20250929040000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929040000 +0000" stop="20250929043000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929043000 +0000" stop="20250929070000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929070000 +0000" stop="20250929080000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2302,8 +2565,6 @@
 <programme start="20250929110000 +0000" stop="20250929113000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929113000 +0000" stop="20250929120000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929120000 +0000" stop="20250929140000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250929140000 +0000" stop="20250929150000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250929150000 +0000" stop="20250929160000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929160000 +0000" stop="20250929165950 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929170000 +0000" stop="20250929180000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2311,14 +2572,11 @@
 <programme start="20250929183000 +0000" stop="20250929190000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929190000 +0000" stop="20250929200000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929200000 +0000" stop="20250929213000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250929213000 +0000" stop="20250929223000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250929223000 +0000" stop="20250929230000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929230000 +0000" stop="20250929233000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929233000 +0000" stop="20250930000000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930000000 +0000" stop="20250930010000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930010000 +0000" stop="20250930023000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930023000 +0000" stop="20250930030000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250930030000 +0000" stop="20250930040000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930040000 +0000" stop="20250930043000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930043000 +0000" stop="20250930070000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930070000 +0000" stop="20250930080000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2328,8 +2586,6 @@
 <programme start="20250930110000 +0000" stop="20250930113000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930113000 +0000" stop="20250930120000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930120000 +0000" stop="20250930140000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250930140000 +0000" stop="20250930150000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250930150000 +0000" stop="20250930160000 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930160000 +0000" stop="20250930165950 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="IDTV.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250927170000 +0000" stop="20250927230000 +0000" channel="JakTV.id"><title lang="id">Offline</title></programme>
@@ -2534,82 +2790,6 @@
 <programme start="20250929153500 +0000" stop="20250929165000 +0000" channel="KBSWorld.kr"><title lang="id">The Merchant : Gaekju 2015</title></programme>
 <programme start="20250929165000 +0000" stop="20250929165950 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4</title></programme>
 <programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4</title></programme>
-<programme start="20250927170000 +0000" stop="20250927190000 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
-<programme start="20250927190000 +0000" stop="20250927200000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250927200000 +0000" stop="20250927204500 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
-<programme start="20250927204500 +0000" stop="20250927210000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sepekan</title></programme>
-<programme start="20250927210000 +0000" stop="20250927213000 +0000" channel="KompasTV.id"><title lang="id">Kalam Hati</title></programme>
-<programme start="20250927213000 +0000" stop="20250928000000 +0000" channel="KompasTV.id"><title lang="id">Kompas Pagi Akhir Pekan</title></programme>
-<programme start="20250928000000 +0000" stop="20250928013000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Pagi</title></programme>
-<programme start="20250928013000 +0000" stop="20250928020000 +0000" channel="KompasTV.id"><title lang="id">News Or Hoax</title></programme>
-<programme start="20250928020000 +0000" stop="20250928023000 +0000" channel="KompasTV.id"><title lang="id">Perempuan Nusantara</title></programme>
-<programme start="20250928023000 +0000" stop="20250928030000 +0000" channel="KompasTV.id"><title lang="id">Pop News</title></programme>
-<programme start="20250928030000 +0000" stop="20250928033000 +0000" channel="KompasTV.id"><title lang="id">Cerita Rasa</title></programme>
-<programme start="20250928033000 +0000" stop="20250928040000 +0000" channel="KompasTV.id"><title lang="id">Jalan-Jalan</title></programme>
-<programme start="20250928040000 +0000" stop="20250928050000 +0000" channel="KompasTV.id"><title lang="id">Kompas Siang</title></programme>
-<programme start="20250928050000 +0000" stop="20250928053000 +0000" channel="KompasTV.id"><title lang="id">Borgol</title></programme>
-<programme start="20250928053000 +0000" stop="20250928060000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport Weekend</title></programme>
-<programme start="20250928060000 +0000" stop="20250928070000 +0000" channel="KompasTV.id"><title lang="id">Kalam Hati</title></programme>
-<programme start="20250928070000 +0000" stop="20250928080000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250928080000 +0000" stop="20250928083000 +0000" channel="KompasTV.id"><title lang="id">Gelar Perkara</title></programme>
-<programme start="20250928083000 +0000" stop="20250928090000 +0000" channel="KompasTV.id"><title lang="id">Pop News</title></programme>
-<programme start="20250928090000 +0000" stop="20250928103000 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
-<programme start="20250928103000 +0000" stop="20250928110000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sepekan</title></programme>
-<programme start="20250928110000 +0000" stop="20250928120000 +0000" channel="KompasTV.id"><title lang="id">60 Menit Spesial Report</title></programme>
-<programme start="20250928120000 +0000" stop="20250928130000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Malam</title></programme>
-<programme start="20250928130000 +0000" stop="20250928140000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250928140000 +0000" stop="20250928150000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
-<programme start="20250928150000 +0000" stop="20250928163000 +0000" channel="KompasTV.id"><title lang="id">Bola Liar</title></programme>
-<programme start="20250928163000 +0000" stop="20250928165950 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20250928165950 +0000" stop="20250928165959 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20250928170000 +0000" stop="20250928173000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport Weekend</title></programme>
-<programme start="20250928173000 +0000" stop="20250928190000 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
-<programme start="20250928190000 +0000" stop="20250928200000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250928200000 +0000" stop="20250928210000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
-<programme start="20250928210000 +0000" stop="20250928213000 +0000" channel="KompasTV.id"><title lang="id">Syiar Syair</title></programme>
-<programme start="20250928213000 +0000" stop="20250929000000 +0000" channel="KompasTV.id"><title lang="id">Kompas Pagi</title></programme>
-<programme start="20250929000000 +0000" stop="20250929023000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Pagi</title></programme>
-<programme start="20250929023000 +0000" stop="20250929033000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250929033000 +0000" stop="20250929040000 +0000" channel="KompasTV.id"><title lang="id">Borgol</title></programme>
-<programme start="20250929040000 +0000" stop="20250929060000 +0000" channel="KompasTV.id"><title lang="id">Kompas Siang</title></programme>
-<programme start="20250929060000 +0000" stop="20250929070000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Siang</title></programme>
-<programme start="20250929070000 +0000" stop="20250929073000 +0000" channel="KompasTV.id"><title lang="id">Pop News</title></programme>
-<programme start="20250929073000 +0000" stop="20250929080000 +0000" channel="KompasTV.id"><title lang="id">Jurnal Merah Putih</title></programme>
-<programme start="20250929080000 +0000" stop="20250929083000 +0000" channel="KompasTV.id"><title lang="id">Indonesia Update</title></programme>
-<programme start="20250929083000 +0000" stop="20250929090000 +0000" channel="KompasTV.id"><title lang="id">Borgol</title></programme>
-<programme start="20250929090000 +0000" stop="20250929103000 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
-<programme start="20250929103000 +0000" stop="20250929123000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Malam</title></programme>
-<programme start="20250929123000 +0000" stop="20250929133000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250929133000 +0000" stop="20250929143000 +0000" channel="KompasTV.id"><title lang="id">Dipo Investigasi</title></programme>
-<programme start="20250929143000 +0000" stop="20250929153000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
-<programme start="20250929153000 +0000" stop="20250929160000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport</title></programme>
-<programme start="20250929163000 +0000" stop="20250929165950 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20250929170000 +0000" stop="20250929183000 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
-<programme start="20250929183000 +0000" stop="20250929190000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250929190000 +0000" stop="20250929200000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
-<programme start="20250929200000 +0000" stop="20250929210000 +0000" channel="KompasTV.id"><title lang="id">Syiar Syair</title></programme>
-<programme start="20250929210000 +0000" stop="20250929213000 +0000" channel="KompasTV.id"><title lang="id">Kompas Sport</title></programme>
-<programme start="20250929213000 +0000" stop="20250930000000 +0000" channel="KompasTV.id"><title lang="id">Kompas Pagi</title></programme>
-<programme start="20250930000000 +0000" stop="20250930023000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Pagi</title></programme>
-<programme start="20250930023000 +0000" stop="20250930033000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250930033000 +0000" stop="20250930040000 +0000" channel="KompasTV.id"><title lang="id">Borgol</title></programme>
-<programme start="20250930040000 +0000" stop="20250930060000 +0000" channel="KompasTV.id"><title lang="id">Kompas Siang</title></programme>
-<programme start="20250930060000 +0000" stop="20250930070000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Siang</title></programme>
-<programme start="20250930070000 +0000" stop="20250930073000 +0000" channel="KompasTV.id"><title lang="id">News Or Hoax</title></programme>
-<programme start="20250930073000 +0000" stop="20250930080000 +0000" channel="KompasTV.id"><title lang="id">Jurnal Merah Putih</title></programme>
-<programme start="20250930080000 +0000" stop="20250930083000 +0000" channel="KompasTV.id"><title lang="id">Indonesia Update</title></programme>
-<programme start="20250930083000 +0000" stop="20250930090000 +0000" channel="KompasTV.id"><title lang="id">Borgol</title></programme>
-<programme start="20250930090000 +0000" stop="20250930103000 +0000" channel="KompasTV.id"><title lang="id">Kompas Petang</title></programme>
-<programme start="20250930103000 +0000" stop="20250930123000 +0000" channel="KompasTV.id"><title lang="id">Sapa Indonesia Malam</title></programme>
-<programme start="20250930123000 +0000" stop="20250930133000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
-<programme start="20250930133000 +0000" stop="20250930143000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
-<programme start="20250930143000 +0000" stop="20250930150000 +0000" channel="KompasTV.id"><title lang="id">Laporan Khusus</title></programme>
-<programme start="20250930150000 +0000" stop="20250930160000 +0000" channel="KompasTV.id"><title lang="id">B-Talk</title></programme>
-<programme start="20250930160000 +0000" stop="20250930163000 +0000" channel="KompasTV.id"><title lang="id">Berkas Kompas</title></programme>
-<programme start="20250930163000 +0000" stop="20250930165950 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
 <programme start="20250927170000 +0000" stop="20250927173000 +0000" channel="KPlus.sg"><title lang="id">Show Champion Episode 569</title><episode-num system="xmltv_ns">0.568.0/1</episode-num><episode-num system="onscreen">S01E569</episode-num></programme>
 <programme start="20250927173000 +0000" stop="20250927190000 +0000" channel="KPlus.sg"><title lang="id">Korean Lunch Tray Episode 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
 <programme start="20250927190000 +0000" stop="20250927201500 +0000" channel="KPlus.sg"><title lang="id">Weekly Idol Episode 671</title><episode-num system="xmltv_ns">0.670.0/1</episode-num><episode-num system="onscreen">S01E671</episode-num></programme>
@@ -4607,82 +4787,6 @@
 <programme start="20250930140000 +0000" stop="20250930160500 +0000" channel="tvNMoviesAsia.hk"><title lang="id">LIFE IS BEAUTIFUL</title></programme>
 <programme start="20250930160500 +0000" stop="20250930165950 +0000" channel="tvNMoviesAsia.hk"><title lang="id">MARRIAGE BLUE</title></programme>
 <programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="tvNMoviesAsia.hk"><title lang="id">MARRIAGE BLUE</title></programme>
-<programme start="20250927170000 +0000" stop="20250927183000 +0000" channel="tvOne.id"><title lang="id">Penumpasan G30S PKI</title></programme>
-<programme start="20250927183000 +0000" stop="20250927193000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20250927193000 +0000" stop="20250927203000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20250927203000 +0000" stop="20250927210000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250927210000 +0000" stop="20250927213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20250927213000 +0000" stop="20250927230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi (L)</title></programme>
-<programme start="20250927230000 +0000" stop="20250927233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi (L)</title></programme>
-<programme start="20250927233000 +0000" stop="20250928010000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
-<programme start="20250928010000 +0000" stop="20250928013000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi</title></programme>
-<programme start="20250928013000 +0000" stop="20250928020000 +0000" channel="tvOne.id"><title lang="id">Oase Indonesia</title></programme>
-<programme start="20250928020000 +0000" stop="20250928023000 +0000" channel="tvOne.id"><title lang="id">Satria Biru</title></programme>
-<programme start="20250928023000 +0000" stop="20250928030000 +0000" channel="tvOne.id"><title lang="id">Xpose</title></programme>
-<programme start="20250928030000 +0000" stop="20250928033000 +0000" channel="tvOne.id"><title lang="id">Dunia Dalam Kamera</title></programme>
-<programme start="20250928033000 +0000" stop="20250928040000 +0000" channel="tvOne.id"><title lang="id">Indonesia Plus</title></programme>
-<programme start="20250928040000 +0000" stop="20250928053000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang (L)</title></programme>
-<programme start="20250928053000 +0000" stop="20250928070000 +0000" channel="tvOne.id"><title lang="id">Damai Indonesiaku (L)</title></programme>
-<programme start="20250928070000 +0000" stop="20250928073000 +0000" channel="tvOne.id"><title lang="id">Selalu Ada Hikmah</title></programme>
-<programme start="20250928073000 +0000" stop="20250928080000 +0000" channel="tvOne.id"><title lang="id">Sketsa Jendela Islam</title></programme>
-<programme start="20250928080000 +0000" stop="20250928090000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia... (L)</title></programme>
-<programme start="20250928090000 +0000" stop="20250928110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang (L)</title></programme>
-<programme start="20250928110000 +0000" stop="20250928130000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20250928130000 +0000" stop="20250928143000 +0000" channel="tvOne.id"><title lang="id">Renungan Jiwa: Melepas Diri...</title></programme>
-<programme start="20250928143000 +0000" stop="20250928153000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama (L)</title></programme>
-<programme start="20250928153000 +0000" stop="20250928160000 +0000" channel="tvOne.id"><title lang="id">Distrik</title></programme>
-<programme start="20250928160000 +0000" stop="20250928165950 +0000" channel="tvOne.id"><title lang="id">Benang Merah</title></programme>
-<programme start="20250928165950 +0000" stop="20250928165959 +0000" channel="tvOne.id"><title lang="id">Benang Merah</title></programme>
-<programme start="20250928170000 +0000" stop="20250928173000 +0000" channel="tvOne.id"><title lang="id">Sport Style</title></programme>
-<programme start="20250928173000 +0000" stop="20250928180000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250928180000 +0000" stop="20250928193000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20250928193000 +0000" stop="20250928203000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20250928203000 +0000" stop="20250928210000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250928210000 +0000" stop="20250928213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20250928213000 +0000" stop="20250928230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi (L)</title></programme>
-<programme start="20250928230000 +0000" stop="20250928233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi (L)</title></programme>
-<programme start="20250928233000 +0000" stop="20250929013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
-<programme start="20250929013000 +0000" stop="20250929020000 +0000" channel="tvOne.id"><title lang="id">Hidup Sehat (L)</title></programme>
-<programme start="20250929020000 +0000" stop="20250929023000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi (L)</title></programme>
-<programme start="20250929023000 +0000" stop="20250929033000 +0000" channel="tvOne.id"><title lang="id">Pagi-Pagi Seru (L)</title></programme>
-<programme start="20250929033000 +0000" stop="20250929040000 +0000" channel="tvOne.id"><title lang="id">Metropolitan (L)</title></programme>
-<programme start="20250929040000 +0000" stop="20250929060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang (L)</title></programme>
-<programme start="20250929060000 +0000" stop="20250929073000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang (L)</title></programme>
-<programme start="20250929073000 +0000" stop="20250929083000 +0000" channel="tvOne.id"><title lang="id">Kabar Merah Putih (L)</title></programme>
-<programme start="20250929083000 +0000" stop="20250929090000 +0000" channel="tvOne.id"><title lang="id">Berita Utama Kriminal (L)</title></programme>
-<programme start="20250929090000 +0000" stop="20250929110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang (L)</title></programme>
-<programme start="20250929110000 +0000" stop="20250929130000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20250929130000 +0000" stop="20250929140000 +0000" channel="tvOne.id"><title lang="id">Fakta</title></programme>
-<programme start="20250929140000 +0000" stop="20250929150000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama (L)</title></programme>
-<programme start="20250929150000 +0000" stop="20250929160000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini (L)</title></programme>
-<programme start="20250929160000 +0000" stop="20250929163000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam (L)</title></programme>
-<programme start="20250929163000 +0000" stop="20250929165950 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250929170000 +0000" stop="20250929173000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20250929173000 +0000" stop="20250929190000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20250929190000 +0000" stop="20250929200000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20250929200000 +0000" stop="20250929203000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250929203000 +0000" stop="20250929210000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20250929210000 +0000" stop="20250929213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20250929213000 +0000" stop="20250929230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi (L)</title></programme>
-<programme start="20250929230000 +0000" stop="20250929233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi (L)</title></programme>
-<programme start="20250929233000 +0000" stop="20250930013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
-<programme start="20250930013000 +0000" stop="20250930020000 +0000" channel="tvOne.id"><title lang="id">Hidup Sehat (L)</title></programme>
-<programme start="20250930020000 +0000" stop="20250930023000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi (L)</title></programme>
-<programme start="20250930023000 +0000" stop="20250930033000 +0000" channel="tvOne.id"><title lang="id">Pagi-Pagi Seru (L)</title></programme>
-<programme start="20250930033000 +0000" stop="20250930040000 +0000" channel="tvOne.id"><title lang="id">Metropolitan (L)</title></programme>
-<programme start="20250930040000 +0000" stop="20250930060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang (L)</title></programme>
-<programme start="20250930060000 +0000" stop="20250930073000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang (L)</title></programme>
-<programme start="20250930073000 +0000" stop="20250930083000 +0000" channel="tvOne.id"><title lang="id">Kabar Merah Putih (L)</title></programme>
-<programme start="20250930083000 +0000" stop="20250930090000 +0000" channel="tvOne.id"><title lang="id">Berita Utama Kriminal (L)</title></programme>
-<programme start="20250930090000 +0000" stop="20250930110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang (L)</title></programme>
-<programme start="20250930110000 +0000" stop="20250930130000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20250930130000 +0000" stop="20250930143000 +0000" channel="tvOne.id"><title lang="id">Catatan Demokrasi (L)</title></programme>
-<programme start="20250930143000 +0000" stop="20250930153000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama (L)</title></programme>
-<programme start="20250930153000 +0000" stop="20250930160000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini (L)</title></programme>
-<programme start="20250930160000 +0000" stop="20250930163000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam (L)</title></programme>
-<programme start="20250930163000 +0000" stop="20250930165950 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
 <programme start="20250927170000 +0000" stop="20250927180000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250927180000 +0000" stop="20250927183000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250927183000 +0000" stop="20250927190000 +0000" channel="TVRINasional.id"><title lang="id">The Schedule Is Not Available</title></programme>
