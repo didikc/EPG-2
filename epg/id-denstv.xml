@@ -1274,8 +1274,8 @@
 <programme start="20250930030000 +0000" stop="20250930033000 +0000" channel="DensFoodChannel.id"><title lang="id">Nyasar (Nyicip Asik Ala Rakyat)</title></programme>
 <programme start="20250930033000 +0000" stop="20250930040000 +0000" channel="DensFoodChannel.id"><title lang="id">Ramen(in)</title></programme>
 <programme start="20250930040000 +0000" stop="20250930043000 +0000" channel="DensFoodChannel.id"><title lang="id">Cooking Duck</title></programme>
-<programme start="20250930043000 +0000" stop="20250930050000 +0000" channel="DensFoodChannel.id"><title lang="id">Tentang Rasa</title></programme>
-<programme start="20250930050000 +0000" stop="20250930060000 +0000" channel="DensFoodChannel.id"><title lang="id">Bongs Happy Restaurant</title></programme>
+<programme start="20250930043000 +0000" stop="20250930045100 +0000" channel="DensFoodChannel.id"><title lang="id">Tentang Rasa</title></programme>
+<programme start="20250930045100 +0000" stop="20250930060000 +0000" channel="DensFoodChannel.id"><title lang="id">Bongs Happy Restaurant</title></programme>
 <programme start="20250930060000 +0000" stop="20250930070000 +0000" channel="DensFoodChannel.id"><title lang="id">Dialog Rasa</title></programme>
 <programme start="20250930070000 +0000" stop="20250930073000 +0000" channel="DensFoodChannel.id"><title lang="id">Secret Chef Season 2</title></programme>
 <programme start="20250930073000 +0000" stop="20250930080000 +0000" channel="DensFoodChannel.id"><title lang="id">Foodsaurus</title></programme>
@@ -1438,18 +1438,18 @@
 <programme start="20250929150000 +0000" stop="20250929165959 +0000" channel="DensPlay.id"><title lang="id">Valoverse</title></programme>
 <programme start="20250929230000 +0000" stop="20250930010000 +0000" channel="DensPlay.id"><title lang="id">Game On By Mayli</title></programme>
 <programme start="20250930010000 +0000" stop="20250930020000 +0000" channel="DensPlay.id"><title lang="id">Warnet (Warga Net)</title></programme>
-<programme start="20250930020000 +0000" stop="20250930030000 +0000" channel="DensPlay.id"><title lang="id">Anak Rental</title></programme>
-<programme start="20250930030000 +0000" stop="20250930040000 +0000" channel="DensPlay.id"><title lang="id">Cantik-Cantik Gamers</title></programme>
+<programme start="20250930020000 +0000" stop="20250930031100 +0000" channel="DensPlay.id"><title lang="id">Anak Rental</title></programme>
+<programme start="20250930031100 +0000" stop="20250930040000 +0000" channel="DensPlay.id"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20250930040000 +0000" stop="20250930043000 +0000" channel="DensPlay.id"><title lang="id">Main Rasa</title></programme>
 <programme start="20250930043000 +0000" stop="20250930050000 +0000" channel="DensPlay.id"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20250930050000 +0000" stop="20250930053000 +0000" channel="DensPlay.id"><title lang="id">Gaming Room</title></programme>
 <programme start="20250930053000 +0000" stop="20250930060000 +0000" channel="DensPlay.id"><title lang="id">Alter Ego Esports</title></programme>
 <programme start="20250930060000 +0000" stop="20250930070000 +0000" channel="DensPlay.id"><title lang="id">Makmur Jaya Esports</title></programme>
-<programme start="20250930070000 +0000" stop="20250930080000 +0000" channel="DensPlay.id"><title lang="id">Anak Rental</title></programme>
-<programme start="20250930080000 +0000" stop="20250930100000 +0000" channel="DensPlay.id"><title lang="id">Game On By KekeLawar</title></programme>
+<programme start="20250930070000 +0000" stop="20250930081200 +0000" channel="DensPlay.id"><title lang="id">Anak Rental</title></programme>
+<programme start="20250930081200 +0000" stop="20250930100000 +0000" channel="DensPlay.id"><title lang="id">Game On By KekeLawar</title></programme>
 <programme start="20250930100000 +0000" stop="20250930110000 +0000" channel="DensPlay.id"><title lang="id">Warnet (Warga Net)</title></programme>
-<programme start="20250930110000 +0000" stop="20250930120000 +0000" channel="DensPlay.id"><title lang="id">Anak Rental</title></programme>
-<programme start="20250930120000 +0000" stop="20250930130000 +0000" channel="DensPlay.id"><title lang="id">Cantik-Cantik Gamers</title></programme>
+<programme start="20250930110000 +0000" stop="20250930121100 +0000" channel="DensPlay.id"><title lang="id">Anak Rental</title></programme>
+<programme start="20250930121100 +0000" stop="20250930130000 +0000" channel="DensPlay.id"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20250930130000 +0000" stop="20250930133000 +0000" channel="DensPlay.id"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20250930133000 +0000" stop="20250930140000 +0000" channel="DensPlay.id"><title lang="id">CBN Survivor Showdown S4</title></programme>
 <programme start="20250930140000 +0000" stop="20250930160000 +0000" channel="DensPlay.id"><title lang="id">Esports Spectator by SL</title></programme>
@@ -1491,56 +1491,34 @@
 <programme start="20250930130000 +0000" stop="20250930140000 +0000" channel="DensShowBiz.id"><title lang="id">Podcastis Season 2</title></programme>
 <programme start="20250930140000 +0000" stop="20250930150000 +0000" channel="DensShowBiz.id"><title lang="id">Office Hour - All Performance</title></programme>
 <programme start="20250930150000 +0000" stop="20250930165959 +0000" channel="DensShowBiz.id"><title lang="id">All Event Liputan</title></programme>
-<programme start="20250928170000 +0000" stop="20250928175000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928170000 +0000" stop="20250928174000 +0000" channel="DIM.ua"><title lang="id">All Inclusive. Foot Drop</title></programme>
 <programme start="20250928174000 +0000" stop="20250928185000 +0000" channel="DIM.ua"><title lang="id">Checkpoint Show</title></programme>
-<programme start="20250928175000 +0000" stop="20250928180000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250928180000 +0000" stop="20250928195500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928185000 +0000" stop="20250928195000 +0000" channel="DIM.ua"><title lang="id">The Last War</title></programme>
 <programme start="20250928195000 +0000" stop="20250928203000 +0000" channel="DIM.ua"><title lang="id">Popular History</title></programme>
-<programme start="20250928195500 +0000" stop="20250928204500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928203000 +0000" stop="20250928220000 +0000" channel="DIM.ua"><title lang="id">F f Generations Through Time (12+)</title></programme>
-<programme start="20250928204500 +0000" stop="20250928223000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928220000 +0000" stop="20250928223000 +0000" channel="DIM.ua"><title lang="id">Russia, Back off! (12+)</title></programme>
 <programme start="20250928223000 +0000" stop="20250928231500 +0000" channel="DIM.ua"><title lang="id">Breaking News</title></programme>
-<programme start="20250928231500 +0000" stop="20250929000500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250928231500 +0000" stop="20250929003000 +0000" channel="DIM.ua"><title lang="id">F s Impostor Syndrome</title></programme>
-<programme start="20250929000500 +0000" stop="20250929004500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929003000 +0000" stop="20250929010000 +0000" channel="DIM.ua"><title lang="id">Diagnosis Stands for Free</title></programme>
-<programme start="20250929004500 +0000" stop="20250929013000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929010000 +0000" stop="20250929020500 +0000" channel="DIM.ua"><title lang="id">The Sounds of Ukraine</title></programme>
-<programme start="20250929013000 +0000" stop="20250929023000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929020500 +0000" stop="20250929031500 +0000" channel="DIM.ua"><title lang="id">Infotainment</title></programme>
-<programme start="20250929023000 +0000" stop="20250929031500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929031500 +0000" stop="20250929040000 +0000" channel="DIM.ua"><title lang="id">Breaking News</title></programme>
-<programme start="20250929040000 +0000" stop="20250929050000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929040000 +0000" stop="20250929043000 +0000" channel="DIM.ua"><title lang="id">Night at the Museum</title></programme>
 <programme start="20250929043000 +0000" stop="20250929060000 +0000" channel="DIM.ua"><title lang="id">Forgotten Paths (12+)</title></programme>
-<programme start="20250929050000 +0000" stop="20250929060000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20250929060000 +0000" stop="20250929065000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929060000 +0000" stop="20250929061500 +0000" channel="DIM.ua"><title lang="id">Russia, Back off!</title></programme>
 <programme start="20250929061500 +0000" stop="20250929071500 +0000" channel="DIM.ua"><title lang="id">All Inclusive. Foot Drop</title></programme>
-<programme start="20250929065000 +0000" stop="20250929074500 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929071500 +0000" stop="20250929080000 +0000" channel="DIM.ua"><title lang="id">Breaking News</title></programme>
-<programme start="20250929074500 +0000" stop="20250929083000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929080000 +0000" stop="20250929090000 +0000" channel="DIM.ua"><title lang="id">Hunting for Crafts (12+)</title></programme>
-<programme start="20250929083000 +0000" stop="20250929090000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929090000 +0000" stop="20250929090100 +0000" channel="DIM.ua"><title lang="id">Minute of Silence</title></programme>
-<programme start="20250929090100 +0000" stop="20250929110000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929090100 +0000" stop="20250929094000 +0000" channel="DIM.ua"><title lang="id">Delicious Ukraine</title></programme>
 <programme start="20250929094000 +0000" stop="20250929105500 +0000" channel="DIM.ua"><title lang="id">F s Impostor Syndrome</title></programme>
 <programme start="20250929105500 +0000" stop="20250929113500 +0000" channel="DIM.ua"><title lang="id">Checkpoint Show</title></programme>
-<programme start="20250929110000 +0000" stop="20250929120000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929113500 +0000" stop="20250929123500 +0000" channel="DIM.ua"><title lang="id">The Last War</title></programme>
-<programme start="20250929120000 +0000" stop="20250929140000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929123500 +0000" stop="20250929130000 +0000" channel="DIM.ua"><title lang="id">Popular History</title></programme>
 <programme start="20250929130000 +0000" stop="20250929135000 +0000" channel="DIM.ua"><title lang="id">Identity Code</title></programme>
 <programme start="20250929135000 +0000" stop="20250929143500 +0000" channel="DIM.ua"><title lang="id">The Sounds of Ukraine</title></programme>
-<programme start="20250929140000 +0000" stop="20250929150000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929143500 +0000" stop="20250929150500 +0000" channel="DIM.ua"><title lang="id">Night at the Museum</title></programme>
-<programme start="20250929150000 +0000" stop="20250929151000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929150500 +0000" stop="20250929164000 +0000" channel="DIM.ua"><title lang="id">Uzol and Manko</title></programme>
-<programme start="20250929151000 +0000" stop="20250929164000 +0000" channel="DIM.ua"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20250929164000 +0000" stop="20250929165950 +0000" channel="DIM.ua"><title lang="id">All Inclusive. Foot Drop</title></programme>
 <programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="DIM.ua"><title lang="id">All Inclusive. Foot Drop</title></programme>
 <programme start="20250929170000 +0000" stop="20250929174000 +0000" channel="DIM.ua"><title lang="id">All Inclusive. Foot Drop</title></programme>
@@ -2347,6 +2325,79 @@
 <programme start="20250929162500 +0000" stop="20250929165000 +0000" channel="KBSKorea.kr"><title lang="id">Hutos</title></programme>
 <programme start="20250929165000 +0000" stop="20250929165950 +0000" channel="KBSKorea.kr"><title lang="id">Korean Language Competition</title></programme>
 <programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="KBSKorea.kr"><title lang="id">Korean Language Competition</title></programme>
+<programme start="20250929170000 +0000" stop="20250929180000 +0000" channel="KBSKorea.kr"><title lang="id">Backpack Travels</title></programme>
+<programme start="20250929180000 +0000" stop="20250929183000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 9 [LIVE]</title></programme>
+<programme start="20250929183000 +0000" stop="20250929184000 +0000" channel="KBSKorea.kr"><title lang="id">Dialogue Documentary: Lake Life Episode 1Â</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20250929184000 +0000" stop="20250929200000 +0000" channel="KBSKorea.kr"><title lang="id">Battle Trip Season 2 Episode 32Â</title><episode-num system="xmltv_ns">1.31.0/1</episode-num><episode-num system="onscreen">S02E32</episode-num></programme>
+<programme start="20250929200000 +0000" stop="20250929201000 +0000" channel="KBSKorea.kr"><title lang="id">Discovery in Daily Life</title></programme>
+<programme start="20250929201000 +0000" stop="20250929210000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report Special</title></programme>
+<programme start="20250929210000 +0000" stop="20250929225000 +0000" channel="KBSKorea.kr"><title lang="id">News Plaza</title></programme>
+<programme start="20250929225000 +0000" stop="20250929232500 +0000" channel="KBSKorea.kr"><title lang="id">Screening Humanity</title></programme>
+<programme start="20250929232500 +0000" stop="20250930004500 +0000" channel="KBSKorea.kr"><title lang="id">Morning Forum</title></programme>
+<programme start="20250930004500 +0000" stop="20250930010000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 930</title></programme>
+<programme start="20250930010000 +0000" stop="20250930021000 +0000" channel="KBSKorea.kr"><title lang="id">Any Questions</title></programme>
+<programme start="20250930021000 +0000" stop="20250930030000 +0000" channel="KBSKorea.kr"><title lang="id">TV Show Authentic Masterpieces</title></programme>
+<programme start="20250930030000 +0000" stop="20250930040000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 12</title></programme>
+<programme start="20250930040000 +0000" stop="20250930045000 +0000" channel="KBSKorea.kr"><title lang="id">Culture Sketch</title></programme>
+<programme start="20250930045000 +0000" stop="20250930050000 +0000" channel="KBSKorea.kr"><title lang="id">Discovery in Daily Life</title></programme>
+<programme start="20250930050000 +0000" stop="20250930051000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News</title></programme>
+<programme start="20250930051000 +0000" stop="20250930070000 +0000" channel="KBSKorea.kr"><title lang="id">Namhaen U Dream</title></programme>
+<programme start="20250930070000 +0000" stop="20250930080000 +0000" channel="KBSKorea.kr"><title lang="id">Each and Every Case</title></programme>
+<programme start="20250930080000 +0000" stop="20250930083000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 5</title></programme>
+<programme start="20250930083000 +0000" stop="20250930090000 +0000" channel="KBSKorea.kr"><title lang="id">Hutos Episode 53Â</title><episode-num system="xmltv_ns">0.52.0/1</episode-num><episode-num system="onscreen">S01E53</episode-num></programme>
+<programme start="20250930090000 +0000" stop="20250930100000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report</title></programme>
+<programme start="20250930100000 +0000" stop="20250930104000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 7</title></programme>
+<programme start="20250930104000 +0000" stop="20250930113000 +0000" channel="KBSKorea.kr"><title lang="id">Korean Language Competition Episode 1058Â</title><episode-num system="xmltv_ns">0.1057.0/1</episode-num><episode-num system="onscreen">S01E1058</episode-num></programme>
+<programme start="20250930113000 +0000" stop="20250930120000 +0000" channel="KBSKorea.kr"><title lang="id">Good Luck! Episode 117Â</title><episode-num system="xmltv_ns">0.116.0/1</episode-num><episode-num system="onscreen">S01E117</episode-num></programme>
+<programme start="20250930120000 +0000" stop="20250930130000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 9 [LIVE]</title></programme>
+<programme start="20250930130000 +0000" stop="20250930135500 +0000" channel="KBSKorea.kr"><title lang="id">Golden Oldies Episode 1916Â</title><episode-num system="xmltv_ns">0.1915.0/1</episode-num><episode-num system="onscreen">S01E1916</episode-num></programme>
+<programme start="20250930135500 +0000" stop="20250930144500 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report Special</title></programme>
+<programme start="20250930144500 +0000" stop="20250930152000 +0000" channel="KBSKorea.kr"><title lang="id">Screening Humanity</title></programme>
+<programme start="20250930152000 +0000" stop="20250930164000 +0000" channel="KBSKorea.kr"><title lang="id">Morning Forum</title></programme>
+<programme start="20250930164000 +0000" stop="20250930165950 +0000" channel="KBSKorea.kr"><title lang="id">Korean Language Competition Episode 1058Â</title><episode-num system="xmltv_ns">0.1057.0/1</episode-num><episode-num system="onscreen">S01E1058</episode-num></programme>
+<programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="KBSKorea.kr"><title lang="id">Korean Language Competition Episode 1058Â</title><episode-num system="xmltv_ns">0.1057.0/1</episode-num><episode-num system="onscreen">S01E1058</episode-num></programme>
+<programme start="20250930170000 +0000" stop="20250930173000 +0000" channel="KBSKorea.kr"><title lang="id">My Neighbor, Charles Episode 499Â</title><episode-num system="xmltv_ns">0.498.0/1</episode-num><episode-num system="onscreen">S01E499</episode-num></programme>
+<programme start="20250930173000 +0000" stop="20250930180000 +0000" channel="KBSKorea.kr"><title lang="id">Good Luck! Episode 118Â</title><episode-num system="xmltv_ns">0.117.0/1</episode-num><episode-num system="onscreen">S01E118</episode-num></programme>
+<programme start="20250930180000 +0000" stop="20250930190000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 9 [LIVE]</title></programme>
+<programme start="20250930190000 +0000" stop="20250930200000 +0000" channel="KBSKorea.kr"><title lang="id">Documentary Window</title></programme>
+<programme start="20250930200000 +0000" stop="20250930201000 +0000" channel="KBSKorea.kr"><title lang="id">Discovery in Daily Life</title></programme>
+<programme start="20250930201000 +0000" stop="20250930210000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report Special</title></programme>
+<programme start="20250930210000 +0000" stop="20250930225000 +0000" channel="KBSKorea.kr"><title lang="id">News Plaza</title></programme>
+<programme start="20250930225000 +0000" stop="20250930232500 +0000" channel="KBSKorea.kr"><title lang="id">Screening Humanity</title></programme>
+<programme start="20250930232500 +0000" stop="20251001004500 +0000" channel="KBSKorea.kr"><title lang="id">Morning Forum</title></programme>
+<programme start="20251001004500 +0000" stop="20251001010000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 930</title></programme>
+<programme start="20251001010000 +0000" stop="20251001021000 +0000" channel="KBSKorea.kr"><title lang="id">Any Questions</title></programme>
+<programme start="20251001010000 +0000" stop="20251001023000 +0000" channel="KBSKorea.kr"><title lang="id">The 77th Armed Forces Day Ceremony</title></programme>
+<programme start="20251001021000 +0000" stop="20251001030000 +0000" channel="KBSKorea.kr"><title lang="id">Field Report Companion</title></programme>
+<programme start="20251001023000 +0000" stop="20251001030000 +0000" channel="KBSKorea.kr"><title lang="id">Trekking Note: Walk the World</title></programme>
+<programme start="20251001030000 +0000" stop="20251001040000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 12</title></programme>
+<programme start="20251001040000 +0000" stop="20251001045000 +0000" channel="KBSKorea.kr"><title lang="id">Stories Behind Place Names</title></programme>
+<programme start="20251001045000 +0000" stop="20251001050000 +0000" channel="KBSKorea.kr"><title lang="id">Where is this? Episode 2Â</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20251001050000 +0000" stop="20251001051000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News</title></programme>
+<programme start="20251001051000 +0000" stop="20251001060000 +0000" channel="KBSKorea.kr"><title lang="id">Mysteries of the Human Body</title></programme>
+<programme start="20251001051000 +0000" stop="20251001061000 +0000" channel="KBSKorea.kr"><title lang="id">Who Sings Better Episode 983Â</title><episode-num system="xmltv_ns">0.982.0/1</episode-num><episode-num system="onscreen">S01E983</episode-num></programme>
+<programme start="20251001060000 +0000" stop="20251001061000 +0000" channel="KBSKorea.kr"><title lang="id">Where is this? Episode 2Â</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20251001061000 +0000" stop="20251001070000 +0000" channel="KBSKorea.kr"><title lang="id">Backpack Travels</title></programme>
+<programme start="20251001061000 +0000" stop="20251001064000 +0000" channel="KBSKorea.kr"><title lang="id">Kids&apos; Animal TV</title></programme>
+<programme start="20251001064000 +0000" stop="20251001073000 +0000" channel="KBSKorea.kr"><title lang="id">Each and Every Case</title></programme>
+<programme start="20251001070000 +0000" stop="20251001080000 +0000" channel="KBSKorea.kr"><title lang="id">Each and Every Case</title></programme>
+<programme start="20251001073000 +0000" stop="20251001080000 +0000" channel="KBSKorea.kr"><title lang="id">2025 APEC D-30 LIVE: Connecting the World, Illuminating Tomorrow</title></programme>
+<programme start="20251001080000 +0000" stop="20251001083000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 5</title></programme>
+<programme start="20251001080000 +0000" stop="20251001081000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News</title></programme>
+<programme start="20251001081000 +0000" stop="20251001090000 +0000" channel="KBSKorea.kr"><title lang="id">2025 APEC D-30 LIVE: Connecting the World, Illuminating Tomorrow</title></programme>
+<programme start="20251001083000 +0000" stop="20251001090000 +0000" channel="KBSKorea.kr"><title lang="id">Hutos Episode 54Â</title><episode-num system="xmltv_ns">0.53.0/1</episode-num><episode-num system="onscreen">S01E54</episode-num></programme>
+<programme start="20251001090000 +0000" stop="20251001100000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report</title></programme>
+<programme start="20251001100000 +0000" stop="20251001104000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 7</title></programme>
+<programme start="20251001104000 +0000" stop="20251001113000 +0000" channel="KBSKorea.kr"><title lang="id">Birth of a Worker Season 2 Episode 141Â</title><episode-num system="xmltv_ns">1.140.0/1</episode-num><episode-num system="onscreen">S02E141</episode-num></programme>
+<programme start="20251001113000 +0000" stop="20251001120000 +0000" channel="KBSKorea.kr"><title lang="id">Good Luck! Episode 119Â</title><episode-num system="xmltv_ns">0.118.0/1</episode-num><episode-num system="onscreen">S01E119</episode-num></programme>
+<programme start="20251001120000 +0000" stop="20251001130000 +0000" channel="KBSKorea.kr"><title lang="id">KBS News 9 [LIVE]</title></programme>
+<programme start="20251001130000 +0000" stop="20251001135000 +0000" channel="KBSKorea.kr"><title lang="id">Mysteries of the Human Body Episode 969Â</title><episode-num system="xmltv_ns">0.968.0/1</episode-num><episode-num system="onscreen">S01E969</episode-num></programme>
+<programme start="20251001135000 +0000" stop="20251001144000 +0000" channel="KBSKorea.kr"><title lang="id">Hometown Report Special</title></programme>
+<programme start="20251001144000 +0000" stop="20251001151500 +0000" channel="KBSKorea.kr"><title lang="id">Screening Humanity</title></programme>
+<programme start="20251001151500 +0000" stop="20251001163500 +0000" channel="KBSKorea.kr"><title lang="id">Morning Forum</title></programme>
+<programme start="20251001163500 +0000" stop="20251001164000 +0000" channel="KBSKorea.kr"><title lang="id">Where is this? Episode 2Â</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20251001164000 +0000" stop="20251001165950 +0000" channel="KBSKorea.kr"><title lang="id">Birth of a Worker Season 2 Episode 141Â</title><episode-num system="xmltv_ns">1.140.0/1</episode-num><episode-num system="onscreen">S02E141</episode-num></programme>
+<programme start="20251001165950 +0000" stop="20251001165959 +0000" channel="KBSKorea.kr"><title lang="id">Birth of a Worker Season 2 Episode 141Â</title><episode-num system="xmltv_ns">1.140.0/1</episode-num><episode-num system="onscreen">S02E141</episode-num></programme>
 <programme start="20250928170000 +0000" stop="20250928171500 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons Episode 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
 <programme start="20250928171500 +0000" stop="20250928185500 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4 Episode 292</title><episode-num system="xmltv_ns">0.291.0/1</episode-num><episode-num system="onscreen">S01E292</episode-num></programme>
 <programme start="20250928185500 +0000" stop="20250928201000 +0000" channel="KBSWorld.kr"><title lang="id">The Return of Superman Episode 590</title><episode-num system="xmltv_ns">0.589.0/1</episode-num><episode-num system="onscreen">S01E590</episode-num></programme>
@@ -2371,6 +2422,61 @@
 <programme start="20250929153500 +0000" stop="20250929165000 +0000" channel="KBSWorld.kr"><title lang="id">The Merchant : Gaekju 2015</title></programme>
 <programme start="20250929165000 +0000" stop="20250929165950 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4</title></programme>
 <programme start="20250929165950 +0000" stop="20250929165959 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4</title></programme>
+<programme start="20250929170000 +0000" stop="20250929183000 +0000" channel="KBSWorld.kr"><title lang="id">Two Days and One Night 4 : 292Â</title></programme>
+<programme start="20250929183000 +0000" stop="20250929190500 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! : 112Â</title></programme>
+<programme start="20250929190500 +0000" stop="20250929194500 +0000" channel="KBSWorld.kr"><title lang="id">A Graceful Liar : 1Â</title></programme>
+<programme start="20250929194500 +0000" stop="20250929210000 +0000" channel="KBSWorld.kr"><title lang="id">Dear.M : 11Â</title></programme>
+<programme start="20250929210000 +0000" stop="20250929223000 +0000" channel="KBSWorld.kr"><title lang="id">Stars&apos; Top Recipe at Fun-Staurant : 288Â</title></programme>
+<programme start="20250929223000 +0000" stop="20250929231000 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game : 54Â</title></programme>
+<programme start="20250929231000 +0000" stop="20250930002500 +0000" channel="KBSWorld.kr"><title lang="id">The Merchant : Gaekju 2015 : 5Â</title></programme>
+<programme start="20250930002500 +0000" stop="20250930010000 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! : 112Â</title></programme>
+<programme start="20250930010000 +0000" stop="20250930014000 +0000" channel="KBSWorld.kr"><title lang="id">A Graceful Liar : 1Â</title></programme>
+<programme start="20250930014000 +0000" stop="20250930022000 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game : 54Â</title></programme>
+<programme start="20250930022000 +0000" stop="20250930033500 +0000" channel="KBSWorld.kr"><title lang="id">Our Golden Days : 8Â</title></programme>
+<programme start="20250930033500 +0000" stop="20250930034000 +0000" channel="KBSWorld.kr"><title lang="id">The Best of Immortal Songs</title></programme>
+<programme start="20250930034000 +0000" stop="20250930051000 +0000" channel="KBSWorld.kr"><title lang="id">Stars&apos; Top Recipe at Fun-Staurant : 288Â</title></programme>
+<programme start="20250930051000 +0000" stop="20250930062500 +0000" channel="KBSWorld.kr"><title lang="id">Dear.M : 11Â</title></programme>
+<programme start="20250930062500 +0000" stop="20250930074000 +0000" channel="KBSWorld.kr"><title lang="id">The Merchant : Gaekju 2015 : 5Â</title></programme>
+<programme start="20250930074000 +0000" stop="20250930080000 +0000" channel="KBSWorld.kr"><title lang="id">KBS WORLD News Today</title></programme>
+<programme start="20250930080000 +0000" stop="20250930085500 +0000" channel="KBSWorld.kr"><title lang="id">KBS WORLD SELECTION</title></programme>
+<programme start="20250930085500 +0000" stop="20250930102000 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons : 2Â</title></programme>
+<programme start="20250930102000 +0000" stop="20250930113500 +0000" channel="KBSWorld.kr"><title lang="id">Healer : 20Â</title></programme>
+<programme start="20250930113500 +0000" stop="20250930121000 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! : 113Â</title></programme>
+<programme start="20250930121000 +0000" stop="20250930125000 +0000" channel="KBSWorld.kr"><title lang="id">A Graceful Liar : 2Â</title></programme>
+<programme start="20250930125000 +0000" stop="20250930140500 +0000" channel="KBSWorld.kr"><title lang="id">Dear.M : 12Â</title></programme>
+<programme start="20250930140500 +0000" stop="20250930152000 +0000" channel="KBSWorld.kr"><title lang="id">Heart on Wheels : 12Â</title></programme>
+<programme start="20250930152000 +0000" stop="20250930153500 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons W</title></programme>
+<programme start="20250930153500 +0000" stop="20250930165000 +0000" channel="KBSWorld.kr"><title lang="id">The Merchant : Gaekju 2015 : 6Â</title></programme>
+<programme start="20250930165000 +0000" stop="20250930165950 +0000" channel="KBSWorld.kr"><title lang="id">Immortal Songs : 722Â</title></programme>
+<programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="KBSWorld.kr"><title lang="id">Immortal Songs : 722Â</title></programme>
+<programme start="20250930170000 +0000" stop="20250930183000 +0000" channel="KBSWorld.kr"><title lang="id">Immortal Songs : 722Â</title></programme>
+<programme start="20250930183000 +0000" stop="20250930190500 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! : 113Â</title></programme>
+<programme start="20250930190500 +0000" stop="20250930194500 +0000" channel="KBSWorld.kr"><title lang="id">A Graceful Liar : 2Â</title></programme>
+<programme start="20250930194500 +0000" stop="20250930210000 +0000" channel="KBSWorld.kr"><title lang="id">Dear.M : 12Â</title></programme>
+<programme start="20250930210000 +0000" stop="20250930221500 +0000" channel="KBSWorld.kr"><title lang="id">Heart on Wheels : 12Â</title></programme>
+<programme start="20250930221500 +0000" stop="20250930223000 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons W</title></programme>
+<programme start="20250930223000 +0000" stop="20250930231000 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game : 55Â</title></programme>
+<programme start="20250930231000 +0000" stop="20251001002500 +0000" channel="KBSWorld.kr"><title lang="id">The Merchant : Gaekju 2015 : 6Â</title></programme>
+<programme start="20251001002500 +0000" stop="20251001010000 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! : 113Â</title></programme>
+<programme start="20251001010000 +0000" stop="20251001014000 +0000" channel="KBSWorld.kr"><title lang="id">A Graceful Liar : 2Â</title></programme>
+<programme start="20251001014000 +0000" stop="20251001022000 +0000" channel="KBSWorld.kr"><title lang="id">Cinderella Game : 55Â</title></programme>
+<programme start="20251001022000 +0000" stop="20251001033500 +0000" channel="KBSWorld.kr"><title lang="id">Our Golden Days : 9Â</title></programme>
+<programme start="20251001033500 +0000" stop="20251001034000 +0000" channel="KBSWorld.kr"><title lang="id">ROUND PLAYLIST</title></programme>
+<programme start="20251001034000 +0000" stop="20251001045500 +0000" channel="KBSWorld.kr"><title lang="id">Heart on Wheels : 12Â</title></programme>
+<programme start="20251001045500 +0000" stop="20251001051000 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons W</title></programme>
+<programme start="20251001051000 +0000" stop="20251001062500 +0000" channel="KBSWorld.kr"><title lang="id">Dear.M : 12Â</title></programme>
+<programme start="20251001062500 +0000" stop="20251001074000 +0000" channel="KBSWorld.kr"><title lang="id">The Merchant : Gaekju 2015 : 6Â</title></programme>
+<programme start="20251001074000 +0000" stop="20251001080000 +0000" channel="KBSWorld.kr"><title lang="id">KBS WORLD News Today</title></programme>
+<programme start="20251001080000 +0000" stop="20251001091500 +0000" channel="KBSWorld.kr"><title lang="id">You Are The Best! : 7Â</title></programme>
+<programme start="20251001091500 +0000" stop="20251001102500 +0000" channel="KBSWorld.kr"><title lang="id">You Are The Best! : 8Â</title></programme>
+<programme start="20251001102500 +0000" stop="20251001113500 +0000" channel="KBSWorld.kr"><title lang="id">The Return of Superman : 590Â</title></programme>
+<programme start="20251001113500 +0000" stop="20251001121000 +0000" channel="KBSWorld.kr"><title lang="id">Good Luck! : 114Â</title></programme>
+<programme start="20251001121000 +0000" stop="20251001125000 +0000" channel="KBSWorld.kr"><title lang="id">A Graceful Liar : 3Â</title></programme>
+<programme start="20251001125000 +0000" stop="20251001140500 +0000" channel="KBSWorld.kr"><title lang="id">Go Back : 1Â</title></programme>
+<programme start="20251001140500 +0000" stop="20251001152000 +0000" channel="KBSWorld.kr"><title lang="id">Problem Child in House : 21Â</title></programme>
+<programme start="20251001152000 +0000" stop="20251001153500 +0000" channel="KBSWorld.kr"><title lang="id">The Seasons W</title></programme>
+<programme start="20251001153500 +0000" stop="20251001165950 +0000" channel="KBSWorld.kr"><title lang="id">Stars&apos; Top Recipe at Fun-Staurant : 288Â</title></programme>
+<programme start="20251001165950 +0000" stop="20251001165959 +0000" channel="KBSWorld.kr"><title lang="id">Stars&apos; Top Recipe at Fun-Staurant : 288Â</title></programme>
 <programme start="20250928170000 +0000" stop="20250928171500 +0000" channel="KPlus.sg"><title lang="id">The Tale of Lady Ok Episode 11</title><episode-num system="xmltv_ns">0.10.0/1</episode-num><episode-num system="onscreen">S01E11</episode-num></programme>
 <programme start="20250928171500 +0000" stop="20250928183000 +0000" channel="KPlus.sg"><title lang="id">The Tale of Lady Ok Episode 12</title><episode-num system="xmltv_ns">0.11.0/1</episode-num><episode-num system="onscreen">S01E12</episode-num></programme>
 <programme start="20250928183000 +0000" stop="20250928201500 +0000" channel="KPlus.sg"><title lang="id">Knowing Bros Episode 496</title><episode-num system="xmltv_ns">0.495.0/1</episode-num><episode-num system="onscreen">S01E496</episode-num></programme>
@@ -3978,6 +4084,50 @@
 <programme start="20250930160824 +0000" stop="20250930163145 +0000" channel="TV5MondeStyle.fr"><title lang="id">CEST PLUS QUUN JARDIN</title></programme>
 <programme start="20250930163145 +0000" stop="20250930165950 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
 <programme start="20250930165950 +0000" stop="20250930165959 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
+<programme start="20250930170000 +0000" stop="20250930172947 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
+<programme start="20250930172947 +0000" stop="20250930180000 +0000" channel="TV5MondeStyle.fr"><title lang="id">EPICERIE FINE</title></programme>
+<programme start="20250930180000 +0000" stop="20250930185025 +0000" channel="TV5MondeStyle.fr"><title lang="id">SILENCE, CA POUSSE !</title></programme>
+<programme start="20250930185025 +0000" stop="20250930191629 +0000" channel="TV5MondeStyle.fr"><title lang="id">CHEF PAYS</title></programme>
+<programme start="20250930191629 +0000" stop="20250930193733 +0000" channel="TV5MondeStyle.fr"><title lang="id">DING DONG : MONTRE-MOI TA MAISON !</title></programme>
+<programme start="20250930193733 +0000" stop="20250930200355 +0000" channel="TV5MondeStyle.fr"><title lang="id">LE GOUT DES RENCONTRES NORMANDES</title></programme>
+<programme start="20250930200355 +0000" stop="20250930202955 +0000" channel="TV5MondeStyle.fr"><title lang="id">MA PETITE ESCAPADE</title></programme>
+<programme start="20250930202955 +0000" stop="20250930212756 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
+<programme start="20250930212756 +0000" stop="20250930215558 +0000" channel="TV5MondeStyle.fr"><title lang="id">EPICERIE FINE</title></programme>
+<programme start="20250930215558 +0000" stop="20250930224623 +0000" channel="TV5MondeStyle.fr"><title lang="id">SILENCE, CA POUSSE !</title></programme>
+<programme start="20250930224623 +0000" stop="20250930231228 +0000" channel="TV5MondeStyle.fr"><title lang="id">CHEF PAYS</title></programme>
+<programme start="20250930231228 +0000" stop="20250930233820 +0000" channel="TV5MondeStyle.fr"><title lang="id">UNE BRIQUE DANS LE VENTRE</title></programme>
+<programme start="20250930233820 +0000" stop="20251001000353 +0000" channel="TV5MondeStyle.fr"><title lang="id">LES SAISONS DE PIQUE-ASSIETTE</title></programme>
+<programme start="20251001000353 +0000" stop="20251001003023 +0000" channel="TV5MondeStyle.fr"><title lang="id">L ECHAPPEE BELGE</title></programme>
+<programme start="20251001003023 +0000" stop="20251001012825 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
+<programme start="20251001012825 +0000" stop="20251001020000 +0000" channel="TV5MondeStyle.fr"><title lang="id">EPICERIE FINE</title></programme>
+<programme start="20251001020000 +0000" stop="20251001025007 +0000" channel="TV5MondeStyle.fr"><title lang="id">SILENCE, CA POUSSE !</title></programme>
+<programme start="20251001025007 +0000" stop="20251001031607 +0000" channel="TV5MondeStyle.fr"><title lang="id">TERRITOIRES DE FRANCE</title></programme>
+<programme start="20251001031607 +0000" stop="20251001034143 +0000" channel="TV5MondeStyle.fr"><title lang="id">UNE BRIQUE DANS LE VENTRE</title></programme>
+<programme start="20251001034143 +0000" stop="20251001040651 +0000" channel="TV5MondeStyle.fr"><title lang="id">LES SAISONS DE PIQUE-ASSIETTE</title></programme>
+<programme start="20251001040651 +0000" stop="20251001043307 +0000" channel="TV5MondeStyle.fr"><title lang="id">L ECHAPPEE BELGE</title></programme>
+<programme start="20251001043307 +0000" stop="20251001053036 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
+<programme start="20251001053036 +0000" stop="20251001060000 +0000" channel="TV5MondeStyle.fr"><title lang="id">HISTOIRE(S) DE JARDINS</title></programme>
+<programme start="20251001060000 +0000" stop="20251001065007 +0000" channel="TV5MondeStyle.fr"><title lang="id">SILENCE, CA POUSSE !</title></programme>
+<programme start="20251001065007 +0000" stop="20251001071607 +0000" channel="TV5MondeStyle.fr"><title lang="id">TERRITOIRES DE FRANCE</title></programme>
+<programme start="20251001071607 +0000" stop="20251001074240 +0000" channel="TV5MondeStyle.fr"><title lang="id">TENDANCE XXI</title></programme>
+<programme start="20251001074240 +0000" stop="20251001080823 +0000" channel="TV5MondeStyle.fr"><title lang="id">NOS TERRES GOURMANDES</title></programme>
+<programme start="20251001080823 +0000" stop="20251001084239 +0000" channel="TV5MondeStyle.fr"><title lang="id">MON PLUS BEAU VILLAGE</title></programme>
+<programme start="20251001084239 +0000" stop="20251001094008 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
+<programme start="20251001094008 +0000" stop="20251001100000 +0000" channel="TV5MondeStyle.fr"><title lang="id">DEMO DE MODE</title></programme>
+<programme start="20251001100000 +0000" stop="20251001105007 +0000" channel="TV5MondeStyle.fr"><title lang="id">SILENCE, CA POUSSE !</title></programme>
+<programme start="20251001105007 +0000" stop="20251001111607 +0000" channel="TV5MondeStyle.fr"><title lang="id">TERRITOIRES DE FRANCE</title></programme>
+<programme start="20251001111607 +0000" stop="20251001114246 +0000" channel="TV5MondeStyle.fr"><title lang="id">CHATEAU !</title></programme>
+<programme start="20251001114246 +0000" stop="20251001120832 +0000" channel="TV5MondeStyle.fr"><title lang="id">LE GOUT DES RENCONTRES EN NOUVELLE-AQUITAINE</title></programme>
+<programme start="20251001120832 +0000" stop="20251001123431 +0000" channel="TV5MondeStyle.fr"><title lang="id">LITTORAL</title></programme>
+<programme start="20251001123431 +0000" stop="20251001133200 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
+<programme start="20251001133200 +0000" stop="20251001140000 +0000" channel="TV5MondeStyle.fr"><title lang="id">EPICERIE FINE</title></programme>
+<programme start="20251001140000 +0000" stop="20251001145007 +0000" channel="TV5MondeStyle.fr"><title lang="id">SILENCE, CA POUSSE !</title></programme>
+<programme start="20251001145007 +0000" stop="20251001151607 +0000" channel="TV5MondeStyle.fr"><title lang="id">TERRITOIRES DE FRANCE</title></programme>
+<programme start="20251001151607 +0000" stop="20251001154212 +0000" channel="TV5MondeStyle.fr"><title lang="id">VERSION FRANCAISE</title></programme>
+<programme start="20251001154212 +0000" stop="20251001160332 +0000" channel="TV5MondeStyle.fr"><title lang="id">LA CUISINE D ISABELLE ET RICARDO</title></programme>
+<programme start="20251001160332 +0000" stop="20251001163005 +0000" channel="TV5MondeStyle.fr"><title lang="id">PASSE-MOI LES JUMELLES</title></programme>
+<programme start="20251001163005 +0000" stop="20251001165950 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
+<programme start="20251001165950 +0000" stop="20251001165959 +0000" channel="TV5MondeStyle.fr"><title lang="id">METEO A LA CARTE</title></programme>
 <programme start="20250928170000 +0000" stop="20250928181500 +0000" channel="tvNAsia.hk"><title lang="id">Shin&apos;s Project Episode 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
 <programme start="20250928181500 +0000" stop="20250928193000 +0000" channel="tvNAsia.hk"><title lang="id">A Hundred Memories Episode 5</title><episode-num system="xmltv_ns">0.4.0/1</episode-num><episode-num system="onscreen">S01E05</episode-num></programme>
 <programme start="20250928193000 +0000" stop="20250928204000 +0000" channel="tvNAsia.hk"><title lang="id">Twinkling Watermelon Episode 13</title><episode-num system="xmltv_ns">0.12.0/1</episode-num><episode-num system="onscreen">S01E13</episode-num></programme>
