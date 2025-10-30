@@ -1,7 +1,7 @@
 name: Update EPG
 on:
   schedule:
-    - cron: "5 06,18 * * *"
+    - cron: "5 03,15 * * *"
   pull_request:
       branches:
         - main
