@@ -55,19 +55,6 @@
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#638e10220aa6a6000726979f">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/all#5e20b730f2f8d5003d739db7-6308f121ac9983739c8a29bd">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="AMC.es" site_id="11011">AMC</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="AMCBreak.es" site_id="11009">AMC Break</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="WarnerTV.es" site_id="11007">Warner TV</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="AXN.es" site_id="11002">AXN</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="ComedyCentral.es" site_id="11005">Comedy Central</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="Calle13Universal.es" site_id="11003">Calle 13</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="XTRM.es" site_id="12057">XTRM</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="Syfy.es" site_id="11004">SYFY</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="AXNMovies.es" site_id="11008">AXN Movies</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="SundanceTV.es" site_id="11052">Sundance TV</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="Eurosport1.fr" site_id="11035">Eurosport 1</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="Eurosport2.fr" site_id="11059">Eurosport 2</channel>
-  <channel site="orangetv.orange.es" lang="es" xmltv_id="Historia.es" site_id="11019">Canal Historia</channel>
   <channel site="vidio.com" lang="id" xmltv_id="beINSports1.id" site_id="6299">Bein 1</channel>
   <channel site="vidio.com" lang="id" xmltv_id="beINSports2.id" site_id="17875">Bein 2</channel>
   <channel site="vidio.com" lang="id" xmltv_id="beINSports3.id" site_id="6317">Bein 3</channel>
@@ -89,40 +76,6 @@
   <channel site="singtel.com" lang="en" xmltv_id="HITSMovies.sg" site_id="6301">HITS Movies HD</channel>
   <channel site="singtel.com" lang="en" xmltv_id="" site_id="5310">ROCK Action On Demand (HD)</channel>
   <channel site="singtel.com" lang="en" xmltv_id="ROCKEntertainment.sg" site_id="5318">ROCK Entertainment (HD)</channel>
-  <channel site="visionplus.id" lang="id" xmltv_id="GTV.id" site_id="00000000000000000003">GTV</channel>
-  <channel site="visionplus.id" lang="id" xmltv_id="MNCTV.id" site_id="00000000000000000002">MNCTV</channel>
-  <channel site="visionplus.id" lang="id" xmltv_id="SindoNewsTV.id" site_id="00000000000000000005">SindoNews</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="NickJrAsia.sg" site_id="nickjr">Nick Junior</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="DaVinciAsia.de" site_id="davinci">Da Vinci Learning</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="DuniaAnak.id" site_id="duniaanak">Dunia anak</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="IndiKids.id" site_id="indikids">FunPlanet</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="RodjaTV.id" site_id="rodjatv">Rodja TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="CNNIndonesia.id" site_id="cnnindonesia">CNN Indonesia</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="DiscoveryAsia.sg" site_id="discoveryasia">Discovery Asia</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="EatNGo.id" site_id="eatgo">Eat &amp; Go</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="ABCAustralia.au" site_id="abcaustralia">ABC Australia</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="Flik.id" site_id="flik">Flik</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="BioskopIndonesia.id" site_id="bioskopindonesia">Bioskop Indonesia</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="CinemaWorld.my" site_id="cinemaworld">Cinema World</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="CitraDrama.id" site_id="cdrama">Citra Drama</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="MAXStream.id" site_id="maxstream">Maxstream</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="WarnerTVAsia.us" site_id="warner">Warner</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="HITSNowHD.sg" site_id="hitsnow">HITS Now</channel>
-  <channel site="dens.tv" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa" site_id="88">Sunna TV</channel>
-  <channel site="dens.tv" lang="id" xmltv_id="MyCinema.id" site_id="95">My Cinema HD</channel>
   <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
-  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="viasat-film-action">Viasat Film Action</channel>
-  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="viasat-film-family-hd">Viasat Film Family HD</channel>
-  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="viasat-film-hits">Viasat Film Hits</channel>
-  <channel site="tv24.se" lang="sv" xmltv_id="" site_id="viasat-film-premiere">Viasat Film Premiere</channel>
-  <channel site="tv24.se" lang="sv" xmltv_id="VSeries.se" site_id="viasat-series">Viasat Series</channel>
-  <channel site="allente.se" lang="sv" xmltv_id="VFilmAction.se" site_id="0299">V film action HD (T)</channel>
-  <channel site="allente.se" lang="sv" xmltv_id="VFilmFamily.se" site_id="0308">V film family (T)</channel>
-  <channel site="allente.se" lang="sv" xmltv_id="VFilmHits.se" site_id="0322">V film hits HD (T)</channel>
-  <channel site="allente.se" lang="sv" xmltv_id="VFilmPremiere.se" site_id="0321">V film premiere HD (T)</channel>
-  <channel site="allente.se" lang="sv" xmltv_id="VSeries.se" site_id="0320">V series HD (T)</channel>
-  <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports1.pl" site_id="eleven-208">Eleven Sports 1</channel>
-  <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports2.pl" site_id="eleven-sports-212">Eleven Sports 2</channel>
-  <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports3.pl" site_id="eleven-extra-531">Eleven Sports 3</channel>
-  <channel site="programtv.onet.pl" lang="pl" xmltv_id="ElevenSports4.pl" site_id="eleven-sports-4-607">Eleven Sports 4</channel>
+
 </channels>
