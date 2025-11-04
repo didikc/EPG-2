@@ -136,17 +136,20 @@
 <programme start="20251104010000 +0000" stop="20251104015500 +0000" channel="ABCAustralia.au"><title lang="id">ABC News At Noon</title></programme>
 <programme start="20251104015500 +0000" stop="20251104023000 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
 <programme start="20251104023000 +0000" stop="20251104043000 +0000" channel="ABCAustralia.au"><title lang="id">Melbourne Cup 2025</title></programme>
-<programme start="20251104043000 +0000" stop="20251104050000 +0000" channel="ABCAustralia.au"><title lang="id">Extraordinary Animals</title></programme>
+<programme start="20251104043000 +0000" stop="20251104045500 +0000" channel="ABCAustralia.au"><title lang="id">Extraordinary Animals</title></programme>
+<programme start="20251104045500 +0000" stop="20251104050000 +0000" channel="ABCAustralia.au"><title lang="id">Voices of Independence</title></programme>
 <programme start="20251104050000 +0000" stop="20251104060000 +0000" channel="ABCAustralia.au"><title lang="id">Afternoon Briefing</title></programme>
 <programme start="20251104060000 +0000" stop="20251104070000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News with Joe O&apos;Brien</title></programme>
-<programme start="20251104070000 +0000" stop="20251104073000 +0000" channel="ABCAustralia.au"><title lang="id">A Bite To Eat With Alice</title></programme>
-<programme start="20251104073000 +0000" stop="20251104080000 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
+<programme start="20251104070000 +0000" stop="20251104072500 +0000" channel="ABCAustralia.au"><title lang="id">A Bite To Eat With Alice</title></programme>
+<programme start="20251104072500 +0000" stop="20251104080000 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
 <programme start="20251104080000 +0000" stop="20251104083000 +0000" channel="ABCAustralia.au"><title lang="id">ABC National News</title></programme>
 <programme start="20251104083000 +0000" stop="20251104090000 +0000" channel="ABCAustralia.au"><title lang="id">7.30</title></programme>
 <programme start="20251104090000 +0000" stop="20251104093000 +0000" channel="ABCAustralia.au"><title lang="id">Secret Science</title></programme>
-<programme start="20251104093000 +0000" stop="20251104100000 +0000" channel="ABCAustralia.au"><title lang="id">Extraordinary Animals</title></programme>
+<programme start="20251104093000 +0000" stop="20251104095500 +0000" channel="ABCAustralia.au"><title lang="id">Extraordinary Animals</title></programme>
+<programme start="20251104095500 +0000" stop="20251104100000 +0000" channel="ABCAustralia.au"><title lang="id">Pasin Wantok</title></programme>
 <programme start="20251104100000 +0000" stop="20251104110000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20251104110000 +0000" stop="20251104120000 +0000" channel="ABCAustralia.au"><title lang="id">Australia&apos;s Wild Moments</title></programme>
+<programme start="20251104110000 +0000" stop="20251104115000 +0000" channel="ABCAustralia.au"><title lang="id">Australia&apos;s Wild Moments</title></programme>
+<programme start="20251104115000 +0000" stop="20251104120000 +0000" channel="ABCAustralia.au"><title lang="id">Pasin Wantok</title></programme>
 <programme start="20251104120000 +0000" stop="20251104123000 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
 <programme start="20251104123000 +0000" stop="20251104130000 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
 <programme start="20251104130000 +0000" stop="20251104131500 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
@@ -157,7 +160,7 @@
 <programme start="20251104151500 +0000" stop="20251104153000 +0000" channel="ABCAustralia.au"><title lang="id">The Business</title></programme>
 <programme start="20251104153000 +0000" stop="20251104160000 +0000" channel="ABCAustralia.au"><title lang="id">Secret Science</title></programme>
 <programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="ABCAustralia.au"><title lang="id">Extraordinary Animals</title></programme>
-<programme start="20251104163000 +0000" stop="20251104173000 +0000" channel="ABCAustralia.au"><title lang="id">Australia&apos;s Wild Moments</title></programme>
+<programme start="20251104163000 +0000" stop="20251104172000 +0000" channel="ABCAustralia.au"><title lang="id">Australia&apos;s Wild Moments</title></programme>
 <programme start="20251103172000 +0000" stop="20251103174000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Prime Time</title></programme>
 <programme start="20251103174000 +0000" stop="20251103175000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Overseas Chinese</title></programme>
 <programme start="20251103175000 +0000" stop="20251103184000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 30</title></programme>
@@ -1417,50 +1420,51 @@
 <programme start="20251104160700 +0000" stop="20251104164800 +0000" channel="newtvfinance"><title lang="id">Antarctic Expedition: Unlocking the Frozen Secrets</title></programme>
 <programme start="20251104164800 +0000" stop="20251104172900 +0000" channel="newtvfinance"><title lang="id">Medical-Engineering Integration Sparks Innovation: Brain-Computer Interface for Mind Control</title></programme>
 <programme start="20251103193000 +0000" stop="20251103220000 +0000" channel="newtvcomprehensive"><title lang="id">Evening News</title></programme>
-<programme start="20251103220000 +0000" stop="20251104003800 +0000" channel="newtvcomprehensive"><title lang="id">Evening News</title></programme>
+<programme start="20251103220000 +0000" stop="20251104003800 +0000" channel="newtvcomprehensive"><title lang="id">Morning News</title></programme>
 <programme start="20251104003800 +0000" stop="20251104010200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
 <programme start="20251104010200 +0000" stop="20251104012700 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104012700 +0000" stop="20251104013000 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104013000 +0000" stop="20251104015400 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104015400 +0000" stop="20251104021900 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104021900 +0000" stop="20251104024400 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104024400 +0000" stop="20251104025000 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104025000 +0000" stop="20251104031400 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104031400 +0000" stop="20251104033900 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104033900 +0000" stop="20251104040000 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251104012700 +0000" stop="20251104015200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104015200 +0000" stop="20251104021700 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104021700 +0000" stop="20251104024200 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104024200 +0000" stop="20251104030700 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104030700 +0000" stop="20251104031000 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104031000 +0000" stop="20251104033700 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
+<programme start="20251104033700 +0000" stop="20251104040000 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
 <programme start="20251104040000 +0000" stop="20251104043000 +0000" channel="newtvcomprehensive"><title lang="id">News 30&apos;</title></programme>
-<programme start="20251104043000 +0000" stop="20251104045400 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
-<programme start="20251104045400 +0000" stop="20251104051900 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
-<programme start="20251104051900 +0000" stop="20251104054400 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104054400 +0000" stop="20251104060900 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104060900 +0000" stop="20251104063400 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104063400 +0000" stop="20251104065900 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104065900 +0000" stop="20251104072400 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104072400 +0000" stop="20251104074500 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104074500 +0000" stop="20251104080900 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104080900 +0000" stop="20251104083300 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104083300 +0000" stop="20251104085800 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104085800 +0000" stop="20251104090700 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104090700 +0000" stop="20251104093200 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
-<programme start="20251104093200 +0000" stop="20251104095700 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
-<programme start="20251104095700 +0000" stop="20251104102100 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
-<programme start="20251104102100 +0000" stop="20251104104600 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104104600 +0000" stop="20251104110000 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104043000 +0000" stop="20251104043700 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104043700 +0000" stop="20251104050200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104050200 +0000" stop="20251104052700 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104052700 +0000" stop="20251104055200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104055200 +0000" stop="20251104061300 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104061300 +0000" stop="20251104063600 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104063600 +0000" stop="20251104063900 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104063900 +0000" stop="20251104070600 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
+<programme start="20251104070600 +0000" stop="20251104073300 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
+<programme start="20251104073300 +0000" stop="20251104074000 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104074000 +0000" stop="20251104080500 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104080500 +0000" stop="20251104083000 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104083000 +0000" stop="20251104085500 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104085500 +0000" stop="20251104090100 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104090100 +0000" stop="20251104092600 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104092600 +0000" stop="20251104095100 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104095100 +0000" stop="20251104101600 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104101600 +0000" stop="20251104104100 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104104100 +0000" stop="20251104110000 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
 <programme start="20251104110000 +0000" stop="20251104113800 +0000" channel="newtvcomprehensive"><title lang="id">News Simulcast</title></programme>
-<programme start="20251104113800 +0000" stop="20251104120200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104120200 +0000" stop="20251104122700 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104122700 +0000" stop="20251104125200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104125200 +0000" stop="20251104125400 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104125400 +0000" stop="20251104131900 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104131900 +0000" stop="20251104134400 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
-<programme start="20251104134400 +0000" stop="20251104140900 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104140900 +0000" stop="20251104141400 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104141400 +0000" stop="20251104143900 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104143900 +0000" stop="20251104150400 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
-<programme start="20251104150400 +0000" stop="20251104152400 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
-<programme start="20251104152400 +0000" stop="20251104154900 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
-<programme start="20251104154900 +0000" stop="20251104161400 +0000" channel="newtvcomprehensive"><title lang="id">Consumption Proposition</title></programme>
-<programme start="20251104161400 +0000" stop="20251104193000 +0000" channel="newtvcomprehensive"><title lang="id">Evening News</title></programme>
+<programme start="20251104113800 +0000" stop="20251104114000 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104114000 +0000" stop="20251104120700 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
+<programme start="20251104120700 +0000" stop="20251104123000 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
+<programme start="20251104123000 +0000" stop="20251104123700 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104123700 +0000" stop="20251104130200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104130200 +0000" stop="20251104132700 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104132700 +0000" stop="20251104135200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104135200 +0000" stop="20251104141700 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104141700 +0000" stop="20251104144200 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
+<programme start="20251104144200 +0000" stop="20251104150700 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104150700 +0000" stop="20251104153200 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104153200 +0000" stop="20251104153400 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
+<programme start="20251104153400 +0000" stop="20251104160100 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
+<programme start="20251104160100 +0000" stop="20251104193000 +0000" channel="newtvcomprehensive"><title lang="id">Evening News</title></programme>
 <programme start="20251103172000 +0000" stop="20251103180000 +0000" channel="NET.id"><title lang="id">Fenomena</title></programme>
 <programme start="20251103180000 +0000" stop="20251103190000 +0000" channel="NET.id"><title lang="id">Inilah Kisahnya</title></programme>
 <programme start="20251103190000 +0000" stop="20251103201000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
@@ -1971,7 +1975,7 @@
 <programme start="20251104165000 +0000" stop="20251104183000 +0000" channel="KBSWorld.kr"><title lang="id">Immortal Songs - Eps. 727</title></programme>
 <programme start="20251103170000 +0000" stop="20251103170300 +0000" channel="JTV.id"><title lang="id">Lagu Bagimu Negeri</title></programme>
 <programme start="20251103170300 +0000" stop="20251103170800 +0000" channel="JTV.id"><title lang="id">Station Id Jtv</title></programme>
-<programme start="20251103170800 +0000" stop="20251103173000 +0000" channel="JTV.id"><title lang="id">Program Keseahatan Bagimen</title></programme>
+<programme start="20251103170800 +0000" stop="20251103173000 +0000" channel="JTV.id"><title lang="id">Jurit Malam</title></programme>
 <programme start="20251103173000 +0000" stop="20251103180000 +0000" channel="JTV.id"><title lang="id">Muter Lagu</title></programme>
 <programme start="20251103180000 +0000" stop="20251103190000 +0000" channel="JTV.id"><title lang="id">Musica Hits</title></programme>
 <programme start="20251103190000 +0000" stop="20251103200000 +0000" channel="JTV.id"><title lang="id">Stasiun Dangdut</title></programme>
@@ -1982,16 +1986,16 @@
 <programme start="20251103230000 +0000" stop="20251104000000 +0000" channel="JTV.id"><title lang="id">Ngaji Blusukan</title></programme>
 <programme start="20251104000000 +0000" stop="20251104003000 +0000" channel="JTV.id"><title lang="id">Badanamu</title></programme>
 <programme start="20251104003000 +0000" stop="20251104010000 +0000" channel="JTV.id"><title lang="id">Bintang Kecil</title></programme>
-<programme start="20251104010000 +0000" stop="20251104013000 +0000" channel="JTV.id"><title lang="id">Seni Pertunjukan</title></programme>
+<programme start="20251104010000 +0000" stop="20251104013000 +0000" channel="JTV.id"><title lang="id">Cerita Wastra</title></programme>
 <programme start="20251104013000 +0000" stop="20251104020000 +0000" channel="JTV.id"><title lang="id">Alamku Keren</title></programme>
 <programme start="20251104020000 +0000" stop="20251104030000 +0000" channel="JTV.id"><title lang="id">Musica Hits</title></programme>
-<programme start="20251104030000 +0000" stop="20251104040000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Glukocep</title></programme>
-<programme start="20251104040000 +0000" stop="20251104043000 +0000" channel="JTV.id"><title lang="id">Blakraan</title></programme>
+<programme start="20251104030000 +0000" stop="20251104040000 +0000" channel="JTV.id"><title lang="id">Nusantara Kini</title></programme>
+<programme start="20251104040000 +0000" stop="20251104043000 +0000" channel="JTV.id"><title lang="id">Mancing Mbois</title></programme>
 <programme start="20251104043000 +0000" stop="20251104050000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Bio Netra</title></programme>
 <programme start="20251104050000 +0000" stop="20251104060000 +0000" channel="JTV.id"><title lang="id">Stasiun Dangdut</title></programme>
-<programme start="20251104060000 +0000" stop="20251104063000 +0000" channel="JTV.id"><title lang="id">Dialog Khusus Biro Otoda</title></programme>
+<programme start="20251104060000 +0000" stop="20251104063000 +0000" channel="JTV.id"><title lang="id">Podcast Jatim Channel</title></programme>
 <programme start="20251104063000 +0000" stop="20251104063300 +0000" channel="JTV.id"><title lang="id">Berita Gress</title></programme>
-<programme start="20251104063300 +0000" stop="20251104070000 +0000" channel="JTV.id"><title lang="id">Dialog Khusus Biro Otoda</title></programme>
+<programme start="20251104063300 +0000" stop="20251104070000 +0000" channel="JTV.id"><title lang="id">Podcast Jatim Channel</title></programme>
 <programme start="20251104070000 +0000" stop="20251104073000 +0000" channel="JTV.id"><title lang="id">Jatim Awan</title></programme>
 <programme start="20251104073000 +0000" stop="20251104080000 +0000" channel="JTV.id"><title lang="id">Pojok Arena</title></programme>
 <programme start="20251104080000 +0000" stop="20251104083000 +0000" channel="JTV.id"><title lang="id">Kanal Budaya</title></programme>
@@ -2000,14 +2004,15 @@
 <programme start="20251104090300 +0000" stop="20251104093000 +0000" channel="JTV.id"><title lang="id">Ngaji Blusukan</title></programme>
 <programme start="20251104093000 +0000" stop="20251104100000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Pro Sifa</title></programme>
 <programme start="20251104100000 +0000" stop="20251104103000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Visospect</title></programme>
-<programme start="20251104103000 +0000" stop="20251104110000 +0000" channel="JTV.id"><title lang="id">Mancing Mbois</title></programme>
+<programme start="20251104103000 +0000" stop="20251104110000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Maduxbio</title></programme>
 <programme start="20251104110000 +0000" stop="20251104120000 +0000" channel="JTV.id"><title lang="id">Hukum Ditengah Kita</title></programme>
 <programme start="20251104120000 +0000" stop="20251104130000 +0000" channel="JTV.id"><title lang="id">Pojok Pitu</title></programme>
 <programme start="20251104130000 +0000" stop="20251104133000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Healtik</title></programme>
 <programme start="20251104133000 +0000" stop="20251104140000 +0000" channel="JTV.id"><title lang="id">Grahadi Untuk Negeri</title></programme>
 <programme start="20251104140000 +0000" stop="20251104150000 +0000" channel="JTV.id"><title lang="id">Pojok Kampung</title></programme>
 <programme start="20251104150000 +0000" stop="20251104160000 +0000" channel="JTV.id"><title lang="id">Nusantara Kini</title></programme>
-<programme start="20251104160000 +0000" stop="20251104170000 +0000" channel="JTV.id"><title lang="id">Napak Tilas</title></programme>
+<programme start="20251104160000 +0000" stop="20251104163000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Maduxbio</title></programme>
+<programme start="20251104163000 +0000" stop="20251104170000 +0000" channel="JTV.id"><title lang="id">Napak Tilas</title></programme>
 <programme start="20251103170000 +0000" stop="20251103170300 +0000" channel="JawaPosTV.id"><title lang="id">Lagu Nasional</title></programme>
 <programme start="20251103170300 +0000" stop="20251103180000 +0000" channel="JawaPosTV.id"><title lang="id">Cocomax</title></programme>
 <programme start="20251103180000 +0000" stop="20251103190000 +0000" channel="JawaPosTV.id"><title lang="id">Khazanah Indonesia</title></programme>
