@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251106">
 <channel id="ITV2.uk"><display-name>ITV2</display-name><icon src="https://i.imgur.com/2BpUK0W.png"/><url>https://freeview.co.uk</url></channel>
+<channel id="ITV3.uk"><display-name>ITV3</display-name><icon src="https://i.imgur.com/JuyM2z5.png"/><url>https://freeview.co.uk</url></channel>
 <channel id="MoonbugKids.uk"><display-name>Moonbug Kids</display-name><icon src="https://i.imgur.com/vZHtxQb.png"/><url>https://osn.com</url></channel>
 <channel id="ROCKEntertainment.sg"><display-name>ROCK Entertainment (HD)</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://singtel.com</url></channel>
 <channel id="5310"><display-name>ROCK Action On Demand (HD)</display-name><url>https://singtel.com</url></channel>
@@ -75,7 +76,53 @@
 <channel id="Channel5HD.uk"><display-name>Channel 5 HD</display-name><url>https://freeview.co.uk</url></channel>
 <channel id="Channel4HD.uk"><display-name>Channel 4 HD</display-name><url>https://freeview.co.uk</url></channel>
 <channel id="ITV4.uk"><display-name>ITV4</display-name><icon src="https://i.imgur.com/DYI4IA2.png"/><url>https://freeview.co.uk</url></channel>
-<channel id="ITV3.uk"><display-name>ITV3</display-name><icon src="https://i.imgur.com/JuyM2z5.png"/><url>https://freeview.co.uk</url></channel>
+<programme start="20251105200000 +0000" stop="20251105201700 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: Baby Race!!</title></programme>
+<programme start="20251105201800 +0000" stop="20251105204100 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: Havoc at Home</title></programme>
+<programme start="20251105204200 +0000" stop="20251105210900 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Endless Magic, Endless Fun!</title></programme>
+<programme start="20251105211000 +0000" stop="20251105213800 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Epic Adventures!</title></programme>
+<programme start="20251105213900 +0000" stop="20251105221100 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Evening Time</title></programme>
+<programme start="20251105221100 +0000" stop="20251105223700 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Evening Sing Along</title></programme>
+<programme start="20251105223700 +0000" stop="20251105225400 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Bedtime Songs</title></programme>
+<programme start="20251105225500 +0000" stop="20251105233200 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: Bedtime Songs With JJ</title></programme>
+<programme start="20251105233300 +0000" stop="20251106000100 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: Comelon Can Help: Yummy Mealtime!</title></programme>
+<programme start="20251106000200 +0000" stop="20251106015900 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Lullabies: Twinkle Twinkle Little Star</title></programme>
+<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="MoonbugKids.uk"><title lang="en">JJ&apos;s Animal Time: Comelon Can Help: Mealtime!</title></programme>
+<programme start="20251106023000 +0000" stop="20251106025800 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: Be Kind JJ!</title></programme>
+<programme start="20251106025900 +0000" stop="20251106032900 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Amazing Animals</title></programme>
+<programme start="20251106032900 +0000" stop="20251106040000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: It&apos;s Playtime!</title></programme>
+<programme start="20251106040000 +0000" stop="20251106042700 +0000" channel="MoonbugKids.uk"><title lang="en">Minibods: Teddy Bear Panic</title></programme>
+<programme start="20251106042800 +0000" stop="20251106045600 +0000" channel="MoonbugKids.uk"><title lang="en">Minibods: Storytime</title></programme>
+<programme start="20251106045700 +0000" stop="20251106052900 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Silly City Mix-Ups</title></programme>
+<programme start="20251106052900 +0000" stop="20251106055600 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Magic &amp; Transformations!</title></programme>
+<programme start="20251106055700 +0000" stop="20251106062900 +0000" channel="MoonbugKids.uk"><title lang="en">Blippi: Blippi and His Outdoor Adventures</title></programme>
+<programme start="20251106063000 +0000" stop="20251106065600 +0000" channel="MoonbugKids.uk"><title lang="en">Blippi: Blippi Visits a Dinosaur Exhibition</title></programme>
+<programme start="20251106065600 +0000" stop="20251106072600 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Bedtime Routine</title></programme>
+<programme start="20251106072600 +0000" stop="20251106075800 +0000" channel="MoonbugKids.uk"><title lang="en">Cody Time: Fun and Play</title></programme>
+<programme start="20251106075800 +0000" stop="20251106083000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Safety at the Fire Station</title></programme>
+<programme start="20251106083000 +0000" stop="20251106090100 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Stay Healthy!</title></programme>
+<programme start="20251106090100 +0000" stop="20251106092600 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Nursery Rhyme, Fun Time</title></programme>
+<programme start="20251106092600 +0000" stop="20251106095400 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Sing Along To Your Favourites</title></programme>
+<programme start="20251106095500 +0000" stop="20251106102700 +0000" channel="MoonbugKids.uk"><title lang="en">Go Buster: Buster At the Carwash</title></programme>
+<programme start="20251106102700 +0000" stop="20251106105500 +0000" channel="MoonbugKids.uk"><title lang="en">Go Buster: In the Life of Buster</title></programme>
+<programme start="20251106105600 +0000" stop="20251106112900 +0000" channel="MoonbugKids.uk"><title lang="en">Gecko&apos;s Garage: Baby Trucks Great Adventures!</title></programme>
+<programme start="20251106113000 +0000" stop="20251106120100 +0000" channel="MoonbugKids.uk"><title lang="en">Gecko&apos;s Garage: Basketball Boo Boo</title></programme>
+<programme start="20251106120100 +0000" stop="20251106123200 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Sweet Dreams!</title></programme>
+<programme start="20251106123200 +0000" stop="20251106130400 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Kitchen Adventures</title></programme>
+<programme start="20251106130400 +0000" stop="20251106133200 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Animal Songs!</title></programme>
+<programme start="20251106133300 +0000" stop="20251106140000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Sing Along Fun!</title></programme>
+<programme start="20251106140000 +0000" stop="20251106142800 +0000" channel="MoonbugKids.uk"><title lang="en">Blippi: Blippi Visits Soooo many Animals!</title></programme>
+<programme start="20251106142900 +0000" stop="20251106150000 +0000" channel="MoonbugKids.uk"><title lang="en">Blippi: Blippi Visits Seattle&apos;s Chlidren&apos;s Museum</title></programme>
+<programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="MoonbugKids.uk"><title lang="en">Gecko&apos;s Garage: Gecko Has Fantastic Friends</title></programme>
+<programme start="20251106153000 +0000" stop="20251106160100 +0000" channel="MoonbugKids.uk"><title lang="en">Gecko&apos;s Garage: Basketball Boo Boo</title></programme>
+<programme start="20251106160100 +0000" stop="20251106162900 +0000" channel="MoonbugKids.uk"><title lang="en">Minibods: Storytime</title></programme>
+<programme start="20251106163000 +0000" stop="20251106165700 +0000" channel="MoonbugKids.uk"><title lang="en">Minibods: Teddy Bear Panic</title></programme>
+<programme start="20251106165800 +0000" stop="20251106172900 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Bedtime All-Stars!</title></programme>
+<programme start="20251106172900 +0000" stop="20251106180100 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Kitchen Adventures</title></programme>
+<programme start="20251106180200 +0000" stop="20251106182800 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Time To Play</title></programme>
+<programme start="20251106182800 +0000" stop="20251106190000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: A Fun Day</title></programme>
+<programme start="20251106190000 +0000" stop="20251106193000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Shake Your Little Baby Bum</title></programme>
+<programme start="20251106193000 +0000" stop="20251106195700 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Mia&apos;s Spectaclar Sing Along!</title></programme>
+<programme start="20251106195800 +0000" stop="20251106200000 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: ARPO Has a Crazy Day</title></programme>
 <programme start="20251107195900 +0000" stop="20251107200000 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: Baby Race!!</title></programme>
 <programme start="20251107201700 +0000" stop="20251107203800 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: Bot For Teacher</title></programme>
 <programme start="20251107203800 +0000" stop="20251107210600 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Awesome Magic Pet Adventures</title></programme>
@@ -169,51 +216,4 @@
 <programme start="20251107190500 +0000" stop="20251107193200 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Sing Along To Your Favourites</title></programme>
 <programme start="20251107193300 +0000" stop="20251107195900 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Numbers, Sounds and Colours</title></programme>
 <programme start="20251107195900 +0000" stop="20251107200000 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: Baby Race!!</title></programme>
-<programme start="20251105200000 +0000" stop="20251105201700 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: Baby Race!!</title></programme>
-<programme start="20251105201800 +0000" stop="20251105204100 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: Havoc at Home</title></programme>
-<programme start="20251105204200 +0000" stop="20251105210900 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Endless Magic, Endless Fun!</title></programme>
-<programme start="20251105211000 +0000" stop="20251105213800 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Epic Adventures!</title></programme>
-<programme start="20251105213900 +0000" stop="20251105221100 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Evening Time</title></programme>
-<programme start="20251105221100 +0000" stop="20251105223700 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Evening Sing Along</title></programme>
-<programme start="20251105223700 +0000" stop="20251105225400 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Bedtime Songs</title></programme>
-<programme start="20251105225500 +0000" stop="20251105233200 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: Bedtime Songs With JJ</title></programme>
-<programme start="20251105233300 +0000" stop="20251106000100 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: Comelon Can Help: Yummy Mealtime!</title></programme>
-<programme start="20251106000200 +0000" stop="20251106015900 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Lullabies: Twinkle Twinkle Little Star</title></programme>
-<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="MoonbugKids.uk"><title lang="en">JJ&apos;s Animal Time: Comelon Can Help: Mealtime!</title></programme>
-<programme start="20251106023000 +0000" stop="20251106025800 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: Be Kind JJ!</title></programme>
-<programme start="20251106025900 +0000" stop="20251106032900 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Amazing Animals</title></programme>
-<programme start="20251106032900 +0000" stop="20251106040000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: It&apos;s Playtime!</title></programme>
-<programme start="20251106040000 +0000" stop="20251106042700 +0000" channel="MoonbugKids.uk"><title lang="en">Minibods: Teddy Bear Panic</title></programme>
-<programme start="20251106042800 +0000" stop="20251106045600 +0000" channel="MoonbugKids.uk"><title lang="en">Minibods: Storytime</title></programme>
-<programme start="20251106045700 +0000" stop="20251106052900 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Silly City Mix-Ups</title></programme>
-<programme start="20251106052900 +0000" stop="20251106055600 +0000" channel="MoonbugKids.uk"><title lang="en">Morphle: Magic &amp; Transformations!</title></programme>
-<programme start="20251106055700 +0000" stop="20251106062900 +0000" channel="MoonbugKids.uk"><title lang="en">Blippi: Blippi and His Outdoor Adventures</title></programme>
-<programme start="20251106063000 +0000" stop="20251106065600 +0000" channel="MoonbugKids.uk"><title lang="en">Blippi: Blippi Visits a Dinosaur Exhibition</title></programme>
-<programme start="20251106065600 +0000" stop="20251106072600 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Bedtime Routine</title></programme>
-<programme start="20251106072600 +0000" stop="20251106075800 +0000" channel="MoonbugKids.uk"><title lang="en">Cody Time: Fun and Play</title></programme>
-<programme start="20251106075800 +0000" stop="20251106083000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Safety at the Fire Station</title></programme>
-<programme start="20251106083000 +0000" stop="20251106090100 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Stay Healthy!</title></programme>
-<programme start="20251106090100 +0000" stop="20251106092600 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Nursery Rhyme, Fun Time</title></programme>
-<programme start="20251106092600 +0000" stop="20251106095400 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Sing Along To Your Favourites</title></programme>
-<programme start="20251106095500 +0000" stop="20251106102700 +0000" channel="MoonbugKids.uk"><title lang="en">Go Buster: Buster At the Carwash</title></programme>
-<programme start="20251106102700 +0000" stop="20251106105500 +0000" channel="MoonbugKids.uk"><title lang="en">Go Buster: In the Life of Buster</title></programme>
-<programme start="20251106105600 +0000" stop="20251106112900 +0000" channel="MoonbugKids.uk"><title lang="en">Gecko&apos;s Garage: Baby Trucks Great Adventures!</title></programme>
-<programme start="20251106113000 +0000" stop="20251106120100 +0000" channel="MoonbugKids.uk"><title lang="en">Gecko&apos;s Garage: Basketball Boo Boo</title></programme>
-<programme start="20251106120100 +0000" stop="20251106123200 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Sweet Dreams!</title></programme>
-<programme start="20251106123200 +0000" stop="20251106130400 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Kitchen Adventures</title></programme>
-<programme start="20251106130400 +0000" stop="20251106133200 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Animal Songs!</title></programme>
-<programme start="20251106133300 +0000" stop="20251106140000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Sing Along Fun!</title></programme>
-<programme start="20251106140000 +0000" stop="20251106142800 +0000" channel="MoonbugKids.uk"><title lang="en">Blippi: Blippi Visits Soooo many Animals!</title></programme>
-<programme start="20251106142900 +0000" stop="20251106150000 +0000" channel="MoonbugKids.uk"><title lang="en">Blippi: Blippi Visits Seattle&apos;s Chlidren&apos;s Museum</title></programme>
-<programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="MoonbugKids.uk"><title lang="en">Gecko&apos;s Garage: Gecko Has Fantastic Friends</title></programme>
-<programme start="20251106153000 +0000" stop="20251106160100 +0000" channel="MoonbugKids.uk"><title lang="en">Gecko&apos;s Garage: Basketball Boo Boo</title></programme>
-<programme start="20251106160100 +0000" stop="20251106162900 +0000" channel="MoonbugKids.uk"><title lang="en">Minibods: Storytime</title></programme>
-<programme start="20251106163000 +0000" stop="20251106165700 +0000" channel="MoonbugKids.uk"><title lang="en">Minibods: Teddy Bear Panic</title></programme>
-<programme start="20251106165800 +0000" stop="20251106172900 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Bedtime All-Stars!</title></programme>
-<programme start="20251106172900 +0000" stop="20251106180100 +0000" channel="MoonbugKids.uk"><title lang="en">CoComelon: CoComelon Can Help: Kitchen Adventures</title></programme>
-<programme start="20251106180200 +0000" stop="20251106182800 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: Time To Play</title></programme>
-<programme start="20251106182800 +0000" stop="20251106190000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Angel: A Fun Day</title></programme>
-<programme start="20251106190000 +0000" stop="20251106193000 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Shake Your Little Baby Bum</title></programme>
-<programme start="20251106193000 +0000" stop="20251106195700 +0000" channel="MoonbugKids.uk"><title lang="en">Little Baby Bum: Mia&apos;s Spectaclar Sing Along!</title></programme>
-<programme start="20251106195800 +0000" stop="20251106200000 +0000" channel="MoonbugKids.uk"><title lang="en">ARPO: ARPO Has a Crazy Day</title></programme>
 </tv>

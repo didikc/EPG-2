@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251106">
 <channel id="ABCAustralia.au"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZhejiangSatelliteTV.cn"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZeeBioskop.id"><display-name>ZBioskop</display-name><icon src="https://i.imgur.com/Xl7MJnd.png"/><url>https://indihometv.com</url></channel>
-<channel id="WarnerTVAsia.us"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="AniplusAsia.sg"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimaxAsia.sg"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="UseePrime.id"><display-name>AllPlay Ent</display-name><icon src="https://i.imgur.com/DqizBAD.png"/><url>https://indihometv.com</url></channel>
 <channel id="UChannel.id"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
@@ -125,10 +126,9 @@
 <channel id="ArirangTV.kr"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://indihometv.com</url></channel>
 <channel id="ANTV.id"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="AntaraTV.id"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AniplusAsia.sg"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimaxAsia.sg"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZhejiangSatelliteTV.cn"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZeeBioskop.id"><display-name>ZBioskop</display-name><icon src="https://i.imgur.com/Xl7MJnd.png"/><url>https://indihometv.com</url></channel>
+<channel id="WarnerTVAsia.us"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251105171500 +0000" stop="20251105173500 +0000" channel="ABCAustralia.au"><title lang="id">Media Watch</title></programme>
 <programme start="20251105173500 +0000" stop="20251105180000 +0000" channel="ABCAustralia.au"><title lang="id">Landline</title></programme>
 <programme start="20251105180000 +0000" stop="20251105190000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
@@ -164,96 +164,168 @@
 <programme start="20251106153000 +0000" stop="20251106162000 +0000" channel="ABCAustralia.au"><title lang="id">Ambulance Australia</title></programme>
 <programme start="20251106162000 +0000" stop="20251106164500 +0000" channel="ABCAustralia.au"><title lang="id">Roads Unknown India</title></programme>
 <programme start="20251106164500 +0000" stop="20251106172000 +0000" channel="ABCAustralia.au"><title lang="id">I Was Actually There</title></programme>
-<programme start="20251105171500 +0000" stop="20251105173500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Prime Time</title></programme>
-<programme start="20251105173500 +0000" stop="20251105175000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251105175000 +0000" stop="20251105183500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 36</title></programme>
-<programme start="20251105183500 +0000" stop="20251105192500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 34</title></programme>
-<programme start="20251105192500 +0000" stop="20251105201000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">The Disappering Child - Eps. 1</title></programme>
-<programme start="20251105201000 +0000" stop="20251105214000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Shijiu Zhongguoxin</title></programme>
-<programme start="20251105214000 +0000" stop="20251105222500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 16</title></programme>
-<programme start="20251105222500 +0000" stop="20251105231500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 17</title></programme>
-<programme start="20251105231500 +0000" stop="20251106000000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 18</title></programme>
-<programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Cartoon</title></programme>
-<programme start="20251106003000 +0000" stop="20251106011500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Chinese doctor says</title></programme>
-<programme start="20251106011500 +0000" stop="20251106013500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Prime Time</title></programme>
-<programme start="20251106013500 +0000" stop="20251106015000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251106015000 +0000" stop="20251106023500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 36</title></programme>
-<programme start="20251106023500 +0000" stop="20251106032500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 34</title></programme>
-<programme start="20251106032500 +0000" stop="20251106041000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">The Disappering Child - Eps. 1</title></programme>
-<programme start="20251106041000 +0000" stop="20251106054000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Shijiu Zhongguoxin</title></programme>
-<programme start="20251106054000 +0000" stop="20251106062500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 16</title></programme>
-<programme start="20251106062500 +0000" stop="20251106071500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 17</title></programme>
-<programme start="20251106071500 +0000" stop="20251106080000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 18</title></programme>
-<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Cartoon</title></programme>
-<programme start="20251106083000 +0000" stop="20251106091500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Chinese doctor says</title></programme>
-<programme start="20251106091500 +0000" stop="20251106093500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Prime Time</title></programme>
-<programme start="20251106093500 +0000" stop="20251106095000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251106095000 +0000" stop="20251106103500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 36</title></programme>
-<programme start="20251106103500 +0000" stop="20251106112500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 34</title></programme>
-<programme start="20251106112500 +0000" stop="20251106121000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">The Disappering Child - Eps. 1</title></programme>
-<programme start="20251106121000 +0000" stop="20251106134000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Shijiu Zhongguoxin</title></programme>
-<programme start="20251106134000 +0000" stop="20251106142500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 16</title></programme>
-<programme start="20251106142500 +0000" stop="20251106151500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 17</title></programme>
-<programme start="20251106151500 +0000" stop="20251106160000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 18</title></programme>
-<programme start="20251106160000 +0000" stop="20251106162500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Cartoon</title></programme>
-<programme start="20251106162500 +0000" stop="20251106171500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Amazing Zhejiang</title></programme>
-<programme start="20251105193000 +0000" stop="20251105223000 +0000" channel="ZeeBioskop.id"><title lang="id">Manmarziyaan</title></programme>
-<programme start="20251105223000 +0000" stop="20251106013000 +0000" channel="ZeeBioskop.id"><title lang="id">Hello Charlie</title></programme>
-<programme start="20251106013000 +0000" stop="20251106020000 +0000" channel="ZeeBioskop.id"><title lang="id">Song Fillers</title></programme>
-<programme start="20251106020000 +0000" stop="20251106030000 +0000" channel="ZeeBioskop.id"><title lang="id">Zindagi Ki Mehek S1</title></programme>
-<programme start="20251106030000 +0000" stop="20251106040000 +0000" channel="ZeeBioskop.id"><title lang="id">Doosari Maa Rerun</title></programme>
-<programme start="20251106040000 +0000" stop="20251106050000 +0000" channel="ZeeBioskop.id"><title lang="id">Mazhi Tuzhi Reshimgaath S1</title></programme>
-<programme start="20251106050000 +0000" stop="20251106080000 +0000" channel="ZeeBioskop.id"><title lang="id">Manmarziyaan</title></programme>
-<programme start="20251106080000 +0000" stop="20251106090000 +0000" channel="ZeeBioskop.id"><title lang="id">Zindagi Ki Mehek S1</title></programme>
-<programme start="20251106090000 +0000" stop="20251106100000 +0000" channel="ZeeBioskop.id"><title lang="id">Doosari Maa</title></programme>
-<programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="ZeeBioskop.id"><title lang="id">Mazhi Tuzhi Reshimgaath S1</title></programme>
-<programme start="20251106110000 +0000" stop="20251106133000 +0000" channel="ZeeBioskop.id"><title lang="id">Love U Mr Kalakaar</title></programme>
-<programme start="20251106133000 +0000" stop="20251106163000 +0000" channel="ZeeBioskop.id"><title lang="id">Ghayal Once Again</title></programme>
-<programme start="20251106163000 +0000" stop="20251106193000 +0000" channel="ZeeBioskop.id"><title lang="id">Akaash Vani</title></programme>
-<programme start="20251105171000 +0000" stop="20251105174000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 4</title></programme>
-<programme start="20251105174000 +0000" stop="20251105182000 +0000" channel="WarnerTVAsia.us"><title lang="id">World&apos;s Dumbest S16 - Eps. 2</title></programme>
-<programme start="20251105182000 +0000" stop="20251105190500 +0000" channel="WarnerTVAsia.us"><title lang="id">Smallville S1 - Eps. 18</title></programme>
-<programme start="20251105190500 +0000" stop="20251105192500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 3</title></programme>
-<programme start="20251105192500 +0000" stop="20251105195000 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 4</title></programme>
-<programme start="20251105195000 +0000" stop="20251105201000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 08</title></programme>
-<programme start="20251105201000 +0000" stop="20251105203500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 09</title></programme>
-<programme start="20251105203500 +0000" stop="20251105211500 +0000" channel="WarnerTVAsia.us"><title lang="id">World&apos;s Dumbest S16 - Eps. 2</title></programme>
-<programme start="20251105211500 +0000" stop="20251105214000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 4</title></programme>
-<programme start="20251105214000 +0000" stop="20251105220000 +0000" channel="WarnerTVAsia.us"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 4</title></programme>
-<programme start="20251105220000 +0000" stop="20251105222500 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 17</title></programme>
-<programme start="20251105222500 +0000" stop="20251105225000 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 18</title></programme>
-<programme start="20251105225000 +0000" stop="20251105234000 +0000" channel="WarnerTVAsia.us"><title lang="id">World&apos;s Dumbest S16 - Eps. 3</title></programme>
-<programme start="20251105234000 +0000" stop="20251106003000 +0000" channel="WarnerTVAsia.us"><title lang="id">Smallville S1 - Eps. 19</title></programme>
-<programme start="20251106003000 +0000" stop="20251106005500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 5</title></programme>
-<programme start="20251106005500 +0000" stop="20251106012000 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 6</title></programme>
-<programme start="20251106012000 +0000" stop="20251106014500 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 17</title></programme>
-<programme start="20251106014500 +0000" stop="20251106021000 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 18</title></programme>
-<programme start="20251106021000 +0000" stop="20251106023500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 10</title></programme>
-<programme start="20251106023500 +0000" stop="20251106030000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 11</title></programme>
-<programme start="20251106030000 +0000" stop="20251106032500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 5</title></programme>
-<programme start="20251106032500 +0000" stop="20251106035000 +0000" channel="WarnerTVAsia.us"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 5</title></programme>
-<programme start="20251106035000 +0000" stop="20251106044000 +0000" channel="WarnerTVAsia.us"><title lang="id">Smallville S1 - Eps. 19</title></programme>
-<programme start="20251106044000 +0000" stop="20251106050500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 5</title></programme>
-<programme start="20251106050500 +0000" stop="20251106053000 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 6</title></programme>
-<programme start="20251106053000 +0000" stop="20251106055500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Big Bang Theory S5 - Eps. 14</title></programme>
-<programme start="20251106055500 +0000" stop="20251106062000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S6 - Eps. 9</title></programme>
-<programme start="20251106062000 +0000" stop="20251106072000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 15</title></programme>
-<programme start="20251106072000 +0000" stop="20251106074000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 10</title></programme>
-<programme start="20251106074000 +0000" stop="20251106080000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 11</title></programme>
-<programme start="20251106080000 +0000" stop="20251106082500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Big Bang Theory S5 - Eps. 14</title></programme>
-<programme start="20251106082500 +0000" stop="20251106085000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S6 - Eps. 9</title></programme>
-<programme start="20251106085000 +0000" stop="20251106091500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 5</title></programme>
-<programme start="20251106091500 +0000" stop="20251106094000 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 6</title></programme>
-<programme start="20251106094000 +0000" stop="20251106103000 +0000" channel="WarnerTVAsia.us"><title lang="id">Smallville S1 - Eps. 19</title></programme>
-<programme start="20251106103000 +0000" stop="20251106105500 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 17</title></programme>
-<programme start="20251106105500 +0000" stop="20251106112000 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 18</title></programme>
-<programme start="20251106112000 +0000" stop="20251106114500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Big Bang Theory S5 - Eps. 14</title></programme>
-<programme start="20251106114500 +0000" stop="20251106121000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S6 - Eps. 9</title></programme>
-<programme start="20251106121000 +0000" stop="20251106123500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 5</title></programme>
-<programme start="20251106123500 +0000" stop="20251106130000 +0000" channel="WarnerTVAsia.us"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 5</title></programme>
-<programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 16</title></programme>
-<programme start="20251106140000 +0000" stop="20251106161000 +0000" channel="WarnerTVAsia.us"><title lang="id">Body Of Lies</title></programme>
-<programme start="20251106161000 +0000" stop="20251106171000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 16</title></programme>
+<programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251105173000 +0000" stop="20251105180000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
+<programme start="20251105180000 +0000" stop="20251105190000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
+<programme start="20251105190000 +0000" stop="20251105193000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251105193000 +0000" stop="20251105200000 +0000" channel="AlJazeera.qa"><title lang="id">earthrise: Systems Change</title></programme>
+<programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
+<programme start="20251105210000 +0000" stop="20251105220000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
+<programme start="20251105220000 +0000" stop="20251105223000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251105223000 +0000" stop="20251105230000 +0000" channel="AlJazeera.qa"><title lang="id">Fault Lines</title></programme>
+<programme start="20251105230000 +0000" stop="20251105233000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251105233000 +0000" stop="20251106000000 +0000" channel="AlJazeera.qa"><title lang="id">Apocalypse Maybe</title></programme>
+<programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106003000 +0000" stop="20251106010000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
+<programme start="20251106010000 +0000" stop="20251106020000 +0000" channel="AlJazeera.qa"><title lang="id">Al Jazeera World</title></programme>
+<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="AlJazeera.qa"><title lang="id">The Stream</title></programme>
+<programme start="20251106030000 +0000" stop="20251106033000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="AlJazeera.qa"><title lang="id">Risking it All</title></programme>
+<programme start="20251106040000 +0000" stop="20251106043000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106043000 +0000" stop="20251106050000 +0000" channel="AlJazeera.qa"><title lang="id">The Big Picture</title></programme>
+<programme start="20251106050000 +0000" stop="20251106053000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106053000 +0000" stop="20251106060000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
+<programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="AlJazeera.qa"><title lang="id">Apocalypse Maybe</title></programme>
+<programme start="20251106070000 +0000" stop="20251106080000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
+<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="AlJazeera.qa"><title lang="id">Fault Lines</title></programme>
+<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="AlJazeera.qa"><title lang="id">The Bottom Line</title></programme>
+<programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
+<programme start="20251106110000 +0000" stop="20251106113000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106113000 +0000" stop="20251106120000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
+<programme start="20251106120000 +0000" stop="20251106130000 +0000" channel="AlJazeera.qa"><title lang="id">Silenced: The War On Journalism</title></programme>
+<programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
+<programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="AlJazeera.qa"><title lang="id">The Listening Post</title></programme>
+<programme start="20251106150000 +0000" stop="20251106160000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
+<programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
+<programme start="20251106163000 +0000" stop="20251106170000 +0000" channel="AlJazeera.qa"><title lang="id">Witness</title></programme>
+<programme start="20251105174500 +0000" stop="20251105184000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Africa&apos;s Hunters Of The Night</title></programme>
+<programme start="20251105184000 +0000" stop="20251105193500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Life At The Limits S1 - Eps. 3</title></programme>
+<programme start="20251105193500 +0000" stop="20251105203000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Vet Life S2 - Eps. 9</title></programme>
+<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Coyote Peterson: Brave The Wild S1 - Eps. 5</title></programme>
+<programme start="20251105210000 +0000" stop="20251105220000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Saved By The Barn S1 - Eps. 11</title></programme>
+<programme start="20251105220000 +0000" stop="20251105230000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Zoo S3 - Eps. 5</title></programme>
+<programme start="20251105230000 +0000" stop="20251105235500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Snake Catcher S1 - Eps. 8</title></programme>
+<programme start="20251105235500 +0000" stop="20251106005000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Life At The Limits S1 - Eps. 3</title></programme>
+<programme start="20251106005000 +0000" stop="20251106014500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">My Cat From Hell S9 - Eps. 5</title></programme>
+<programme start="20251106014500 +0000" stop="20251106024000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Africa&apos;s Hunters Of The Night</title></programme>
+<programme start="20251106024000 +0000" stop="20251106033500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Vet Life S2 - Eps. 9</title></programme>
+<programme start="20251106033500 +0000" stop="20251106043000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Snake Catcher S1 - Eps. 9</title></programme>
+<programme start="20251106043000 +0000" stop="20251106052500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Just Animals S3 - Eps. 1</title></programme>
+<programme start="20251106052500 +0000" stop="20251106062000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Dr. Jeff: Rocky Mountain Vet S6 - Eps. 8</title></programme>
+<programme start="20251106062000 +0000" stop="20251106071500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Mysterious Creatures With Forrest Galante S1 - Eps. 5</title></programme>
+<programme start="20251106071500 +0000" stop="20251106081000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Zoo S2 - Eps. 9</title></programme>
+<programme start="20251106081000 +0000" stop="20251106090500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Wild Assassins S2 - Eps. 6</title></programme>
+<programme start="20251106090500 +0000" stop="20251106100000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Snake Catcher S1 - Eps. 9</title></programme>
+<programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Just Animals S3 - Eps. 1</title></programme>
+<programme start="20251106110000 +0000" stop="20251106120000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Dr. Jeff: Rocky Mountain Vet S6 - Eps. 8</title></programme>
+<programme start="20251106120000 +0000" stop="20251106130000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Mysterious Creatures With Forrest Galante S1 - Eps. 6</title></programme>
+<programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Wild Assassins S2 - Eps. 6</title></programme>
+<programme start="20251106140000 +0000" stop="20251106150000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Zoo S2 - Eps. 10</title></programme>
+<programme start="20251106150000 +0000" stop="20251106155500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Wild Australia S1 - Eps. 1</title></programme>
+<programme start="20251106155500 +0000" stop="20251106165000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Dr. Jeff: Rocky Mountain Vet S6 - Eps. 8</title></programme>
+<programme start="20251106165000 +0000" stop="20251106174500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Snake Catcher S1 - Eps. 9</title></programme>
+<programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.23</title></programme>
+<programme start="20251105173000 +0000" stop="20251105180000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.24</title></programme>
+<programme start="20251105180000 +0000" stop="20251105183000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.10</title></programme>
+<programme start="20251105183000 +0000" stop="20251105190000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.11</title></programme>
+<programme start="20251105190000 +0000" stop="20251105193000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.8</title></programme>
+<programme start="20251105193000 +0000" stop="20251105200000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.9</title></programme>
+<programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.4</title></programme>
+<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.5</title></programme>
+<programme start="20251105210000 +0000" stop="20251105213000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.4</title></programme>
+<programme start="20251105213000 +0000" stop="20251105220000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.5</title></programme>
+<programme start="20251105220000 +0000" stop="20251105223000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.21</title></programme>
+<programme start="20251105223000 +0000" stop="20251105230000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.22</title></programme>
+<programme start="20251105230000 +0000" stop="20251105233000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.23</title></programme>
+<programme start="20251105233000 +0000" stop="20251106000000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.24</title></programme>
+<programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.10</title></programme>
+<programme start="20251106003000 +0000" stop="20251106010000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.11</title></programme>
+<programme start="20251106010000 +0000" stop="20251106013000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.8</title></programme>
+<programme start="20251106013000 +0000" stop="20251106020000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.9</title></programme>
+<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.4</title></programme>
+<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.5</title></programme>
+<programme start="20251106030000 +0000" stop="20251106033000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.4</title></programme>
+<programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.5</title></programme>
+<programme start="20251106040000 +0000" stop="20251106043000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.21</title></programme>
+<programme start="20251106043000 +0000" stop="20251106050000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.22</title></programme>
+<programme start="20251106050000 +0000" stop="20251106053000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.23</title></programme>
+<programme start="20251106053000 +0000" stop="20251106060000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.24</title></programme>
+<programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.10</title></programme>
+<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.11</title></programme>
+<programme start="20251106070000 +0000" stop="20251106073000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.8</title></programme>
+<programme start="20251106073000 +0000" stop="20251106080000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.9</title></programme>
+<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.4</title></programme>
+<programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.5</title></programme>
+<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.4</title></programme>
+<programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.5</title></programme>
+<programme start="20251106100000 +0000" stop="20251106103000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.21</title></programme>
+<programme start="20251106103000 +0000" stop="20251106110000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.22</title></programme>
+<programme start="20251106110000 +0000" stop="20251106113000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.23</title></programme>
+<programme start="20251106113000 +0000" stop="20251106120000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.24</title></programme>
+<programme start="20251106120000 +0000" stop="20251106123000 +0000" channel="AniplusAsia.sg"><title lang="id">The Many Sides Of Voice Actor Radio - Eps.11</title></programme>
+<programme start="20251106123000 +0000" stop="20251106130000 +0000" channel="AniplusAsia.sg"><title lang="id">The Many Sides Of Voice Actor Radio - Eps.12</title></programme>
+<programme start="20251106130000 +0000" stop="20251106133000 +0000" channel="AniplusAsia.sg"><title lang="id">The Idolm@Ster Shinycolors - Eps.11</title></programme>
+<programme start="20251106133000 +0000" stop="20251106140000 +0000" channel="AniplusAsia.sg"><title lang="id">The Idolm@Ster Shinycolors - Eps.12</title></programme>
+<programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="AniplusAsia.sg"><title lang="id">Li’L Miss Vampire Can’T Suck Right - Eps.3</title></programme>
+<programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="AniplusAsia.sg"><title lang="id">Li’L Miss Vampire Can’T Suck Right - Eps.4</title></programme>
+<programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="AniplusAsia.sg"><title lang="id">Pandorahearts - Eps.10</title></programme>
+<programme start="20251106153000 +0000" stop="20251106160000 +0000" channel="AniplusAsia.sg"><title lang="id">Pandorahearts - Eps.11</title></programme>
+<programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="AniplusAsia.sg"><title lang="id">The Case Study Of Vanitas - Eps.11</title></programme>
+<programme start="20251106163000 +0000" stop="20251106170000 +0000" channel="AniplusAsia.sg"><title lang="id">The Case Study Of Vanitas - Eps.12</title></programme>
+<programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.2</title></programme>
+<programme start="20251105173000 +0000" stop="20251105180000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.3</title></programme>
+<programme start="20251105180000 +0000" stop="20251105183000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
+<programme start="20251105183000 +0000" stop="20251105190000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
+<programme start="20251105190000 +0000" stop="20251105193000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.4</title></programme>
+<programme start="20251105193000 +0000" stop="20251105200000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.5</title></programme>
+<programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.10</title></programme>
+<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.11</title></programme>
+<programme start="20251105210000 +0000" stop="20251105213000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.2</title></programme>
+<programme start="20251105213000 +0000" stop="20251105220000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.3</title></programme>
+<programme start="20251105220000 +0000" stop="20251105223000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
+<programme start="20251105223000 +0000" stop="20251105230000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
+<programme start="20251105230000 +0000" stop="20251105233000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.10</title></programme>
+<programme start="20251105233000 +0000" stop="20251106000000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.11</title></programme>
+<programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.4</title></programme>
+<programme start="20251106003000 +0000" stop="20251106010000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.5</title></programme>
+<programme start="20251106010000 +0000" stop="20251106013000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
+<programme start="20251106013000 +0000" stop="20251106020000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
+<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.18</title></programme>
+<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.19</title></programme>
+<programme start="20251106030000 +0000" stop="20251106033000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.10</title></programme>
+<programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.11</title></programme>
+<programme start="20251106040000 +0000" stop="20251106043000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.4</title></programme>
+<programme start="20251106043000 +0000" stop="20251106050000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.5</title></programme>
+<programme start="20251106050000 +0000" stop="20251106053000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
+<programme start="20251106053000 +0000" stop="20251106060000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
+<programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.18</title></programme>
+<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.19</title></programme>
+<programme start="20251106070000 +0000" stop="20251106073000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.10</title></programme>
+<programme start="20251106073000 +0000" stop="20251106080000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.11</title></programme>
+<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
+<programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
+<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.18</title></programme>
+<programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.19</title></programme>
+<programme start="20251106100000 +0000" stop="20251106103000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
+<programme start="20251106103000 +0000" stop="20251106110000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.59</title></programme>
+<programme start="20251106110000 +0000" stop="20251106113000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.9</title></programme>
+<programme start="20251106113000 +0000" stop="20251106120000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.10</title></programme>
+<programme start="20251106120000 +0000" stop="20251106123000 +0000" channel="AnimaxAsia.sg"><title lang="id">Fruits Basket The Final Season - Eps.5</title></programme>
+<programme start="20251106123000 +0000" stop="20251106130000 +0000" channel="AnimaxAsia.sg"><title lang="id">Fruits Basket The Final Season - Eps.6</title></programme>
+<programme start="20251106130000 +0000" stop="20251106133000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.9</title></programme>
+<programme start="20251106133000 +0000" stop="20251106140000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.10</title></programme>
+<programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.3</title></programme>
+<programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.4</title></programme>
+<programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.9</title></programme>
+<programme start="20251106153000 +0000" stop="20251106160000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.10</title></programme>
+<programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="AnimaxAsia.sg"><title lang="id">Fruits Basket The Final Season - Eps.5</title></programme>
+<programme start="20251106163000 +0000" stop="20251106170000 +0000" channel="AnimaxAsia.sg"><title lang="id">Fruits Basket The Final Season - Eps.6</title></programme>
 <programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="UseePrime.id"><title lang="id">Madam Rose</title></programme>
 <programme start="20251105173000 +0000" stop="20251105191500 +0000" channel="UseePrime.id"><title lang="id">Haji Backpacker</title></programme>
 <programme start="20251105191500 +0000" stop="20251105194500 +0000" channel="UseePrime.id"><title lang="id">COD (Celeb On Date)</title></programme>
@@ -733,22 +805,18 @@
 <programme start="20251106120000 +0000" stop="20251106140000 +0000" channel="SPOTV.id"><title lang="id">2025-2026 A-League Men Match Rd3: Auckland FC vs Adelaide United</title></programme>
 <programme start="20251106140000 +0000" stop="20251106160000 +0000" channel="SPOTV.id"><title lang="id">2025-2026 A-League Men Match Rd3: Macarthur FC vs Western Sydney Wanderers FC</title></programme>
 <programme start="20251106160000 +0000" stop="20251106170000 +0000" channel="SPOTV.id"><title lang="id">Supercars 2025: Boost Mobile Gold Coast 500: Highlights 1</title></programme>
-<programme start="20251105170000 +0000" stop="20251105180000 +0000" channel="SPOTV2.id"><title lang="id">WorldSBK: Rd10 Tissot Aragon Round</title></programme>
-<programme start="20251105180000 +0000" stop="20251105200000 +0000" channel="SPOTV2.id"><title lang="id">ROSHN Saudi League 2025-2026 MW4</title></programme>
-<programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="SPOTV2.id"><title lang="id">SailGP: Racing on the Edge</title></programme>
-<programme start="20251105203000 +0000" stop="20251105215500 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title></programme>
-<programme start="20251105215500 +0000" stop="20251105231000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title></programme>
-<programme start="20251105231000 +0000" stop="20251106013000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title></programme>
-<programme start="20251106013000 +0000" stop="20251106033000 +0000" channel="SPOTV2.id"><title lang="id">2025 Extreme E: Desert X Prix The Final Lap, Saudi Arabia</title></programme>
-<programme start="20251106033000 +0000" stop="20251106042500 +0000" channel="SPOTV2.id"><title lang="id">WorldSBK: Rd10 Tissot Aragon Round</title></programme>
-<programme start="20251106042500 +0000" stop="20251106055000 +0000" channel="SPOTV2.id"><title lang="id">WorldSBK: Rd10 Tissot Aragon Round</title></programme>
-<programme start="20251106055000 +0000" stop="20251106070000 +0000" channel="SPOTV2.id"><title lang="id">WorldSBK: Rd10 Tissot Aragon Round</title></programme>
-<programme start="20251106070000 +0000" stop="20251106083000 +0000" channel="SPOTV2.id"><title lang="id">SailGP S5: Spain, Cadiz</title></programme>
-<programme start="20251106083000 +0000" stop="20251106100000 +0000" channel="SPOTV2.id"><title lang="id">SailGP S5: Spain, Cadiz</title></programme>
-<programme start="20251106100000 +0000" stop="20251106112500 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title></programme>
-<programme start="20251106112500 +0000" stop="20251106124000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title></programme>
-<programme start="20251106124000 +0000" stop="20251106150000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title></programme>
-<programme start="20251106150000 +0000" stop="20251106170000 +0000" channel="SPOTV2.id"><title lang="id">Supercars Championship 2025: AirTouch 500 at The Bend</title></programme>
+<programme start="20251105180000 +0000" stop="20251105220000 +0000" channel="SPOTV2.id"><title lang="id">2025 Asia-Pacific Amateur Championship</title></programme>
+<programme start="20251105220000 +0000" stop="20251105232500 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 20- Petronas Grand Prix of Malaysia</title></programme>
+<programme start="20251105232500 +0000" stop="20251106011500 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 20- Petronas Grand Prix of Malaysia</title></programme>
+<programme start="20251106011500 +0000" stop="20251106023000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2025 Round 20- Petronas Grand Prix of Malaysia</title></programme>
+<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="SPOTV2.id"><title lang="id">2025-2026 ALM Mini Match Rd 3</title></programme>
+<programme start="20251106030000 +0000" stop="20251106040000 +0000" channel="SPOTV2.id"><title lang="id">WSBK Garage Sessions - Titanic Trio</title></programme>
+<programme start="20251106040000 +0000" stop="20251106093000 +0000" channel="SPOTV2.id"><title lang="id">WTT Champions Frankfurt 2025</title></programme>
+<programme start="20251106093000 +0000" stop="20251106113000 +0000" channel="SPOTV2.id"><title lang="id">ROSHN Saudi League 25/26 MW7</title></programme>
+<programme start="20251106113000 +0000" stop="20251106120000 +0000" channel="SPOTV2.id"><title lang="id">2025-2026 A-League Men</title></programme>
+<programme start="20251106120000 +0000" stop="20251106145500 +0000" channel="SPOTV2.id"><title lang="id">MLB 2025 World Series - Game 4</title></programme>
+<programme start="20251106145500 +0000" stop="20251106161500 +0000" channel="SPOTV2.id"><title lang="id">2025 FIA TCR World Tour Zhuzhou (CHN)</title></programme>
+<programme start="20251106161500 +0000" stop="20251106173000 +0000" channel="SPOTV2.id"><title lang="id">2025 FIA TCR World Tour Zhuzhou (CHN)</title></programme>
 <programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="SindoNewsTV.id"><title lang="id">iNews Sport</title></programme>
 <programme start="20251105173000 +0000" stop="20251105180000 +0000" channel="SindoNewsTV.id"><title lang="id">New Top Files</title></programme>
 <programme start="20251105180000 +0000" stop="20251105190000 +0000" channel="SindoNewsTV.id"><title lang="id">iNews Malam</title></programme>
@@ -1445,10 +1513,10 @@
 <programme start="20251106100000 +0000" stop="20251106112000 +0000" channel="NET.id"><title lang="id">MD Teledrama: Maria Cinta Yang Hilang</title></programme>
 <programme start="20251106112000 +0000" stop="20251106123000 +0000" channel="NET.id"><title lang="id">MD Teledrama: Maria Mercedes</title></programme>
 <programme start="20251106123000 +0000" stop="20251106132500 +0000" channel="NET.id"><title lang="id">MD Series: Ipar Adalah Maut The Series</title></programme>
-<programme start="20251106132500 +0000" stop="20251106141500 +0000" channel="NET.id"><title lang="id">MD Bollydrama : Janji Cinta (Sindoor Ki Keemat)</title></programme>
-<programme start="20251106141500 +0000" stop="20251106152000 +0000" channel="NET.id"><title lang="id">MD Drama: Terlanjur Indah</title></programme>
-<programme start="20251106152000 +0000" stop="20251106162500 +0000" channel="NET.id"><title lang="id">MD Cerita Nyata Malam</title></programme>
-<programme start="20251106162500 +0000" stop="20251106175000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
+<programme start="20251106132500 +0000" stop="20251106142500 +0000" channel="NET.id"><title lang="id">MD Drama: Terlanjur Indah</title></programme>
+<programme start="20251106142500 +0000" stop="20251106152000 +0000" channel="NET.id"><title lang="id">MD Bollydrama : Janji Cinta (Sindoor Ki Keemat)</title></programme>
+<programme start="20251106152000 +0000" stop="20251106163000 +0000" channel="NET.id"><title lang="id">MD Cerita Nyata Malam</title></programme>
+<programme start="20251106163000 +0000" stop="20251106174500 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
 <programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="NBATV.us"><title lang="id">Players Only: Splash Bros &amp; Bad Boys Part 1</title></programme>
 <programme start="20251105173000 +0000" stop="20251105180000 +0000" channel="NBATV.us"><title lang="id">Players Only: Splash Bros &amp; Bad Boys Part 2</title></programme>
 <programme start="20251105180000 +0000" stop="20251105200000 +0000" channel="NBATV.us"><title lang="id">2025 Playoff Playback: Thunder vs. Timberwolves Western Conference Finals Game 3</title></programme>
@@ -2563,18 +2631,18 @@
 <programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="France24.fr@English"><title lang="id">News</title></programme>
 <programme start="20251106163000 +0000" stop="20251106164500 +0000" channel="France24.fr@English"><title lang="id">News</title></programme>
 <programme start="20251106164500 +0000" stop="20251106170000 +0000" channel="France24.fr@English"><title lang="id">People &amp; Profit</title></programme>
-<programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="Flik.id"><title lang="id">Menumpas Teroris</title></programme>
-<programme start="20251105190000 +0000" stop="20251105210000 +0000" channel="Flik.id"><title lang="id">Psikopat</title></programme>
-<programme start="20251105210000 +0000" stop="20251105230000 +0000" channel="Flik.id"><title lang="id">Madame X</title></programme>
-<programme start="20251105230000 +0000" stop="20251106010000 +0000" channel="Flik.id"><title lang="id">Kambing Jantan</title></programme>
-<programme start="20251106010000 +0000" stop="20251106030000 +0000" channel="Flik.id"><title lang="id">Asmara di Balik Pintu</title></programme>
-<programme start="20251106030000 +0000" stop="20251106050000 +0000" channel="Flik.id"><title lang="id">Garuda Di Dadaku 2</title></programme>
-<programme start="20251106050000 +0000" stop="20251106070000 +0000" channel="Flik.id"><title lang="id">Garasi</title></programme>
-<programme start="20251106070000 +0000" stop="20251106090000 +0000" channel="Flik.id"><title lang="id">Noah Awal Semula</title></programme>
-<programme start="20251106090000 +0000" stop="20251106110000 +0000" channel="Flik.id"><title lang="id">Melodi</title></programme>
-<programme start="20251106110000 +0000" stop="20251106130000 +0000" channel="Flik.id"><title lang="id">Pendekar Ilmu Api</title></programme>
-<programme start="20251106130000 +0000" stop="20251106150000 +0000" channel="Flik.id"><title lang="id">Sorga Dunia di Pintu Neraka</title></programme>
-<programme start="20251106150000 +0000" stop="20251106170000 +0000" channel="Flik.id"><title lang="id">Catatan Si Boy 4</title></programme>
+<programme start="20251105170000 +0000" stop="20251105190000 +0000" channel="Flik.id"><title lang="id">Akibat Buah Terlarang</title></programme>
+<programme start="20251105190000 +0000" stop="20251105210000 +0000" channel="Flik.id"><title lang="id">Sepasang Mata Maut</title></programme>
+<programme start="20251105210000 +0000" stop="20251105230000 +0000" channel="Flik.id"><title lang="id">Malaikat Bayangan</title></programme>
+<programme start="20251105230000 +0000" stop="20251106010000 +0000" channel="Flik.id"><title lang="id">Romantika Galau Remaja di SMA</title></programme>
+<programme start="20251106010000 +0000" stop="20251106030000 +0000" channel="Flik.id"><title lang="id">Medley</title></programme>
+<programme start="20251106030000 +0000" stop="20251106050000 +0000" channel="Flik.id"><title lang="id">Mentari Dari Kurau</title></programme>
+<programme start="20251106050000 +0000" stop="20251106070000 +0000" channel="Flik.id"><title lang="id">Minggu Pagi Di Victoria Park</title></programme>
+<programme start="20251106070000 +0000" stop="20251106090000 +0000" channel="Flik.id"><title lang="id">Semburan Naga Seribu</title></programme>
+<programme start="20251106090000 +0000" stop="20251106110000 +0000" channel="Flik.id"><title lang="id">Love</title></programme>
+<programme start="20251106110000 +0000" stop="20251106130000 +0000" channel="Flik.id"><title lang="id">Keagungan Tuhan</title></programme>
+<programme start="20251106130000 +0000" stop="20251106150000 +0000" channel="Flik.id"><title lang="id">Catatan Si Boy 2</title></programme>
+<programme start="20251106150000 +0000" stop="20251106170000 +0000" channel="Flik.id"><title lang="id">Tirai Malam Pengantin</title></programme>
 <programme start="20251105170000 +0000" stop="20251105200000 +0000" channel="FightSports.us"><title lang="id">MEGA Fights - Sergio Gabriel Martinez vs. Serhiy Dzinziruk</title></programme>
 <programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="FightSports.us"><title lang="id">Knockouts! - Shane Mosley vs. Sergio Mora</title></programme>
 <programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="FightSports.us"><title lang="id">FS Grand Sumo - Osaka, Japan: Show 5</title></programme>
@@ -3588,7 +3656,7 @@
 <programme start="20251105223000 +0000" stop="20251105230000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
 <programme start="20251105230000 +0000" stop="20251105230300 +0000" channel="BTV.id"><title lang="id">Indonesia Raya</title></programme>
 <programme start="20251105230300 +0000" stop="20251106003000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20251106003000 +0000" stop="20251106011500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20251106003000 +0000" stop="20251106011500 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
 <programme start="20251106011500 +0000" stop="20251106014500 +0000" channel="BTV.id"><title lang="id">Kuyliner</title></programme>
 <programme start="20251106014500 +0000" stop="20251106023000 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
 <programme start="20251106023000 +0000" stop="20251106031500 +0000" channel="BTV.id"><title lang="id">Selera Rasa</title></programme>
@@ -3598,8 +3666,7 @@
 <programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="BTV.id"><title lang="id">Investor Daily Talk</title></programme>
 <programme start="20251106063000 +0000" stop="20251106080000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
 <programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="BTV.id"><title lang="id">Dikit - Dikit Damkar</title></programme>
-<programme start="20251106083000 +0000" stop="20251106091500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
-<programme start="20251106091500 +0000" stop="20251106093000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
+<programme start="20251106083000 +0000" stop="20251106093000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
 <programme start="20251106093000 +0000" stop="20251106103000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
 <programme start="20251106103000 +0000" stop="20251106123000 +0000" channel="BTV.id"><title lang="id">Berita Satu Utama</title></programme>
 <programme start="20251106123000 +0000" stop="20251106130000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
@@ -3907,166 +3974,94 @@
 <programme start="20251106153000 +0000" stop="20251106160000 +0000" channel="AntaraTV.id"><title lang="id">Warung KPK</title></programme>
 <programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="AntaraTV.id"><title lang="id">Podcast ANTARA</title></programme>
 <programme start="20251106163000 +0000" stop="20251106170000 +0000" channel="AntaraTV.id"><title lang="id">Hoaks atau Benar</title></programme>
-<programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.23</title></programme>
-<programme start="20251105173000 +0000" stop="20251105180000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.24</title></programme>
-<programme start="20251105180000 +0000" stop="20251105183000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.10</title></programme>
-<programme start="20251105183000 +0000" stop="20251105190000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.11</title></programme>
-<programme start="20251105190000 +0000" stop="20251105193000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.8</title></programme>
-<programme start="20251105193000 +0000" stop="20251105200000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.9</title></programme>
-<programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.4</title></programme>
-<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.5</title></programme>
-<programme start="20251105210000 +0000" stop="20251105213000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.4</title></programme>
-<programme start="20251105213000 +0000" stop="20251105220000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.5</title></programme>
-<programme start="20251105220000 +0000" stop="20251105223000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.21</title></programme>
-<programme start="20251105223000 +0000" stop="20251105230000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.22</title></programme>
-<programme start="20251105230000 +0000" stop="20251105233000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.23</title></programme>
-<programme start="20251105233000 +0000" stop="20251106000000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.24</title></programme>
-<programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.10</title></programme>
-<programme start="20251106003000 +0000" stop="20251106010000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.11</title></programme>
-<programme start="20251106010000 +0000" stop="20251106013000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.8</title></programme>
-<programme start="20251106013000 +0000" stop="20251106020000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.9</title></programme>
-<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.4</title></programme>
-<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.5</title></programme>
-<programme start="20251106030000 +0000" stop="20251106033000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.4</title></programme>
-<programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.5</title></programme>
-<programme start="20251106040000 +0000" stop="20251106043000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.21</title></programme>
-<programme start="20251106043000 +0000" stop="20251106050000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.22</title></programme>
-<programme start="20251106050000 +0000" stop="20251106053000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.23</title></programme>
-<programme start="20251106053000 +0000" stop="20251106060000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.24</title></programme>
-<programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.10</title></programme>
-<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="AniplusAsia.sg"><title lang="id">The Misfit Of Demon King Academy: History&apos;s Strongest Demon King Reincarnates - Eps.11</title></programme>
-<programme start="20251106070000 +0000" stop="20251106073000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.8</title></programme>
-<programme start="20251106073000 +0000" stop="20251106080000 +0000" channel="AniplusAsia.sg"><title lang="id">Puella Magi Madoka Magica Side Story [Magia Record] - Eps.9</title></programme>
-<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.4</title></programme>
-<programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="AniplusAsia.sg"><title lang="id">Blue Orchestra Season 2 - Eps.5</title></programme>
-<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.4</title></programme>
-<programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="AniplusAsia.sg"><title lang="id">Touring After The Apocalypse - Eps.5</title></programme>
-<programme start="20251106100000 +0000" stop="20251106103000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.21</title></programme>
-<programme start="20251106103000 +0000" stop="20251106110000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.22</title></programme>
-<programme start="20251106110000 +0000" stop="20251106113000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.23</title></programme>
-<programme start="20251106113000 +0000" stop="20251106120000 +0000" channel="AniplusAsia.sg"><title lang="id">The Ancient Magus&apos; Bride - Eps.24</title></programme>
-<programme start="20251106120000 +0000" stop="20251106123000 +0000" channel="AniplusAsia.sg"><title lang="id">The Many Sides Of Voice Actor Radio - Eps.11</title></programme>
-<programme start="20251106123000 +0000" stop="20251106130000 +0000" channel="AniplusAsia.sg"><title lang="id">The Many Sides Of Voice Actor Radio - Eps.12</title></programme>
-<programme start="20251106130000 +0000" stop="20251106133000 +0000" channel="AniplusAsia.sg"><title lang="id">The Idolm@Ster Shinycolors - Eps.11</title></programme>
-<programme start="20251106133000 +0000" stop="20251106140000 +0000" channel="AniplusAsia.sg"><title lang="id">The Idolm@Ster Shinycolors - Eps.12</title></programme>
-<programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="AniplusAsia.sg"><title lang="id">Li’L Miss Vampire Can’T Suck Right - Eps.3</title></programme>
-<programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="AniplusAsia.sg"><title lang="id">Li’L Miss Vampire Can’T Suck Right - Eps.4</title></programme>
-<programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="AniplusAsia.sg"><title lang="id">Pandorahearts - Eps.10</title></programme>
-<programme start="20251106153000 +0000" stop="20251106160000 +0000" channel="AniplusAsia.sg"><title lang="id">Pandorahearts - Eps.11</title></programme>
-<programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="AniplusAsia.sg"><title lang="id">The Case Study Of Vanitas - Eps.11</title></programme>
-<programme start="20251106163000 +0000" stop="20251106170000 +0000" channel="AniplusAsia.sg"><title lang="id">The Case Study Of Vanitas - Eps.12</title></programme>
-<programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.2</title></programme>
-<programme start="20251105173000 +0000" stop="20251105180000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.3</title></programme>
-<programme start="20251105180000 +0000" stop="20251105183000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
-<programme start="20251105183000 +0000" stop="20251105190000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
-<programme start="20251105190000 +0000" stop="20251105193000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.4</title></programme>
-<programme start="20251105193000 +0000" stop="20251105200000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.5</title></programme>
-<programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.10</title></programme>
-<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.11</title></programme>
-<programme start="20251105210000 +0000" stop="20251105213000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.2</title></programme>
-<programme start="20251105213000 +0000" stop="20251105220000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.3</title></programme>
-<programme start="20251105220000 +0000" stop="20251105223000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
-<programme start="20251105223000 +0000" stop="20251105230000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
-<programme start="20251105230000 +0000" stop="20251105233000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.10</title></programme>
-<programme start="20251105233000 +0000" stop="20251106000000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.11</title></programme>
-<programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.4</title></programme>
-<programme start="20251106003000 +0000" stop="20251106010000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.5</title></programme>
-<programme start="20251106010000 +0000" stop="20251106013000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
-<programme start="20251106013000 +0000" stop="20251106020000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
-<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.18</title></programme>
-<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.19</title></programme>
-<programme start="20251106030000 +0000" stop="20251106033000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.10</title></programme>
-<programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.11</title></programme>
-<programme start="20251106040000 +0000" stop="20251106043000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.4</title></programme>
-<programme start="20251106043000 +0000" stop="20251106050000 +0000" channel="AnimaxAsia.sg"><title lang="id">Witch Watch - Eps.5</title></programme>
-<programme start="20251106050000 +0000" stop="20251106053000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
-<programme start="20251106053000 +0000" stop="20251106060000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
-<programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.18</title></programme>
-<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.19</title></programme>
-<programme start="20251106070000 +0000" stop="20251106073000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.10</title></programme>
-<programme start="20251106073000 +0000" stop="20251106080000 +0000" channel="AnimaxAsia.sg"><title lang="id">I&apos;Ll Become A Villainess Who Goes Down In History - Eps.11</title></programme>
-<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.57</title></programme>
-<programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
-<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.18</title></programme>
-<programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="AnimaxAsia.sg"><title lang="id">Kuroko&apos;s Basketball 3Rd Season - Eps.19</title></programme>
-<programme start="20251106100000 +0000" stop="20251106103000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.58</title></programme>
-<programme start="20251106103000 +0000" stop="20251106110000 +0000" channel="AnimaxAsia.sg"><title lang="id">D.Gray-Man - Eps.59</title></programme>
-<programme start="20251106110000 +0000" stop="20251106113000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.9</title></programme>
-<programme start="20251106113000 +0000" stop="20251106120000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.10</title></programme>
-<programme start="20251106120000 +0000" stop="20251106123000 +0000" channel="AnimaxAsia.sg"><title lang="id">Fruits Basket The Final Season - Eps.5</title></programme>
-<programme start="20251106123000 +0000" stop="20251106130000 +0000" channel="AnimaxAsia.sg"><title lang="id">Fruits Basket The Final Season - Eps.6</title></programme>
-<programme start="20251106130000 +0000" stop="20251106133000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.9</title></programme>
-<programme start="20251106133000 +0000" stop="20251106140000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.10</title></programme>
-<programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.3</title></programme>
-<programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="AnimaxAsia.sg"><title lang="id">Konosuba -God&apos;s Blessing On This Wonderful World! 2 - Eps.4</title></programme>
-<programme start="20251106150000 +0000" stop="20251106153000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.9</title></programme>
-<programme start="20251106153000 +0000" stop="20251106160000 +0000" channel="AnimaxAsia.sg"><title lang="id">Reincarnated As A Sword - Eps.10</title></programme>
-<programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="AnimaxAsia.sg"><title lang="id">Fruits Basket The Final Season - Eps.5</title></programme>
-<programme start="20251106163000 +0000" stop="20251106170000 +0000" channel="AnimaxAsia.sg"><title lang="id">Fruits Basket The Final Season - Eps.6</title></programme>
-<programme start="20251105174500 +0000" stop="20251105184000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Africa&apos;s Hunters Of The Night</title></programme>
-<programme start="20251105184000 +0000" stop="20251105193500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Life At The Limits S1 - Eps. 3</title></programme>
-<programme start="20251105193500 +0000" stop="20251105203000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Vet Life S2 - Eps. 9</title></programme>
-<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Coyote Peterson: Brave The Wild S1 - Eps. 5</title></programme>
-<programme start="20251105210000 +0000" stop="20251105220000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Saved By The Barn S1 - Eps. 11</title></programme>
-<programme start="20251105220000 +0000" stop="20251105230000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Zoo S3 - Eps. 5</title></programme>
-<programme start="20251105230000 +0000" stop="20251105235500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Snake Catcher S1 - Eps. 8</title></programme>
-<programme start="20251105235500 +0000" stop="20251106005000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Life At The Limits S1 - Eps. 3</title></programme>
-<programme start="20251106005000 +0000" stop="20251106014500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">My Cat From Hell S9 - Eps. 5</title></programme>
-<programme start="20251106014500 +0000" stop="20251106024000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Africa&apos;s Hunters Of The Night</title></programme>
-<programme start="20251106024000 +0000" stop="20251106033500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Vet Life S2 - Eps. 9</title></programme>
-<programme start="20251106033500 +0000" stop="20251106043000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Snake Catcher S1 - Eps. 9</title></programme>
-<programme start="20251106043000 +0000" stop="20251106052500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Just Animals S3 - Eps. 1</title></programme>
-<programme start="20251106052500 +0000" stop="20251106062000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Dr. Jeff: Rocky Mountain Vet S6 - Eps. 8</title></programme>
-<programme start="20251106062000 +0000" stop="20251106071500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Mysterious Creatures With Forrest Galante S1 - Eps. 5</title></programme>
-<programme start="20251106071500 +0000" stop="20251106081000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Zoo S2 - Eps. 9</title></programme>
-<programme start="20251106081000 +0000" stop="20251106090500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Wild Assassins S2 - Eps. 6</title></programme>
-<programme start="20251106090500 +0000" stop="20251106100000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Snake Catcher S1 - Eps. 9</title></programme>
-<programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Just Animals S3 - Eps. 1</title></programme>
-<programme start="20251106110000 +0000" stop="20251106120000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Dr. Jeff: Rocky Mountain Vet S6 - Eps. 8</title></programme>
-<programme start="20251106120000 +0000" stop="20251106130000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Mysterious Creatures With Forrest Galante S1 - Eps. 6</title></programme>
-<programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Wild Assassins S2 - Eps. 6</title></programme>
-<programme start="20251106140000 +0000" stop="20251106150000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Zoo S2 - Eps. 10</title></programme>
-<programme start="20251106150000 +0000" stop="20251106155500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Wild Australia S1 - Eps. 1</title></programme>
-<programme start="20251106155500 +0000" stop="20251106165000 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">Dr. Jeff: Rocky Mountain Vet S6 - Eps. 8</title></programme>
-<programme start="20251106165000 +0000" stop="20251106174500 +0000" channel="AnimalPlanetSoutheastAsia.sg"><title lang="id">The Snake Catcher S1 - Eps. 9</title></programme>
-<programme start="20251105170000 +0000" stop="20251105173000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251105173000 +0000" stop="20251105180000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
-<programme start="20251105180000 +0000" stop="20251105190000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
-<programme start="20251105190000 +0000" stop="20251105193000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251105193000 +0000" stop="20251105200000 +0000" channel="AlJazeera.qa"><title lang="id">earthrise: Systems Change</title></programme>
-<programme start="20251105200000 +0000" stop="20251105203000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251105203000 +0000" stop="20251105210000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
-<programme start="20251105210000 +0000" stop="20251105220000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
-<programme start="20251105220000 +0000" stop="20251105223000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251105223000 +0000" stop="20251105230000 +0000" channel="AlJazeera.qa"><title lang="id">Fault Lines</title></programme>
-<programme start="20251105230000 +0000" stop="20251105233000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251105233000 +0000" stop="20251106000000 +0000" channel="AlJazeera.qa"><title lang="id">Apocalypse Maybe</title></programme>
-<programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106003000 +0000" stop="20251106010000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
-<programme start="20251106010000 +0000" stop="20251106020000 +0000" channel="AlJazeera.qa"><title lang="id">Al Jazeera World</title></programme>
-<programme start="20251106020000 +0000" stop="20251106023000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106023000 +0000" stop="20251106030000 +0000" channel="AlJazeera.qa"><title lang="id">The Stream</title></programme>
-<programme start="20251106030000 +0000" stop="20251106033000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106033000 +0000" stop="20251106040000 +0000" channel="AlJazeera.qa"><title lang="id">Risking it All</title></programme>
-<programme start="20251106040000 +0000" stop="20251106043000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106043000 +0000" stop="20251106050000 +0000" channel="AlJazeera.qa"><title lang="id">The Big Picture</title></programme>
-<programme start="20251106050000 +0000" stop="20251106053000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106053000 +0000" stop="20251106060000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
-<programme start="20251106060000 +0000" stop="20251106063000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106063000 +0000" stop="20251106070000 +0000" channel="AlJazeera.qa"><title lang="id">Apocalypse Maybe</title></programme>
-<programme start="20251106070000 +0000" stop="20251106080000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
-<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106083000 +0000" stop="20251106090000 +0000" channel="AlJazeera.qa"><title lang="id">Fault Lines</title></programme>
-<programme start="20251106090000 +0000" stop="20251106093000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106093000 +0000" stop="20251106100000 +0000" channel="AlJazeera.qa"><title lang="id">The Bottom Line</title></programme>
-<programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
-<programme start="20251106110000 +0000" stop="20251106113000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106113000 +0000" stop="20251106120000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story</title></programme>
-<programme start="20251106120000 +0000" stop="20251106130000 +0000" channel="AlJazeera.qa"><title lang="id">Silenced: The War On Journalism</title></programme>
-<programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
-<programme start="20251106140000 +0000" stop="20251106143000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106143000 +0000" stop="20251106150000 +0000" channel="AlJazeera.qa"><title lang="id">The Listening Post</title></programme>
-<programme start="20251106150000 +0000" stop="20251106160000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
-<programme start="20251106160000 +0000" stop="20251106163000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
-<programme start="20251106163000 +0000" stop="20251106170000 +0000" channel="AlJazeera.qa"><title lang="id">Witness</title></programme>
+<programme start="20251105193000 +0000" stop="20251105223000 +0000" channel="ZeeBioskop.id"><title lang="id">Manmarziyaan</title></programme>
+<programme start="20251105223000 +0000" stop="20251106013000 +0000" channel="ZeeBioskop.id"><title lang="id">Hello Charlie</title></programme>
+<programme start="20251106013000 +0000" stop="20251106020000 +0000" channel="ZeeBioskop.id"><title lang="id">Song Fillers</title></programme>
+<programme start="20251106020000 +0000" stop="20251106030000 +0000" channel="ZeeBioskop.id"><title lang="id">Zindagi Ki Mehek S1</title></programme>
+<programme start="20251106030000 +0000" stop="20251106040000 +0000" channel="ZeeBioskop.id"><title lang="id">Doosari Maa Rerun</title></programme>
+<programme start="20251106040000 +0000" stop="20251106050000 +0000" channel="ZeeBioskop.id"><title lang="id">Mazhi Tuzhi Reshimgaath S1</title></programme>
+<programme start="20251106050000 +0000" stop="20251106080000 +0000" channel="ZeeBioskop.id"><title lang="id">Manmarziyaan</title></programme>
+<programme start="20251106080000 +0000" stop="20251106090000 +0000" channel="ZeeBioskop.id"><title lang="id">Zindagi Ki Mehek S1</title></programme>
+<programme start="20251106090000 +0000" stop="20251106100000 +0000" channel="ZeeBioskop.id"><title lang="id">Doosari Maa</title></programme>
+<programme start="20251106100000 +0000" stop="20251106110000 +0000" channel="ZeeBioskop.id"><title lang="id">Mazhi Tuzhi Reshimgaath S1</title></programme>
+<programme start="20251106110000 +0000" stop="20251106133000 +0000" channel="ZeeBioskop.id"><title lang="id">Love U Mr Kalakaar</title></programme>
+<programme start="20251106133000 +0000" stop="20251106163000 +0000" channel="ZeeBioskop.id"><title lang="id">Ghayal Once Again</title></programme>
+<programme start="20251106163000 +0000" stop="20251106193000 +0000" channel="ZeeBioskop.id"><title lang="id">Akaash Vani</title></programme>
+<programme start="20251105171000 +0000" stop="20251105174000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 4</title></programme>
+<programme start="20251105174000 +0000" stop="20251105182000 +0000" channel="WarnerTVAsia.us"><title lang="id">World&apos;s Dumbest S16 - Eps. 2</title></programme>
+<programme start="20251105182000 +0000" stop="20251105190500 +0000" channel="WarnerTVAsia.us"><title lang="id">Smallville S1 - Eps. 18</title></programme>
+<programme start="20251105190500 +0000" stop="20251105192500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 3</title></programme>
+<programme start="20251105192500 +0000" stop="20251105195000 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 4</title></programme>
+<programme start="20251105195000 +0000" stop="20251105201000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 08</title></programme>
+<programme start="20251105201000 +0000" stop="20251105203500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 09</title></programme>
+<programme start="20251105203500 +0000" stop="20251105211500 +0000" channel="WarnerTVAsia.us"><title lang="id">World&apos;s Dumbest S16 - Eps. 2</title></programme>
+<programme start="20251105211500 +0000" stop="20251105214000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 4</title></programme>
+<programme start="20251105214000 +0000" stop="20251105220000 +0000" channel="WarnerTVAsia.us"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 4</title></programme>
+<programme start="20251105220000 +0000" stop="20251105222500 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 17</title></programme>
+<programme start="20251105222500 +0000" stop="20251105225000 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 18</title></programme>
+<programme start="20251105225000 +0000" stop="20251105234000 +0000" channel="WarnerTVAsia.us"><title lang="id">World&apos;s Dumbest S16 - Eps. 3</title></programme>
+<programme start="20251105234000 +0000" stop="20251106003000 +0000" channel="WarnerTVAsia.us"><title lang="id">Smallville S1 - Eps. 19</title></programme>
+<programme start="20251106003000 +0000" stop="20251106005500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 5</title></programme>
+<programme start="20251106005500 +0000" stop="20251106012000 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 6</title></programme>
+<programme start="20251106012000 +0000" stop="20251106014500 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 17</title></programme>
+<programme start="20251106014500 +0000" stop="20251106021000 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 18</title></programme>
+<programme start="20251106021000 +0000" stop="20251106023500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 10</title></programme>
+<programme start="20251106023500 +0000" stop="20251106030000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 11</title></programme>
+<programme start="20251106030000 +0000" stop="20251106032500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 5</title></programme>
+<programme start="20251106032500 +0000" stop="20251106035000 +0000" channel="WarnerTVAsia.us"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 5</title></programme>
+<programme start="20251106035000 +0000" stop="20251106044000 +0000" channel="WarnerTVAsia.us"><title lang="id">Smallville S1 - Eps. 19</title></programme>
+<programme start="20251106044000 +0000" stop="20251106050500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 5</title></programme>
+<programme start="20251106050500 +0000" stop="20251106053000 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 6</title></programme>
+<programme start="20251106053000 +0000" stop="20251106055500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Big Bang Theory S5 - Eps. 14</title></programme>
+<programme start="20251106055500 +0000" stop="20251106062000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S6 - Eps. 9</title></programme>
+<programme start="20251106062000 +0000" stop="20251106072000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 15</title></programme>
+<programme start="20251106072000 +0000" stop="20251106074000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 10</title></programme>
+<programme start="20251106074000 +0000" stop="20251106080000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S3 - Eps. 11</title></programme>
+<programme start="20251106080000 +0000" stop="20251106082500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Big Bang Theory S5 - Eps. 14</title></programme>
+<programme start="20251106082500 +0000" stop="20251106085000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S6 - Eps. 9</title></programme>
+<programme start="20251106085000 +0000" stop="20251106091500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 5</title></programme>
+<programme start="20251106091500 +0000" stop="20251106094000 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S1 - Eps. 6</title></programme>
+<programme start="20251106094000 +0000" stop="20251106103000 +0000" channel="WarnerTVAsia.us"><title lang="id">Smallville S1 - Eps. 19</title></programme>
+<programme start="20251106103000 +0000" stop="20251106105500 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 17</title></programme>
+<programme start="20251106105500 +0000" stop="20251106112000 +0000" channel="WarnerTVAsia.us"><title lang="id">Hack My Life S3 - Eps. 18</title></programme>
+<programme start="20251106112000 +0000" stop="20251106114500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Big Bang Theory S5 - Eps. 14</title></programme>
+<programme start="20251106114500 +0000" stop="20251106121000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S6 - Eps. 9</title></programme>
+<programme start="20251106121000 +0000" stop="20251106123500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 5</title></programme>
+<programme start="20251106123500 +0000" stop="20251106130000 +0000" channel="WarnerTVAsia.us"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 5</title></programme>
+<programme start="20251106130000 +0000" stop="20251106140000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 16</title></programme>
+<programme start="20251106140000 +0000" stop="20251106161000 +0000" channel="WarnerTVAsia.us"><title lang="id">Body Of Lies</title></programme>
+<programme start="20251106161000 +0000" stop="20251106171000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 16</title></programme>
+<programme start="20251105171500 +0000" stop="20251105173500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Prime Time</title></programme>
+<programme start="20251105173500 +0000" stop="20251105175000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Overseas Chinese</title></programme>
+<programme start="20251105175000 +0000" stop="20251105183500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 36</title></programme>
+<programme start="20251105183500 +0000" stop="20251105192500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 34</title></programme>
+<programme start="20251105192500 +0000" stop="20251105201000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">The Disappering Child - Eps. 1</title></programme>
+<programme start="20251105201000 +0000" stop="20251105214000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Shijiu Zhongguoxin</title></programme>
+<programme start="20251105214000 +0000" stop="20251105222500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 16</title></programme>
+<programme start="20251105222500 +0000" stop="20251105231500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 17</title></programme>
+<programme start="20251105231500 +0000" stop="20251106000000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 18</title></programme>
+<programme start="20251106000000 +0000" stop="20251106003000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Cartoon</title></programme>
+<programme start="20251106003000 +0000" stop="20251106011500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Chinese doctor says</title></programme>
+<programme start="20251106011500 +0000" stop="20251106013500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Prime Time</title></programme>
+<programme start="20251106013500 +0000" stop="20251106015000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Overseas Chinese</title></programme>
+<programme start="20251106015000 +0000" stop="20251106023500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 36</title></programme>
+<programme start="20251106023500 +0000" stop="20251106032500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 34</title></programme>
+<programme start="20251106032500 +0000" stop="20251106041000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">The Disappering Child - Eps. 1</title></programme>
+<programme start="20251106041000 +0000" stop="20251106054000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Shijiu Zhongguoxin</title></programme>
+<programme start="20251106054000 +0000" stop="20251106062500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 16</title></programme>
+<programme start="20251106062500 +0000" stop="20251106071500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 17</title></programme>
+<programme start="20251106071500 +0000" stop="20251106080000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 18</title></programme>
+<programme start="20251106080000 +0000" stop="20251106083000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Cartoon</title></programme>
+<programme start="20251106083000 +0000" stop="20251106091500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Chinese doctor says</title></programme>
+<programme start="20251106091500 +0000" stop="20251106093500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Prime Time</title></programme>
+<programme start="20251106093500 +0000" stop="20251106095000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Overseas Chinese</title></programme>
+<programme start="20251106095000 +0000" stop="20251106103500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 36</title></programme>
+<programme start="20251106103500 +0000" stop="20251106112500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Born to be the One - Eps. 34</title></programme>
+<programme start="20251106112500 +0000" stop="20251106121000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">The Disappering Child - Eps. 1</title></programme>
+<programme start="20251106121000 +0000" stop="20251106134000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Shijiu Zhongguoxin</title></programme>
+<programme start="20251106134000 +0000" stop="20251106142500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 16</title></programme>
+<programme start="20251106142500 +0000" stop="20251106151500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 17</title></programme>
+<programme start="20251106151500 +0000" stop="20251106160000 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Always on the Move - Eps. 18</title></programme>
+<programme start="20251106160000 +0000" stop="20251106162500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Cartoon</title></programme>
+<programme start="20251106162500 +0000" stop="20251106171500 +0000" channel="ZhejiangSatelliteTV.cn"><title lang="id">Amazing Zhejiang</title></programme>
 </tv>
