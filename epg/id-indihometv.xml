@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251119">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
-<channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="UseePrime.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.imgur.com/DqizBAD.png"/><url>https://indihometv.com</url></channel>
 <channel id="UChannel.id@SD"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
 <channel id="tvri"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
@@ -126,9 +126,9 @@
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
+<channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251118172000 +0000" stop="20251118173000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Gardening Australia - My Garden Path - Brenton See</title></programme>
 <programme start="20251118173000 +0000" stop="20251118180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">First Generation - Episode 1</title></programme>
 <programme start="20251118180000 +0000" stop="20251118190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 182</title></programme>
@@ -165,93 +165,142 @@
 <programme start="20251119153000 +0000" stop="20251119160000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Stuff The British Stole - Jewel Of Denial</title></programme>
 <programme start="20251119160000 +0000" stop="20251119162500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Creative Types With Virginia Trioli - Trent Dalton</title></programme>
 <programme start="20251119162500 +0000" stop="20251119171500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Annabel Crabb&apos;s Civic Duty - Disruption</title></programme>
-<programme start="20251118171500 +0000" stop="20251118174000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
-<programme start="20251118174000 +0000" stop="20251118180000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251118180000 +0000" stop="20251118220000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Equipment Maintenance</title></programme>
-<programme start="20251118220000 +0000" stop="20251118222500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Zhejiang Explorer</title></programme>
-<programme start="20251118222500 +0000" stop="20251118231000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 1</title></programme>
-<programme start="20251118231000 +0000" stop="20251119000000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 2</title></programme>
-<programme start="20251119000000 +0000" stop="20251119002500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
-<programme start="20251119002500 +0000" stop="20251119011500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Amazing Zhejiang</title></programme>
-<programme start="20251119011500 +0000" stop="20251119014000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
-<programme start="20251119014000 +0000" stop="20251119015000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251119015000 +0000" stop="20251119024000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 2</title></programme>
-<programme start="20251119024000 +0000" stop="20251119033000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 3</title></programme>
-<programme start="20251119033000 +0000" stop="20251119041000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 4</title></programme>
-<programme start="20251119041000 +0000" stop="20251119054000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Trump Card vs Trump Card - S9</title></programme>
-<programme start="20251119054000 +0000" stop="20251119063000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 1</title></programme>
-<programme start="20251119063000 +0000" stop="20251119071500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 2</title></programme>
-<programme start="20251119071500 +0000" stop="20251119080000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 3</title></programme>
-<programme start="20251119080000 +0000" stop="20251119082500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
-<programme start="20251119082500 +0000" stop="20251119091500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Amazing Zhejiang</title></programme>
-<programme start="20251119091500 +0000" stop="20251119094000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
-<programme start="20251119094000 +0000" stop="20251119095000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251119095000 +0000" stop="20251119104000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 2</title></programme>
-<programme start="20251119104000 +0000" stop="20251119113000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 3</title></programme>
-<programme start="20251119113000 +0000" stop="20251119121000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 4</title></programme>
-<programme start="20251119121000 +0000" stop="20251119134000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Trump Card vs Trump Card - S9</title></programme>
-<programme start="20251119134000 +0000" stop="20251119143000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 1</title></programme>
-<programme start="20251119143000 +0000" stop="20251119151500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 2</title></programme>
-<programme start="20251119151500 +0000" stop="20251119160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 3</title></programme>
-<programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
-<programme start="20251119163000 +0000" stop="20251119171500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Chinese Doctor Says</title></programme>
-<programme start="20251118193000 +0000" stop="20251118223000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Tamanchey-Pyar mein dil pe maar di goli</title></programme>
-<programme start="20251118223000 +0000" stop="20251119013000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">A Flying Jatt</title></programme>
-<programme start="20251119013000 +0000" stop="20251119020000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Song Fillers</title></programme>
-<programme start="20251119020000 +0000" stop="20251119030000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Zindagi Ki Mehek S1</title></programme>
-<programme start="20251119030000 +0000" stop="20251119040000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Doosari Maa Rerun</title></programme>
-<programme start="20251119040000 +0000" stop="20251119050000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Mazhi Tuzhi Reshimgaath S1</title></programme>
-<programme start="20251119050000 +0000" stop="20251119080000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Tamanchey-Pyar mein dil pe maar di goli</title></programme>
-<programme start="20251119080000 +0000" stop="20251119090000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Zindagi Ki Mehek S1</title></programme>
-<programme start="20251119090000 +0000" stop="20251119100000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Doosari Maa</title></programme>
-<programme start="20251119100000 +0000" stop="20251119110000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Mazhi Tuzhi Reshimgaath S1</title></programme>
-<programme start="20251119110000 +0000" stop="20251119133000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Phata Poster Nikla Hero</title></programme>
-<programme start="20251119133000 +0000" stop="20251119163000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Welcome 2 Karachi</title></programme>
-<programme start="20251119163000 +0000" stop="20251119193000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Paltan</title></programme>
-<programme start="20251118170000 +0000" stop="20251118172000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 1</title></programme>
-<programme start="20251118172000 +0000" stop="20251118174500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 2</title></programme>
-<programme start="20251118174500 +0000" stop="20251118182500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">World&apos;s Dumbest S16 - Eps. 3</title></programme>
-<programme start="20251118182500 +0000" stop="20251118191000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Dodgeball Thunderdome S1 - Eps. 6</title></programme>
-<programme start="20251118191000 +0000" stop="20251118193500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 10</title></programme>
-<programme start="20251118193500 +0000" stop="20251118200000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 11</title></programme>
-<programme start="20251118200000 +0000" stop="20251118202500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S4 - Eps. 25</title></programme>
-<programme start="20251118202500 +0000" stop="20251118211000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">World&apos;s Dumbest S16 - Eps. 3</title></programme>
-<programme start="20251118211000 +0000" stop="20251118213500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 13</title></programme>
-<programme start="20251118213500 +0000" stop="20251118220000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 13</title></programme>
-<programme start="20251118220000 +0000" stop="20251118222500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 3</title></programme>
-<programme start="20251118222500 +0000" stop="20251118225000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 4</title></programme>
-<programme start="20251118225000 +0000" stop="20251118234000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">World&apos;s Dumbest S16 - Eps. 4</title></programme>
-<programme start="20251118234000 +0000" stop="20251119003000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Dodgeball Thunderdome S1 - Eps. 7</title></programme>
-<programme start="20251119003000 +0000" stop="20251119005500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 12</title></programme>
-<programme start="20251119005500 +0000" stop="20251119012000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 13</title></programme>
-<programme start="20251119012000 +0000" stop="20251119014500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 3</title></programme>
-<programme start="20251119014500 +0000" stop="20251119021000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 4</title></programme>
-<programme start="20251119021000 +0000" stop="20251119023500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S5 - Eps. 01</title></programme>
-<programme start="20251119023500 +0000" stop="20251119030000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S5 - Eps. 02</title></programme>
-<programme start="20251119030000 +0000" stop="20251119032500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 14</title></programme>
-<programme start="20251119032500 +0000" stop="20251119035000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 14</title></programme>
-<programme start="20251119035000 +0000" stop="20251119044000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Dodgeball Thunderdome S1 - Eps. 7</title></programme>
-<programme start="20251119044000 +0000" stop="20251119050500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 12</title></programme>
-<programme start="20251119050500 +0000" stop="20251119053000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 13</title></programme>
-<programme start="20251119053000 +0000" stop="20251119055500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Big Bang Theory S5 - Eps. 23</title></programme>
-<programme start="20251119055500 +0000" stop="20251119062000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Friends S6 - Eps. 18</title></programme>
-<programme start="20251119062000 +0000" stop="20251119071000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Er S1 - Eps. 24</title></programme>
-<programme start="20251119071000 +0000" stop="20251119073500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S5 - Eps. 01</title></programme>
-<programme start="20251119073500 +0000" stop="20251119080000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S5 - Eps. 02</title></programme>
-<programme start="20251119080000 +0000" stop="20251119082500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Big Bang Theory S5 - Eps. 23</title></programme>
-<programme start="20251119082500 +0000" stop="20251119085000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Friends S6 - Eps. 18</title></programme>
-<programme start="20251119085000 +0000" stop="20251119091500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 12</title></programme>
-<programme start="20251119091500 +0000" stop="20251119094000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 13</title></programme>
-<programme start="20251119094000 +0000" stop="20251119103000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Dodgeball Thunderdome S1 - Eps. 7</title></programme>
-<programme start="20251119103000 +0000" stop="20251119105500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 3</title></programme>
-<programme start="20251119105500 +0000" stop="20251119112000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 4</title></programme>
-<programme start="20251119112000 +0000" stop="20251119114500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Big Bang Theory S5 - Eps. 23</title></programme>
-<programme start="20251119114500 +0000" stop="20251119121000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Friends S6 - Eps. 18</title></programme>
-<programme start="20251119121000 +0000" stop="20251119123500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 14</title></programme>
-<programme start="20251119123500 +0000" stop="20251119130000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 14</title></programme>
-<programme start="20251119130000 +0000" stop="20251119140000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Mentalist S5 - Eps. 19</title></programme>
-<programme start="20251119140000 +0000" stop="20251119162000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Island</title></programme>
-<programme start="20251119162000 +0000" stop="20251119172000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Mentalist S5 - Eps. 19</title></programme>
+<programme start="20251118172000 +0000" stop="20251118175000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Tales S1 - Eps.4</title></programme>
+<programme start="20251118175000 +0000" stop="20251118181500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.3</title></programme>
+<programme start="20251118181500 +0000" stop="20251118184500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.4</title></programme>
+<programme start="20251118184500 +0000" stop="20251118191000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.5</title></programme>
+<programme start="20251118191000 +0000" stop="20251118194000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.6</title></programme>
+<programme start="20251118194000 +0000" stop="20251118200500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Spice Whisperer S1 - Eps.1</title></programme>
+<programme start="20251118200500 +0000" stop="20251118203500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Spice Whisperer S1 - Eps.2</title></programme>
+<programme start="20251118203500 +0000" stop="20251118210000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.3</title></programme>
+<programme start="20251118210000 +0000" stop="20251118213000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.4</title></programme>
+<programme start="20251118213000 +0000" stop="20251118220000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.6</title></programme>
+<programme start="20251118220000 +0000" stop="20251118222500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Rachel Khoo&apos;s Simple Pleasures S1 - Eps.1</title></programme>
+<programme start="20251118222500 +0000" stop="20251118225000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Rachel Khoo&apos;s Simple Pleasures S1 - Eps.2</title></programme>
+<programme start="20251118225000 +0000" stop="20251118231500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.3</title></programme>
+<programme start="20251118231500 +0000" stop="20251118234500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.4</title></programme>
+<programme start="20251118234500 +0000" stop="20251119004000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Makan On Wheels S1 - Eps.8</title></programme>
+<programme start="20251119004000 +0000" stop="20251119010500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Psychology S1 - Eps.11</title></programme>
+<programme start="20251119010500 +0000" stop="20251119013500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Psychology S1 - Eps.12</title></programme>
+<programme start="20251119013500 +0000" stop="20251119020000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Everyday Gourmet S11 - Eps.66</title></programme>
+<programme start="20251119020000 +0000" stop="20251119023000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Everyday Gourmet S11 - Eps.67</title></programme>
+<programme start="20251119023000 +0000" stop="20251119025500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Marion Grasby&apos;s Flavours Of Heart And Home S1 - Eps.3</title></programme>
+<programme start="20251119025500 +0000" stop="20251119032500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Marion Grasby&apos;s Flavours Of Heart And Home S1 - Eps.4</title></programme>
+<programme start="20251119032500 +0000" stop="20251119035000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.5</title></programme>
+<programme start="20251119035000 +0000" stop="20251119042000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.6</title></programme>
+<programme start="20251119042000 +0000" stop="20251119044500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.3</title></programme>
+<programme start="20251119044500 +0000" stop="20251119051500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.4</title></programme>
+<programme start="20251119051500 +0000" stop="20251119061000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Hidden Gems S1 - Eps.4</title></programme>
+<programme start="20251119061000 +0000" stop="20251119063500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.3</title></programme>
+<programme start="20251119063500 +0000" stop="20251119070500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.4</title></programme>
+<programme start="20251119070500 +0000" stop="20251119073000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Psychology S1 - Eps.11</title></programme>
+<programme start="20251119073000 +0000" stop="20251119080000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Psychology S1 - Eps.12</title></programme>
+<programme start="20251119080000 +0000" stop="20251119083000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Everyday Gourmet S11 - Eps.68</title></programme>
+<programme start="20251119083000 +0000" stop="20251119090000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Everyday Gourmet S11 - Eps.69</title></programme>
+<programme start="20251119090000 +0000" stop="20251119093000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Tales S1 - Eps.3</title></programme>
+<programme start="20251119093000 +0000" stop="20251119100000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Tales S1 - Eps.4</title></programme>
+<programme start="20251119100000 +0000" stop="20251119103000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Rachel Khoo&apos;s Simple Pleasures S1 - Eps.1</title></programme>
+<programme start="20251119103000 +0000" stop="20251119110000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Rachel Khoo&apos;s Simple Pleasures S1 - Eps.2</title></programme>
+<programme start="20251119110000 +0000" stop="20251119113000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.5</title></programme>
+<programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.6</title></programme>
+<programme start="20251119120000 +0000" stop="20251119123000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Wandering Chef S1 - Eps.3</title></programme>
+<programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Wandering Chef S1 - Eps.4</title></programme>
+<programme start="20251119130000 +0000" stop="20251119133000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Spice Whisperer S1 - Eps.3</title></programme>
+<programme start="20251119133000 +0000" stop="20251119140000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Spice Whisperer S1 - Eps.4</title></programme>
+<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Vanishing Foods S1 - Eps.1</title></programme>
+<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Vanishing Foods S1 - Eps.2</title></programme>
+<programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.5</title></programme>
+<programme start="20251119153000 +0000" stop="20251119160000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.6</title></programme>
+<programme start="20251119160000 +0000" stop="20251119165500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Order Up With Hudson Yang S1 - Eps.5</title></programme>
+<programme start="20251119165500 +0000" stop="20251119175000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Makan On Wheels S1 - Eps.8</title></programme>
+<programme start="20251118170000 +0000" stop="20251118173000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251118173000 +0000" stop="20251118180000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
+<programme start="20251118180000 +0000" stop="20251118190000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
+<programme start="20251118190000 +0000" stop="20251118193000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251118193000 +0000" stop="20251118200000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Bottom Line</title></programme>
+<programme start="20251118200000 +0000" stop="20251118203000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251118203000 +0000" stop="20251118210000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
+<programme start="20251118210000 +0000" stop="20251118220000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
+<programme start="20251118220000 +0000" stop="20251118223000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Risking it All</title></programme>
+<programme start="20251118230000 +0000" stop="20251118233000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251118233000 +0000" stop="20251119000000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Counting the Cost</title></programme>
+<programme start="20251119000000 +0000" stop="20251119003000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119003000 +0000" stop="20251119010000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
+<programme start="20251119010000 +0000" stop="20251119020000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">A Reel War</title></programme>
+<programme start="20251119020000 +0000" stop="20251119023000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119023000 +0000" stop="20251119030000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Listening Post</title></programme>
+<programme start="20251119030000 +0000" stop="20251119033000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119033000 +0000" stop="20251119040000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Witness</title></programme>
+<programme start="20251119040000 +0000" stop="20251119043000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119043000 +0000" stop="20251119050000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">101 East</title></programme>
+<programme start="20251119050000 +0000" stop="20251119053000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119053000 +0000" stop="20251119060000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
+<programme start="20251119060000 +0000" stop="20251119063000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119063000 +0000" stop="20251119070000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Counting the Cost</title></programme>
+<programme start="20251119070000 +0000" stop="20251119080000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
+<programme start="20251119080000 +0000" stop="20251119083000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119083000 +0000" stop="20251119090000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Risking it All</title></programme>
+<programme start="20251119090000 +0000" stop="20251119093000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119093000 +0000" stop="20251119100000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Stream</title></programme>
+<programme start="20251119100000 +0000" stop="20251119110000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
+<programme start="20251119110000 +0000" stop="20251119113000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
+<programme start="20251119120000 +0000" stop="20251119130000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Witness</title></programme>
+<programme start="20251119130000 +0000" stop="20251119140000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
+<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Talk to Al Jazeera</title></programme>
+<programme start="20251119150000 +0000" stop="20251119160000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
+<programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
+<programme start="20251119163000 +0000" stop="20251119170000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Big Picture</title></programme>
+<programme start="20251118170000 +0000" stop="20251118173000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118173000 +0000" stop="20251118180000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118180000 +0000" stop="20251118183000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118183000 +0000" stop="20251118190000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118190000 +0000" stop="20251118193000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118193000 +0000" stop="20251118200000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118200000 +0000" stop="20251118203000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118203000 +0000" stop="20251118210000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118210000 +0000" stop="20251118213000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118213000 +0000" stop="20251118220000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118220000 +0000" stop="20251118223000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118230000 +0000" stop="20251118233000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251118233000 +0000" stop="20251119000000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119000000 +0000" stop="20251119003000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119003000 +0000" stop="20251119010000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119010000 +0000" stop="20251119013000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119013000 +0000" stop="20251119020000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119020000 +0000" stop="20251119023000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119023000 +0000" stop="20251119030000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119030000 +0000" stop="20251119033000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119033000 +0000" stop="20251119040000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119040000 +0000" stop="20251119043000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119043000 +0000" stop="20251119050000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119050000 +0000" stop="20251119053000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119053000 +0000" stop="20251119060000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119060000 +0000" stop="20251119063000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119063000 +0000" stop="20251119070000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119070000 +0000" stop="20251119073000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119073000 +0000" stop="20251119080000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119080000 +0000" stop="20251119083000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119083000 +0000" stop="20251119090000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119090000 +0000" stop="20251119093000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119093000 +0000" stop="20251119100000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119100000 +0000" stop="20251119103000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119103000 +0000" stop="20251119110000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119110000 +0000" stop="20251119113000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119120000 +0000" stop="20251119123000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119130000 +0000" stop="20251119133000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119133000 +0000" stop="20251119140000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119153000 +0000" stop="20251119160000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
+<programme start="20251119163000 +0000" stop="20251119170000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
 <programme start="20251118170000 +0000" stop="20251118184500 +0000" channel="UseePrime.id@SD"><title lang="id">Yowis Ben</title></programme>
 <programme start="20251118184500 +0000" stop="20251118194500 +0000" channel="UseePrime.id@SD"><title lang="id">Puasin</title></programme>
 <programme start="20251118194500 +0000" stop="20251118201500 +0000" channel="UseePrime.id@SD"><title lang="id">Glints Expert Class</title></programme>
@@ -732,21 +781,22 @@
 <programme start="20251118203000 +0000" stop="20251118210000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ustadz On The Road</title></programme>
 <programme start="20251118210000 +0000" stop="20251118213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Kokom (Kompilasi Komedi)</title></programme>
 <programme start="20251118213000 +0000" stop="20251118220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riko The Series</title></programme>
-<programme start="20251118220000 +0000" stop="20251118230000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Marsupilami</title></programme>
-<programme start="20251118230000 +0000" stop="20251119010000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
-<programme start="20251119010000 +0000" stop="20251119023000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
-<programme start="20251119023000 +0000" stop="20251119033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20251118220000 +0000" stop="20251118223000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Marsupilami</title></programme>
+<programme start="20251118223000 +0000" stop="20251119000000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20251119000000 +0000" stop="20251119020000 +0000" channel="RajawaliTV.id@SD"><title lang="id">International Big Match</title></programme>
+<programme start="20251119020000 +0000" stop="20251119033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
 <programme start="20251119033000 +0000" stop="20251119043000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
 <programme start="20251119043000 +0000" stop="20251119050000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Tawa Satwa</title></programme>
 <programme start="20251119050000 +0000" stop="20251119070000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy</title></programme>
-<programme start="20251119070000 +0000" stop="20251119100000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
-<programme start="20251119100000 +0000" stop="20251119133000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy The Movie</title></programme>
+<programme start="20251119070000 +0000" stop="20251119093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
+<programme start="20251119093000 +0000" stop="20251119120000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy The Movie</title></programme>
+<programme start="20251119120000 +0000" stop="20251119133000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Mechamato</title></programme>
 <programme start="20251119133000 +0000" stop="20251119140000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Pokemon Horizon - Pencarian Laqua</title></programme>
-<programme start="20251119140000 +0000" stop="20251119150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
-<programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Catatan Seputar Investigasi</title></programme>
+<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
+<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Si Paling Trending!</title></programme>
+<programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ijin, Ndan !</title></programme>
 <programme start="20251119153000 +0000" stop="20251119160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Lensa Indonesia Malam</title></programme>
-<programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Si Paling Trending!</title></programme>
-<programme start="20251119163000 +0000" stop="20251119170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terkepo-Kepo</title></programme>
+<programme start="20251119160000 +0000" stop="20251119170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">International Big Match</title></programme>
 <programme start="20251118183000 +0000" stop="20251118203000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
 <programme start="20251118203000 +0000" stop="20251118223000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
 <programme start="20251118223000 +0000" stop="20251119000000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
@@ -3945,140 +3995,91 @@
 <programme start="20251119150000 +0000" stop="20251119155500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Just Animals S3 - Eps. 8</title></programme>
 <programme start="20251119155500 +0000" stop="20251119165000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Dr. Jeff: Rocky Mountain Vet S7 - Eps. 5</title></programme>
 <programme start="20251119165000 +0000" stop="20251119174500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Dog Detectives S1 - Eps. 8</title></programme>
-<programme start="20251118170000 +0000" stop="20251118173000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118173000 +0000" stop="20251118180000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118180000 +0000" stop="20251118183000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118183000 +0000" stop="20251118190000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118190000 +0000" stop="20251118193000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118193000 +0000" stop="20251118200000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118200000 +0000" stop="20251118203000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118203000 +0000" stop="20251118210000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118210000 +0000" stop="20251118213000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118213000 +0000" stop="20251118220000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118220000 +0000" stop="20251118223000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118230000 +0000" stop="20251118233000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118233000 +0000" stop="20251119000000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119000000 +0000" stop="20251119003000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119003000 +0000" stop="20251119010000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119010000 +0000" stop="20251119013000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119013000 +0000" stop="20251119020000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119020000 +0000" stop="20251119023000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119023000 +0000" stop="20251119030000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119030000 +0000" stop="20251119033000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119033000 +0000" stop="20251119040000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119040000 +0000" stop="20251119043000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119043000 +0000" stop="20251119050000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119050000 +0000" stop="20251119053000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119053000 +0000" stop="20251119060000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119060000 +0000" stop="20251119063000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119063000 +0000" stop="20251119070000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119070000 +0000" stop="20251119073000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119073000 +0000" stop="20251119080000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119080000 +0000" stop="20251119083000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119083000 +0000" stop="20251119090000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119090000 +0000" stop="20251119093000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119093000 +0000" stop="20251119100000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119100000 +0000" stop="20251119103000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119103000 +0000" stop="20251119110000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119110000 +0000" stop="20251119113000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119120000 +0000" stop="20251119123000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119130000 +0000" stop="20251119133000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119133000 +0000" stop="20251119140000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119153000 +0000" stop="20251119160000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251119163000 +0000" stop="20251119170000 +0000" channel="QuranTV.sa@SD"><title lang="id">Live From Mecca</title></programme>
-<programme start="20251118170000 +0000" stop="20251118173000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251118173000 +0000" stop="20251118180000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
-<programme start="20251118180000 +0000" stop="20251118190000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
-<programme start="20251118190000 +0000" stop="20251118193000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251118193000 +0000" stop="20251118200000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Bottom Line</title></programme>
-<programme start="20251118200000 +0000" stop="20251118203000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251118203000 +0000" stop="20251118210000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
-<programme start="20251118210000 +0000" stop="20251118220000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
-<programme start="20251118220000 +0000" stop="20251118223000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251118223000 +0000" stop="20251118230000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Risking it All</title></programme>
-<programme start="20251118230000 +0000" stop="20251118233000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251118233000 +0000" stop="20251119000000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Counting the Cost</title></programme>
-<programme start="20251119000000 +0000" stop="20251119003000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119003000 +0000" stop="20251119010000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
-<programme start="20251119010000 +0000" stop="20251119020000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">A Reel War</title></programme>
-<programme start="20251119020000 +0000" stop="20251119023000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119023000 +0000" stop="20251119030000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Listening Post</title></programme>
-<programme start="20251119030000 +0000" stop="20251119033000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119033000 +0000" stop="20251119040000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Witness</title></programme>
-<programme start="20251119040000 +0000" stop="20251119043000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119043000 +0000" stop="20251119050000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">101 East</title></programme>
-<programme start="20251119050000 +0000" stop="20251119053000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119053000 +0000" stop="20251119060000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
-<programme start="20251119060000 +0000" stop="20251119063000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119063000 +0000" stop="20251119070000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Counting the Cost</title></programme>
-<programme start="20251119070000 +0000" stop="20251119080000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
-<programme start="20251119080000 +0000" stop="20251119083000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119083000 +0000" stop="20251119090000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Risking it All</title></programme>
-<programme start="20251119090000 +0000" stop="20251119093000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119093000 +0000" stop="20251119100000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Stream</title></programme>
-<programme start="20251119100000 +0000" stop="20251119110000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
-<programme start="20251119110000 +0000" stop="20251119113000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
-<programme start="20251119120000 +0000" stop="20251119130000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Witness</title></programme>
-<programme start="20251119130000 +0000" stop="20251119140000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
-<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Talk to Al Jazeera</title></programme>
-<programme start="20251119150000 +0000" stop="20251119160000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
-<programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
-<programme start="20251119163000 +0000" stop="20251119170000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Big Picture</title></programme>
-<programme start="20251118172000 +0000" stop="20251118175000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Tales S1 - Eps.4</title></programme>
-<programme start="20251118175000 +0000" stop="20251118181500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.3</title></programme>
-<programme start="20251118181500 +0000" stop="20251118184500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.4</title></programme>
-<programme start="20251118184500 +0000" stop="20251118191000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.5</title></programme>
-<programme start="20251118191000 +0000" stop="20251118194000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.6</title></programme>
-<programme start="20251118194000 +0000" stop="20251118200500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Spice Whisperer S1 - Eps.1</title></programme>
-<programme start="20251118200500 +0000" stop="20251118203500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Spice Whisperer S1 - Eps.2</title></programme>
-<programme start="20251118203500 +0000" stop="20251118210000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.3</title></programme>
-<programme start="20251118210000 +0000" stop="20251118213000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.4</title></programme>
-<programme start="20251118213000 +0000" stop="20251118220000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.6</title></programme>
-<programme start="20251118220000 +0000" stop="20251118222500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Rachel Khoo&apos;s Simple Pleasures S1 - Eps.1</title></programme>
-<programme start="20251118222500 +0000" stop="20251118225000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Rachel Khoo&apos;s Simple Pleasures S1 - Eps.2</title></programme>
-<programme start="20251118225000 +0000" stop="20251118231500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.3</title></programme>
-<programme start="20251118231500 +0000" stop="20251118234500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.4</title></programme>
-<programme start="20251118234500 +0000" stop="20251119004000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Makan On Wheels S1 - Eps.8</title></programme>
-<programme start="20251119004000 +0000" stop="20251119010500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Psychology S1 - Eps.11</title></programme>
-<programme start="20251119010500 +0000" stop="20251119013500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Psychology S1 - Eps.12</title></programme>
-<programme start="20251119013500 +0000" stop="20251119020000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Everyday Gourmet S11 - Eps.66</title></programme>
-<programme start="20251119020000 +0000" stop="20251119023000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Everyday Gourmet S11 - Eps.67</title></programme>
-<programme start="20251119023000 +0000" stop="20251119025500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Marion Grasby&apos;s Flavours Of Heart And Home S1 - Eps.3</title></programme>
-<programme start="20251119025500 +0000" stop="20251119032500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Marion Grasby&apos;s Flavours Of Heart And Home S1 - Eps.4</title></programme>
-<programme start="20251119032500 +0000" stop="20251119035000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.5</title></programme>
-<programme start="20251119035000 +0000" stop="20251119042000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Chocolate Queen S5 - Eps.6</title></programme>
-<programme start="20251119042000 +0000" stop="20251119044500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.3</title></programme>
-<programme start="20251119044500 +0000" stop="20251119051500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.4</title></programme>
-<programme start="20251119051500 +0000" stop="20251119061000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Hidden Gems S1 - Eps.4</title></programme>
-<programme start="20251119061000 +0000" stop="20251119063500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.3</title></programme>
-<programme start="20251119063500 +0000" stop="20251119070500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.4</title></programme>
-<programme start="20251119070500 +0000" stop="20251119073000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Psychology S1 - Eps.11</title></programme>
-<programme start="20251119073000 +0000" stop="20251119080000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Psychology S1 - Eps.12</title></programme>
-<programme start="20251119080000 +0000" stop="20251119083000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Everyday Gourmet S11 - Eps.68</title></programme>
-<programme start="20251119083000 +0000" stop="20251119090000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Everyday Gourmet S11 - Eps.69</title></programme>
-<programme start="20251119090000 +0000" stop="20251119093000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Tales S1 - Eps.3</title></programme>
-<programme start="20251119093000 +0000" stop="20251119100000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Food Tales S1 - Eps.4</title></programme>
-<programme start="20251119100000 +0000" stop="20251119103000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Rachel Khoo&apos;s Simple Pleasures S1 - Eps.1</title></programme>
-<programme start="20251119103000 +0000" stop="20251119110000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Rachel Khoo&apos;s Simple Pleasures S1 - Eps.2</title></programme>
-<programme start="20251119110000 +0000" stop="20251119113000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.5</title></programme>
-<programme start="20251119113000 +0000" stop="20251119120000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.6</title></programme>
-<programme start="20251119120000 +0000" stop="20251119123000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Wandering Chef S1 - Eps.3</title></programme>
-<programme start="20251119123000 +0000" stop="20251119130000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">The Wandering Chef S1 - Eps.4</title></programme>
-<programme start="20251119130000 +0000" stop="20251119133000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Spice Whisperer S1 - Eps.3</title></programme>
-<programme start="20251119133000 +0000" stop="20251119140000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Spice Whisperer S1 - Eps.4</title></programme>
-<programme start="20251119140000 +0000" stop="20251119143000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Vanishing Foods S1 - Eps.1</title></programme>
-<programme start="20251119143000 +0000" stop="20251119150000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Vanishing Foods S1 - Eps.2</title></programme>
-<programme start="20251119150000 +0000" stop="20251119153000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.5</title></programme>
-<programme start="20251119153000 +0000" stop="20251119160000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Borneo Culinary Sarawak S1 - Eps.6</title></programme>
-<programme start="20251119160000 +0000" stop="20251119165500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Order Up With Hudson Yang S1 - Eps.5</title></programme>
-<programme start="20251119165500 +0000" stop="20251119175000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Makan On Wheels S1 - Eps.8</title></programme>
+<programme start="20251118193000 +0000" stop="20251118223000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Tamanchey-Pyar mein dil pe maar di goli</title></programme>
+<programme start="20251118223000 +0000" stop="20251119013000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">A Flying Jatt</title></programme>
+<programme start="20251119013000 +0000" stop="20251119020000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Song Fillers</title></programme>
+<programme start="20251119020000 +0000" stop="20251119030000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Zindagi Ki Mehek S1</title></programme>
+<programme start="20251119030000 +0000" stop="20251119040000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Doosari Maa Rerun</title></programme>
+<programme start="20251119040000 +0000" stop="20251119050000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Mazhi Tuzhi Reshimgaath S1</title></programme>
+<programme start="20251119050000 +0000" stop="20251119080000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Tamanchey-Pyar mein dil pe maar di goli</title></programme>
+<programme start="20251119080000 +0000" stop="20251119090000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Zindagi Ki Mehek S1</title></programme>
+<programme start="20251119090000 +0000" stop="20251119100000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Doosari Maa</title></programme>
+<programme start="20251119100000 +0000" stop="20251119110000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Mazhi Tuzhi Reshimgaath S1</title></programme>
+<programme start="20251119110000 +0000" stop="20251119133000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Phata Poster Nikla Hero</title></programme>
+<programme start="20251119133000 +0000" stop="20251119163000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Welcome 2 Karachi</title></programme>
+<programme start="20251119163000 +0000" stop="20251119193000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Paltan</title></programme>
+<programme start="20251118171500 +0000" stop="20251118174000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
+<programme start="20251118174000 +0000" stop="20251118180000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
+<programme start="20251118180000 +0000" stop="20251118220000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Equipment Maintenance</title></programme>
+<programme start="20251118220000 +0000" stop="20251118222500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Zhejiang Explorer</title></programme>
+<programme start="20251118222500 +0000" stop="20251118231000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 1</title></programme>
+<programme start="20251118231000 +0000" stop="20251119000000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 2</title></programme>
+<programme start="20251119000000 +0000" stop="20251119002500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
+<programme start="20251119002500 +0000" stop="20251119011500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Amazing Zhejiang</title></programme>
+<programme start="20251119011500 +0000" stop="20251119014000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
+<programme start="20251119014000 +0000" stop="20251119015000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
+<programme start="20251119015000 +0000" stop="20251119024000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 2</title></programme>
+<programme start="20251119024000 +0000" stop="20251119033000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 3</title></programme>
+<programme start="20251119033000 +0000" stop="20251119041000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 4</title></programme>
+<programme start="20251119041000 +0000" stop="20251119054000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Trump Card vs Trump Card - S9</title></programme>
+<programme start="20251119054000 +0000" stop="20251119063000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 1</title></programme>
+<programme start="20251119063000 +0000" stop="20251119071500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 2</title></programme>
+<programme start="20251119071500 +0000" stop="20251119080000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 3</title></programme>
+<programme start="20251119080000 +0000" stop="20251119082500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
+<programme start="20251119082500 +0000" stop="20251119091500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Amazing Zhejiang</title></programme>
+<programme start="20251119091500 +0000" stop="20251119094000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
+<programme start="20251119094000 +0000" stop="20251119095000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
+<programme start="20251119095000 +0000" stop="20251119104000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 2</title></programme>
+<programme start="20251119104000 +0000" stop="20251119113000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 3</title></programme>
+<programme start="20251119113000 +0000" stop="20251119121000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Silicon Waves - Eps. 4</title></programme>
+<programme start="20251119121000 +0000" stop="20251119134000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Trump Card vs Trump Card - S9</title></programme>
+<programme start="20251119134000 +0000" stop="20251119143000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 1</title></programme>
+<programme start="20251119143000 +0000" stop="20251119151500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 2</title></programme>
+<programme start="20251119151500 +0000" stop="20251119160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Like a Flowing River 3 - Eps. 3</title></programme>
+<programme start="20251119160000 +0000" stop="20251119163000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
+<programme start="20251119163000 +0000" stop="20251119171500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Chinese Doctor Says</title></programme>
+<programme start="20251118170000 +0000" stop="20251118172000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 1</title></programme>
+<programme start="20251118172000 +0000" stop="20251118174500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 2</title></programme>
+<programme start="20251118174500 +0000" stop="20251118182500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">World&apos;s Dumbest S16 - Eps. 3</title></programme>
+<programme start="20251118182500 +0000" stop="20251118191000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Dodgeball Thunderdome S1 - Eps. 6</title></programme>
+<programme start="20251118191000 +0000" stop="20251118193500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 10</title></programme>
+<programme start="20251118193500 +0000" stop="20251118200000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 11</title></programme>
+<programme start="20251118200000 +0000" stop="20251118202500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S4 - Eps. 25</title></programme>
+<programme start="20251118202500 +0000" stop="20251118211000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">World&apos;s Dumbest S16 - Eps. 3</title></programme>
+<programme start="20251118211000 +0000" stop="20251118213500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 13</title></programme>
+<programme start="20251118213500 +0000" stop="20251118220000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 13</title></programme>
+<programme start="20251118220000 +0000" stop="20251118222500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 3</title></programme>
+<programme start="20251118222500 +0000" stop="20251118225000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 4</title></programme>
+<programme start="20251118225000 +0000" stop="20251118234000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">World&apos;s Dumbest S16 - Eps. 4</title></programme>
+<programme start="20251118234000 +0000" stop="20251119003000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Dodgeball Thunderdome S1 - Eps. 7</title></programme>
+<programme start="20251119003000 +0000" stop="20251119005500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 12</title></programme>
+<programme start="20251119005500 +0000" stop="20251119012000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 13</title></programme>
+<programme start="20251119012000 +0000" stop="20251119014500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 3</title></programme>
+<programme start="20251119014500 +0000" stop="20251119021000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 4</title></programme>
+<programme start="20251119021000 +0000" stop="20251119023500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S5 - Eps. 01</title></programme>
+<programme start="20251119023500 +0000" stop="20251119030000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S5 - Eps. 02</title></programme>
+<programme start="20251119030000 +0000" stop="20251119032500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 14</title></programme>
+<programme start="20251119032500 +0000" stop="20251119035000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 14</title></programme>
+<programme start="20251119035000 +0000" stop="20251119044000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Dodgeball Thunderdome S1 - Eps. 7</title></programme>
+<programme start="20251119044000 +0000" stop="20251119050500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 12</title></programme>
+<programme start="20251119050500 +0000" stop="20251119053000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 13</title></programme>
+<programme start="20251119053000 +0000" stop="20251119055500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Big Bang Theory S5 - Eps. 23</title></programme>
+<programme start="20251119055500 +0000" stop="20251119062000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Friends S6 - Eps. 18</title></programme>
+<programme start="20251119062000 +0000" stop="20251119071000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Er S1 - Eps. 24</title></programme>
+<programme start="20251119071000 +0000" stop="20251119073500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S5 - Eps. 01</title></programme>
+<programme start="20251119073500 +0000" stop="20251119080000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Carbonaro Effect S5 - Eps. 02</title></programme>
+<programme start="20251119080000 +0000" stop="20251119082500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Big Bang Theory S5 - Eps. 23</title></programme>
+<programme start="20251119082500 +0000" stop="20251119085000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Friends S6 - Eps. 18</title></programme>
+<programme start="20251119085000 +0000" stop="20251119091500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 12</title></programme>
+<programme start="20251119091500 +0000" stop="20251119094000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Storage Hunters S2 - Eps. 13</title></programme>
+<programme start="20251119094000 +0000" stop="20251119103000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Dodgeball Thunderdome S1 - Eps. 7</title></programme>
+<programme start="20251119103000 +0000" stop="20251119105500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 3</title></programme>
+<programme start="20251119105500 +0000" stop="20251119112000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Impractical Jokers S1 - Eps. 4</title></programme>
+<programme start="20251119112000 +0000" stop="20251119114500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Big Bang Theory S5 - Eps. 23</title></programme>
+<programme start="20251119114500 +0000" stop="20251119121000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Friends S6 - Eps. 18</title></programme>
+<programme start="20251119121000 +0000" stop="20251119123500 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Fresh Prince Of Bel-Air S1 - Eps. 14</title></programme>
+<programme start="20251119123500 +0000" stop="20251119130000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">Georgie &amp; Mandy&apos;s First Marriage S1 - Eps. 14</title></programme>
+<programme start="20251119130000 +0000" stop="20251119140000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Mentalist S5 - Eps. 19</title></programme>
+<programme start="20251119140000 +0000" stop="20251119162000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Island</title></programme>
+<programme start="20251119162000 +0000" stop="20251119172000 +0000" channel="WarnerTVAsia.us@SD"><title lang="id">The Mentalist S5 - Eps. 19</title></programme>
 </tv>
