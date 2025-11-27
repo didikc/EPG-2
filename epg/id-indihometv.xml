@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251127">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
@@ -128,7 +129,6 @@
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251126171500 +0000" stop="20251126173500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Media Watch - Episode 42</title></programme>
 <programme start="20251126173500 +0000" stop="20251126180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Landline - Episode 40</title></programme>
 <programme start="20251126180000 +0000" stop="20251126190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 187</title></programme>
@@ -2839,10 +2839,10 @@
 <programme start="20251127110000 +0000" stop="20251127114500 +0000" channel="NET.id@SD"><title lang="id">MD Teledrama: Maria Cinta Yang Hilang</title></programme>
 <programme start="20251127114500 +0000" stop="20251127123000 +0000" channel="NET.id@SD"><title lang="id">MD Teledrama: Maria Mercedes</title></programme>
 <programme start="20251127123000 +0000" stop="20251127132500 +0000" channel="NET.id@SD"><title lang="id">MD Series: Ipar Adalah Maut The Series</title></programme>
-<programme start="20251127132500 +0000" stop="20251127142500 +0000" channel="NET.id@SD"><title lang="id">MD Drama: Layangan Putus</title></programme>
-<programme start="20251127142500 +0000" stop="20251127151500 +0000" channel="NET.id@SD"><title lang="id">MD Bollydrama : Janji Cinta (Sindoor Ki Keemat)</title></programme>
-<programme start="20251127151500 +0000" stop="20251127163000 +0000" channel="NET.id@SD"><title lang="id">MD Drakor: Perfume</title></programme>
-<programme start="20251127163000 +0000" stop="20251127173000 +0000" channel="NET.id@SD"><title lang="id">MD Drakor: Now, We Are Breaking Up</title></programme>
+<programme start="20251127132500 +0000" stop="20251127141500 +0000" channel="NET.id@SD"><title lang="id">MD Drama: Layangan Putus</title></programme>
+<programme start="20251127141500 +0000" stop="20251127150500 +0000" channel="NET.id@SD"><title lang="id">MD Bollydrama : Janji Cinta (Sindoor Ki Keemat)</title></programme>
+<programme start="20251127150500 +0000" stop="20251127161500 +0000" channel="NET.id@SD"><title lang="id">MD Drakor: Now, We Are Breaking Up</title></programme>
+<programme start="20251127161500 +0000" stop="20251127172000 +0000" channel="NET.id@SD"><title lang="id">MD Drakor: Perfume</title></programme>
 <programme start="20251126200000 +0000" stop="20251126220000 +0000" channel="newtvcomprehensive"><title lang="id">Evening News</title></programme>
 <programme start="20251126220000 +0000" stop="20251127003800 +0000" channel="newtvcomprehensive"><title lang="id">Morning News</title></programme>
 <programme start="20251127003800 +0000" stop="20251127010200 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
