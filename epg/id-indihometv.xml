@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251130">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
 <channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
-<channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="UseePrime.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.imgur.com/DqizBAD.png"/><url>https://indihometv.com</url></channel>
 <channel id="UChannel.id@SD"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
 <channel id="tvri"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
@@ -127,8 +126,9 @@
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
+<channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251129171500 +0000" stop="20251129172500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Camel Capers - Camel Racer</title></programme>
 <programme start="20251129172500 +0000" stop="20251129183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">WINHANGANHA</title></programme>
 <programme start="20251129183000 +0000" stop="20251129190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World This Week - Episode 46</title></programme>
@@ -398,55 +398,11 @@
 <programme start="20251130110000 +0000" stop="20251130130000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia : High Kick Girl</title></programme>
 <programme start="20251130130000 +0000" stop="20251130150000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia : The Storm Warriors</title></programme>
 <programme start="20251130150000 +0000" stop="20251130170000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial : The Origin of Santet</title></programme>
-<programme start="20251129170000 +0000" stop="20251129173000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection - Eps.180</title></programme>
-<programme start="20251129173000 +0000" stop="20251129180000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Diplomat&apos;S Archive: Hidden Stories - Eps.31</title></programme>
-<programme start="20251129180000 +0000" stop="20251129183000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Rewind It: I&apos;M Live - Eps.385</title></programme>
-<programme start="20251129183000 +0000" stop="20251129185000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Art And The City - Eps.8</title></programme>
-<programme start="20251129185000 +0000" stop="20251129190000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Exploring Korean Literature B - Eps.40</title></programme>
-<programme start="20251129190000 +0000" stop="20251129193000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Arirang Special - Eps.143</title></programme>
-<programme start="20251129193000 +0000" stop="20251129200000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection - Eps.178</title></programme>
-<programme start="20251129200000 +0000" stop="20251129201500 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-Trend - Eps.60</title></programme>
-<programme start="20251129201500 +0000" stop="20251129203000 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-People - Eps.60</title></programme>
-<programme start="20251129203000 +0000" stop="20251129204500 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-Story - Eps.60</title></programme>
-<programme start="20251129204500 +0000" stop="20251129210000 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-Stage - Eps.60</title></programme>
-<programme start="20251129210000 +0000" stop="20251129213000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Dive Into Korean - Eps.4</title></programme>
-<programme start="20251129213000 +0000" stop="20251129220000 +0000" channel="ArirangTV.kr@SD"><title lang="id">With Science, We Live - Eps.10</title></programme>
-<programme start="20251129220000 +0000" stop="20251129223000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Home To Table - Eps.1</title></programme>
-<programme start="20251129223000 +0000" stop="20251129230000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection - Eps.44</title></programme>
-<programme start="20251129230000 +0000" stop="20251130000000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Simply K-Pop Sns - Eps.6</title></programme>
-<programme start="20251130000000 +0000" stop="20251130001000 +0000" channel="ArirangTV.kr@SD"><title lang="id">K-Sports Unlocked - Eps.20</title></programme>
-<programme start="20251130001000 +0000" stop="20251130003000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Art And The City - Eps.5</title></programme>
-<programme start="20251130003000 +0000" stop="20251130010000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection - Eps.180</title></programme>
-<programme start="20251130010000 +0000" stop="20251130020000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Gugak The Music Of Korea - Eps.129</title></programme>
-<programme start="20251130020000 +0000" stop="20251130023000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection - Eps.44</title></programme>
-<programme start="20251130023000 +0000" stop="20251130030000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Talk Room - Eps.5</title></programme>
-<programme start="20251130030000 +0000" stop="20251130033000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Weekly News Highlights - Eps.143</title></programme>
-<programme start="20251130033000 +0000" stop="20251130040000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Bravo K-Scientist - Eps.2</title></programme>
-<programme start="20251130040000 +0000" stop="20251130043000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Diplomat&apos;S Archive: Hidden Stories - Eps.31</title></programme>
-<programme start="20251130043000 +0000" stop="20251130045000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Rpg - Eps.7</title></programme>
-<programme start="20251130045000 +0000" stop="20251130050000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Exploring Korean Literature B - Eps.40</title></programme>
-<programme start="20251130050000 +0000" stop="20251130060000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Simply K-Pop Sns - Eps.6</title></programme>
-<programme start="20251130060000 +0000" stop="20251130061000 +0000" channel="ArirangTV.kr@SD"><title lang="id">K-Sports Unlocked - Eps.20</title></programme>
-<programme start="20251130061000 +0000" stop="20251130063000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Art And The City - Eps.5</title></programme>
-<programme start="20251130063000 +0000" stop="20251130073000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Performarts Reload:Ntok - Eps.32</title></programme>
-<programme start="20251130073000 +0000" stop="20251130080000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Arirang Special - Eps.220</title></programme>
-<programme start="20251130080000 +0000" stop="20251130083000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Dive Into Korean - Eps.4</title></programme>
-<programme start="20251130083000 +0000" stop="20251130090000 +0000" channel="ArirangTV.kr@SD"><title lang="id">I&apos;M Live - Eps.405</title></programme>
-<programme start="20251130090000 +0000" stop="20251130093000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Weekly News Highlights - Eps.143</title></programme>
-<programme start="20251130093000 +0000" stop="20251130095000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Rpg - Eps.7</title></programme>
-<programme start="20251130095000 +0000" stop="20251130100000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Exploring Korean Literature B - Eps.41</title></programme>
-<programme start="20251130100000 +0000" stop="20251130103000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Peace Insight - Eps.474</title></programme>
-<programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="ArirangTV.kr@SD"><title lang="id">K-Stage Pan - Eps.134</title></programme>
-<programme start="20251130110000 +0000" stop="20251130111500 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-Trend - Eps.60</title></programme>
-<programme start="20251130111500 +0000" stop="20251130113000 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-People - Eps.60</title></programme>
-<programme start="20251130113000 +0000" stop="20251130114500 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-Story - Eps.60</title></programme>
-<programme start="20251130114500 +0000" stop="20251130120000 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-Stage - Eps.60</title></programme>
-<programme start="20251130120000 +0000" stop="20251130130000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Simply K-Pop Sns - Eps.6</title></programme>
-<programme start="20251130130000 +0000" stop="20251130133000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Dive Into Korean - Eps.4</title></programme>
-<programme start="20251130133000 +0000" stop="20251130140000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Talk Room - Eps.5</title></programme>
-<programme start="20251130140000 +0000" stop="20251130141000 +0000" channel="ArirangTV.kr@SD"><title lang="id">K-Sports Unlocked - Eps.20</title></programme>
-<programme start="20251130141000 +0000" stop="20251130143000 +0000" channel="ArirangTV.kr@SD"><title lang="id">K-Arts Artists - Eps.23</title></programme>
-<programme start="20251130143000 +0000" stop="20251130153000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection - Eps.180</title></programme>
+<programme start="20251130150000 +0000" stop="20251130153000 +0000" channel="ArirangTV.kr@SD"><title lang="id">K-Stage Pan - Eps.133</title></programme>
+<programme start="20251130153000 +0000" stop="20251130160000 +0000" channel="ArirangTV.kr@SD"><title lang="id">I&apos;M Live - Eps.404</title></programme>
+<programme start="20251130160000 +0000" stop="20251130161500 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-People - Eps.59</title></programme>
+<programme start="20251130161500 +0000" stop="20251130163000 +0000" channel="ArirangTV.kr@SD"><title lang="id">1Day 1K-Culture: K-Story - Eps.59</title></programme>
+<programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="ArirangTV.kr@SD"><title lang="id">With Science, We Live - Eps.9</title></programme>
 <programme start="20251129172000 +0000" stop="20251129175000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Vanishing Foods S1</title></programme>
 <programme start="20251129175000 +0000" stop="20251129184500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Order Up With Hudson Yang S1 - Eps.6</title></programme>
 <programme start="20251129184500 +0000" stop="20251129191000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Trisha&apos;s Southern Kitchen S17 - Eps.7</title></programme>
@@ -907,7 +863,6 @@
 <programme start="20251130160000 +0000" stop="20251130160300 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
 <programme start="20251130160300 +0000" stop="20251130163000 +0000" channel="CNA.sg@SD"><title lang="id">Money Mind</title></programme>
 <programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="CNA.sg@SD"><title lang="id">CNA Correspondent</title></programme>
-<programme start="20251130160000 +0000" stop="20251130170000 +0000" channel="CNBCAsia.sg@SD"><title lang="id">Late Night with Seth Meyers</title></programme>
 <programme start="20251129170000 +0000" stop="20251129190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
 <programme start="20251129190000 +0000" stop="20251129210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
 <programme start="20251129210000 +0000" stop="20251129213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
@@ -1787,85 +1742,65 @@
 <programme start="20251130153000 +0000" stop="20251130160000 +0000" channel="Horee.id@SD"><title lang="id">Pororo&apos;S Healthy Habits</title></programme>
 <programme start="20251130160000 +0000" stop="20251130163000 +0000" channel="Horee.id@SD"><title lang="id">Oddbods Season 3</title></programme>
 <programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="Horee.id@SD"><title lang="id">Masha &amp; The Bear</title></programme>
-<programme start="20251129170100 +0000" stop="20251129172200 +0000" channel="HorizonSports.us@SD"><title lang="id">The Outdoor Sports Show 2023 Episode 3</title></programme>
-<programme start="20251129172200 +0000" stop="20251129173400 +0000" channel="HorizonSports.us@SD"><title lang="id">The Best Hike In Switzerland - Zermatt To Mettelhorn</title></programme>
-<programme start="20251129173400 +0000" stop="20251129180900 +0000" channel="HorizonSports.us@SD"><title lang="id">The Outdoor Sports Show 2024 - Special Winter Edition</title></programme>
-<programme start="20251129180900 +0000" stop="20251129190300 +0000" channel="HorizonSports.us@SD"><title lang="id">New Zealand 9</title></programme>
-<programme start="20251129190300 +0000" stop="20251129193500 +0000" channel="HorizonSports.us@SD"><title lang="id">The Outdoor Sports Show 2025 - Episode 1</title></programme>
-<programme start="20251129193500 +0000" stop="20251129193900 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Armel Le Cléac&apos;H (Vf)</title></programme>
-<programme start="20251129193900 +0000" stop="20251129194700 +0000" channel="HorizonSports.us@SD"><title lang="id">Road To One Water Race Ep4 - Running</title></programme>
-<programme start="20251129194700 +0000" stop="20251129195600 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Geraldine Fasnacht</title></programme>
-<programme start="20251129195600 +0000" stop="20251129203900 +0000" channel="HorizonSports.us@SD"><title lang="id">Santos Tour Down Under 2024 Men</title></programme>
-<programme start="20251129203900 +0000" stop="20251129204100 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Geraldine Fasnacht</title></programme>
-<programme start="20251129204100 +0000" stop="20251129204800 +0000" channel="HorizonSports.us@SD"><title lang="id">Tour De France Saitama Criterium</title></programme>
-<programme start="20251129204800 +0000" stop="20251129210800 +0000" channel="HorizonSports.us@SD"><title lang="id">Mediterranean Epic 2024</title></programme>
-<programme start="20251129210800 +0000" stop="20251129211500 +0000" channel="HorizonSports.us@SD"><title lang="id">Cro Race 2023 Stage 4</title></programme>
-<programme start="20251129211500 +0000" stop="20251129214500 +0000" channel="HorizonSports.us@SD"><title lang="id">Race To The Rock</title></programme>
-<programme start="20251129214500 +0000" stop="20251129215800 +0000" channel="HorizonSports.us@SD"><title lang="id">Mediterranean Epic 2022 Highlights</title></programme>
-<programme start="20251129215800 +0000" stop="20251129220500 +0000" channel="HorizonSports.us@SD"><title lang="id">Cro Race 2023 Stage 1</title></programme>
-<programme start="20251129220500 +0000" stop="20251129220800 +0000" channel="HorizonSports.us@SD"><title lang="id">Ungrounded Episode 1 - Caroline Gleich</title></programme>
-<programme start="20251129220800 +0000" stop="20251129224100 +0000" channel="HorizonSports.us@SD"><title lang="id">Titan Desert Morocco 2024</title></programme>
-<programme start="20251129224100 +0000" stop="20251129224900 +0000" channel="HorizonSports.us@SD"><title lang="id">Tour De France Prudential Singapore Criterium</title></programme>
-<programme start="20251129224900 +0000" stop="20251129225600 +0000" channel="HorizonSports.us@SD"><title lang="id">Cro Race 2023 Stage 3</title></programme>
-<programme start="20251129225600 +0000" stop="20251130000100 +0000" channel="HorizonSports.us@SD"><title lang="id">Tour Of Oman And Muscat Classic 2025 Summary</title></programme>
-<programme start="20251130000100 +0000" stop="20251130010300 +0000" channel="HorizonSports.us@SD"><title lang="id">Cape Epic 2025</title></programme>
-<programme start="20251130010300 +0000" stop="20251130014300 +0000" channel="HorizonSports.us@SD"><title lang="id">The Other French Race - Haute Route Alps With Rupert Guinness</title></programme>
-<programme start="20251130014300 +0000" stop="20251130014700 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Jerome Clementz</title></programme>
-<programme start="20251130014700 +0000" stop="20251130015200 +0000" channel="HorizonSports.us@SD"><title lang="id">Tour De France Saitama Criterium (Media Day)</title></programme>
-<programme start="20251130015200 +0000" stop="20251130015400 +0000" channel="HorizonSports.us@SD"><title lang="id">Datev Challenge Roth 2024</title></programme>
-<programme start="20251130015400 +0000" stop="20251130015900 +0000" channel="HorizonSports.us@SD"><title lang="id">Datev Challenge Roth 2025</title></programme>
-<programme start="20251130015900 +0000" stop="20251130023100 +0000" channel="HorizonSports.us@SD"><title lang="id">Kite Masters 2024 Episode 3</title></programme>
-<programme start="20251130023100 +0000" stop="20251130030300 +0000" channel="HorizonSports.us@SD"><title lang="id">Vendée Globe 2024 - Mag #3</title></programme>
-<programme start="20251130030300 +0000" stop="20251130033700 +0000" channel="HorizonSports.us@SD"><title lang="id">Kite Masters 2023 - Episode 2</title></programme>
-<programme start="20251130033700 +0000" stop="20251130044300 +0000" channel="HorizonSports.us@SD"><title lang="id">Route Du Rhum 2022 - Full Summary</title></programme>
-<programme start="20251130044300 +0000" stop="20251130045500 +0000" channel="HorizonSports.us@SD"><title lang="id">GWA Wingfoil World Cup Cape Verde 2024</title></programme>
-<programme start="20251130045500 +0000" stop="20251130050400 +0000" channel="HorizonSports.us@SD"><title lang="id">Qatar Airways GKA Kite-Surf World Cup 2023 - Germany</title></programme>
-<programme start="20251130050400 +0000" stop="20251130053600 +0000" channel="HorizonSports.us@SD"><title lang="id">Inside Sailing 2025 - Episode 4</title></programme>
-<programme start="20251130053600 +0000" stop="20251130061100 +0000" channel="HorizonSports.us@SD"><title lang="id">Kite Masters 2024 Episode 2</title></programme>
-<programme start="20251130061100 +0000" stop="20251130064100 +0000" channel="HorizonSports.us@SD"><title lang="id">The World Sailing Show 2025 Episode 3</title></programme>
-<programme start="20251130064100 +0000" stop="20251130065500 +0000" channel="HorizonSports.us@SD"><title lang="id">Qatar Airways GKA Big Air Kite World Championships</title></programme>
-<programme start="20251130065500 +0000" stop="20251130072900 +0000" channel="HorizonSports.us@SD"><title lang="id">Inside Sailing 2025 - Episode 1</title></programme>
-<programme start="20251130072900 +0000" stop="20251130074000 +0000" channel="HorizonSports.us@SD"><title lang="id">Freestyle Pro Tour 2023</title></programme>
-<programme start="20251130074000 +0000" stop="20251130074700 +0000" channel="HorizonSports.us@SD"><title lang="id">Lords Of Tram GKA Big Air Kite World Cup France 2025</title></programme>
-<programme start="20251130074700 +0000" stop="20251130075200 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Samantha Davies</title></programme>
-<programme start="20251130075200 +0000" stop="20251130080200 +0000" channel="HorizonSports.us@SD"><title lang="id">GWA Big Air Wingfoil World Championships Gran Canaria 2024</title></programme>
-<programme start="20251130080200 +0000" stop="20251130081000 +0000" channel="HorizonSports.us@SD"><title lang="id">World Rookie Snowboard Finals 2024</title></programme>
-<programme start="20251130081000 +0000" stop="20251130081500 +0000" channel="HorizonSports.us@SD"><title lang="id">Ungrounded Episode 1 - Caroline Gleich</title></programme>
-<programme start="20251130081500 +0000" stop="20251130081800 +0000" channel="HorizonSports.us@SD"><title lang="id">Nendaz FWT Challenger 2025</title></programme>
-<programme start="20251130081800 +0000" stop="20251130082100 +0000" channel="HorizonSports.us@SD"><title lang="id">FWT Junior World Championship2024</title></programme>
-<programme start="20251130082100 +0000" stop="20251130084800 +0000" channel="HorizonSports.us@SD"><title lang="id">Lekkarod 2022 (V. Int)</title></programme>
-<programme start="20251130084800 +0000" stop="20251130093100 +0000" channel="HorizonSports.us@SD"><title lang="id">Grand Teton Loop Eng</title></programme>
-<programme start="20251130093100 +0000" stop="20251130093700 +0000" channel="HorizonSports.us@SD"><title lang="id">Pierra Menta 2025 #2</title></programme>
-<programme start="20251130093700 +0000" stop="20251130094300 +0000" channel="HorizonSports.us@SD"><title lang="id">Pierra Menta 2024 #2</title></programme>
-<programme start="20251130094300 +0000" stop="20251130100200 +0000" channel="HorizonSports.us@SD"><title lang="id">Margalef - Climbing</title></programme>
-<programme start="20251130100200 +0000" stop="20251130100800 +0000" channel="HorizonSports.us@SD"><title lang="id">Pierra Menta 2025 #4</title></programme>
-<programme start="20251130100800 +0000" stop="20251130102600 +0000" channel="HorizonSports.us@SD"><title lang="id">Freeride World Tour 2023 Rd3 Kicking Horse Golden Bc, Canada</title></programme>
-<programme start="20251130102600 +0000" stop="20251130103200 +0000" channel="HorizonSports.us@SD"><title lang="id">Norvan Falls</title></programme>
-<programme start="20251130103200 +0000" stop="20251130104100 +0000" channel="HorizonSports.us@SD"><title lang="id">Three Peaks</title></programme>
-<programme start="20251130104100 +0000" stop="20251130104600 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Sam Anthamatten I</title></programme>
-<programme start="20251130104600 +0000" stop="20251130105800 +0000" channel="HorizonSports.us@SD"><title lang="id">Nightmare Climbs - Jafferau</title></programme>
-<programme start="20251130105800 +0000" stop="20251130112000 +0000" channel="HorizonSports.us@SD"><title lang="id">Dark Peak Fell Runners</title></programme>
-<programme start="20251130112000 +0000" stop="20251130113700 +0000" channel="HorizonSports.us@SD"><title lang="id">Julbo White Session Zermatt &amp; Chamonix</title></programme>
-<programme start="20251130113700 +0000" stop="20251130113900 +0000" channel="HorizonSports.us@SD"><title lang="id">Engadin Ski Marathon 2023</title></programme>
-<programme start="20251130113900 +0000" stop="20251130114700 +0000" channel="HorizonSports.us@SD"><title lang="id">Engadin Skimarathon 2025</title></programme>
-<programme start="20251130114700 +0000" stop="20251130115700 +0000" channel="HorizonSports.us@SD"><title lang="id">World Rookie Snowboard Finals 2025</title></programme>
-<programme start="20251130115700 +0000" stop="20251130121700 +0000" channel="HorizonSports.us@SD"><title lang="id">Freeride World Tour 2023 Ep4 Fieberbrunn, Austria</title></programme>
-<programme start="20251130121700 +0000" stop="20251130121900 +0000" channel="HorizonSports.us@SD"><title lang="id">LAAX Highline World Championships 2024</title></programme>
-<programme start="20251130121900 +0000" stop="20251130124900 +0000" channel="HorizonSports.us@SD"><title lang="id">Skiing China, Exploring Altai Mountains</title></programme>
-<programme start="20251130124900 +0000" stop="20251130125400 +0000" channel="HorizonSports.us@SD"><title lang="id">Pierra Menta 2024 #1</title></programme>
-<programme start="20251130125400 +0000" stop="20251130130300 +0000" channel="HorizonSports.us@SD"><title lang="id">Cortina D&apos;Ampezzo Dolomites - Spring Hike</title></programme>
-<programme start="20251130130300 +0000" stop="20251130131900 +0000" channel="HorizonSports.us@SD"><title lang="id">La Grande Odyssée 2023 - Best Of</title></programme>
-<programme start="20251130131900 +0000" stop="20251130133400 +0000" channel="HorizonSports.us@SD"><title lang="id">Climbing Skye&apos;S Highest Peak - Sgurr Alasdair</title></programme>
-<programme start="20251130133400 +0000" stop="20251130135200 +0000" channel="HorizonSports.us@SD"><title lang="id">Highest Peak On Vancouver&apos;S North Shore - Brunswick Mountain</title></programme>
-<programme start="20251130135200 +0000" stop="20251130135900 +0000" channel="HorizonSports.us@SD"><title lang="id">Tisa With Edita Vopatova</title></programme>
-<programme start="20251130135900 +0000" stop="20251130140500 +0000" channel="HorizonSports.us@SD"><title lang="id">Freeski World Rookie Fest Innsbruck 2024</title></programme>
-<programme start="20251130140500 +0000" stop="20251130141000 +0000" channel="HorizonSports.us@SD"><title lang="id">Ungrounded Episode 3 - Meredith Edwards</title></programme>
-<programme start="20251130141000 +0000" stop="20251130144500 +0000" channel="HorizonSports.us@SD"><title lang="id">Golden Trail Series - Chasing Dreams Season 2022 - Episode 5 A Thirst For Victory</title></programme>
-<programme start="20251130144500 +0000" stop="20251130151300 +0000" channel="HorizonSports.us@SD"><title lang="id">Trans Atlas Marathon</title></programme>
-<programme start="20251130151300 +0000" stop="20251130154500 +0000" channel="HorizonSports.us@SD"><title lang="id">Ibiza Marathon 2023</title></programme>
-<programme start="20251130154500 +0000" stop="20251130161800 +0000" channel="HorizonSports.us@SD"><title lang="id">Golden Trail Series - Chasing Dreams Season 2022 - Episode 2 A New Life</title></programme>
-<programme start="20251130161800 +0000" stop="20251130164700 +0000" channel="HorizonSports.us@SD"><title lang="id">Golden Trail World Series 2024 Race Recaps - Episode 2 Zegama</title></programme>
-<programme start="20251130164700 +0000" stop="20251130173000 +0000" channel="HorizonSports.us@SD"><title lang="id">Wizz Air Cardiff Half Marathon 2022</title></programme>
+<programme start="20251129181500 +0000" stop="20251129184800 +0000" channel="HorizonSports.us@SD"><title lang="id">Supertri 2025 Rd 2 Chicago Eng</title></programme>
+<programme start="20251129184800 +0000" stop="20251129185200 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Samantha Davies</title></programme>
+<programme start="20251129185200 +0000" stop="20251129190800 +0000" channel="HorizonSports.us@SD"><title lang="id">Best Via Ferrata In The Dolomites Climbing Possnecker Eng</title></programme>
+<programme start="20251129190800 +0000" stop="20251129191600 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Samantha Davies</title></programme>
+<programme start="20251129191600 +0000" stop="20251129202300 +0000" channel="HorizonSports.us@SD"><title lang="id">Tour of Hellas 2025 - Full Summary</title></programme>
+<programme start="20251129202300 +0000" stop="20251129205200 +0000" channel="HorizonSports.us@SD"><title lang="id">2025 WES UCI E-MTB XC World Cup Massa Marittima Italy Eng</title></programme>
+<programme start="20251129205200 +0000" stop="20251129210000 +0000" channel="HorizonSports.us@SD"><title lang="id">Nightmare Climbs - Crostis Eng</title></programme>
+<programme start="20251129210000 +0000" stop="20251129220700 +0000" channel="HorizonSports.us@SD"><title lang="id">Tour de la Provence 2025 Eng</title></programme>
+<programme start="20251129220700 +0000" stop="20251129221200 +0000" channel="HorizonSports.us@SD"><title lang="id">L Eroica 2025</title></programme>
+<programme start="20251129221200 +0000" stop="20251129231800 +0000" channel="HorizonSports.us@SD"><title lang="id">Deutschland Tour 2025</title></programme>
+<programme start="20251129231800 +0000" stop="20251130001200 +0000" channel="HorizonSports.us@SD"><title lang="id">Czech Tour 2025</title></programme>
+<programme start="20251130001200 +0000" stop="20251130004200 +0000" channel="HorizonSports.us@SD"><title lang="id">2025 WES UCI E-MTB XC World Cup Monaco Alpes-Maritimes Eng</title></programme>
+<programme start="20251130004200 +0000" stop="20251130011900 +0000" channel="HorizonSports.us@SD"><title lang="id">Roc d Azur 2025 Eng</title></programme>
+<programme start="20251130011900 +0000" stop="20251130013700 +0000" channel="HorizonSports.us@SD"><title lang="id">Defender GKA Kite-Surf World Cup 2025</title></programme>
+<programme start="20251130013700 +0000" stop="20251130020700 +0000" channel="HorizonSports.us@SD"><title lang="id">Blind Ambition</title></programme>
+<programme start="20251130020700 +0000" stop="20251130024000 +0000" channel="HorizonSports.us@SD"><title lang="id">Changing Channels</title></programme>
+<programme start="20251130024000 +0000" stop="20251130025500 +0000" channel="HorizonSports.us@SD"><title lang="id">Freestyle Pro Tour 2025 Naxos Greece</title></programme>
+<programme start="20251130025500 +0000" stop="20251130030900 +0000" channel="HorizonSports.us@SD"><title lang="id">Freestyle Pro Tour 2025 Geneva</title></programme>
+<programme start="20251130030900 +0000" stop="20251130034100 +0000" channel="HorizonSports.us@SD"><title lang="id">Inside Sailing 2025 - Episode 10</title></programme>
+<programme start="20251130034100 +0000" stop="20251130035100 +0000" channel="HorizonSports.us@SD"><title lang="id">GWA Wingfoil World Cup Cape Verde 2025</title></programme>
+<programme start="20251130035100 +0000" stop="20251130035500 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Armel Le Cl ac h E</title></programme>
+<programme start="20251130035500 +0000" stop="20251130042800 +0000" channel="HorizonSports.us@SD"><title lang="id">Inside Sailing 2025 - Episode 9</title></programme>
+<programme start="20251130042800 +0000" stop="20251130050100 +0000" channel="HorizonSports.us@SD"><title lang="id">Transat Jacques Vabre 2023 - Summary 2 Eng</title></programme>
+<programme start="20251130050100 +0000" stop="20251130051700 +0000" channel="HorizonSports.us@SD"><title lang="id">GKA Kite-Surf World Cup Cape Verde 2025</title></programme>
+<programme start="20251130051700 +0000" stop="20251130055000 +0000" channel="HorizonSports.us@SD"><title lang="id">Transat Jacques Vabre 2023 - Summary 1</title></programme>
+<programme start="20251130055000 +0000" stop="20251130060600 +0000" channel="HorizonSports.us@SD"><title lang="id">Ensis ENGADINWING WingFoil Racing World Cup Switzerland 2025</title></programme>
+<programme start="20251130060600 +0000" stop="20251130072200 +0000" channel="HorizonSports.us@SD"><title lang="id">All The Way Eng</title></programme>
+<programme start="20251130072200 +0000" stop="20251130072900 +0000" channel="HorizonSports.us@SD"><title lang="id">Pierra Menta 2025 3</title></programme>
+<programme start="20251130072900 +0000" stop="20251130082400 +0000" channel="HorizonSports.us@SD"><title lang="id">Aussie 8</title></programme>
+<programme start="20251130082400 +0000" stop="20251130084400 +0000" channel="HorizonSports.us@SD"><title lang="id">Expedition Antarctica of extreme sports woman Caro North</title></programme>
+<programme start="20251130084400 +0000" stop="20251130090200 +0000" channel="HorizonSports.us@SD"><title lang="id">Summiting Mt Sneffels in Colorado Eng</title></programme>
+<programme start="20251130090200 +0000" stop="20251130090500 +0000" channel="HorizonSports.us@SD"><title lang="id">Pierra Menta 2025 4</title></programme>
+<programme start="20251130090500 +0000" stop="20251130092300 +0000" channel="HorizonSports.us@SD"><title lang="id">Climbing Skye s Highest Peak - Sgurr Alasdair</title></programme>
+<programme start="20251130092300 +0000" stop="20251130092800 +0000" channel="HorizonSports.us@SD"><title lang="id">Pierra Menta 2025 2</title></programme>
+<programme start="20251130092800 +0000" stop="20251130094200 +0000" channel="HorizonSports.us@SD"><title lang="id">Monte Croce Dolomites Winter Hike</title></programme>
+<programme start="20251130094200 +0000" stop="20251130100200 +0000" channel="HorizonSports.us@SD"><title lang="id">Lekkarod 2025</title></programme>
+<programme start="20251130100200 +0000" stop="20251130102100 +0000" channel="HorizonSports.us@SD"><title lang="id">Margalef - Climbing</title></programme>
+<programme start="20251130102100 +0000" stop="20251130111400 +0000" channel="HorizonSports.us@SD"><title lang="id">Nine Mountains</title></programme>
+<programme start="20251130111400 +0000" stop="20251130113600 +0000" channel="HorizonSports.us@SD"><title lang="id">Dark Peak Fell Runners</title></programme>
+<programme start="20251130113600 +0000" stop="20251130114100 +0000" channel="HorizonSports.us@SD"><title lang="id">Nendaz Backcountry Invitational 2025</title></programme>
+<programme start="20251130114100 +0000" stop="20251130120000 +0000" channel="HorizonSports.us@SD"><title lang="id">Grand Teton Loop Eng</title></programme>
+<programme start="20251130120000 +0000" stop="20251130120200 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Gediminas Grinius</title></programme>
+<programme start="20251130120200 +0000" stop="20251130121500 +0000" channel="HorizonSports.us@SD"><title lang="id">Adamello Short Trail 35km 2025</title></programme>
+<programme start="20251130121500 +0000" stop="20251130121700 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Samantha Davies</title></programme>
+<programme start="20251130121700 +0000" stop="20251130122200 +0000" channel="HorizonSports.us@SD"><title lang="id">Ungrounded Episode 1 - Caroline Gleich</title></programme>
+<programme start="20251130122200 +0000" stop="20251130122500 +0000" channel="HorizonSports.us@SD"><title lang="id">Ungrounded Episode 4 - Sunny Stroeer F</title></programme>
+<programme start="20251130122500 +0000" stop="20251130140100 +0000" channel="HorizonSports.us@SD"><title lang="id">The High</title></programme>
+<programme start="20251130140100 +0000" stop="20251130143400 +0000" channel="HorizonSports.us@SD"><title lang="id">Marathon des Sables - The Legendary 2025 Eng</title></programme>
+<programme start="20251130143400 +0000" stop="20251130150300 +0000" channel="HorizonSports.us@SD"><title lang="id">Golden Trail World Series 2025 Race Recaps - Episode 9 Ledro Sky Trentino Eng</title></programme>
+<programme start="20251130150300 +0000" stop="20251130151100 +0000" channel="HorizonSports.us@SD"><title lang="id">Ungrounded Episode 1 - Caroline Gleich</title></programme>
+<programme start="20251130151100 +0000" stop="20251130151400 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Gediminas Grinius</title></programme>
+<programme start="20251130151400 +0000" stop="20251130151700 +0000" channel="HorizonSports.us@SD"><title lang="id">Ungrounded Episode 1 - Caroline Gleich</title></programme>
+<programme start="20251130151700 +0000" stop="20251130152900 +0000" channel="HorizonSports.us@SD"><title lang="id">Adamello Trail 100km 2025</title></programme>
+<programme start="20251130152900 +0000" stop="20251130155900 +0000" channel="HorizonSports.us@SD"><title lang="id">Norcha Eng</title></programme>
+<programme start="20251130155900 +0000" stop="20251130160300 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Samantha Davies</title></programme>
+<programme start="20251130160300 +0000" stop="20251130160600 +0000" channel="HorizonSports.us@SD"><title lang="id">The First Second - Gediminas Grinius</title></programme>
+<programme start="20251130160600 +0000" stop="20251130161500 +0000" channel="HorizonSports.us@SD"><title lang="id">Sardinia Trail 2025</title></programme>
+<programme start="20251130161500 +0000" stop="20251130164700 +0000" channel="HorizonSports.us@SD"><title lang="id">MDS 120 Cappadocia 2025 Eng</title></programme>
+<programme start="20251130164700 +0000" stop="20251130174500 +0000" channel="HorizonSports.us@SD"><title lang="id">Golden Trail World Series 2025 Season Recap - Unfinished Business Eng</title></programme>
 <programme start="20251129170000 +0000" stop="20251129180000 +0000" channel="idtv"><title lang="id">Berita Satu Sore</title></programme>
 <programme start="20251129180000 +0000" stop="20251129180300 +0000" channel="idtv"><title lang="id">Tanah Airku</title></programme>
 <programme start="20251129180300 +0000" stop="20251129190000 +0000" channel="idtv"><title lang="id">Ketulusan Hati</title></programme>
@@ -2309,28 +2244,8 @@
 <programme start="20251130141500 +0000" stop="20251130154500 +0000" channel="MAXStream.id@SD"><title lang="id">Tarzan Kota</title></programme>
 <programme start="20251130154500 +0000" stop="20251130163000 +0000" channel="MAXStream.id@SD"><title lang="id">Ckckck</title></programme>
 <programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="MAXStream.id@SD"><title lang="id">Bisik Hati Lara</title></programme>
-<programme start="20251129170000 +0000" stop="20251129190000 +0000" channel="MentariTV.id@SD"><title lang="id">Petualangan Mansyur</title></programme>
-<programme start="20251129190000 +0000" stop="20251129200000 +0000" channel="MentariTV.id@SD"><title lang="id">Oddbods</title></programme>
-<programme start="20251129200000 +0000" stop="20251129210000 +0000" channel="MentariTV.id@SD"><title lang="id">Petualangan Antiks &amp; Morphle</title></programme>
-<programme start="20251129210000 +0000" stop="20251129213000 +0000" channel="MentariTV.id@SD"><title lang="id">Cocomelon Eng</title></programme>
-<programme start="20251129213000 +0000" stop="20251129220000 +0000" channel="MentariTV.id@SD"><title lang="id">Baby Zu</title></programme>
-<programme start="20251129220000 +0000" stop="20251129230000 +0000" channel="MentariTV.id@SD"><title lang="id">Pororo And Tayo Songs</title></programme>
-<programme start="20251129230000 +0000" stop="20251130000000 +0000" channel="MentariTV.id@SD"><title lang="id">Blippi Wonders</title></programme>
-<programme start="20251130000000 +0000" stop="20251130010000 +0000" channel="MentariTV.id@SD"><title lang="id">Pinkfong &amp; Friends</title></programme>
-<programme start="20251130010000 +0000" stop="20251130013000 +0000" channel="MentariTV.id@SD"><title lang="id">Wakakibo Kids</title></programme>
-<programme start="20251130013000 +0000" stop="20251130023000 +0000" channel="MentariTV.id@SD"><title lang="id">Titipo Titipo 3</title></programme>
-<programme start="20251130023000 +0000" stop="20251130040000 +0000" channel="MentariTV.id@SD"><title lang="id">Katuri</title></programme>
-<programme start="20251130040000 +0000" stop="20251130060000 +0000" channel="MentariTV.id@SD"><title lang="id">Pororo, The Little Penguin</title></programme>
-<programme start="20251130060000 +0000" stop="20251130073000 +0000" channel="MentariTV.id@SD"><title lang="id">Rainbow Bubblegem</title></programme>
-<programme start="20251130073000 +0000" stop="20251130090000 +0000" channel="MentariTV.id@SD"><title lang="id">Bluey</title></programme>
-<programme start="20251130090000 +0000" stop="20251130103000 +0000" channel="MentariTV.id@SD"><title lang="id">Tian Tian</title></programme>
-<programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="MentariTV.id@SD"><title lang="id">Cipung Abubu</title></programme>
-<programme start="20251130110000 +0000" stop="20251130113000 +0000" channel="MentariTV.id@SD"><title lang="id">Bing</title></programme>
-<programme start="20251130113000 +0000" stop="20251130120000 +0000" channel="MentariTV.id@SD"><title lang="id">Magic 5 The Animation</title></programme>
-<programme start="20251130120000 +0000" stop="20251130140000 +0000" channel="MentariTV.id@SD"><title lang="id">Bioskop Keluarga Indonesia (Petualangan Si Hakka Kecil Di Fairyland)</title></programme>
-<programme start="20251130140000 +0000" stop="20251130153000 +0000" channel="MentariTV.id@SD"><title lang="id">Supa Strikas</title></programme>
-<programme start="20251130153000 +0000" stop="20251130163000 +0000" channel="MentariTV.id@SD"><title lang="id">Madun</title></programme>
-<programme start="20251130163000 +0000" stop="20251130173000 +0000" channel="MentariTV.id@SD"><title lang="id">Just For Laughs</title></programme>
+<programme start="20251130150000 +0000" stop="20251130163000 +0000" channel="MentariTV.id@SD"><title lang="id">Supa Strikas</title></programme>
+<programme start="20251130163000 +0000" stop="20251130173000 +0000" channel="MentariTV.id@SD"><title lang="id">Madun</title></programme>
 <programme start="20251129170000 +0000" stop="20251129170500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20251129170500 +0000" stop="20251129173000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Hari Ini</title></programme>
 <programme start="20251129173000 +0000" stop="20251129180000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Hari Ini</title></programme>
