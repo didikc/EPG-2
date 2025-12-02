@@ -1,80 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="ITV2.uk" site_id="64257#8325">ITV2</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="ITV3.uk" site_id="64257#8294">ITV3</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="ITV4.uk" site_id="64257#8330">ITV4</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="Channel4HD.uk" site_id="64257#17664">Channel 4 HD</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="Channel5HD.uk" site_id="64257#17728">Channel 5 HD</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="Film4.uk" site_id="64257#8385">Film4</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="More4.uk" site_id="64257#8442">More 4</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports1.uk" site_id="http://bds.tv/services/BT_763997">TNT Sports 1</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports1HD.uk" site_id="http://bds.tv/services/BT_763999">TNT Sports 1 HD</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports2.uk" site_id="http://bds.tv/services/BT_764001">TNT Sports 2</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports2HD.uk" site_id="http://bds.tv/services/BT_764003">TNT Sports 2 HD</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports3.uk" site_id="http://bds.tv/services/BT_768612">TNT Sports 3</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports3HD.uk" site_id="http://bds.tv/services/BT_768613">TNT Sports 3 HD</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports4.uk" site_id="http://bds.tv/services/BT_758465">TNT Sports 4</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports4HD.uk" site_id="http://bds.tv/services/BT_758466">TNT Sports 4 HD</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports5.uk" site_id="http://bds.tv/services/BT_767933">TNT Sports 5</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="TNTSports5HD.uk" site_id="http://bds.tv/services/BT_767454">TNT Sports 5 HD</channel>
-  <channel site="mytelly.co.uk" lang="en" xmltv_id="MUTVHD.uk" site_id="1896/mutv-hd">MUTV HD</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="BBCNews.uk" site_id="64257#4352">BBC NEWS</channel>
   <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyNews.uk" site_id="dvb://233a..5640">Sky News</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="Eurosport1.uk" site_id="http://bds.tv/services/BT_750611">Eurosport 1</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="Eurosport1HD.uk" site_id="http://bds.tv/services/BT_759079">Eurosport 1 HD</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="Eurosport2.uk" site_id="http://bds.tv/services/BT_750823">Eurosport 2</channel>
-  <channel site="player.ee.co.uk" lang="en" xmltv_id="Eurosport2HD.uk" site_id="http://bds.tv/services/BT_763478">Eurosport 2 HD</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#645e7828e1979c00087b75b4">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/gb#6401d85a49839300087b116c">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#64a3d96f060e830008af6745">MovieSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="DoveChannel.us" site_id="Stirr/all#externallinearfeed-01-28-2021-184530260-01-28-2021">Dove</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de8e0b3f5003f5d9f91">Dove</channel>
-  <channel site="i.mjh.nz" lang="de" xmltv_id="" site_id="SamsungTVPlus/at#ATBA2200008XN">Tennis Channel</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/gb#GBBA33000529G">Tennis Channel International</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="BritBoxMysteries.us" site_id="PlutoTV/us#60f5d389985a0c0007357304">BritBox Mysteries</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-639a0b83812b6c1429f7acd1">BritBox Mysteries</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="MovieSphere.us" site_id="Plex/all#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f">MOVIESPHERE</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/us#USBD1200007FE">OuterSphere</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a">OuterSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/us#USBD2500012DH">Ebony TV by Lionsgate</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-6533de63bd43e1c8b1865152">Ebony TV by Lionsgate</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0">HerSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/gb#GBBA33000557H">MovieSphere</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f">MOVIESPHERE</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec">Miramax Movie Channel</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-624c37af6281708eabbbe26b">ION</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9">ION Plus</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26">Ion Mystery</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="nz/epg#mjh-redbull-tv">Redbull TV</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/gb#GBBB3800003JH">Moviedome</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/gb#GBBA3300059BU">MyTime Movie Network</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/us#USBC3900018K6">MyTime Movie Network</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/ca#CAAJ40000077N">FilmRise Free Movies</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="KartoonChannel.us" site_id="PlutoTV/us#60fb040d4795a6000762fe8f">Kartoon Channel!</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#636adc255bcf470007d6e0e2">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#638e10220aa6a6000726979f">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/all#5e20b730f2f8d5003d739db7-6308f121ac9983739c8a29bd">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="beINSports1.id" site_id="6299">Bein 1</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="beINSports2.id" site_id="17875">Bein 2</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="beINSports3.id" site_id="6317">Bein 3</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV1.id" site_id="6685">CTV 1</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV2.id" site_id="6686">CTV 2</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV3.id" site_id="6786">CTV 3</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV5.id" site_id="9182">CTV 5</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTV6.id" site_id="9183">CTV 6</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="ChampionsTVEPL.id" site_id="9353">Premier League TV</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="SPOTV2.id" site_id="17140">SPOTV 2</channel>
-  <channel site="vidio.com" lang="id" xmltv_id="SPOTV.id" site_id="17139">SPOTV</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="CinemaxAsia.sg" site_id="6424">CINEMAX (HD)</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="HBOAsia.sg" site_id="6420">HBO HD</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="HBOFamilyAsia.sg" site_id="6422">HBO Family (HD)</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="HBOHitsAsia.sg" site_id="6423">HBO Hits (HD)</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="HBOSignatureAsia.sg" site_id="6421">HBO Signature (HD)</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="HITS.sg" site_id="5326">HITS (HD)</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="" site_id="5303">HITS NOW (HD)</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="HITSMovies.sg" site_id="6301">HITS Movies HD</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="" site_id="5310">ROCK Action On Demand (HD)</channel>
-  <channel site="singtel.com" lang="en" xmltv_id="ROCKEntertainment.sg" site_id="5318">ROCK Entertainment (HD)</channel>
   <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
 </channels>
