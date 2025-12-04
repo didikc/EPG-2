@@ -642,7 +642,8 @@
 <programme start="20251204080000 +0000" stop="20251204083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Merah Putih</title></programme>
 <programme start="20251204083000 +0000" stop="20251204103000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
 <programme start="20251204103000 +0000" stop="20251204110000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
-<programme start="20251204110000 +0000" stop="20251204130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20251204110000 +0000" stop="20251204120000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Spesial</title></programme>
+<programme start="20251204120000 +0000" stop="20251204130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
 <programme start="20251204130000 +0000" stop="20251204140000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
 <programme start="20251204140000 +0000" stop="20251204150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20251204150000 +0000" stop="20251204160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
@@ -980,22 +981,25 @@
 <programme start="20251204153000 +0000" stop="20251204160000 +0000" channel="CNBCAsia.sg@SD"><title lang="id">Squawk On The Street</title></programme>
 <programme start="20251204160000 +0000" stop="20251204163000 +0000" channel="CNBCAsia.sg@SD"><title lang="id">Money Movers</title></programme>
 <programme start="20251204163000 +0000" stop="20251204170000 +0000" channel="CNBCAsia.sg@SD"><title lang="id">Money Movers</title></programme>
-<programme start="20251203170000 +0000" stop="20251203190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
-<programme start="20251203190000 +0000" stop="20251203210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
-<programme start="20251203210000 +0000" stop="20251203213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251203170000 +0000" stop="20251203180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
+<programme start="20251203180000 +0000" stop="20251203203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Financial Forum 2025</title></programme>
+<programme start="20251203203000 +0000" stop="20251203213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
 <programme start="20251203213000 +0000" stop="20251203223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
-<programme start="20251203223000 +0000" stop="20251203230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Sustainable Future</title></programme>
-<programme start="20251203230000 +0000" stop="20251203233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20251203233000 +0000" stop="20251204003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz</title></programme>
+<programme start="20251203223000 +0000" stop="20251203230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
+<programme start="20251203230000 +0000" stop="20251203233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Mining Zone</title></programme>
+<programme start="20251203233000 +0000" stop="20251204003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra</title></programme>
 <programme start="20251204003000 +0000" stop="20251204010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20251204010000 +0000" stop="20251204030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20251204030000 +0000" stop="20251204045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
-<programme start="20251204045500 +0000" stop="20251204070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20251204030000 +0000" stop="20251204050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20251204050000 +0000" stop="20251204063000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">BNI Market Outlook 2025</title></programme>
+<programme start="20251204063000 +0000" stop="20251204070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
 <programme start="20251204070000 +0000" stop="20251204080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">The Business Of Elite Athletes</title></programme>
-<programme start="20251204080000 +0000" stop="20251204100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
-<programme start="20251204100000 +0000" stop="20251204110000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
-<programme start="20251204110000 +0000" stop="20251204120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Property Point</title></programme>
-<programme start="20251204120000 +0000" stop="20251204130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251204080000 +0000" stop="20251204083000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251204083000 +0000" stop="20251204100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
+<programme start="20251204100000 +0000" stop="20251204110500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20251204110500 +0000" stop="20251204120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Nation Hub - Live</title></programme>
+<programme start="20251204120000 +0000" stop="20251204123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251204123000 +0000" stop="20251204130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
 <programme start="20251204130000 +0000" stop="20251204150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
 <programme start="20251204150000 +0000" stop="20251204170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
 <programme start="20251203171500 +0000" stop="20251203174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
@@ -2889,6 +2893,40 @@
 <programme start="20251204153200 +0000" stop="20251204154100 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
 <programme start="20251204154100 +0000" stop="20251204160500 +0000" channel="newtvcomprehensive"><title lang="id">Food on the Plate</title></programme>
 <programme start="20251204160500 +0000" stop="20251204200000 +0000" channel="newtvcomprehensive"><title lang="id">Evening News</title></programme>
+<programme start="20251203172300 +0000" stop="20251203174900 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251203174900 +0000" stop="20251203181400 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251203181400 +0000" stop="20251203184000 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251203184000 +0000" stop="20251203190600 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251203190600 +0000" stop="20251203193300 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251203193300 +0000" stop="20251203195700 +0000" channel="newtvfinance"><title lang="id">Talks on Agriculture, Rural Areas, and Farmers</title></programme>
+<programme start="20251203195700 +0000" stop="20251203203900 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
+<programme start="20251203203900 +0000" stop="20251203212100 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
+<programme start="20251203212100 +0000" stop="20251203220300 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
+<programme start="20251203220300 +0000" stop="20251203224500 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
+<programme start="20251203224500 +0000" stop="20251204010000 +0000" channel="newtvfinance"><title lang="id">TIME No.1</title></programme>
+<programme start="20251204010000 +0000" stop="20251204023000 +0000" channel="newtvfinance"><title lang="id">Zhengdian Financial Column</title></programme>
+<programme start="20251204023000 +0000" stop="20251204030000 +0000" channel="newtvfinance"><title lang="id">Half-Hour Economy</title></programme>
+<programme start="20251204030000 +0000" stop="20251204033000 +0000" channel="newtvfinance"><title lang="id">Zhengdian Financial Column</title></programme>
+<programme start="20251204033000 +0000" stop="20251204040000 +0000" channel="newtvfinance"><title lang="id">Weekend Specials</title></programme>
+<programme start="20251204040000 +0000" stop="20251204050000 +0000" channel="newtvfinance"><title lang="id">The World Finance</title></programme>
+<programme start="20251204050000 +0000" stop="20251204060000 +0000" channel="newtvfinance"><title lang="id">Weekend Specials</title></programme>
+<programme start="20251204060000 +0000" stop="20251204063000 +0000" channel="newtvfinance"><title lang="id">Zhengdian Financial Column</title></programme>
+<programme start="20251204063000 +0000" stop="20251204070000 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251204070000 +0000" stop="20251204073000 +0000" channel="newtvfinance"><title lang="id">Zhengdian Financial Column</title></programme>
+<programme start="20251204073000 +0000" stop="20251204080000 +0000" channel="newtvfinance"><title lang="id">Make Money in a Proper Way</title></programme>
+<programme start="20251204080000 +0000" stop="20251204093000 +0000" channel="newtvfinance"><title lang="id">Zhengdian Financial Column</title></programme>
+<programme start="20251204093000 +0000" stop="20251204110000 +0000" channel="newtvfinance"><title lang="id">Weekend Specials</title></programme>
+<programme start="20251204110000 +0000" stop="20251204113000 +0000" channel="newtvfinance"><title lang="id">Make Money in a Proper Way</title></programme>
+<programme start="20251204113000 +0000" stop="20251204120000 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251204120000 +0000" stop="20251204123000 +0000" channel="newtvfinance"><title lang="id">Half-Hour Economy</title></programme>
+<programme start="20251204123000 +0000" stop="20251204133000 +0000" channel="newtvfinance"><title lang="id">Economic Information Broadcast</title></programme>
+<programme start="20251204133000 +0000" stop="20251204135400 +0000" channel="newtvfinance"><title lang="id">Talks on Agriculture, Rural Areas, and Farmers</title></programme>
+<programme start="20251204135400 +0000" stop="20251204141900 +0000" channel="newtvfinance"><title lang="id">Talks on Agriculture, Rural Areas, and Farmers</title></programme>
+<programme start="20251204141900 +0000" stop="20251204150200 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
+<programme start="20251204150200 +0000" stop="20251204154400 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
+<programme start="20251204154400 +0000" stop="20251204161000 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
+<programme start="20251204161000 +0000" stop="20251204165100 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
+<programme start="20251204165100 +0000" stop="20251204173200 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
 <programme start="20251203173700 +0000" stop="20251203185400 +0000" channel="newtvvariety"><title lang="id">Lucky Break</title></programme>
 <programme start="20251203185400 +0000" stop="20251203201100 +0000" channel="newtvvariety"><title lang="id">Lucky Break</title></programme>
 <programme start="20251203201100 +0000" stop="20251203212800 +0000" channel="newtvvariety"><title lang="id">Very 6+1</title></programme>
@@ -3542,7 +3580,7 @@
 <programme start="20251203200000 +0000" stop="20251203220000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 King&apos;s Cup Quarter Final</title></programme>
 <programme start="20251203220000 +0000" stop="20251204020000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 FIM ARRC Round 5 Malaysia</title></programme>
 <programme start="20251204020000 +0000" stop="20251204040000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 King&apos;s Cup Quarter Final</title></programme>
-<programme start="20251204040000 +0000" stop="20251204043000 +0000" channel="SPOTV2.id@SD"><title lang="id">SailGP: Racing on the Edge S5</title></programme>
+<programme start="20251204040000 +0000" stop="20251204043000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 Asian Tour Highlights</title></programme>
 <programme start="20251204043000 +0000" stop="20251204050000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 ALM Mini Match Rd 6</title></programme>
 <programme start="20251204050000 +0000" stop="20251204055500 +0000" channel="SPOTV2.id@SD"><title lang="id">WorldSBK 2025</title></programme>
 <programme start="20251204055500 +0000" stop="20251204070000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP eSports Championship 2025</title></programme>
@@ -3550,8 +3588,8 @@
 <programme start="20251204073000 +0000" stop="20251204093000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 King&apos;s Cup Quarter Final</title></programme>
 <programme start="20251204093000 +0000" stop="20251204103000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP eSports Championship 2025</title></programme>
 <programme start="20251204103000 +0000" stop="20251204113500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP eSports Championship 2025</title></programme>
-<programme start="20251204113500 +0000" stop="20251204130000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP eSports Championship 2025</title></programme>
-<programme start="20251204130000 +0000" stop="20251204163000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Star Contender Muscat 2025</title></programme>
+<programme start="20251204113500 +0000" stop="20251204130500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP eSports Championship 2025</title></programme>
+<programme start="20251204130500 +0000" stop="20251204163000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Star Contender Muscat 2025</title></programme>
 <programme start="20251204163000 +0000" stop="20251204180000 +0000" channel="SPOTV2.id@SD"><title lang="id">SailGP S5: UAE SailGP, Abu Dhabi</title></programme>
 <programme start="20251203180000 +0000" stop="20251203190000 +0000" channel="SPOTV.id@SD"><title lang="id">2025 WSX Championship Highlights: Rd1 Buenos Aires</title></programme>
 <programme start="20251203190000 +0000" stop="20251203194000 +0000" channel="SPOTV.id@SD"><title lang="id">2025 SLS Championship Tour Las Vegas: Women&apos;s Highlights</title></programme>
