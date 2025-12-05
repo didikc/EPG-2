@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251205">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -123,9 +123,9 @@
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251204170000 +0000" stop="20251204173500 +0000" channel="ABCAustralia.au@SD"><title lang="id">I Was Actually There - The Dismissal</title></programme>
 <programme start="20251204173500 +0000" stop="20251204180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Loving Gluten Free - Episode 6</title></programme>
 <programme start="20251204180000 +0000" stop="20251204190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 192</title></programme>
@@ -970,17 +970,19 @@
 <programme start="20251204210000 +0000" stop="20251204213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20251204213000 +0000" stop="20251204223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20251204223000 +0000" stop="20251204230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
-<programme start="20251204230000 +0000" stop="20251204233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20251204233000 +0000" stop="20251205010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251204230000 +0000" stop="20251204233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251204233000 +0000" stop="20251205003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Nation Hub</title></programme>
+<programme start="20251205003000 +0000" stop="20251205010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20251205010000 +0000" stop="20251205030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
 <programme start="20251205030000 +0000" stop="20251205045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
 <programme start="20251205045500 +0000" stop="20251205070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20251205070000 +0000" stop="20251205073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">The CNBC Debate</title></programme>
-<programme start="20251205073000 +0000" stop="20251205080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20251205070000 +0000" stop="20251205073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
+<programme start="20251205073000 +0000" stop="20251205080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
 <programme start="20251205080000 +0000" stop="20251205100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
-<programme start="20251205100000 +0000" stop="20251205120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Road To CNBC Indonesia Awards 2025 - Live</title></programme>
+<programme start="20251205100000 +0000" stop="20251205110500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20251205110500 +0000" stop="20251205120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Nation Hub - Live</title></programme>
 <programme start="20251205120000 +0000" stop="20251205123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251205123000 +0000" stop="20251205130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
+<programme start="20251205123000 +0000" stop="20251205130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
 <programme start="20251205130000 +0000" stop="20251205150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
 <programme start="20251205150000 +0000" stop="20251205170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
 <programme start="20251204171500 +0000" stop="20251204174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
@@ -4203,37 +4205,4 @@
 <programme start="20251205110000 +0000" stop="20251205133000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Raanjhnaa</title></programme>
 <programme start="20251205133000 +0000" stop="20251205163000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Kahaani 2: Durga Rani Singh</title></programme>
 <programme start="20251205163000 +0000" stop="20251205193000 +0000" channel="ZeeBioskop.id@SD"><title lang="id">Main Prem ki diwani hoon</title></programme>
-<programme start="20251204172000 +0000" stop="20251204173500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
-<programme start="20251204173500 +0000" stop="20251204175000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251204175000 +0000" stop="20251204184000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 28</title></programme>
-<programme start="20251204184000 +0000" stop="20251204192500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 29</title></programme>
-<programme start="20251204192500 +0000" stop="20251204201000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 30</title></programme>
-<programme start="20251204201000 +0000" stop="20251204214000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Keep Running - S13</title></programme>
-<programme start="20251204214000 +0000" stop="20251204222500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 22</title></programme>
-<programme start="20251204222500 +0000" stop="20251204231500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 23</title></programme>
-<programme start="20251204231500 +0000" stop="20251205000000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 24</title></programme>
-<programme start="20251205000000 +0000" stop="20251205002500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
-<programme start="20251205002500 +0000" stop="20251205012000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Amazing Zhejiang</title></programme>
-<programme start="20251205012000 +0000" stop="20251205013500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
-<programme start="20251205013500 +0000" stop="20251205015000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251205015000 +0000" stop="20251205024000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 28</title></programme>
-<programme start="20251205024000 +0000" stop="20251205032500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 29</title></programme>
-<programme start="20251205032500 +0000" stop="20251205041000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 30</title></programme>
-<programme start="20251205041000 +0000" stop="20251205054000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Keep Running - S13</title></programme>
-<programme start="20251205054000 +0000" stop="20251205062500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 22</title></programme>
-<programme start="20251205062500 +0000" stop="20251205071500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 23</title></programme>
-<programme start="20251205071500 +0000" stop="20251205080000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 24</title></programme>
-<programme start="20251205080000 +0000" stop="20251205082500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
-<programme start="20251205082500 +0000" stop="20251205092000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Amazing Zhejiang</title></programme>
-<programme start="20251205092000 +0000" stop="20251205093500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Prime Time</title></programme>
-<programme start="20251205093500 +0000" stop="20251205095000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Overseas Chinese</title></programme>
-<programme start="20251205095000 +0000" stop="20251205104000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 28</title></programme>
-<programme start="20251205104000 +0000" stop="20251205112500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 29</title></programme>
-<programme start="20251205112500 +0000" stop="20251205121000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">The Ordinary Glory - Eps. 30</title></programme>
-<programme start="20251205121000 +0000" stop="20251205134000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Keep Running - S13</title></programme>
-<programme start="20251205134000 +0000" stop="20251205142500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 22</title></programme>
-<programme start="20251205142500 +0000" stop="20251205151500 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 23</title></programme>
-<programme start="20251205151500 +0000" stop="20251205160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">All The Way to The Sun - Eps. 24</title></programme>
-<programme start="20251205160000 +0000" stop="20251205163000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Cartoon</title></programme>
-<programme start="20251205163000 +0000" stop="20251205170000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="id">Chinese Doctor Says</title></programme>
 </tv>
