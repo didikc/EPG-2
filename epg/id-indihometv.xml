@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251207">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
@@ -122,9 +123,8 @@
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251206170000 +0000" stop="20251206173000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Off Country - Episode 1</title></programme>
 <programme start="20251206173000 +0000" stop="20251206183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Great Australian Stuff - Food</title></programme>
 <programme start="20251206183000 +0000" stop="20251206190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World This Week - Episode 47</title></programme>
@@ -2905,7 +2905,8 @@
 <programme start="20251207143700 +0000" stop="20251207150200 +0000" channel="newtvcomprehensive"><title lang="id">Common Prosperity Guide</title></programme>
 <programme start="20251207150200 +0000" stop="20251207152300 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
 <programme start="20251207152300 +0000" stop="20251207155000 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
-<programme start="20251207155000 +0000" stop="20251207200000 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
+<programme start="20251207155000 +0000" stop="20251207161700 +0000" channel="newtvcomprehensive"><title lang="id">Human and Nature</title></programme>
+<programme start="20251207161700 +0000" stop="20251207200000 +0000" channel="newtvcomprehensive"><title lang="id">Evening News</title></programme>
 <programme start="20251206171600 +0000" stop="20251206175700 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
 <programme start="20251206175700 +0000" stop="20251206183800 +0000" channel="newtvfinance"><title lang="id">China Economic Lecture Hall</title></programme>
 <programme start="20251206183800 +0000" stop="20251206190400 +0000" channel="newtvfinance"><title lang="id">Consumption Proposition</title></programme>
@@ -3722,27 +3723,6 @@
 <programme start="20251207143000 +0000" stop="20251207154500 +0000" channel="Trans7.id@SD"><title lang="id">BTS</title></programme>
 <programme start="20251207154500 +0000" stop="20251207163000 +0000" channel="Trans7.id@SD"><title lang="id">The Police</title></programme>
 <programme start="20251207163000 +0000" stop="20251207181500 +0000" channel="Trans7.id@SD"><title lang="id">Theater : Pasukan Garuda - I Leave My Heart In Lebanon</title></programme>
-<programme start="20251206180000 +0000" stop="20251206184000 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20251206184000 +0000" stop="20251206200000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20251206200000 +0000" stop="20251206204000 +0000" channel="TransTV.id@SD"><title lang="id">Klinik Tendean</title></programme>
-<programme start="20251206204000 +0000" stop="20251206214000 +0000" channel="TransTV.id@SD"><title lang="id">Antara Cinta Dan Doa</title></programme>
-<programme start="20251206214000 +0000" stop="20251206220000 +0000" channel="TransTV.id@SD"><title lang="id">Celebrity On Vacation</title></programme>
-<programme start="20251206220000 +0000" stop="20251206233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
-<programme start="20251206233000 +0000" stop="20251207003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi</title></programme>
-<programme start="20251207003000 +0000" stop="20251207013000 +0000" channel="TransTV.id@SD"><title lang="id">Kajian Hati</title></programme>
-<programme start="20251207013000 +0000" stop="20251207033000 +0000" channel="TransTV.id@SD"><title lang="id">Ambyar In Weekend</title></programme>
-<programme start="20251207033000 +0000" stop="20251207043000 +0000" channel="TransTV.id@SD"><title lang="id">Insert</title></programme>
-<programme start="20251207043000 +0000" stop="20251207053000 +0000" channel="TransTV.id@SD"><title lang="id">Spill DD Tea</title></programme>
-<programme start="20251207053000 +0000" stop="20251207070000 +0000" channel="TransTV.id@SD"><title lang="id">Brownis On The Weekend</title></programme>
-<programme start="20251207070000 +0000" stop="20251207080000 +0000" channel="TransTV.id@SD"><title lang="id">Rumpi - No Secret</title></programme>
-<programme start="20251207080000 +0000" stop="20251207091500 +0000" channel="TransTV.id@SD"><title lang="id">Insert Investigasi</title></programme>
-<programme start="20251207091500 +0000" stop="20251207100000 +0000" channel="TransTV.id@SD"><title lang="id">Sehari Jadi Ratu</title></programme>
-<programme start="20251207100000 +0000" stop="20251207103000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20251207103000 +0000" stop="20251207114500 +0000" channel="TransTV.id@SD"><title lang="id">Bikin Laper</title></programme>
-<programme start="20251207114500 +0000" stop="20251207130000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Story</title></programme>
-<programme start="20251207130000 +0000" stop="20251207140000 +0000" channel="TransTV.id@SD"><title lang="id">Highlight</title></programme>
-<programme start="20251207140000 +0000" stop="20251207160000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV</title></programme>
-<programme start="20251207160000 +0000" stop="20251207180000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV</title></programme>
 <programme start="20251206182900 +0000" stop="20251206184300 +0000" channel="TV5MondeAsia.fr@SD"><title lang="id">Trajet De Nuit</title></programme>
 <programme start="20251206184300 +0000" stop="20251206190000 +0000" channel="TV5MondeAsia.fr@SD"><title lang="id">Les Petits Monstres</title></programme>
 <programme start="20251206190000 +0000" stop="20251206192300 +0000" channel="TV5MondeAsia.fr@SD"><title lang="id">64&apos; Actu</title></programme>
@@ -3989,26 +3969,26 @@
 <programme start="20251206180000 +0000" stop="20251206183000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20251206183000 +0000" stop="20251206190000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
 <programme start="20251206190000 +0000" stop="20251206200000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
-<programme start="20251206200000 +0000" stop="20251206203000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20251206203000 +0000" stop="20251206210000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20251206210000 +0000" stop="20251206213000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20251206213000 +0000" stop="20251206220000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20251206200000 +0000" stop="20251206203000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20251206203000 +0000" stop="20251206210000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20251206210000 +0000" stop="20251206213000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20251206213000 +0000" stop="20251206220000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20251206220000 +0000" stop="20251206223000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Jelajah Kopi</title></programme>
 <programme start="20251206223000 +0000" stop="20251206230000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spice Your Life</title></programme>
 <programme start="20251206230000 +0000" stop="20251207000000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
-<programme start="20251207000000 +0000" stop="20251207003000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20251207003000 +0000" stop="20251207010000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20251207000000 +0000" stop="20251207003000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20251207003000 +0000" stop="20251207010000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20251207010000 +0000" stop="20251207020000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Wonderful Yoga</title></programme>
 <programme start="20251207020000 +0000" stop="20251207023000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Hidden Wealth</title></programme>
 <programme start="20251207023000 +0000" stop="20251207030000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Asia News Week</title></programme>
 <programme start="20251207030000 +0000" stop="20251207033000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
-<programme start="20251207033000 +0000" stop="20251207040000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20251207033000 +0000" stop="20251207040000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Nusantara</title></programme>
 <programme start="20251207040000 +0000" stop="20251207043000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
 <programme start="20251207043000 +0000" stop="20251207050000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spice Your Life</title></programme>
 <programme start="20251207050000 +0000" stop="20251207060000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
-<programme start="20251207060000 +0000" stop="20251207063000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Holy Fish</title></programme>
+<programme start="20251207060000 +0000" stop="20251207063000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20251207063000 +0000" stop="20251207070000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Your World</title></programme>
-<programme start="20251207070000 +0000" stop="20251207073000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20251207070000 +0000" stop="20251207073000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Wildlife</title></programme>
 <programme start="20251207073000 +0000" stop="20251207080000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
 <programme start="20251207080000 +0000" stop="20251207083000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20251207083000 +0000" stop="20251207090000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
@@ -4016,7 +3996,7 @@
 <programme start="20251207093000 +0000" stop="20251207100000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spice Your Life</title></programme>
 <programme start="20251207100000 +0000" stop="20251207103000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20251207103000 +0000" stop="20251207110000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20251207110000 +0000" stop="20251207120000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Special Report</title></programme>
+<programme start="20251207110000 +0000" stop="20251207120000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
 <programme start="20251207120000 +0000" stop="20251207123000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
 <programme start="20251207123000 +0000" stop="20251207130000 +0000" channel="TVRIWorld.id@SD"><title lang="id">The Heritage</title></programme>
 <programme start="20251207130000 +0000" stop="20251207133000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Highlights</title></programme>
@@ -4025,7 +4005,7 @@
 <programme start="20251207143000 +0000" stop="20251207150000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Hidden Wealth</title></programme>
 <programme start="20251207150000 +0000" stop="20251207153000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20251207153000 +0000" stop="20251207160000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20251207160000 +0000" stop="20251207173000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
+<programme start="20251207160000 +0000" stop="20251207170000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
 <programme start="20251206170000 +0000" stop="20251206173000 +0000" channel="UChannel.id@SD"><title lang="id">Super Youth</title></programme>
 <programme start="20251206173000 +0000" stop="20251206180000 +0000" channel="UChannel.id@SD"><title lang="id">Pemulihan Bagi Anda</title></programme>
 <programme start="20251206180000 +0000" stop="20251206190000 +0000" channel="UChannel.id@SD"><title lang="id">Special Feature 1</title></programme>
