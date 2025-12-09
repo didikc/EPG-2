@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251209">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -121,10 +122,9 @@
 <channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251208173000 +0000" stop="20251208180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Field To Feast - Episode 9</title></programme>
 <programme start="20251208180000 +0000" stop="20251208190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 193</title></programme>
 <programme start="20251208190000 +0000" stop="20251208220000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast - Episode 245</title></programme>
@@ -1033,20 +1033,19 @@
 <programme start="20251208210000 +0000" stop="20251208213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20251208213000 +0000" stop="20251208223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20251208223000 +0000" stop="20251208230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
-<programme start="20251208233000 +0000" stop="20251209000000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz</title></programme>
-<programme start="20251209000000 +0000" stop="20251209003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251208230000 +0000" stop="20251208233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">A Minute Insight</title></programme>
+<programme start="20251208233000 +0000" stop="20251209003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Manufacture Check</title></programme>
 <programme start="20251209003000 +0000" stop="20251209010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20251209030000 +0000" stop="20251209045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
-<programme start="20251209045500 +0000" stop="20251209070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
-<programme start="20251209070000 +0000" stop="20251209073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
-<programme start="20251209073000 +0000" stop="20251209080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
-<programme start="20251209100000 +0000" stop="20251209110500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
-<programme start="20251209110500 +0000" stop="20251209120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Manufacture Check</title></programme>
+<programme start="20251209010000 +0000" stop="20251209030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
+<programme start="20251209030000 +0000" stop="20251209045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20251209045500 +0000" stop="20251209070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20251209070000 +0000" stop="20251209073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">CNBC Conversation</title></programme>
+<programme start="20251209073000 +0000" stop="20251209080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20251209080000 +0000" stop="20251209100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
+<programme start="20251209100000 +0000" stop="20251209110500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20251209110500 +0000" stop="20251209120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz - Live</title></programme>
 <programme start="20251209120000 +0000" stop="20251209123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251209123000 +0000" stop="20251209130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251209123000 +0000" stop="20251209130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Central Banking</title></programme>
 <programme start="20251209130000 +0000" stop="20251209150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
 <programme start="20251209150000 +0000" stop="20251209170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
 <programme start="20251208171500 +0000" stop="20251208174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
@@ -2363,15 +2362,15 @@
 <programme start="20251209000000 +0000" stop="20251209003000 +0000" channel="JTV.id@SD"><title lang="id">Badanamu</title></programme>
 <programme start="20251209003000 +0000" stop="20251209010000 +0000" channel="JTV.id@SD"><title lang="id">Bintang Kecil</title></programme>
 <programme start="20251209010000 +0000" stop="20251209013000 +0000" channel="JTV.id@SD"><title lang="id">Seni Pertunjukan</title></programme>
-<programme start="20251209013000 +0000" stop="20251209020000 +0000" channel="JTV.id@SD"><title lang="id">Bumdes DPMD</title></programme>
+<programme start="20251209013000 +0000" stop="20251209020000 +0000" channel="JTV.id@SD"><title lang="id">Alamku Keren</title></programme>
 <programme start="20251209020000 +0000" stop="20251209030000 +0000" channel="JTV.id@SD"><title lang="id">Musica Hits</title></programme>
 <programme start="20251209030000 +0000" stop="20251209040000 +0000" channel="JTV.id@SD"><title lang="id">Nusantara Kini</title></programme>
 <programme start="20251209040000 +0000" stop="20251209043000 +0000" channel="JTV.id@SD"><title lang="id">Mancing Mbois</title></programme>
 <programme start="20251209043000 +0000" stop="20251209050000 +0000" channel="JTV.id@SD"><title lang="id">Program Kesehatan Bio Netra</title></programme>
 <programme start="20251209050000 +0000" stop="20251209060000 +0000" channel="JTV.id@SD"><title lang="id">Stasiun Dangdut</title></programme>
-<programme start="20251209060000 +0000" stop="20251209063000 +0000" channel="JTV.id@SD"><title lang="id">Solusi Sehat Panas Dingin</title></programme>
+<programme start="20251209060000 +0000" stop="20251209063000 +0000" channel="JTV.id@SD"><title lang="id">Solusi Sehat Adem Panas</title></programme>
 <programme start="20251209063000 +0000" stop="20251209063300 +0000" channel="JTV.id@SD"><title lang="id">Berita Gress</title></programme>
-<programme start="20251209063300 +0000" stop="20251209070000 +0000" channel="JTV.id@SD"><title lang="id">Semangat Sehat</title></programme>
+<programme start="20251209063300 +0000" stop="20251209070000 +0000" channel="JTV.id@SD"><title lang="id">Solusi Sehat Adem Panas</title></programme>
 <programme start="20251209070000 +0000" stop="20251209073000 +0000" channel="JTV.id@SD"><title lang="id">Jatim Awan</title></programme>
 <programme start="20251209073000 +0000" stop="20251209080000 +0000" channel="JTV.id@SD"><title lang="id">Pojok Arena</title></programme>
 <programme start="20251209080000 +0000" stop="20251209083000 +0000" channel="JTV.id@SD"><title lang="id">Kanal Budaya</title></programme>
@@ -2384,11 +2383,11 @@
 <programme start="20251209110000 +0000" stop="20251209120000 +0000" channel="JTV.id@SD"><title lang="id">Hukum Ditengah Kita</title></programme>
 <programme start="20251209120000 +0000" stop="20251209130000 +0000" channel="JTV.id@SD"><title lang="id">Pojok Pitu</title></programme>
 <programme start="20251209130000 +0000" stop="20251209133000 +0000" channel="JTV.id@SD"><title lang="id">Program Kesehatan Healtik</title></programme>
-<programme start="20251209133000 +0000" stop="20251209140000 +0000" channel="JTV.id@SD"><title lang="id">Grahadi Untuk Negeri</title></programme>
+<programme start="20251209133000 +0000" stop="20251209140000 +0000" channel="JTV.id@SD"><title lang="id">Grahadi Untuk Negeri DPMD Jatim</title></programme>
 <programme start="20251209140000 +0000" stop="20251209150000 +0000" channel="JTV.id@SD"><title lang="id">Pojok Kampung</title></programme>
 <programme start="20251209150000 +0000" stop="20251209160000 +0000" channel="JTV.id@SD"><title lang="id">Nusantara Kini</title></programme>
-<programme start="20251209160000 +0000" stop="20251209163000 +0000" channel="JTV.id@SD"><title lang="id">Jurit Malam</title></programme>
-<programme start="20251209163000 +0000" stop="20251209170000 +0000" channel="JTV.id@SD"><title lang="id">Muter Lagu</title></programme>
+<programme start="20251209160000 +0000" stop="20251209163000 +0000" channel="JTV.id@SD"><title lang="id">Vitmen</title></programme>
+<programme start="20251209163000 +0000" stop="20251209170000 +0000" channel="JTV.id@SD"><title lang="id">Napak Tilas</title></programme>
 <programme start="20251208183000 +0000" stop="20251208190500 +0000" channel="KBSWorld.kr@SD"><title lang="id">Marie and Her Three Daddies</title></programme>
 <programme start="20251208190500 +0000" stop="20251208194500 +0000" channel="KBSWorld.kr@SD"><title lang="id">A Graceful Liar</title></programme>
 <programme start="20251208194500 +0000" stop="20251208210000 +0000" channel="KBSWorld.kr@SD"><title lang="id">Are You Human?</title></programme>
