@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251211">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
-<channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
-<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
-<channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
-<channel id="AllPlayEnt.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png"/><url>https://indihometv.com</url></channel>
-<channel id="UChannel.id@SD"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
+<channel id="ATV.id@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/uHcRd1t.png"/><url>https://indihometv.com</url></channel>
+<channel id="CartoonNetworkAsia.sg@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="DW.de@English"><display-name>DW (English)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://indihometv.com</url></channel>
+<channel id="MDTV.id@SD"><display-name>MDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="NBATV.us@SD"><display-name>NBA</display-name><icon src="https://i.postimg.cc/pVCJsCD5/nbatv.png"/><url>https://indihometv.com</url></channel>
+<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://indihometv.com</url></channel>
+<channel id="DuniaLain.id@SD"><display-name>Dunia Lain</display-name><icon src="https://i.imgur.com/XgIuU7M.png"/><url>https://indihometv.com</url></channel>
+<channel id="MyKidz.id@SD"><display-name>MyKidz</display-name><icon src="https://i.imgur.com/qzZFU6d.png"/><url>https://indihometv.com</url></channel>
+<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://indihometv.com</url></channel>
+<channel id="DuniaAnak.id@SD"><display-name>Dunia anak</display-name><icon src="https://i.imgur.com/pI76ufZ.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVMUI.id@SD"><display-name>MUI TV</display-name><icon src="https://i.imgur.com/vWtViyC.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRI.id@SD"><display-name>TVRI Nasional</display-name><icon src="https://i.postimg.cc/NM7W0n5k/tvri.png"/><url>https://indihometv.com</url></channel>
 <channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="tvNMoviesAsia.hk@SD"><display-name>TVN Movies</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://indihometv.com</url></channel>
@@ -40,16 +45,17 @@
 <channel id="newtvfinance"><display-name>New Tv Finance</display-name><url>https://indihometv.com</url></channel>
 <channel id="newtvcomprehensive"><display-name>New Tv Comprehensive</display-name><url>https://indihometv.com</url></channel>
 <channel id="CNA.sg@SD"><display-name>News Asia</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://indihometv.com</url></channel>
-<channel id="MDTV.id@SD"><display-name>MDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="NBATV.us@SD"><display-name>NBA</display-name><icon src="https://i.postimg.cc/pVCJsCD5/nbatv.png"/><url>https://indihometv.com</url></channel>
-<channel id="MyKidz.id@SD"><display-name>MyKidz</display-name><icon src="https://i.imgur.com/qzZFU6d.png"/><url>https://indihometv.com</url></channel>
-<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVMUI.id@SD"><display-name>MUI TV</display-name><icon src="https://i.imgur.com/vWtViyC.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://indihometv.com</url></channel>
+<channel id="ROCKExtreme.sg@SD"><display-name>Rock Action</display-name><icon src="https://i.imgur.com/3U1JpHm.png"/><url>https://indihometv.com</url></channel>
+<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"/><url>https://indihometv.com</url></channel>
 <channel id="MTVLive.uk@SD"><display-name>MTV Live</display-name><icon src="https://i.postimg.cc/V6dm2DJs/mtvlive.png"/><url>https://indihometv.com</url></channel>
 <channel id="MTATV.id@SD"><display-name>MTATV</display-name><icon src="https://i.imgur.com/3kGs7k0.png"/><url>https://indihometv.com</url></channel>
+<channel id="DiscoveryAsia.sg@SD"><display-name>Discovery Asia</display-name><icon src="https://i.imgur.com/foLICwL.png"/><url>https://indihometv.com</url></channel>
 <channel id="MQTV.id@SD"><display-name>MQTV</display-name><icon src="https://i.imgur.com/d8dQo6E.png"/><url>https://indihometv.com</url></channel>
 <channel id="moonbug"><display-name>Moonbug</display-name><url>https://indihometv.com</url></channel>
+<channel id="ROCKEntertainment.sg@SD"><display-name>Rock Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://indihometv.com</url></channel>
+<channel id="DiscoveryChannel.id@SD"><display-name>Discovery Channel</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://indihometv.com</url></channel>
 <channel id="SindoNewsTV.id@SD"><display-name>SINDO News TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/375px-SindoNewsTV_2023.png"/><url>https://indihometv.com</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
 <channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
@@ -83,17 +89,15 @@
 <channel id="FightSports.us@SD"><display-name>Fight Sport</display-name><icon src="https://i.imgur.com/nV55veq.png"/><url>https://indihometv.com</url></channel>
 <channel id="FashionTVAsia.fr@SD"><display-name>FashionTV</display-name><icon src="https://i.imgur.com/ucTh9tO.png"/><url>https://indihometv.com</url></channel>
 <channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/><url>https://indihometv.com</url></channel>
-<channel id="DW.de@English"><display-name>DW (English)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://indihometv.com</url></channel>
-<channel id="DuniaLain.id@SD"><display-name>Dunia Lain</display-name><icon src="https://i.imgur.com/XgIuU7M.png"/><url>https://indihometv.com</url></channel>
-<channel id="DuniaAnak.id@SD"><display-name>Dunia anak</display-name><icon src="https://i.imgur.com/pI76ufZ.png"/><url>https://indihometv.com</url></channel>
-<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"/><url>https://indihometv.com</url></channel>
-<channel id="DiscoveryAsia.sg@SD"><display-name>Discovery Asia</display-name><icon src="https://i.imgur.com/foLICwL.png"/><url>https://indihometv.com</url></channel>
-<channel id="DiscoveryChannel.id@SD"><display-name>Discovery Channel</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://indihometv.com</url></channel>
 <channel id="DaVinciAsia.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://indihometv.com</url></channel>
+<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="BloombergTV.us@Asia"><display-name>Bloomberg</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://indihometv.com</url></channel>
 <channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
 <channel id="CuriosityChannel.us@SD"><display-name>Curiosity</display-name><icon src="https://i.imgur.com/K0kZMYo.png"/><url>https://indihometv.com</url></channel>
+<channel id="BioskopIndonesia.id@SD"><display-name>Bioskop Indonesia</display-name><icon src="https://i.imgur.com/8gdyddg.png"/><url>https://indihometv.com</url></channel>
 <channel id="CrimePlusInvestigationAsia.sg@SD"><display-name>Crime Investigation</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/><url>https://indihometv.com</url></channel>
 <channel id="CNNInternational.us@AsiaPacific"><display-name>CNN International</display-name><icon src="https://i.imgur.com/dfxefQw.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
 <channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
 <channel id="CNBCAsia.sg@SD"><display-name>CNBC Asia</display-name><icon src="https://i.imgur.com/Mn8Rsup.png"/><url>https://indihometv.com</url></channel>
@@ -104,27 +108,23 @@
 <channel id="CelestialMoviesIndonesia.id@SD"><display-name>Celestial Movie</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://indihometv.com</url></channel>
 <channel id="CitraDrama.id@SD"><display-name>Citra Drama</display-name><icon src="https://i.imgur.com/lXhXwx7.png"/><url>https://indihometv.com</url></channel>
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://indihometv.com</url></channel>
-<channel id="CartoonNetworkAsia.sg@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://indihometv.com</url></channel>
-<channel id="ROCKExtreme.sg@SD"><display-name>Rock Action</display-name><icon src="https://i.imgur.com/3U1JpHm.png"/><url>https://indihometv.com</url></channel>
-<channel id="ROCKEntertainment.sg@SD"><display-name>Rock Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://indihometv.com</url></channel>
-<channel id="BloombergTV.us@Asia"><display-name>Bloomberg</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://indihometv.com</url></channel>
-<channel id="BioskopIndonesia.id@SD"><display-name>Bioskop Indonesia</display-name><icon src="https://i.imgur.com/8gdyddg.png"/><url>https://indihometv.com</url></channel>
+<channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="SPOTV2.id@SD"><display-name>SPOTV 2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://indihometv.com</url></channel>
+<channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="SPOTV.id@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/><url>https://indihometv.com</url></channel>
 <channel id="BaliTV.id@SD"><display-name>Bali TV</display-name><icon src="https://i.imgur.com/uH1Szme.png"/><url>https://indihometv.com</url></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="ATV.id@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/uHcRd1t.png"/><url>https://indihometv.com</url></channel>
-<channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://indihometv.com</url></channel>
-<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
+<channel id="UChannel.id@SD"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
+<channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
+<channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
+<channel id="AllPlayEnt.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251210173000 +0000" stop="20251210180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Landline - Episode 42</title></programme>
 <programme start="20251210180000 +0000" stop="20251210190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 195</title></programme>
 <programme start="20251210190000 +0000" stop="20251210220000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast - Episode 247</title></programme>
@@ -185,7 +185,7 @@
 <programme start="20251211100000 +0000" stop="20251211110000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
 <programme start="20251211110000 +0000" stop="20251211113000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
 <programme start="20251211113000 +0000" stop="20251211120000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
-<programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">A Very British Way of Torture</title></programme>
+<programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Russia&apos;s Shadow On Africa</title></programme>
 <programme start="20251211130000 +0000" stop="20251211140000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
 <programme start="20251211140000 +0000" stop="20251211143000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
 <programme start="20251211143000 +0000" stop="20251211150000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">The Listening Post</title></programme>
@@ -1031,19 +1031,18 @@
 <programme start="20251210190000 +0000" stop="20251210220000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Road To CNBC Indonesia Awards 2025</title></programme>
 <programme start="20251210220000 +0000" stop="20251210230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20251210230000 +0000" stop="20251210233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20251210233000 +0000" stop="20251211003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz</title></programme>
+<programme start="20251210233000 +0000" stop="20251211003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra</title></programme>
 <programme start="20251211003000 +0000" stop="20251211010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20251211010000 +0000" stop="20251211030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20251211030000 +0000" stop="20251211050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Coffee Morning: Tech &amp; Telco Edition</title></programme>
-<programme start="20251211050000 +0000" stop="20251211070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20251211030000 +0000" stop="20251211045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20251211045500 +0000" stop="20251211070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
 <programme start="20251211070000 +0000" stop="20251211073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Managing Asia</title></programme>
-<programme start="20251211073000 +0000" stop="20251211080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20251211073000 +0000" stop="20251211080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
 <programme start="20251211080000 +0000" stop="20251211100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
 <programme start="20251211100000 +0000" stop="20251211110500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
-<programme start="20251211110500 +0000" stop="20251211120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra - Live</title></programme>
-<programme start="20251211120000 +0000" stop="20251211130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251211130000 +0000" stop="20251211150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20251211150000 +0000" stop="20251211170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Coffee Morning: Tech &amp; Telco Edition</title></programme>
+<programme start="20251211110500 +0000" stop="20251211120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Nation Hub - Live</title></programme>
+<programme start="20251211120000 +0000" stop="20251211153000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">CNBC Indonesia Awards 2025 - Live</title></programme>
+<programme start="20251211153000 +0000" stop="20251211173000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
 <programme start="20251210171500 +0000" stop="20251210174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20251210174500 +0000" stop="20251210183000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi</title></programme>
 <programme start="20251210183000 +0000" stop="20251210194500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
@@ -2389,6 +2388,24 @@
 <programme start="20251211153500 +0000" stop="20251211154000 +0000" channel="KBSWorld.kr@SD"><title lang="id">The Best of Immortal Songs</title></programme>
 <programme start="20251211154000 +0000" stop="20251211165500 +0000" channel="KBSWorld.kr@SD"><title lang="id">Are You Human?</title></programme>
 <programme start="20251211165500 +0000" stop="20251211173500 +0000" channel="KBSWorld.kr@SD"><title lang="id">Are You Human?</title></programme>
+<programme start="20251210180500 +0000" stop="20251210192500 +0000" channel="KIX.hk@SD"><title lang="id">Iron Ball - Eps.2</title></programme>
+<programme start="20251210192500 +0000" stop="20251210210000 +0000" channel="KIX.hk@SD"><title lang="id">The Fate of Reunion</title></programme>
+<programme start="20251210210000 +0000" stop="20251210215500 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.8</title></programme>
+<programme start="20251210215500 +0000" stop="20251210233500 +0000" channel="KIX.hk@SD"><title lang="id">Night Walk</title></programme>
+<programme start="20251210233500 +0000" stop="20251211002500 +0000" channel="KIX.hk@SD"><title lang="id">The Ultimate BROcation - Eps.1</title></programme>
+<programme start="20251211002500 +0000" stop="20251211020500 +0000" channel="KIX.hk@SD"><title lang="id">Love Punch</title></programme>
+<programme start="20251211020500 +0000" stop="20251211032500 +0000" channel="KIX.hk@SD"><title lang="id">Iron Ball - Eps.2</title></programme>
+<programme start="20251211032500 +0000" stop="20251211050000 +0000" channel="KIX.hk@SD"><title lang="id">The Fate of Reunion</title></programme>
+<programme start="20251211050000 +0000" stop="20251211055500 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.8</title></programme>
+<programme start="20251211055500 +0000" stop="20251211073500 +0000" channel="KIX.hk@SD"><title lang="id">Night Walk</title></programme>
+<programme start="20251211073500 +0000" stop="20251211082500 +0000" channel="KIX.hk@SD"><title lang="id">The Ultimate BROcation - Eps.1</title></programme>
+<programme start="20251211082500 +0000" stop="20251211100500 +0000" channel="KIX.hk@SD"><title lang="id">Love Punch</title></programme>
+<programme start="20251211100500 +0000" stop="20251211112500 +0000" channel="KIX.hk@SD"><title lang="id">Iron Ball - Eps.2</title></programme>
+<programme start="20251211112500 +0000" stop="20251211130000 +0000" channel="KIX.hk@SD"><title lang="id">The Fate of Reunion</title></programme>
+<programme start="20251211130000 +0000" stop="20251211135500 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.9</title></programme>
+<programme start="20251211135500 +0000" stop="20251211152500 +0000" channel="KIX.hk@SD"><title lang="id">Kungfu Stuntmen</title></programme>
+<programme start="20251211152500 +0000" stop="20251211162500 +0000" channel="KIX.hk@SD"><title lang="id">The Ultimate BROcation - Eps.2</title></programme>
+<programme start="20251211162500 +0000" stop="20251211181500 +0000" channel="KIX.hk@SD"><title lang="id">Enter the Girl Dragon</title></programme>
 <programme start="20251210170000 +0000" stop="20251210180000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
 <programme start="20251210180000 +0000" stop="20251210193000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Petang</title></programme>
 <programme start="20251210193000 +0000" stop="20251210200000 +0000" channel="KompasTV.id@SD"><title lang="id">Indonesia Update</title></programme>
@@ -3616,18 +3633,17 @@
 <programme start="20251211143000 +0000" stop="20251211153000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">The Prime Show</title></programme>
 <programme start="20251211153000 +0000" stop="20251211163000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">Sindo Files</title></programme>
 <programme start="20251211163000 +0000" stop="20251211170000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">OMG</title></programme>
-<programme start="20251210170000 +0000" stop="20251210173000 +0000" channel="SPOTV2.id@SD"><title lang="id">SailGP: Racing on the Edge S5</title></programme>
-<programme start="20251210173000 +0000" stop="20251210213000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 FIM ARRC Round 6 Thailand</title></programme>
+<programme start="20251210172000 +0000" stop="20251210213000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 FIM ARRC Round 6 Thailand</title></programme>
 <programme start="20251210213000 +0000" stop="20251210220000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 Asian Tour Highlights</title></programme>
 <programme start="20251210220000 +0000" stop="20251211023000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Finals Hong Kong 2025</title></programme>
 <programme start="20251211023000 +0000" stop="20251211043000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 Women&apos;s Football Friendlies</title></programme>
 <programme start="20251211043000 +0000" stop="20251211053000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP eSports Championship 2025</title></programme>
 <programme start="20251211053000 +0000" stop="20251211063500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP eSports Championship 2025</title></programme>
 <programme start="20251211063500 +0000" stop="20251211080500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP eSports Championship 2025</title></programme>
-<programme start="20251211080500 +0000" stop="20251211100000 +0000" channel="SPOTV2.id@SD"><title lang="id">25/26 A-League Men Round 7</title></programme>
-<programme start="20251211100000 +0000" stop="20251211160000 +0000" channel="SPOTV2.id@SD"><title lang="id">MLB 2025 Postseason: WS Game 3</title></programme>
-<programme start="20251211160000 +0000" stop="20251211163000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 A-League Men Round 7</title></programme>
-<programme start="20251211163000 +0000" stop="20251211173000 +0000" channel="SPOTV2.id@SD"><title lang="id">SailGP S5: UAE SailGP, Abu Dhabi</title></programme>
+<programme start="20251211080500 +0000" stop="20251211100000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 7</title></programme>
+<programme start="20251211100000 +0000" stop="20251211154500 +0000" channel="SPOTV2.id@SD"><title lang="id">MLB 2025 Postseason: WS Game 3</title></programme>
+<programme start="20251211154500 +0000" stop="20251211161500 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 7</title></programme>
+<programme start="20251211161500 +0000" stop="20251211171500 +0000" channel="SPOTV2.id@SD"><title lang="id">SailGP S5: UAE SailGP, Abu Dhabi</title></programme>
 <programme start="20251210173000 +0000" stop="20251210180000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 7: Central Coast Mariners FC vs Sydney FC</title></programme>
 <programme start="20251210180000 +0000" stop="20251210193000 +0000" channel="SPOTV.id@SD"><title lang="id">Dhaka 2025 Asian Archery C&apos;ships: Recurve Teams</title></programme>
 <programme start="20251210193000 +0000" stop="20251210213000 +0000" channel="SPOTV.id@SD"><title lang="id">Dhaka 2025 Asian Archery C&apos;ships: Recurve Final Fours</title></programme>
