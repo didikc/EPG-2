@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251214">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
 <channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
 <channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
@@ -52,7 +53,6 @@
 <channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
 <channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20251213170000 +0000" stop="20251213180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20251213180000 +0000" stop="20251213183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20251213183000 +0000" stop="20251213190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -3188,6 +3188,32 @@
 <programme start="20251214160500 +0000" stop="20251214165950 +0000" channel="NET.id@SD"><title lang="id">Cheat On Me, If You Can</title></programme>
 <programme start="20251214165950 +0000" stop="20251214165959 +0000" channel="NET.id@SD"><title lang="id">Cheat On Me, If You Can</title></programme>
 <programme start="20251214170000 +0000" stop="20251214172000 +0000" channel="NET.id@SD"><title lang="id">Cheat On Me, If You Can</title></programme>
+<programme start="20251214170000 +0000" stop="20251214180000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251214180000 +0000" stop="20251214183000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251214183000 +0000" stop="20251214190000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251214190000 +0000" stop="20251214200000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251214200000 +0000" stop="20251214213000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251214213000 +0000" stop="20251214223000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251214223000 +0000" stop="20251214230000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251214230000 +0000" stop="20251214233000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251214233000 +0000" stop="20251215000000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215000000 +0000" stop="20251215010000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215010000 +0000" stop="20251215023000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215023000 +0000" stop="20251215030000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215030000 +0000" stop="20251215040000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215040000 +0000" stop="20251215043000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215043000 +0000" stop="20251215070000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215070000 +0000" stop="20251215080000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215080000 +0000" stop="20251215090000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215090000 +0000" stop="20251215100000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215100000 +0000" stop="20251215110000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215110000 +0000" stop="20251215113000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215113000 +0000" stop="20251215120000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215120000 +0000" stop="20251215140000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215140000 +0000" stop="20251215150000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215150000 +0000" stop="20251215160000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215160000 +0000" stop="20251215165950 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20251215165950 +0000" stop="20251215165959 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20251213170000 +0000" stop="20251213171000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
 <programme start="20251213171000 +0000" stop="20251213174000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK World Selection</title></programme>
 <programme start="20251213174000 +0000" stop="20251213175500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BOSAI</title></programme>
