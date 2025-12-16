@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251216">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -122,39 +122,42 @@
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<programme start="20251215173000 +0000" stop="20251215180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Field To Feast - Episode 10</title></programme>
-<programme start="20251215180000 +0000" stop="20251215190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 197</title></programme>
-<programme start="20251215190000 +0000" stop="20251215220000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast - Episode 250</title></programme>
-<programme start="20251215220000 +0000" stop="20251216010000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC News Mornings - Episode 250</title></programme>
-<programme start="20251216010000 +0000" stop="20251216020000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC News At Noon - Episode 250</title></programme>
-<programme start="20251216020000 +0000" stop="20251216023000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw - My Culture My Cuisine</title></programme>
-<programme start="20251216023000 +0000" stop="20251216030000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Australian Story - The Making of Mini - Katrina Gorry</title></programme>
-<programme start="20251216030000 +0000" stop="20251216033000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Eat The Invaders - Deer</title></programme>
-<programme start="20251216033000 +0000" stop="20251216040000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Built To Survive - Desert Dwellers</title></programme>
-<programme start="20251216040000 +0000" stop="20251216050000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Great Barrier Reef: A Living Treasu - Coral Coast</title></programme>
-<programme start="20251216050000 +0000" stop="20251216060000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Killer Whale: Australia&apos;s Megapod</title></programme>
-<programme start="20251216060000 +0000" stop="20251216063000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Back Roads - Naracoorte, SA</title></programme>
-<programme start="20251216063000 +0000" stop="20251216070000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Pacific Break Live from Fiji - Danielle</title></programme>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<programme start="20251215170500 +0000" stop="20251215173000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw</title></programme>
+<programme start="20251215173000 +0000" stop="20251215180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Field To Feast</title></programme>
+<programme start="20251215180000 +0000" stop="20251215190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast</title></programme>
+<programme start="20251215190000 +0000" stop="20251215220000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast</title></programme>
+<programme start="20251215220000 +0000" stop="20251216010000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC News Mornings</title></programme>
+<programme start="20251216010000 +0000" stop="20251216020000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC News At Noon</title></programme>
+<programme start="20251216020000 +0000" stop="20251216022500 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw</title></programme>
+<programme start="20251216022500 +0000" stop="20251216030000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Australian Story</title></programme>
+<programme start="20251216030000 +0000" stop="20251216032500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Eat The Invaders</title></programme>
+<programme start="20251216032500 +0000" stop="20251216035500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Built To Survive</title></programme>
+<programme start="20251216035500 +0000" stop="20251216044000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Great Barrier Reef: A Living Treasu</title></programme>
+<programme start="20251216044000 +0000" stop="20251216045500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Aussie Mavericks</title></programme>
+<programme start="20251216045500 +0000" stop="20251216060000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Killer Whale: Australia&apos;s Megapod</title></programme>
+<programme start="20251216060000 +0000" stop="20251216062500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Back Roads</title></programme>
+<programme start="20251216062500 +0000" stop="20251216070000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Pacific Break Live from Fiji</title></programme>
 <programme start="20251216070000 +0000" stop="20251216073000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw</title></programme>
-<programme start="20251216073000 +0000" stop="20251216080000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Australian Story - The Making of Mini - Katrina Gorry</title></programme>
-<programme start="20251216080000 +0000" stop="20251216083000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC National News - Episode 350</title></programme>
-<programme start="20251216083000 +0000" stop="20251216090000 +0000" channel="ABCAustralia.au@SD"><title lang="id">7.30 - Episode 198</title></programme>
-<programme start="20251216090000 +0000" stop="20251216093000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Eat The Invaders - Deer</title></programme>
-<programme start="20251216093000 +0000" stop="20251216100000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Built To Survive - Desert Dwellers</title></programme>
-<programme start="20251216100000 +0000" stop="20251216110000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 198</title></programme>
-<programme start="20251216110000 +0000" stop="20251216120000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Great Barrier Reef: A Living Treasu - Coral Coast</title></programme>
-<programme start="20251216120000 +0000" stop="20251216123000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC Late News - Episode 250</title></programme>
-<programme start="20251216123000 +0000" stop="20251216130000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Australian Story - The Making of Mini - Katrina Gorry</title></programme>
-<programme start="20251216130000 +0000" stop="20251216133000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC Late News - Episode 250</title></programme>
-<programme start="20251216133000 +0000" stop="20251216140000 +0000" channel="ABCAustralia.au@SD"><title lang="id">7.30 - Episode 198</title></programme>
-<programme start="20251216140000 +0000" stop="20251216150000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 198</title></programme>
-<programme start="20251216150000 +0000" stop="20251216153000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC Late News - Episode 250</title></programme>
-<programme start="20251216153000 +0000" stop="20251216160000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Eat The Invaders - Deer</title></programme>
-<programme start="20251216160000 +0000" stop="20251216163000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Built To Survive - Desert Dwellers</title></programme>
-<programme start="20251216163000 +0000" stop="20251216173000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Great Barrier Reef: A Living Treasu - Coral Coast</title></programme>
+<programme start="20251216073000 +0000" stop="20251216080000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Australian Story</title></programme>
+<programme start="20251216080000 +0000" stop="20251216083000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC National News</title></programme>
+<programme start="20251216083000 +0000" stop="20251216090000 +0000" channel="ABCAustralia.au@SD"><title lang="id">7.30</title></programme>
+<programme start="20251216090000 +0000" stop="20251216093000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Eat The Invaders</title></programme>
+<programme start="20251216093000 +0000" stop="20251216100000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Built To Survive</title></programme>
+<programme start="20251216100000 +0000" stop="20251216110000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World</title></programme>
+<programme start="20251216110000 +0000" stop="20251216114500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Great Barrier Reef: A Living Treasu</title></programme>
+<programme start="20251216114500 +0000" stop="20251216120000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Rural Flavours</title></programme>
+<programme start="20251216120000 +0000" stop="20251216123000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC Late News</title></programme>
+<programme start="20251216123000 +0000" stop="20251216130000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Australian Story</title></programme>
+<programme start="20251216130000 +0000" stop="20251216133000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC Late News</title></programme>
+<programme start="20251216133000 +0000" stop="20251216140000 +0000" channel="ABCAustralia.au@SD"><title lang="id">7.30</title></programme>
+<programme start="20251216140000 +0000" stop="20251216150000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World</title></programme>
+<programme start="20251216150000 +0000" stop="20251216151500 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC Late News</title></programme>
+<programme start="20251216151500 +0000" stop="20251216154500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Eat The Invaders</title></programme>
+<programme start="20251216154500 +0000" stop="20251216161000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Built To Survive</title></programme>
+<programme start="20251216161000 +0000" stop="20251216170000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Great Barrier Reef: A Living Treasu</title></programme>
 <programme start="20251215170000 +0000" stop="20251215173000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
 <programme start="20251215173000 +0000" stop="20251215180000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
 <programme start="20251215180000 +0000" stop="20251215190000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
@@ -195,36 +198,33 @@
 <programme start="20251216150000 +0000" stop="20251216160000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
 <programme start="20251216160000 +0000" stop="20251216163000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
 <programme start="20251216163000 +0000" stop="20251216170000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">A Sense of Community</title></programme>
-<programme start="20251215170000 +0000" stop="20251215181500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Melancholy Is A Movement</title></programme>
-<programme start="20251215181500 +0000" stop="20251215184500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Sajadah Terakhir</title></programme>
-<programme start="20251215184500 +0000" stop="20251215194500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Puasin</title></programme>
-<programme start="20251215194500 +0000" stop="20251215201500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Meet The Expert</title></programme>
+<programme start="20251215170000 +0000" stop="20251215190000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Mariposa</title></programme>
+<programme start="20251215190000 +0000" stop="20251215194500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">K-Ajja</title></programme>
+<programme start="20251215194500 +0000" stop="20251215201500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Lelah Menjadi Lillah</title></programme>
 <programme start="20251215201500 +0000" stop="20251215204500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Ini Dia</title></programme>
-<programme start="20251215204500 +0000" stop="20251215211500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Trip Among Rans</title></programme>
-<programme start="20251215211500 +0000" stop="20251215220000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Vidi-O-Call</title></programme>
-<programme start="20251215220000 +0000" stop="20251215223000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Masak Enak</title></programme>
-<programme start="20251215223000 +0000" stop="20251215233000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Coming Home</title></programme>
+<programme start="20251215204500 +0000" stop="20251215211500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Glints Expert Class</title></programme>
+<programme start="20251215211500 +0000" stop="20251215220000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Apose Boss Baru S3</title></programme>
+<programme start="20251215220000 +0000" stop="20251215223000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Sweet</title></programme>
+<programme start="20251215223000 +0000" stop="20251215233000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Puasin</title></programme>
 <programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Ini Dia</title></programme>
-<programme start="20251216000000 +0000" stop="20251216010000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Super Bestie</title></programme>
+<programme start="20251216000000 +0000" stop="20251216010000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Cooking &amp; Cooqueen</title></programme>
 <programme start="20251216010000 +0000" stop="20251216020000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Brownies</title></programme>
 <programme start="20251216020000 +0000" stop="20251216030000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Ikatan Cinta</title></programme>
 <programme start="20251216030000 +0000" stop="20251216040000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Arisan</title></programme>
 <programme start="20251216040000 +0000" stop="20251216050000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Puasin</title></programme>
-<programme start="20251216050000 +0000" stop="20251216054500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Batavia Z</title></programme>
+<programme start="20251216050000 +0000" stop="20251216054500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Apose Boss Baru S3</title></programme>
 <programme start="20251216054500 +0000" stop="20251216060000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Indonesia Dalam 15 Menit</title></programme>
 <programme start="20251216060000 +0000" stop="20251216070000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Rumpi (No Secret)</title></programme>
-<programme start="20251216070000 +0000" stop="20251216081500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Melancholy Is A Movement</title></programme>
-<programme start="20251216081500 +0000" stop="20251216084500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Sajadah Terakhir</title></programme>
-<programme start="20251216084500 +0000" stop="20251216093000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Jajan Terus</title></programme>
+<programme start="20251216070000 +0000" stop="20251216090000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Mariposa</title></programme>
+<programme start="20251216090000 +0000" stop="20251216093000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Lelah Menjadi Lillah</title></programme>
 <programme start="20251216093000 +0000" stop="20251216101500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Minisoccer Super League</title></programme>
-<programme start="20251216101500 +0000" stop="20251216110000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Julid Oh Julid</title></programme>
+<programme start="20251216101500 +0000" stop="20251216110000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Jajan Terus</title></programme>
 <programme start="20251216110000 +0000" stop="20251216113000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Ini Dia</title></programme>
-<programme start="20251216113000 +0000" stop="20251216121500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Dia Angkasa</title></programme>
-<programme start="20251216121500 +0000" stop="20251216130000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Apose Boss Baru S3</title></programme>
+<programme start="20251216113000 +0000" stop="20251216121500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Brata S1</title></programme>
+<programme start="20251216121500 +0000" stop="20251216130000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Ckckck</title></programme>
 <programme start="20251216130000 +0000" stop="20251216140000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Ikatan Cinta</title></programme>
-<programme start="20251216140000 +0000" stop="20251216151500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Melancholy Is A Movement</title></programme>
-<programme start="20251216151500 +0000" stop="20251216154500 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Sajadah Terakhir</title></programme>
-<programme start="20251216154500 +0000" stop="20251216170000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Waktunya Srimulat Bercyanda</title></programme>
+<programme start="20251216140000 +0000" stop="20251216160000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Mariposa</title></programme>
+<programme start="20251216160000 +0000" stop="20251216170000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Apose Boss Baru S3</title></programme>
 <programme start="20251215174500 +0000" stop="20251215184000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Wild Wild Bunch S1 - Eps. 2</title></programme>
 <programme start="20251215184000 +0000" stop="20251215193500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Zambia Untamed S1 - Eps. 3</title></programme>
 <programme start="20251215193500 +0000" stop="20251215203000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Pit Bulls &amp; Parolees S10 - Eps. 21</title></programme>
@@ -1029,32 +1029,24 @@
 <programme start="20251216153000 +0000" stop="20251216160000 +0000" channel="CNBCAsia.sg@SD"><title lang="id">Squawk On The Street</title></programme>
 <programme start="20251216160000 +0000" stop="20251216163000 +0000" channel="CNBCAsia.sg@SD"><title lang="id">Money Movers</title></programme>
 <programme start="20251216163000 +0000" stop="20251216170000 +0000" channel="CNBCAsia.sg@SD"><title lang="id">Money Movers</title></programme>
-<programme start="20251215170000 +0000" stop="20251215173000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20251215173000 +0000" stop="20251215180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
-<programme start="20251215180000 +0000" stop="20251215183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
-<programme start="20251215183000 +0000" stop="20251215190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
-<programme start="20251215190000 +0000" stop="20251215193000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
-<programme start="20251215193000 +0000" stop="20251215200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
-<programme start="20251215200000 +0000" stop="20251215203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20251215203000 +0000" stop="20251215210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20251215210000 +0000" stop="20251215213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251215213000 +0000" stop="20251215220000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20251215220000 +0000" stop="20251215223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20251215223000 +0000" stop="20251215230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20251215230000 +0000" stop="20251215233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra</title></programme>
-<programme start="20251215233000 +0000" stop="20251216000000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz</title></programme>
-<programme start="20251216000000 +0000" stop="20251216003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251215170000 +0000" stop="20251215190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
+<programme start="20251215190000 +0000" stop="20251215210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
+<programme start="20251215210000 +0000" stop="20251215213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251215213000 +0000" stop="20251215223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
+<programme start="20251215223000 +0000" stop="20251215230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251215230000 +0000" stop="20251215233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20251215233000 +0000" stop="20251216003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Manufacture Check</title></programme>
 <programme start="20251216003000 +0000" stop="20251216010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20251216010000 +0000" stop="20251216030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
 <programme start="20251216030000 +0000" stop="20251216045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
 <programme start="20251216045500 +0000" stop="20251216070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20251216070000 +0000" stop="20251216073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
-<programme start="20251216073000 +0000" stop="20251216080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251216070000 +0000" stop="20251216073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Managing Asia</title></programme>
+<programme start="20251216073000 +0000" stop="20251216080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;S Bite</title></programme>
 <programme start="20251216080000 +0000" stop="20251216100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
 <programme start="20251216100000 +0000" stop="20251216110500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
-<programme start="20251216110500 +0000" stop="20251216120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Manufacture Check - Live</title></programme>
+<programme start="20251216110500 +0000" stop="20251216120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz - Live</title></programme>
 <programme start="20251216120000 +0000" stop="20251216123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251216123000 +0000" stop="20251216130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Fundamental Pundit</title></programme>
+<programme start="20251216123000 +0000" stop="20251216130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Managing Asia</title></programme>
 <programme start="20251216130000 +0000" stop="20251216150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
 <programme start="20251216150000 +0000" stop="20251216170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
 <programme start="20251215171500 +0000" stop="20251215174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
@@ -2358,7 +2350,7 @@
 <programme start="20251216163000 +0000" stop="20251216170000 +0000" channel="JawaPosTV.id@SD"><title lang="id">Dragon Man</title></programme>
 <programme start="20251215170000 +0000" stop="20251215170300 +0000" channel="JTV.id@SD"><title lang="id">Lagu Bagimu Negeri</title></programme>
 <programme start="20251215170300 +0000" stop="20251215170800 +0000" channel="JTV.id@SD"><title lang="id">Station Id Jtv</title></programme>
-<programme start="20251215170800 +0000" stop="20251215180000 +0000" channel="JTV.id@SD"><title lang="id">Napak Tilas</title></programme>
+<programme start="20251215170800 +0000" stop="20251215180000 +0000" channel="JTV.id@SD"><title lang="id">Ampun Digoyang</title></programme>
 <programme start="20251215180000 +0000" stop="20251215190000 +0000" channel="JTV.id@SD"><title lang="id">Musica Hits</title></programme>
 <programme start="20251215190000 +0000" stop="20251215200000 +0000" channel="JTV.id@SD"><title lang="id">Stasiun Dangdut</title></programme>
 <programme start="20251215200000 +0000" stop="20251215210000 +0000" channel="JTV.id@SD"><title lang="id">Ilir Ilir</title></programme>
@@ -2387,10 +2379,10 @@
 <programme start="20251216093000 +0000" stop="20251216100000 +0000" channel="JTV.id@SD"><title lang="id">Program Kesehatan Pro Sifa</title></programme>
 <programme start="20251216100000 +0000" stop="20251216103000 +0000" channel="JTV.id@SD"><title lang="id">Program Kesehatan Visospect</title></programme>
 <programme start="20251216103000 +0000" stop="20251216110000 +0000" channel="JTV.id@SD"><title lang="id">Program Kesehatan Maduxbio</title></programme>
-<programme start="20251216110000 +0000" stop="20251216120000 +0000" channel="JTV.id@SD"><title lang="id">Hukum Ditengah Kita</title></programme>
+<programme start="20251216110000 +0000" stop="20251216120000 +0000" channel="JTV.id@SD"><title lang="id">Spesial Event Unesa</title></programme>
 <programme start="20251216120000 +0000" stop="20251216130000 +0000" channel="JTV.id@SD"><title lang="id">Pojok Pitu</title></programme>
 <programme start="20251216130000 +0000" stop="20251216133000 +0000" channel="JTV.id@SD"><title lang="id">Program Kesehatan Healtik</title></programme>
-<programme start="20251216133000 +0000" stop="20251216140000 +0000" channel="JTV.id@SD"><title lang="id">Grahadi Untuk Negeri DPMD Jatim</title></programme>
+<programme start="20251216133000 +0000" stop="20251216140000 +0000" channel="JTV.id@SD"><title lang="id">Grahadi Untuk Negeri</title></programme>
 <programme start="20251216140000 +0000" stop="20251216150000 +0000" channel="JTV.id@SD"><title lang="id">Pojok Kampung</title></programme>
 <programme start="20251216150000 +0000" stop="20251216160000 +0000" channel="JTV.id@SD"><title lang="id">Nusantara Kini</title></programme>
 <programme start="20251216160000 +0000" stop="20251216163000 +0000" channel="JTV.id@SD"><title lang="id">Vitmen</title></programme>
@@ -2464,25 +2456,6 @@
 <programme start="20251216150000 +0000" stop="20251216160000 +0000" channel="KompasTV.id@SD"><title lang="id">B-Talk</title></programme>
 <programme start="20251216160000 +0000" stop="20251216163000 +0000" channel="KompasTV.id@SD"><title lang="id">Berkas Kompas</title></programme>
 <programme start="20251216163000 +0000" stop="20251216170000 +0000" channel="KompasTV.id@SD"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20251215173000 +0000" stop="20251215184500 +0000" channel="KPlus.sg@SD"><title lang="id">Unlock My Boss - Eps. 12</title></programme>
-<programme start="20251215184500 +0000" stop="20251215200000 +0000" channel="KPlus.sg@SD"><title lang="id">Strong Woman Do Bong Soon - Eps. 2</title></programme>
-<programme start="20251215200000 +0000" stop="20251215211500 +0000" channel="KPlus.sg@SD"><title lang="id">Don&apos;t Call Me Ma&apos;am - Eps. 11</title></programme>
-<programme start="20251215211500 +0000" stop="20251215223000 +0000" channel="KPlus.sg@SD"><title lang="id">The Beauty Inside - Eps. 1</title></programme>
-<programme start="20251215223000 +0000" stop="20251215234500 +0000" channel="KPlus.sg@SD"><title lang="id">The Beauty Inside - Eps. 2</title></programme>
-<programme start="20251215234500 +0000" stop="20251216010000 +0000" channel="KPlus.sg@SD"><title lang="id">Ms. Hammurabi - Eps. 12</title></programme>
-<programme start="20251216010000 +0000" stop="20251216023000 +0000" channel="KPlus.sg@SD"><title lang="id">Korean Lunch Tray - Eps. 21</title></programme>
-<programme start="20251216023000 +0000" stop="20251216034500 +0000" channel="KPlus.sg@SD"><title lang="id">Don&apos;t Call Me Ma&apos;am - Eps. 11</title></programme>
-<programme start="20251216034500 +0000" stop="20251216050000 +0000" channel="KPlus.sg@SD"><title lang="id">Strong Woman Do Bong Soon - Eps. 2</title></programme>
-<programme start="20251216050000 +0000" stop="20251216061500 +0000" channel="KPlus.sg@SD"><title lang="id">The Beauty Inside - Eps. 1</title></programme>
-<programme start="20251216061500 +0000" stop="20251216073000 +0000" channel="KPlus.sg@SD"><title lang="id">The Beauty Inside - Eps. 2</title></programme>
-<programme start="20251216073000 +0000" stop="20251216091500 +0000" channel="KPlus.sg@SD"><title lang="id">Knowing Bros - Eps. 506</title></programme>
-<programme start="20251216091500 +0000" stop="20251216103000 +0000" channel="KPlus.sg@SD"><title lang="id">Don&apos;t Call Me Ma&apos;am - Eps. 11</title></programme>
-<programme start="20251216103000 +0000" stop="20251216120000 +0000" channel="KPlus.sg@SD"><title lang="id">Korean Lunch Tray - Eps. 21</title></programme>
-<programme start="20251216120000 +0000" stop="20251216123000 +0000" channel="KPlus.sg@SD"><title lang="id">Top Management - Eps. 1</title></programme>
-<programme start="20251216123000 +0000" stop="20251216131500 +0000" channel="KPlus.sg@SD"><title lang="id">Top Management - Eps. 2</title></programme>
-<programme start="20251216131500 +0000" stop="20251216143000 +0000" channel="KPlus.sg@SD"><title lang="id">Strong Woman Do Bong Soon - Eps. 3</title></programme>
-<programme start="20251216143000 +0000" stop="20251216154500 +0000" channel="KPlus.sg@SD"><title lang="id">Don&apos;t Call Me Ma&apos;am - Eps. 12</title></programme>
-<programme start="20251216154500 +0000" stop="20251216170000 +0000" channel="KPlus.sg@SD"><title lang="id">The Beauty Inside - Eps. 1</title></programme>
 <programme start="20251215181000 +0000" stop="20251215184000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Pet Telling - Eps. 3</title></programme>
 <programme start="20251215184000 +0000" stop="20251215202000 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Don&apos;t Scream, It&apos;s Me</title></programme>
 <programme start="20251215202000 +0000" stop="20251215220500 +0000" channel="LifetimeAsia.us@SD"><title lang="id">Murdaugh Murders: The Movie - Part 2</title></programme>
@@ -3673,16 +3646,13 @@
 <programme start="20251216163000 +0000" stop="20251216170000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">OMG</title></programme>
 <programme start="20251215170000 +0000" stop="20251215180000 +0000" channel="SPOTV2.id@SD"><title lang="id">Supercars: Thrifty Sydney 500</title></programme>
 <programme start="20251215180000 +0000" stop="20251215220000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Finals Hong Kong 2025</title></programme>
-<programme start="20251215220000 +0000" stop="20251216000000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 8</title></programme>
+<programme start="20251215220000 +0000" stop="20251216000000 +0000" channel="SPOTV2.id@SD"><title lang="id">25/26 A-League Men Round 8</title></programme>
 <programme start="20251216000000 +0000" stop="20251216023000 +0000" channel="SPOTV2.id@SD"><title lang="id">MLB 2025 Postseason: WS Game 2</title></programme>
-<programme start="20251216023000 +0000" stop="20251216030000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 7</title></programme>
+<programme start="20251216023000 +0000" stop="20251216030000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 ALM Mini Match Rd 7</title></programme>
 <programme start="20251216030000 +0000" stop="20251216040000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 MotoGP Season Review</title></programme>
-<programme start="20251216040000 +0000" stop="20251216043000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 7</title></programme>
-<programme start="20251216043000 +0000" stop="20251216063000 +0000" channel="SPOTV2.id@SD"><title lang="id">Golf: 2025 GTOUR</title></programme>
-<programme start="20251216063000 +0000" stop="20251216070000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 7</title></programme>
-<programme start="20251216070000 +0000" stop="20251216113000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Finals Hong Kong 2025</title></programme>
-<programme start="20251216113000 +0000" stop="20251216150000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Finals Hong Kong 2025</title></programme>
-<programme start="20251216150000 +0000" stop="20251216170000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 8</title></programme>
+<programme start="20251216040000 +0000" stop="20251216060000 +0000" channel="SPOTV2.id@SD"><title lang="id">Golf: 2025 GTOUR</title></programme>
+<programme start="20251216060000 +0000" stop="20251216122000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Finals Hong Kong 2025</title></programme>
+<programme start="20251216122000 +0000" stop="20251216170000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Finals Hong Kong 2025</title></programme>
 <programme start="20251215180000 +0000" stop="20251215183000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 8: Perth Glory vs Sydney FC</title></programme>
 <programme start="20251215183000 +0000" stop="20251215223000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 Asian Le Mans Series, Sepang: Race 1</title></programme>
 <programme start="20251215223000 +0000" stop="20251216023000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 Asian Le Mans Series, Sepang: Race 2</title></programme>
@@ -3824,8 +3794,7 @@
 <programme start="20251216154500 +0000" stop="20251216163000 +0000" channel="Trans7.id@SD"><title lang="id">The Police</title></programme>
 <programme start="20251216163000 +0000" stop="20251216171500 +0000" channel="Trans7.id@SD"><title lang="id">Newstainment</title></programme>
 <programme start="20251215170000 +0000" stop="20251215190000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - Reprisal</title></programme>
-<programme start="20251215190000 +0000" stop="20251215193000 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20251215193000 +0000" stop="20251215201000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
+<programme start="20251215190000 +0000" stop="20251215201000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
 <programme start="20251215201000 +0000" stop="20251215210000 +0000" channel="TransTV.id@SD"><title lang="id">Klinik Tendean</title></programme>
 <programme start="20251215210000 +0000" stop="20251215214000 +0000" channel="TransTV.id@SD"><title lang="id">Amara: Sahabat Langit</title></programme>
 <programme start="20251215214000 +0000" stop="20251215220000 +0000" channel="TransTV.id@SD"><title lang="id">Cerita Di Balik Hijab</title></programme>
