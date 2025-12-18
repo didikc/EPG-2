@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251218">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
 <channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
@@ -125,6 +124,7 @@
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251217173000 +0000" stop="20251217180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">How Deadly World</title></programme>
 <programme start="20251217180000 +0000" stop="20251217190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World</title></programme>
 <programme start="20251217190000 +0000" stop="20251217220000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast</title></programme>
@@ -1146,6 +1146,44 @@
 <programme start="20251218140000 +0000" stop="20251218150000 +0000" channel="CuriosityChannel.us@SD"><title lang="id">Titans of Defense</title></programme>
 <programme start="20251218150000 +0000" stop="20251218160000 +0000" channel="CuriosityChannel.us@SD"><title lang="id">Deep Time History</title></programme>
 <programme start="20251218160000 +0000" stop="20251218170000 +0000" channel="CuriosityChannel.us@SD"><title lang="id">Ticket to the Future - The Evolution of Travel</title></programme>
+<programme start="20251217170000 +0000" stop="20251217190000 +0000" channel="DAAITV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251217190000 +0000" stop="20251217210000 +0000" channel="DAAITV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251217210000 +0000" stop="20251217220000 +0000" channel="DAAITV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251217220000 +0000" stop="20251217223000 +0000" channel="DAAITV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251217223000 +0000" stop="20251217230000 +0000" channel="DAAITV.id@SD"><title lang="id">Music Video Galeri Hijau</title></programme>
+<programme start="20251217230000 +0000" stop="20251217231500 +0000" channel="DAAITV.id@SD"><title lang="id">DAAI Inspirasi</title></programme>
+<programme start="20251217231500 +0000" stop="20251217233000 +0000" channel="DAAITV.id@SD"><title lang="id">Lentera Kehidupan</title></programme>
+<programme start="20251217233000 +0000" stop="20251217234500 +0000" channel="DAAITV.id@SD"><title lang="id">Master Cheng Yen Bercerita</title></programme>
+<programme start="20251217234500 +0000" stop="20251218000000 +0000" channel="DAAITV.id@SD"><title lang="id">Kartun Petualangan Xiao Li Zi</title></programme>
+<programme start="20251218000000 +0000" stop="20251218003000 +0000" channel="DAAITV.id@SD"><title lang="id">dr. Panda</title></programme>
+<programme start="20251218003000 +0000" stop="20251218010000 +0000" channel="DAAITV.id@SD"><title lang="id">Poppy Cat</title></programme>
+<programme start="20251218010000 +0000" stop="20251218013000 +0000" channel="DAAITV.id@SD"><title lang="id">Clifford</title></programme>
+<programme start="20251218013000 +0000" stop="20251218020000 +0000" channel="DAAITV.id@SD"><title lang="id">Peace of mind</title></programme>
+<programme start="20251218020000 +0000" stop="20251218023000 +0000" channel="DAAITV.id@SD"><title lang="id">Bumiku Satu</title></programme>
+<programme start="20251218023000 +0000" stop="20251218030000 +0000" channel="DAAITV.id@SD"><title lang="id">Dapur Mama</title></programme>
+<programme start="20251218030000 +0000" stop="20251218040000 +0000" channel="DAAITV.id@SD"><title lang="id">Bincang Sehati</title></programme>
+<programme start="20251218040000 +0000" stop="20251218050000 +0000" channel="DAAITV.id@SD"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
+<programme start="20251218050000 +0000" stop="20251218060000 +0000" channel="DAAITV.id@SD"><title lang="id">Halo Indonesia</title></programme>
+<programme start="20251218060000 +0000" stop="20251218063000 +0000" channel="DAAITV.id@SD"><title lang="id">Tips n Trik</title></programme>
+<programme start="20251218063000 +0000" stop="20251218070000 +0000" channel="DAAITV.id@SD"><title lang="id">at Jakarta</title></programme>
+<programme start="20251218070000 +0000" stop="20251218073000 +0000" channel="DAAITV.id@SD"><title lang="id">Bingkai Sumatera</title></programme>
+<programme start="20251218073000 +0000" stop="20251218080000 +0000" channel="DAAITV.id@SD"><title lang="id">Sehat Ala Timur</title></programme>
+<programme start="20251218080000 +0000" stop="20251218090000 +0000" channel="DAAITV.id@SD"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
+<programme start="20251218090000 +0000" stop="20251218093000 +0000" channel="DAAITV.id@SD"><title lang="id">Keliling Dunia Anak</title></programme>
+<programme start="20251218093000 +0000" stop="20251218094500 +0000" channel="DAAITV.id@SD"><title lang="id">Funsciene</title></programme>
+<programme start="20251218094500 +0000" stop="20251218100000 +0000" channel="DAAITV.id@SD"><title lang="id">Pablo</title></programme>
+<programme start="20251218100000 +0000" stop="20251218103000 +0000" channel="DAAITV.id@SD"><title lang="id">Clifford</title></programme>
+<programme start="20251218103000 +0000" stop="20251218110000 +0000" channel="DAAITV.id@SD"><title lang="id">Poppy Cat</title></programme>
+<programme start="20251218110000 +0000" stop="20251218113000 +0000" channel="DAAITV.id@SD"><title lang="id">dr. Panda</title></programme>
+<programme start="20251218113000 +0000" stop="20251218120000 +0000" channel="DAAITV.id@SD"><title lang="id">Dapur Mama</title></programme>
+<programme start="20251218120000 +0000" stop="20251218123000 +0000" channel="DAAITV.id@SD"><title lang="id">Potret</title></programme>
+<programme start="20251218123000 +0000" stop="20251218130000 +0000" channel="DAAITV.id@SD"><title lang="id">Pelindung Alam</title></programme>
+<programme start="20251218130000 +0000" stop="20251218140000 +0000" channel="DAAITV.id@SD"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
+<programme start="20251218140000 +0000" stop="20251218150000 +0000" channel="DAAITV.id@SD"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
+<programme start="20251218150000 +0000" stop="20251218151500 +0000" channel="DAAITV.id@SD"><title lang="id">Lentera Kehidupan</title></programme>
+<programme start="20251218151500 +0000" stop="20251218153000 +0000" channel="DAAITV.id@SD"><title lang="id">DAAI Inspirasi</title></programme>
+<programme start="20251218153000 +0000" stop="20251218160000 +0000" channel="DAAITV.id@SD"><title lang="id">Pelindung Alam</title></programme>
+<programme start="20251218160000 +0000" stop="20251218170000 +0000" channel="DAAITV.id@SD"><title lang="id">Halo Indonesia</title></programme>
 <programme start="20251217170000 +0000" stop="20251217172100 +0000" channel="DaVinciAsia.de@SD"><title lang="id">Kedutaan Hewan</title></programme>
 <programme start="20251217172100 +0000" stop="20251217172400 +0000" channel="DaVinciAsia.de@SD"><title lang="id">ScienceXplosion</title></programme>
 <programme start="20251217172400 +0000" stop="20251217173000 +0000" channel="DaVinciAsia.de@SD"><title lang="id">ScienceXplosion</title></programme>
@@ -2364,6 +2402,24 @@
 <programme start="20251218154000 +0000" stop="20251218162000 +0000" channel="KBSWorld.kr@SD"><title lang="id">Are You Human?</title></programme>
 <programme start="20251218162000 +0000" stop="20251218165500 +0000" channel="KBSWorld.kr@SD"><title lang="id">Are You Human?</title></programme>
 <programme start="20251218165500 +0000" stop="20251218173500 +0000" channel="KBSWorld.kr@SD"><title lang="id">Are You Human?</title></programme>
+<programme start="20251217172000 +0000" stop="20251217183000 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.2</title></programme>
+<programme start="20251217183000 +0000" stop="20251217192000 +0000" channel="KIX.hk@SD"><title lang="id">The Ultimate BROcation - Eps.5</title></programme>
+<programme start="20251217192000 +0000" stop="20251217210000 +0000" channel="KIX.hk@SD"><title lang="id">Iron Ball - Eps.9</title></programme>
+<programme start="20251217210000 +0000" stop="20251217223500 +0000" channel="KIX.hk@SD"><title lang="id">The Monkey is Back</title></programme>
+<programme start="20251217223500 +0000" stop="20251217234500 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.1</title></programme>
+<programme start="20251217234500 +0000" stop="20251218012000 +0000" channel="KIX.hk@SD"><title lang="id">Fierce Cop</title></programme>
+<programme start="20251218012000 +0000" stop="20251218023000 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.2</title></programme>
+<programme start="20251218023000 +0000" stop="20251218032000 +0000" channel="KIX.hk@SD"><title lang="id">The Ultimate BROcation - Eps.5</title></programme>
+<programme start="20251218032000 +0000" stop="20251218050000 +0000" channel="KIX.hk@SD"><title lang="id">Iron Ball - Eps.9</title></programme>
+<programme start="20251218050000 +0000" stop="20251218063500 +0000" channel="KIX.hk@SD"><title lang="id">The Monkey is Back</title></programme>
+<programme start="20251218063500 +0000" stop="20251218074500 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.1</title></programme>
+<programme start="20251218074500 +0000" stop="20251218092000 +0000" channel="KIX.hk@SD"><title lang="id">Fierce Cop</title></programme>
+<programme start="20251218092000 +0000" stop="20251218103000 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.2</title></programme>
+<programme start="20251218103000 +0000" stop="20251218112000 +0000" channel="KIX.hk@SD"><title lang="id">The Ultimate BROcation - Eps.5</title></programme>
+<programme start="20251218112000 +0000" stop="20251218130000 +0000" channel="KIX.hk@SD"><title lang="id">Iron Ball - Eps.9</title></programme>
+<programme start="20251218130000 +0000" stop="20251218143500 +0000" channel="KIX.hk@SD"><title lang="id">Iron Kung Fu Fist</title></programme>
+<programme start="20251218143500 +0000" stop="20251218153500 +0000" channel="KIX.hk@SD"><title lang="id">10 Fight 10 Season 3 - Eps.3</title></programme>
+<programme start="20251218153500 +0000" stop="20251218171500 +0000" channel="KIX.hk@SD"><title lang="id">Night Walk</title></programme>
 <programme start="20251217170000 +0000" stop="20251217180000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
 <programme start="20251217180000 +0000" stop="20251217193000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Petang</title></programme>
 <programme start="20251217193000 +0000" stop="20251217200000 +0000" channel="KompasTV.id@SD"><title lang="id">Indonesia Update</title></programme>
