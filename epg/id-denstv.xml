@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251219">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
-<channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
+<channel id="TV5MondeStyle.fr@SD"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
+<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://i.postimg.cc/prRQTsmD/nhkworldjapan.png"/><url>https://dens.tv</url></channel>
+<channel id="MagnaChannel.id@SD"><display-name>Magna Channel</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://dens.tv</url></channel>
+<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://i.imgur.com/u8N6uoj.png"/><url>https://dens.tv</url></channel>
+<channel id="TVRISport.id@SD"><display-name>TVRI Sport</display-name><icon src="https://i.postimg.cc/PrqBt2h1/tvrisport.png"/><url>https://dens.tv</url></channel>
+<channel id="DensFoodChannel.id@SD"><display-name>DensFood Channel</display-name><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
 <channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
 <channel id="131"><display-name>Berita Satu</display-name><url>https://dens.tv</url></channel>
 <channel id="DanceTelevision.nl@SD"><display-name>Dance TV</display-name><icon src="https://i.postimg.cc/nLQHQCnV/dancetelevision.png"/><url>https://dens.tv</url></channel>
 <channel id="StingrayClassica.ca@SD"><display-name>Stingray Classica</display-name><icon src="https://i.imgur.com/nh1k5RC.png"/><url>https://dens.tv</url></channel>
 <channel id="127"><display-name>Crema TV</display-name><url>https://dens.tv</url></channel>
-<channel id="MagnaChannel.id@SD"><display-name>Magna Channel</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://dens.tv</url></channel>
-<channel id="TVRISport.id@SD"><display-name>TVRI Sport</display-name><icon src="https://i.postimg.cc/PrqBt2h1/tvrisport.png"/><url>https://dens.tv</url></channel>
-<channel id="DensFoodChannel.id@SD"><display-name>DensFood Channel</display-name><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://dens.tv</url></channel>
+<channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://dens.tv</url></channel>
 <channel id="JakTV.id@SD"><display-name>Jak tv</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://dens.tv</url></channel>
 <channel id="MyCinemaAsia.id@SD"><display-name>My Cinema Asia</display-name><icon src="https://i.imgur.com/4XVZLW0.png"/><url>https://dens.tv</url></channel>
+<channel id="tvNAsia.hk@SD"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="DensPlay.id@SD"><display-name>DensPlay</display-name><url>https://dens.tv</url></channel>
 <channel id="FREEDOM.ua@SD"><display-name>FREEDOM</display-name><icon src="https://i.postimg.cc/vHnV7HXB/freedom.png"/><url>https://dens.tv</url></channel>
 <channel id="DensShowBiz.id@SD"><display-name>DensShowBiz</display-name><url>https://dens.tv</url></channel>
@@ -32,27 +37,22 @@
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="WION.in@SD"><display-name>WION</display-name><icon src="https://i.imgur.com/Wc5Z3iS.png"/><url>https://dens.tv</url></channel>
 <channel id="TBN.ru@SD"><display-name>TBN</display-name><icon src="https://i.imgur.com/XAmPtWu.png"/><url>https://dens.tv</url></channel>
-<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://i.postimg.cc/prRQTsmD/nhkworldjapan.png"/><url>https://dens.tv</url></channel>
-<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://i.imgur.com/u8N6uoj.png"/><url>https://dens.tv</url></channel>
-<channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://dens.tv</url></channel>
-<channel id="tvNAsia.hk@SD"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
 <channel id="tvNMoviesAsia.hk@SD"><display-name>tvN Movies HD</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://dens.tv</url></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="ROCKAction.sg@SD"><display-name>ROCK Action</display-name><icon src="https://i.imgur.com/l6lmlqG.png"/><url>https://dens.tv</url></channel>
 <channel id="DensLifeStyle.id@SD"><display-name>DensLife&amp;Style</display-name><url>https://dens.tv</url></channel>
 <channel id="TRTWorld.tr@SD"><display-name>TRT World</display-name><icon src="https://i.postimg.cc/pLBgJ42h/trtworld.png"/><url>https://dens.tv</url></channel>
 <channel id="ROCKEntertainment.sg@SD"><display-name>ROCK Entertainment HD</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://dens.tv</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>ANIPLUS HD</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://dens.tv</url></channel>
-<channel id="TV5MondeStyle.fr@SD"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://dens.tv</url></channel>
-<channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
-<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
 <programme start="20251218170000 +0000" stop="20251218180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20251218180000 +0000" stop="20251218183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20251218183000 +0000" stop="20251218190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -289,6 +289,19 @@
 <programme start="20251220122600 +0000" stop="20251220151300 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
 <programme start="20251220151300 +0000" stop="20251220165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title></programme>
 <programme start="20251220165950 +0000" stop="20251220165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title></programme>
+<programme start="20251220170000 +0000" stop="20251220185300 +0000" channel="143"><title lang="id">Abraham Inc. - Live</title><desc lang="id">Feat. David Krakauer, Fred Wesley &amp; Socalled, jewish music, jazz and funk are mixed at Jazz Ã  la Villette.</desc></programme>
+<programme start="20251220185300 +0000" stop="20251220204200 +0000" channel="143"><title lang="id">Manou Gallo - Live at Moods</title><desc lang="id">The &quot;Afro Groove Queen&quot; mixes funk with world music live at Moods in Zurich.</desc></programme>
+<programme start="20251220204200 +0000" stop="20251220221100 +0000" channel="143"><title lang="id">Jungle By Night â€“ Pelpass Festival</title><desc lang="id">The dutch band was inspired by afrobeat to create this unique brand of funky, rhythmic and colorful jazz!</desc></programme>
+<programme start="20251220221100 +0000" stop="20251220230000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20251220230000 +0000" stop="20251221005300 +0000" channel="143"><title lang="id">Abraham Inc. - Live</title><desc lang="id">Feat. David Krakauer, Fred Wesley &amp; Socalled, jewish music, jazz and funk are mixed at Jazz Ã  la Villette.</desc></programme>
+<programme start="20251221005300 +0000" stop="20251221024200 +0000" channel="143"><title lang="id">Manou Gallo - Live at Moods</title><desc lang="id">The &quot;Afro Groove Queen&quot; mixes funk with world music live at Moods in Zurich.</desc></programme>
+<programme start="20251221024200 +0000" stop="20251221040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title><desc lang="id">&quot;This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music&quot; - Quincy Jones</desc></programme>
+<programme start="20251221040000 +0000" stop="20251221064400 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20251221064400 +0000" stop="20251221093300 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
+<programme start="20251221093300 +0000" stop="20251221121900 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title><desc lang="id">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!</desc></programme>
+<programme start="20251221121900 +0000" stop="20251221150700 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
+<programme start="20251221150700 +0000" stop="20251221165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20251221165950 +0000" stop="20251221165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
 <programme start="20251218170000 +0000" stop="20251218173000 +0000" channel="144"><title lang="id">Headline News</title><desc lang="id">Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc></programme>
 <programme start="20251218173000 +0000" stop="20251218180000 +0000" channel="144"><title lang="id">Cross Talk</title><desc lang="id">Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc></programme>
 <programme start="20251218180000 +0000" stop="20251218183000 +0000" channel="144"><title lang="id">Headline News</title><desc lang="id">Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc></programme>
@@ -1427,9 +1440,8 @@
 <programme start="20251220050000 +0000" stop="20251220060000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
 <programme start="20251220060000 +0000" stop="20251220063000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
 <programme start="20251220063000 +0000" stop="20251220070000 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
-<programme start="20251220070000 +0000" stop="20251220080000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
-<programme start="20251220080000 +0000" stop="20251220100000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Bewokin</title></programme>
-<programme start="20251220100000 +0000" stop="20251220103000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
+<programme start="20251220070000 +0000" stop="20251220083000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
+<programme start="20251220083000 +0000" stop="20251220103000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Bewokin</title></programme>
 <programme start="20251220103000 +0000" stop="20251220110000 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
 <programme start="20251220110000 +0000" stop="20251220120000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20251220120000 +0000" stop="20251220130000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
@@ -1440,24 +1452,20 @@
 <programme start="20251220230000 +0000" stop="20251221010000 +0000" channel="DensPlay.id@SD"><title lang="id">Valoverse</title></programme>
 <programme start="20251221010000 +0000" stop="20251221013000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
 <programme start="20251221013000 +0000" stop="20251221020000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
-<programme start="20251221020000 +0000" stop="20251221023000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
-<programme start="20251221023000 +0000" stop="20251221030000 +0000" channel="DensPlay.id@SD"><title lang="id">Alter Ego Esports</title></programme>
-<programme start="20251221030000 +0000" stop="20251221040000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
-<programme start="20251221040000 +0000" stop="20251221050000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
-<programme start="20251221050000 +0000" stop="20251221060000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
-<programme start="20251221060000 +0000" stop="20251221063000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
+<programme start="20251221020000 +0000" stop="20251221030000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
+<programme start="20251221030000 +0000" stop="20251221043000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
+<programme start="20251221043000 +0000" stop="20251221053000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
+<programme start="20251221053000 +0000" stop="20251221063000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20251221063000 +0000" stop="20251221070000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
-<programme start="20251221070000 +0000" stop="20251221073000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
-<programme start="20251221073000 +0000" stop="20251221080000 +0000" channel="DensPlay.id@SD"><title lang="id">Alter Ego Esports</title></programme>
+<programme start="20251221070000 +0000" stop="20251221080000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
 <programme start="20251221080000 +0000" stop="20251221100000 +0000" channel="DensPlay.id@SD"><title lang="id">Valoverse</title></programme>
 <programme start="20251221100000 +0000" stop="20251221103000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
 <programme start="20251221103000 +0000" stop="20251221110000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
-<programme start="20251221110000 +0000" stop="20251221113000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
-<programme start="20251221113000 +0000" stop="20251221120000 +0000" channel="DensPlay.id@SD"><title lang="id">Alter Ego Esports</title></programme>
+<programme start="20251221110000 +0000" stop="20251221120000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
 <programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
-<programme start="20251221130000 +0000" stop="20251221140000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
-<programme start="20251221140000 +0000" stop="20251221150000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
-<programme start="20251221150000 +0000" stop="20251221165959 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Mayli</title></programme>
+<programme start="20251221130000 +0000" stop="20251221143000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
+<programme start="20251221143000 +0000" stop="20251221160000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
+<programme start="20251221160000 +0000" stop="20251221165959 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Mayli</title></programme>
 <programme start="20251218230000 +0000" stop="20251219000000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 2</title></programme>
 <programme start="20251219000000 +0000" stop="20251219010000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
 <programme start="20251219010000 +0000" stop="20251219021000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
@@ -1499,9 +1507,9 @@
 <programme start="20251220140000 +0000" stop="20251220150000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Mora Show by Ruang Cinema</title></programme>
 <programme start="20251220150000 +0000" stop="20251220165959 +0000" channel="DensShowBiz.id@SD"><title lang="id">LA Indie Movies</title></programme>
 <programme start="20251220230000 +0000" stop="20251221000000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour</title></programme>
-<programme start="20251221000000 +0000" stop="20251221010000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
-<programme start="20251221010000 +0000" stop="20251221020000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 3</title></programme>
-<programme start="20251221020000 +0000" stop="20251221030000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
+<programme start="20251221000000 +0000" stop="20251221010700 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
+<programme start="20251221010700 +0000" stop="20251221020500 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 3</title></programme>
+<programme start="20251221020500 +0000" stop="20251221030000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
 <programme start="20251221030000 +0000" stop="20251221040000 +0000" channel="DensShowBiz.id@SD"><title lang="id">All Event Liputan</title></programme>
 <programme start="20251221040000 +0000" stop="20251221050000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour - All Performance</title></programme>
 <programme start="20251221050000 +0000" stop="20251221060000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Mora Show by Ruang Cinema</title></programme>
@@ -1510,13 +1518,13 @@
 <programme start="20251221080000 +0000" stop="20251221083000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Kelam</title></programme>
 <programme start="20251221083000 +0000" stop="20251221090000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Amnesia Romansa</title></programme>
 <programme start="20251221090000 +0000" stop="20251221100000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour</title></programme>
-<programme start="20251221100000 +0000" stop="20251221110000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
-<programme start="20251221110000 +0000" stop="20251221120000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 3</title></programme>
-<programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
+<programme start="20251221100000 +0000" stop="20251221110700 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
+<programme start="20251221110700 +0000" stop="20251221120500 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 3</title></programme>
+<programme start="20251221120500 +0000" stop="20251221130000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
 <programme start="20251221130000 +0000" stop="20251221133000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Petaka</title></programme>
-<programme start="20251221133000 +0000" stop="20251221140000 +0000" channel="DensShowBiz.id@SD"><title lang="id">All Event Liputan</title></programme>
-<programme start="20251221140000 +0000" stop="20251221150000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Convidens</title></programme>
-<programme start="20251221150000 +0000" stop="20251221165959 +0000" channel="DensShowBiz.id@SD"><title lang="id">Live Streaming</title></programme>
+<programme start="20251221133000 +0000" stop="20251221140700 +0000" channel="DensShowBiz.id@SD"><title lang="id">All Event Liputan</title></programme>
+<programme start="20251221140700 +0000" stop="20251221150000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Convidens</title></programme>
+<programme start="20251221150000 +0000" stop="20251221165959 +0000" channel="DensShowBiz.id@SD"><title lang="id">Open Trip To Japan Ninja Land (Recorded)</title></programme>
 <programme start="20251218170000 +0000" stop="20251218180000 +0000" channel="DIM.ua@SD"><title lang="id">Checkpoint Show</title></programme>
 <programme start="20251218180000 +0000" stop="20251218183000 +0000" channel="DIM.ua@SD"><title lang="id">Master of Crafts</title></programme>
 <programme start="20251218183000 +0000" stop="20251218190000 +0000" channel="DIM.ua@SD"><title lang="id">Unexplored Ukraine</title></programme>
