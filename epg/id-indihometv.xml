@@ -4,32 +4,37 @@
 <channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="ATV.id@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/uHcRd1t.png"/><url>https://indihometv.com</url></channel>
+<channel id="CartoonNetworkAsia.sg@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="DW.de@English"><display-name>DW (English)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://indihometv.com</url></channel>
+<channel id="MDTV.id@SD"><display-name>MDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="NBATV.us@SD"><display-name>NBA</display-name><icon src="https://i.postimg.cc/pVCJsCD5/nbatv.png"/><url>https://indihometv.com</url></channel>
+<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://indihometv.com</url></channel>
+<channel id="DuniaLain.id@SD"><display-name>Dunia Lain</display-name><icon src="https://i.imgur.com/XgIuU7M.png"/><url>https://indihometv.com</url></channel>
+<channel id="MyKidz.id@SD"><display-name>MyKidz</display-name><icon src="https://i.imgur.com/qzZFU6d.png"/><url>https://indihometv.com</url></channel>
+<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://indihometv.com</url></channel>
+<channel id="DuniaAnak.id@SD"><display-name>Dunia anak</display-name><icon src="https://i.imgur.com/pI76ufZ.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVMUI.id@SD"><display-name>MUI TV</display-name><icon src="https://i.imgur.com/vWtViyC.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://indihometv.com</url></channel>
 <channel id="ROCKExtreme.sg@SD"><display-name>Rock Action</display-name><icon src="https://i.imgur.com/3U1JpHm.png"/><url>https://indihometv.com</url></channel>
+<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"/><url>https://indihometv.com</url></channel>
+<channel id="MTVLive.uk@SD"><display-name>MTV Live</display-name><icon src="https://i.postimg.cc/V6dm2DJs/mtvlive.png"/><url>https://indihometv.com</url></channel>
+<channel id="MTATV.id@SD"><display-name>MTATV</display-name><icon src="https://i.imgur.com/3kGs7k0.png"/><url>https://indihometv.com</url></channel>
+<channel id="DiscoveryAsia.sg@SD"><display-name>Discovery Asia</display-name><icon src="https://i.imgur.com/foLICwL.png"/><url>https://indihometv.com</url></channel>
+<channel id="MQTV.id@SD"><display-name>MQTV</display-name><icon src="https://i.imgur.com/d8dQo6E.png"/><url>https://indihometv.com</url></channel>
+<channel id="moonbug"><display-name>Moonbug</display-name><url>https://indihometv.com</url></channel>
 <channel id="ROCKEntertainment.sg@SD"><display-name>Rock Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://indihometv.com</url></channel>
+<channel id="DiscoveryChannel.id@SD"><display-name>Discovery Channel</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://indihometv.com</url></channel>
+<channel id="SindoNewsTV.id@SD"><display-name>SINDO News TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/375px-SindoNewsTV_2023.png"/><url>https://indihometv.com</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
+<channel id="DaVinciAsia.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://indihometv.com</url></channel>
+<channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
+<channel id="MAXStream.id@SD"><display-name>Maxstream</display-name><icon src="https://i.postimg.cc/QxbFGWcM/maxstream.png"/><url>https://indihometv.com</url></channel>
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="BloombergTV.us@Asia"><display-name>Bloomberg</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://indihometv.com</url></channel>
-<channel id="BioskopIndonesia.id@SD"><display-name>Bioskop Indonesia</display-name><icon src="https://i.imgur.com/8gdyddg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="SPOTV2.id@SD"><display-name>SPOTV 2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://indihometv.com</url></channel>
-<channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
-<channel id="SPOTV.id@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/><url>https://indihometv.com</url></channel>
-<channel id="BaliTV.id@SD"><display-name>Bali TV</display-name><icon src="https://i.imgur.com/uH1Szme.png"/><url>https://indihometv.com</url></channel>
-<channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="Trans7.id@SD"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
-<channel id="TLCSoutheastAsia.sg@SD"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="Thrill.hk@SD"><display-name>Thrill</display-name><icon src="https://i.imgur.com/Y282owj.png"/><url>https://indihometv.com</url></channel>
-<channel id="TawafTV.id@SD"><display-name>Tawaf TV</display-name><icon src="https://i.postimg.cc/VvVgb6dN/logo-tawaf.png"/><url>https://indihometv.com</url></channel>
-<channel id="StudioUniversalLatinAmerica.us@Brazil"><display-name>Studio Universal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png"/><url>https://indihometv.com</url></channel>
-<channel id="ONE.sg@SD"><display-name>SONE</display-name><icon src="https://i.imgur.com/ea0iGfA.png"/><url>https://indihometv.com</url></channel>
-<channel id="ShenzhenTV.cn@SD"><display-name>Shenzen</display-name><icon src="https://i.imgur.com/AnZjWm4.png"/><url>https://indihometv.com</url></channel>
-<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://indihometv.com</url></channel>
-<channel id="RajawaliTV.id@SD"><display-name>Rajawali TV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://indihometv.com</url></channel>
-<channel id="RodjaTV.id@SD"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://indihometv.com</url></channel>
-<channel id="pramborstv"><display-name>Prambors</display-name><url>https://indihometv.com</url></channel>
+<channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
+<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://i.postimg.cc/rwZbxkJf/lovenature.png"/><url>https://indihometv.com</url></channel>
 <channel id="PhoenixInfoNewsChannel.hk@SD"><display-name>Phoenix InfoNews</display-name><icon src="https://i.imgur.com/mt4h3VO.png"/><url>https://indihometv.com</url></channel>
 <channel id="PhoenixChineseChannel.hk@SD"><display-name>Phoenix Chinese</display-name><icon src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png"/><url>https://indihometv.com</url></channel>
 <channel id="Moji.id@SD"><display-name>MOJI</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://indihometv.com</url></channel>
@@ -41,37 +46,36 @@
 <channel id="newtvfinance"><display-name>New Tv Finance</display-name><url>https://indihometv.com</url></channel>
 <channel id="newtvcomprehensive"><display-name>New Tv Comprehensive</display-name><url>https://indihometv.com</url></channel>
 <channel id="CNA.sg@SD"><display-name>News Asia</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://indihometv.com</url></channel>
-<channel id="MDTV.id@SD"><display-name>MDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="NBATV.us@SD"><display-name>NBA</display-name><icon src="https://i.postimg.cc/pVCJsCD5/nbatv.png"/><url>https://indihometv.com</url></channel>
-<channel id="MyKidz.id@SD"><display-name>MyKidz</display-name><icon src="https://i.imgur.com/qzZFU6d.png"/><url>https://indihometv.com</url></channel>
-<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVMUI.id@SD"><display-name>MUI TV</display-name><icon src="https://i.imgur.com/vWtViyC.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
-<channel id="MTVLive.uk@SD"><display-name>MTV Live</display-name><icon src="https://i.postimg.cc/V6dm2DJs/mtvlive.png"/><url>https://indihometv.com</url></channel>
-<channel id="MTATV.id@SD"><display-name>MTATV</display-name><icon src="https://i.imgur.com/3kGs7k0.png"/><url>https://indihometv.com</url></channel>
-<channel id="MQTV.id@SD"><display-name>MQTV</display-name><icon src="https://i.imgur.com/d8dQo6E.png"/><url>https://indihometv.com</url></channel>
-<channel id="moonbug"><display-name>Moonbug</display-name><url>https://indihometv.com</url></channel>
-<channel id="SindoNewsTV.id@SD"><display-name>SINDO News TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/375px-SindoNewsTV_2023.png"/><url>https://indihometv.com</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
-<channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
-<channel id="MAXStream.id@SD"><display-name>Maxstream</display-name><icon src="https://i.postimg.cc/QxbFGWcM/maxstream.png"/><url>https://indihometv.com</url></channel>
-<channel id="LoveNature.ca@SD"><display-name>Love Nature</display-name><icon src="https://i.postimg.cc/rwZbxkJf/lovenature.png"/><url>https://indihometv.com</url></channel>
 <channel id="LifetimeAsia.us@SD"><display-name>Lifetime</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="CuriosityChannel.us@SD"><display-name>Curiosity</display-name><icon src="https://i.imgur.com/K0kZMYo.png"/><url>https://indihometv.com</url></channel>
 <channel id="KPlus.sg@SD"><display-name>Kplus</display-name><icon src="https://i.imgur.com/RbS0q71.png"/><url>https://indihometv.com</url></channel>
 <channel id="KompasTV.id@SD"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://indihometv.com</url></channel>
+<channel id="BioskopIndonesia.id@SD"><display-name>Bioskop Indonesia</display-name><icon src="https://i.imgur.com/8gdyddg.png"/><url>https://indihometv.com</url></channel>
+<channel id="CrimePlusInvestigationAsia.sg@SD"><display-name>Crime Investigation</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/><url>https://indihometv.com</url></channel>
 <channel id="KIX.hk@SD"><display-name>Kix</display-name><icon src="https://i.imgur.com/zWcUAdb.png"/><url>https://indihometv.com</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNNInternational.us@AsiaPacific"><display-name>CNN International</display-name><icon src="https://i.imgur.com/dfxefQw.png"/><url>https://indihometv.com</url></channel>
 <channel id="JTV.id@SD"><display-name>JTV</display-name><icon src="https://i.imgur.com/mIDWIQk.png"/><url>https://indihometv.com</url></channel>
 <channel id="JawaPosTV.id@SD"><display-name>Jawa Pos TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
 <channel id="JakTV.id@SD"><display-name>JakTV</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://indihometv.com</url></channel>
 <channel id="iNews.id@SD"><display-name>iNews</display-name><icon src="https://i.imgur.com/M2R3lfg.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
 <channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="FunPlanet.id@SD"><display-name>FunPlanet</display-name><icon src="https://i.postimg.cc/Hkwmq94K/Fun-Planet.png"/><url>https://indihometv.com</url></channel>
+<channel id="SPOTV2.id@SD"><display-name>SPOTV 2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNBCAsia.sg@SD"><display-name>CNBC Asia</display-name><icon src="https://i.imgur.com/Mn8Rsup.png"/><url>https://indihometv.com</url></channel>
 <channel id="IMC.id@SD"><display-name>IMC</display-name><icon src="https://i.postimg.cc/RhrVvp29/4r2D8xN.png"/><url>https://indihometv.com</url></channel>
 <channel id="IDXChannel.id@SD"><display-name>IDX</display-name><icon src="https://i.imgur.com/xPvrcsr.png"/><url>https://indihometv.com</url></channel>
+<channel id="CitraDangdut.id@SD"><display-name>Citra Dangdut</display-name><icon src="https://i.imgur.com/77KYgbz.png"/><url>https://indihometv.com</url></channel>
 <channel id="BeritaSatu.id@SD"><display-name>Berita Satu</display-name><icon src="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png"/><url>https://indihometv.com</url></channel>
 <channel id="HorizonSports.us@SD"><display-name>Horizon Sports</display-name><icon src="https://i.imgur.com/w2JzGSy.png"/><url>https://indihometv.com</url></channel>
-<channel id="Horee.id@SD"><display-name>Horee</display-name><icon src="https://i.imgur.com/S4aoHg8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
+<channel id="SPOTV.id@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/><url>https://indihometv.com</url></channel>
+<channel id="CinemaWorld.my@SD"><display-name>Cinema World</display-name><icon src="https://i.imgur.com/D2qNVZ7.png"/><url>https://indihometv.com</url></channel>
 <channel id="hitsnow"><display-name>HITS Now</display-name><url>https://indihometv.com</url></channel>
 <channel id="HITSMovies.sg@SD"><display-name>HIts Movie</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://indihometv.com</url></channel>
 <channel id="HITS.sg@SD"><display-name>Hits</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://indihometv.com</url></channel>
@@ -84,47 +88,43 @@
 <channel id="FightSports.us@SD"><display-name>Fight Sport</display-name><icon src="https://i.imgur.com/nV55veq.png"/><url>https://indihometv.com</url></channel>
 <channel id="FashionTVAsia.fr@SD"><display-name>FashionTV</display-name><icon src="https://i.imgur.com/ucTh9tO.png"/><url>https://indihometv.com</url></channel>
 <channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://i.imgur.com/8t9mdg9.png"/><url>https://indihometv.com</url></channel>
-<channel id="DW.de@English"><display-name>DW (English)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://indihometv.com</url></channel>
-<channel id="DuniaLain.id@SD"><display-name>Dunia Lain</display-name><icon src="https://i.imgur.com/XgIuU7M.png"/><url>https://indihometv.com</url></channel>
-<channel id="DuniaAnak.id@SD"><display-name>Dunia anak</display-name><icon src="https://i.imgur.com/pI76ufZ.png"/><url>https://indihometv.com</url></channel>
-<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"/><url>https://indihometv.com</url></channel>
-<channel id="DiscoveryAsia.sg@SD"><display-name>Discovery Asia</display-name><icon src="https://i.imgur.com/foLICwL.png"/><url>https://indihometv.com</url></channel>
-<channel id="DiscoveryChannel.id@SD"><display-name>Discovery Channel</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://indihometv.com</url></channel>
-<channel id="DaVinciAsia.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://indihometv.com</url></channel>
-<channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
-<channel id="CuriosityChannel.us@SD"><display-name>Curiosity</display-name><icon src="https://i.imgur.com/K0kZMYo.png"/><url>https://indihometv.com</url></channel>
-<channel id="CrimePlusInvestigationAsia.sg@SD"><display-name>Crime Investigation</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/><url>https://indihometv.com</url></channel>
-<channel id="CNNInternational.us@AsiaPacific"><display-name>CNN International</display-name><icon src="https://i.imgur.com/dfxefQw.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNBCAsia.sg@SD"><display-name>CNBC Asia</display-name><icon src="https://i.imgur.com/Mn8Rsup.png"/><url>https://indihometv.com</url></channel>
-<channel id="CitraDangdut.id@SD"><display-name>Citra Dangdut</display-name><icon src="https://i.imgur.com/77KYgbz.png"/><url>https://indihometv.com</url></channel>
-<channel id="CinemaWorld.my@SD"><display-name>Cinema World</display-name><icon src="https://i.imgur.com/D2qNVZ7.png"/><url>https://indihometv.com</url></channel>
+<channel id="Horee.id@SD"><display-name>Horee</display-name><icon src="https://i.imgur.com/S4aoHg8.png"/><url>https://indihometv.com</url></channel>
 <channel id="ChineseDrama.hk@SD"><display-name>Chinese Drama</display-name><icon src="https://i.imgur.com/OD1dGmg.png"/><url>https://indihometv.com</url></channel>
+<channel id="BaliTV.id@SD"><display-name>Bali TV</display-name><icon src="https://i.imgur.com/uH1Szme.png"/><url>https://indihometv.com</url></channel>
 <channel id="CGTNDocumentary.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.imgur.com/JHv0WxM.png"/><url>https://indihometv.com</url></channel>
 <channel id="CelestialMoviesIndonesia.id@SD"><display-name>Celestial Movie</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://indihometv.com</url></channel>
+<channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="CitraDrama.id@SD"><display-name>Citra Drama</display-name><icon src="https://i.imgur.com/lXhXwx7.png"/><url>https://indihometv.com</url></channel>
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://indihometv.com</url></channel>
-<channel id="CartoonNetworkAsia.sg@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://indihometv.com</url></channel>
+<channel id="pramborstv"><display-name>Prambors</display-name><url>https://indihometv.com</url></channel>
+<channel id="tvNAsia.hk@SD"><display-name>TVN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TawafTV.id@SD"><display-name>Tawaf TV</display-name><icon src="https://i.postimg.cc/VvVgb6dN/logo-tawaf.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
+<channel id="TV5MondeAsia.fr@SD"><display-name>TV5Monde</display-name><icon src="https://i.imgur.com/FRsRXRR.png"/><url>https://indihometv.com</url></channel>
+<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TV9Nusantara.id@SD"><display-name>TV9 NU</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png"/><url>https://indihometv.com</url></channel>
 <channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
-<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
-<channel id="AllPlayEnt.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png"/><url>https://indihometv.com</url></channel>
 <channel id="UChannel.id@SD"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRI.id@SD"><display-name>TVRI Nasional</display-name><icon src="https://i.postimg.cc/NM7W0n5k/tvri.png"/><url>https://indihometv.com</url></channel>
-<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="tvNMoviesAsia.hk@SD"><display-name>TVN Movies</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://indihometv.com</url></channel>
-<channel id="tvNAsia.hk@SD"><display-name>TVN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVBSNews.tw@SD"><display-name>TVBS News</display-name><icon src="https://i.imgur.com/171lwfg.png"/><url>https://indihometv.com</url></channel>
-<channel id="TV9Nusantara.id@SD"><display-name>TV9 NU</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png"/><url>https://indihometv.com</url></channel>
-<channel id="TV5MondeAsia.fr@SD"><display-name>TV5Monde</display-name><icon src="https://i.imgur.com/FRsRXRR.png"/><url>https://indihometv.com</url></channel>
-<channel id="TransTV.id@SD"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
+<channel id="Trans7.id@SD"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
+<channel id="TLCSoutheastAsia.sg@SD"><display-name>TLC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="StudioUniversalLatinAmerica.us@Brazil"><display-name>Studio Universal</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png"/><url>https://indihometv.com</url></channel>
+<channel id="ShenzhenTV.cn@SD"><display-name>Shenzen</display-name><icon src="https://i.imgur.com/AnZjWm4.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRI.id@SD"><display-name>TVRI Nasional</display-name><icon src="https://i.postimg.cc/NM7W0n5k/tvri.png"/><url>https://indihometv.com</url></channel>
+<channel id="RodjaTV.id@SD"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
+<channel id="tvNMoviesAsia.hk@SD"><display-name>TVN Movies</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://indihometv.com</url></channel>
+<channel id="TransTV.id@SD"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
+<channel id="ONE.sg@SD"><display-name>SONE</display-name><icon src="https://i.imgur.com/ea0iGfA.png"/><url>https://indihometv.com</url></channel>
+<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://indihometv.com</url></channel>
+<channel id="AllPlayEnt.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png"/><url>https://indihometv.com</url></channel>
+<channel id="RajawaliTV.id@SD"><display-name>Rajawali TV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
+<channel id="Thrill.hk@SD"><display-name>Thrill</display-name><icon src="https://i.imgur.com/Y282owj.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Muster Dogs: Collies and Kelpies</title></programme>
 <programme start="20251221180000 +0000" stop="20251221183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Dreaming Big</title></programme>
 <programme start="20251221183000 +0000" stop="20251221190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">That Pacific Sports Show</title></programme>
@@ -676,39 +676,32 @@
 <programme start="20251222140000 +0000" stop="20251222150000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg: The Open</title></programme>
 <programme start="20251222150000 +0000" stop="20251222160000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Markets: Americas</title></programme>
 <programme start="20251222160000 +0000" stop="20251222170000 +0000" channel="BloombergTV.us@Asia"><title lang="id">Bloomberg Markets: European Close</title></programme>
-<programme start="20251221173000 +0000" stop="20251221180000 +0000" channel="BTV.id@SD"><title lang="id">Film Pendek Indonesia</title></programme>
-<programme start="20251221180000 +0000" stop="20251221180300 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
-<programme start="20251221180300 +0000" stop="20251221183000 +0000" channel="BTV.id@SD"><title lang="id">Figur Publik (Lebih Dalam)</title></programme>
-<programme start="20251221183000 +0000" stop="20251221190000 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
-<programme start="20251221190000 +0000" stop="20251221200000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
-<programme start="20251221200000 +0000" stop="20251221210000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20251221210000 +0000" stop="20251221213000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
-<programme start="20251221213000 +0000" stop="20251221223000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
-<programme start="20251221223000 +0000" stop="20251221230000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Dunia</title></programme>
+<programme start="20251221173000 +0000" stop="20251221182700 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20251221182700 +0000" stop="20251221183000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
+<programme start="20251221183000 +0000" stop="20251221193000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore &quot;Recorded&quot;</title></programme>
+<programme start="20251221193000 +0000" stop="20251221203000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam &quot;Recorded&quot;</title></programme>
+<programme start="20251221203000 +0000" stop="20251221213000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20251221213000 +0000" stop="20251221230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
 <programme start="20251221230000 +0000" stop="20251221230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
-<programme start="20251221230300 +0000" stop="20251222000000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20251222000000 +0000" stop="20251222003000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
-<programme start="20251222003000 +0000" stop="20251222011500 +0000" channel="BTV.id@SD"><title lang="id">Didi &amp; Friends</title></programme>
-<programme start="20251222011500 +0000" stop="20251222021500 +0000" channel="BTV.id@SD"><title lang="id">Boonie Bears</title></programme>
-<programme start="20251222021500 +0000" stop="20251222030000 +0000" channel="BTV.id@SD"><title lang="id">Motu Patlu</title></programme>
-<programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
-<programme start="20251222033000 +0000" stop="20251222050000 +0000" channel="BTV.id@SD"><title lang="id">Breaking Bews</title></programme>
-<programme start="20251222050000 +0000" stop="20251222060000 +0000" channel="BTV.id@SD"><title lang="id">Info Seleb</title></programme>
-<programme start="20251222060000 +0000" stop="20251222064500 +0000" channel="BTV.id@SD"><title lang="id">Figur Publik</title></programme>
-<programme start="20251222064500 +0000" stop="20251222071500 +0000" channel="BTV.id@SD"><title lang="id">Dunia Rans</title></programme>
-<programme start="20251222071500 +0000" stop="20251222080000 +0000" channel="BTV.id@SD"><title lang="id">Anak Hebat</title></programme>
-<programme start="20251222080000 +0000" stop="20251222090000 +0000" channel="BTV.id@SD"><title lang="id">Didi &amp; Friends</title></programme>
-<programme start="20251222090000 +0000" stop="20251222100000 +0000" channel="BTV.id@SD"><title lang="id">Boonie Bears</title></programme>
-<programme start="20251222100000 +0000" stop="20251222110000 +0000" channel="BTV.id@SD"><title lang="id">Motu Patlu</title></programme>
-<programme start="20251222110000 +0000" stop="20251222114500 +0000" channel="BTV.id@SD"><title lang="id">Dunia Binatang</title></programme>
-<programme start="20251222114500 +0000" stop="20251222121500 +0000" channel="BTV.id@SD"><title lang="id">Figur Publik (Lebih Dalam)</title></programme>
-<programme start="20251222121500 +0000" stop="20251222130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
-<programme start="20251222130000 +0000" stop="20251222134500 +0000" channel="BTV.id@SD"><title lang="id">Setulus Hati</title></programme>
-<programme start="20251222134500 +0000" stop="20251222143000 +0000" channel="BTV.id@SD"><title lang="id">Cocoklogi</title></programme>
-<programme start="20251222143000 +0000" stop="20251222150000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Spesial</title></programme>
+<programme start="20251221230300 +0000" stop="20251222003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20251222003000 +0000" stop="20251222011500 +0000" channel="BTV.id@SD"><title lang="id">Figur Publik</title></programme>
+<programme start="20251222011500 +0000" stop="20251222014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
+<programme start="20251222014500 +0000" stop="20251222023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20251222023000 +0000" stop="20251222033000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
+<programme start="20251222033000 +0000" stop="20251222040000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20251222040000 +0000" stop="20251222060000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20251222060000 +0000" stop="20251222063000 +0000" channel="BTV.id@SD"><title lang="id">30 Minutes With &quot;Kemenag&quot;</title></programme>
+<programme start="20251222063000 +0000" stop="20251222073000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20251222073000 +0000" stop="20251222080000 +0000" channel="BTV.id@SD"><title lang="id">Dikit - Dikit Damkar</title></programme>
+<programme start="20251222080000 +0000" stop="20251222083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Merah Putih</title></programme>
+<programme start="20251222083000 +0000" stop="20251222103000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20251222110000 +0000" stop="20251222130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20251222130000 +0000" stop="20251222140000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20251222140000 +0000" stop="20251222150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20251222150000 +0000" stop="20251222160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20251222160000 +0000" stop="20251222163000 +0000" channel="BTV.id@SD"><title lang="id">Mitos</title></programme>
-<programme start="20251222163000 +0000" stop="20251222173000 +0000" channel="BTV.id@SD"><title lang="id">One Vault 2022</title></programme>
+<programme start="20251222160000 +0000" stop="20251222163000 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20251222163000 +0000" stop="20251222173000 +0000" channel="BTV.id@SD"><title lang="id">One Vault</title></programme>
 <programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="Cartoonito.uk@SD"><title lang="id">Interstellar Ella</title></programme>
 <programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="Cartoonito.uk@SD"><title lang="id">Brave Bunnies</title></programme>
 <programme start="20251221190000 +0000" stop="20251221200000 +0000" channel="Cartoonito.uk@SD"><title lang="id">Brave Bunnies</title></programme>
@@ -2572,24 +2565,25 @@
 <programme start="20251222161000 +0000" stop="20251222172000 +0000" channel="MDTV.id@SD"><title lang="id">MD Drakor : Cheat On Me If You Can</title></programme>
 <programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="MentariTV.id@SD"><title lang="id">Plentis Kentus</title></programme>
 <programme start="20251221190000 +0000" stop="20251221200000 +0000" channel="MentariTV.id@SD"><title lang="id">Oddbods</title></programme>
-<programme start="20251221200000 +0000" stop="20251221213000 +0000" channel="MentariTV.id@SD"><title lang="id">Petualangan Antiks &amp; Morphle</title></programme>
+<programme start="20251221200000 +0000" stop="20251221210000 +0000" channel="MentariTV.id@SD"><title lang="id">Petualangan Antiks &amp; Morphle</title></programme>
+<programme start="20251221210000 +0000" stop="20251221213000 +0000" channel="MentariTV.id@SD"><title lang="id">Pocoyo Songs</title></programme>
 <programme start="20251221213000 +0000" stop="20251221220000 +0000" channel="MentariTV.id@SD"><title lang="id">Cocomelon Ind</title></programme>
 <programme start="20251221220000 +0000" stop="20251221230000 +0000" channel="MentariTV.id@SD"><title lang="id">Pororo And Tayo Songs</title></programme>
-<programme start="20251221230000 +0000" stop="20251222000000 +0000" channel="MentariTV.id@SD"><title lang="id">Numberblocks</title></programme>
-<programme start="20251222000000 +0000" stop="20251222004500 +0000" channel="MentariTV.id@SD"><title lang="id">Bebefinn</title></programme>
-<programme start="20251222004500 +0000" stop="20251222010000 +0000" channel="MentariTV.id@SD"><title lang="id">Hogi, The Detective</title></programme>
+<programme start="20251221230000 +0000" stop="20251222000000 +0000" channel="MentariTV.id@SD"><title lang="id">Alphablocks</title></programme>
+<programme start="20251222000000 +0000" stop="20251222010000 +0000" channel="MentariTV.id@SD"><title lang="id">Pinkfong &amp; Friends</title></programme>
 <programme start="20251222010000 +0000" stop="20251222023000 +0000" channel="MentariTV.id@SD"><title lang="id">Tayo, The Little Bus</title></programme>
 <programme start="20251222023000 +0000" stop="20251222040000 +0000" channel="MentariTV.id@SD"><title lang="id">Katuri</title></programme>
 <programme start="20251222040000 +0000" stop="20251222060000 +0000" channel="MentariTV.id@SD"><title lang="id">Pororo, The Little Penguin</title></programme>
 <programme start="20251222060000 +0000" stop="20251222073000 +0000" channel="MentariTV.id@SD"><title lang="id">Rainbow Bubblegem</title></programme>
 <programme start="20251222073000 +0000" stop="20251222090000 +0000" channel="MentariTV.id@SD"><title lang="id">Bluey</title></programme>
 <programme start="20251222090000 +0000" stop="20251222103000 +0000" channel="MentariTV.id@SD"><title lang="id">Tian Tian</title></programme>
-<programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="MentariTV.id@SD"><title lang="id">Cipung Abubu</title></programme>
-<programme start="20251222110000 +0000" stop="20251222120000 +0000" channel="MentariTV.id@SD"><title lang="id">Bing</title></programme>
-<programme start="20251222120000 +0000" stop="20251222140000 +0000" channel="MentariTV.id@SD"><title lang="id">Bioskop Keluarga Indonesia (Goldbeak)</title></programme>
-<programme start="20251222140000 +0000" stop="20251222150000 +0000" channel="MentariTV.id@SD"><title lang="id">Pokemon Season 26: Horizons</title></programme>
-<programme start="20251222150000 +0000" stop="20251222163000 +0000" channel="MentariTV.id@SD"><title lang="id">Supa Strikas</title></programme>
-<programme start="20251222163000 +0000" stop="20251222173000 +0000" channel="MentariTV.id@SD"><title lang="id">Madun</title></programme>
+<programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="MentariTV.id@SD"><title lang="id">Cipung Abubu Season 2</title></programme>
+<programme start="20251222110000 +0000" stop="20251222113000 +0000" channel="MentariTV.id@SD"><title lang="id">Bing</title></programme>
+<programme start="20251222113000 +0000" stop="20251222120000 +0000" channel="MentariTV.id@SD"><title lang="id">Magic 5 The Animation</title></programme>
+<programme start="20251222120000 +0000" stop="20251222140000 +0000" channel="MentariTV.id@SD"><title lang="id">Bioskop Keluarga Indonesia Spesial Liburan Ceria (Petualangan Go Jetters Membantu Sesama)</title></programme>
+<programme start="20251222140000 +0000" stop="20251222153000 +0000" channel="MentariTV.id@SD"><title lang="id">Supa Strikas</title></programme>
+<programme start="20251222153000 +0000" stop="20251222163000 +0000" channel="MentariTV.id@SD"><title lang="id">Madun</title></programme>
+<programme start="20251222163000 +0000" stop="20251222180000 +0000" channel="MentariTV.id@SD"><title lang="id">Keluarga Somat</title></programme>
 <programme start="20251221170000 +0000" stop="20251221170500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20251221170500 +0000" stop="20251221173000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
 <programme start="20251221173000 +0000" stop="20251221180000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
@@ -2976,90 +2970,93 @@
 <programme start="20251222141000 +0000" stop="20251222152700 +0000" channel="newtvvariety"><title lang="id">Road to Happiness</title></programme>
 <programme start="20251222152700 +0000" stop="20251222164400 +0000" channel="newtvvariety"><title lang="id">Road to Happiness</title></programme>
 <programme start="20251222164400 +0000" stop="20251222180100 +0000" channel="newtvvariety"><title lang="id">Open the Door</title></programme>
-<programme start="20251221170000 +0000" stop="20251221171000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251221171000 +0000" stop="20251221172500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ramen Japan</title></programme>
-<programme start="20251221172500 +0000" stop="20251221173000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Core Kyoto Mini</title></programme>
-<programme start="20251221173000 +0000" stop="20251221174500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese For Work</title></programme>
-<programme start="20251221174500 +0000" stop="20251221180000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Zero Waste Life</title></programme>
-<programme start="20251221180000 +0000" stop="20251221181000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251221181000 +0000" stop="20251221190000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Documentary 360</title></programme>
-<programme start="20251221190000 +0000" stop="20251221191000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251221191000 +0000" stop="20251221200000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Mt.Tanigawa</title></programme>
-<programme start="20251221200000 +0000" stop="20251221201000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251221201000 +0000" stop="20251221204000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Anime Manga Explosion</title></programme>
-<programme start="20251221204000 +0000" stop="20251221205000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Rockie And Her Friends</title></programme>
-<programme start="20251221205000 +0000" stop="20251221210000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Listen To The Earth</title></programme>
-<programme start="20251221210000 +0000" stop="20251221211000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251221211000 +0000" stop="20251221214000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">J-Melo</title></programme>
-<programme start="20251221214000 +0000" stop="20251221215000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Little Charo</title></programme>
-<programme start="20251221215000 +0000" stop="20251221215500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Japanology Plus Mini</title></programme>
-<programme start="20251221215500 +0000" stop="20251221220000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">A Cat&apos;s-Eye View Of Japan</title></programme>
-<programme start="20251221220000 +0000" stop="20251221221000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251221221000 +0000" stop="20251221222500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ramen Japan</title></programme>
-<programme start="20251221222500 +0000" stop="20251221223000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Core Kyoto Mini</title></programme>
-<programme start="20251221223000 +0000" stop="20251221224500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20251221200000 +0000" stop="20251221201000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251221201000 +0000" stop="20251221204000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">ANIME MANGA EXPLOSION</title></programme>
+<programme start="20251221204000 +0000" stop="20251221205000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Rockie and Her Friends</title></programme>
+<programme start="20251221205000 +0000" stop="20251221210000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">u&amp;i</title></programme>
+<programme start="20251221210000 +0000" stop="20251221211000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251221211000 +0000" stop="20251221214000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">J-MELO</title></programme>
+<programme start="20251221214000 +0000" stop="20251221220000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Little Charo</title></programme>
+<programme start="20251221220000 +0000" stop="20251221221000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251221221000 +0000" stop="20251221222500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Through the Kitchen Window</title></programme>
+<programme start="20251221222500 +0000" stop="20251221223000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Core Kyoto mini</title></programme>
+<programme start="20251221223000 +0000" stop="20251221224500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese for Work</title></programme>
 <programme start="20251221224500 +0000" stop="20251221230000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Zero Waste Life</title></programme>
-<programme start="20251221230000 +0000" stop="20251221231000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251221231000 +0000" stop="20251221232500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">The World Heritage Sites In Japan</title></programme>
-<programme start="20251221232500 +0000" stop="20251221233000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Okinawa: US Influences</title></programme>
-<programme start="20251221233000 +0000" stop="20251221235700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
-<programme start="20251221235700 +0000" stop="20251222000000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
-<programme start="20251222000000 +0000" stop="20251222001000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20251221230000 +0000" stop="20251221231000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251221231000 +0000" stop="20251222000000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Somewhere Street</title></programme>
+<programme start="20251222000000 +0000" stop="20251222001000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
 <programme start="20251222001000 +0000" stop="20251222001500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Chatroom Japan</title></programme>
-<programme start="20251222001500 +0000" stop="20251222003000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
-<programme start="20251222003000 +0000" stop="20251222005700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
-<programme start="20251222005700 +0000" stop="20251222010000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Travel Japanese</title></programme>
-<programme start="20251222010000 +0000" stop="20251222011000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222011000 +0000" stop="20251222011500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Okinawa: Shuri Castle</title></programme>
-<programme start="20251222011500 +0000" stop="20251222013000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Bosai</title></programme>
-<programme start="20251222013000 +0000" stop="20251222014000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Magical Japanese</title></programme>
-<programme start="20251222014000 +0000" stop="20251222014500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese</title></programme>
-<programme start="20251222014500 +0000" stop="20251222015500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
-<programme start="20251222015500 +0000" stop="20251222020000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
-<programme start="20251222020000 +0000" stop="20251222023000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222023000 +0000" stop="20251222030000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
-<programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222033000 +0000" stop="20251222040000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Biz Stream</title></programme>
-<programme start="20251222040000 +0000" stop="20251222043000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222043000 +0000" stop="20251222045700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
-<programme start="20251222045700 +0000" stop="20251222050000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
-<programme start="20251222050000 +0000" stop="20251222053000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222053000 +0000" stop="20251222055700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
-<programme start="20251222055700 +0000" stop="20251222060000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Travel Japanese</title></programme>
-<programme start="20251222060000 +0000" stop="20251222063000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsline Asia 24</title></programme>
-<programme start="20251222063000 +0000" stop="20251222064000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Magical Japanese</title></programme>
-<programme start="20251222064000 +0000" stop="20251222064500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese</title></programme>
-<programme start="20251222064500 +0000" stop="20251222065500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
-<programme start="20251222065500 +0000" stop="20251222070000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
-<programme start="20251222070000 +0000" stop="20251222073000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsline Asia 24</title></programme>
-<programme start="20251222073000 +0000" stop="20251222080000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
-<programme start="20251222080000 +0000" stop="20251222083000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222083000 +0000" stop="20251222085700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
-<programme start="20251222085700 +0000" stop="20251222090000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
-<programme start="20251222090000 +0000" stop="20251222093000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222093000 +0000" stop="20251222100000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Biz Stream</title></programme>
-<programme start="20251222100000 +0000" stop="20251222103000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK News 7</title></programme>
-<programme start="20251222103000 +0000" stop="20251222105700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
-<programme start="20251222105700 +0000" stop="20251222110000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Travel Japanese</title></programme>
-<programme start="20251222110000 +0000" stop="20251222112800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
+<programme start="20251222001500 +0000" stop="20251222002500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">IMPACTS: Climates Change the World</title></programme>
+<programme start="20251222002500 +0000" stop="20251222003000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Designer-less Design</title></programme>
+<programme start="20251222003000 +0000" stop="20251222010000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20251222010000 +0000" stop="20251222011000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222011000 +0000" stop="20251222011500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">KAIZOKU: Seto Inland Sea</title></programme>
+<programme start="20251222011500 +0000" stop="20251222013000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BOSAI</title></programme>
+<programme start="20251222013000 +0000" stop="20251222014500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20251222014500 +0000" stop="20251222015500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BOSAI: Winter Fire Precautions</title></programme>
+<programme start="20251222015500 +0000" stop="20251222020000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">HELLO! NHK WORLD-JAPAN</title></programme>
+<programme start="20251222020000 +0000" stop="20251222021000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222021000 +0000" stop="20251222022000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">MATSURI: The Heartbeat of Japan</title></programme>
+<programme start="20251222022000 +0000" stop="20251222023000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Herbal Symphony #1 Spring</title></programme>
+<programme start="20251222023000 +0000" stop="20251222030000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning the Seasons</title></programme>
+<programme start="20251222030000 +0000" stop="20251222031000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222031000 +0000" stop="20251222032000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Nun&apos;s Seasonal Calendar</title></programme>
+<programme start="20251222032000 +0000" stop="20251222032500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Trails to Oishii Tokyo mini 5min.</title></programme>
+<programme start="20251222032500 +0000" stop="20251222033000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">1/30: People With Mental Illness</title></programme>
+<programme start="20251222033000 +0000" stop="20251222040000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BIZ STREAM</title></programme>
+<programme start="20251222040000 +0000" stop="20251222041000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222041000 +0000" stop="20251222042500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">The World Heritage Sites in Japan</title></programme>
+<programme start="20251222042500 +0000" stop="20251222043000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">The Beauty of Japanese Swords</title></programme>
+<programme start="20251222043000 +0000" stop="20251222045700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hometown Stories</title></programme>
+<programme start="20251222045700 +0000" stop="20251222050000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Satoyama Kitchen Fall #8</title></programme>
+<programme start="20251222050000 +0000" stop="20251222051000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222051000 +0000" stop="20251222052500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">CINEMATIC JOURNEY</title></programme>
+<programme start="20251222052500 +0000" stop="20251222053000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">RAMEN JAPAN 5min.</title></programme>
+<programme start="20251222053000 +0000" stop="20251222060000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20251222060000 +0000" stop="20251222061000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222061000 +0000" stop="20251222062000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">MATSURI: The Heartbeat of Japan</title></programme>
+<programme start="20251222062000 +0000" stop="20251222063000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Herbal Symphony #1 Spring</title></programme>
+<programme start="20251222063000 +0000" stop="20251222064500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20251222064500 +0000" stop="20251222065500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BOSAI: Winter Fire Precautions</title></programme>
+<programme start="20251222065500 +0000" stop="20251222070000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">HELLO! NHK WORLD-JAPAN</title></programme>
+<programme start="20251222070000 +0000" stop="20251222071000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222071000 +0000" stop="20251222073000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BIZ STREAM SPECIAL EDITION</title></programme>
+<programme start="20251222073000 +0000" stop="20251222080000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning the Seasons</title></programme>
+<programme start="20251222080000 +0000" stop="20251222081000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222081000 +0000" stop="20251222082500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">CINEMATIC JOURNEY</title></programme>
+<programme start="20251222082500 +0000" stop="20251222083000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">RAMEN JAPAN 5min.</title></programme>
+<programme start="20251222083000 +0000" stop="20251222090000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hometown Stories</title></programme>
+<programme start="20251222090000 +0000" stop="20251222091000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222091000 +0000" stop="20251222093000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">My Street Piano</title></programme>
+<programme start="20251222093000 +0000" stop="20251222100000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BIZ STREAM</title></programme>
+<programme start="20251222100000 +0000" stop="20251222101500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222101500 +0000" stop="20251222103000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">The World Heritage Sites in Japan</title></programme>
+<programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20251222110000 +0000" stop="20251222111500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222111500 +0000" stop="20251222112800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Nun&apos;s Seasonal Calendar</title></programme>
 <programme start="20251222112800 +0000" stop="20251222114300 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
-<programme start="20251222114300 +0000" stop="20251222115500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Impacts: Climates Change The World</title></programme>
-<programme start="20251222115500 +0000" stop="20251222120000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ukiyoe Edo-Life: A Bedtime Routine</title></programme>
-<programme start="20251222120000 +0000" stop="20251222123000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
-<programme start="20251222123000 +0000" stop="20251222124000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Magical Japanese</title></programme>
-<programme start="20251222124000 +0000" stop="20251222124500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese</title></programme>
-<programme start="20251222124500 +0000" stop="20251222125500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
-<programme start="20251222125500 +0000" stop="20251222130000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
-<programme start="20251222130000 +0000" stop="20251222133000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222133000 +0000" stop="20251222140000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
-<programme start="20251222140000 +0000" stop="20251222143000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20251222114300 +0000" stop="20251222114800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">The Seasons of Yamato</title></programme>
+<programme start="20251222114800 +0000" stop="20251222115500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Beware! False Info and Impression</title></programme>
+<programme start="20251222115500 +0000" stop="20251222120000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ukiyoe EDO-LIFE(1)</title></programme>
+<programme start="20251222120000 +0000" stop="20251222121500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222121500 +0000" stop="20251222123000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BIZ STREAM SPECIAL EDITION</title></programme>
+<programme start="20251222123000 +0000" stop="20251222124500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20251222124500 +0000" stop="20251222130000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BOSAI: Winter Fire Precautions</title></programme>
+<programme start="20251222130000 +0000" stop="20251222131000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222131000 +0000" stop="20251222132000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">MATSURI: The Heartbeat of Japan</title></programme>
+<programme start="20251222132000 +0000" stop="20251222133000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Herbal Symphony #1 Spring</title></programme>
+<programme start="20251222133000 +0000" stop="20251222140000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning the Seasons</title></programme>
+<programme start="20251222140000 +0000" stop="20251222141000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222141000 +0000" stop="20251222143000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">CINEMATIC JOURNEY</title></programme>
 <programme start="20251222143000 +0000" stop="20251222150000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Medical Frontiers</title></programme>
-<programme start="20251222150000 +0000" stop="20251222153000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222153000 +0000" stop="20251222155700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
-<programme start="20251222155700 +0000" stop="20251222160000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Travel Japanese</title></programme>
-<programme start="20251222160000 +0000" stop="20251222163000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
-<programme start="20251222163000 +0000" stop="20251222165700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
-<programme start="20251222165700 +0000" stop="20251222170000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
+<programme start="20251222150000 +0000" stop="20251222151000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222151000 +0000" stop="20251222152500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">The World Heritage Sites in Japan</title></programme>
+<programme start="20251222152500 +0000" stop="20251222153000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">On the Wings 5min.</title></programme>
+<programme start="20251222153000 +0000" stop="20251222160000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20251222160000 +0000" stop="20251222161000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK NEWSLINE</title></programme>
+<programme start="20251222161000 +0000" stop="20251222163000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">My Street Piano</title></programme>
+<programme start="20251222163000 +0000" stop="20251222165700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hometown Stories</title></programme>
+<programme start="20251222165700 +0000" stop="20251222170000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Satoyama Kitchen Fall #8</title></programme>
 <programme start="20251221171000 +0000" stop="20251221173500 +0000" channel="NickelodeonAsia.sg@SD"><title lang="id">Henry Danger - Eps.529</title></programme>
 <programme start="20251221173500 +0000" stop="20251221175500 +0000" channel="NickelodeonAsia.sg@SD"><title lang="id">The Thundermans: Undercover - Eps.105</title></programme>
 <programme start="20251221175500 +0000" stop="20251221182000 +0000" channel="NickelodeonAsia.sg@SD"><title lang="id">The Casagrandes - Eps.316</title></programme>
@@ -3196,29 +3193,29 @@
 <programme start="20251222160000 +0000" stop="20251222162500 +0000" channel="NickJrAsia.sg@SD"><title lang="id">Tim Rex in Space - Eps.109</title></programme>
 <programme start="20251222162500 +0000" stop="20251222164000 +0000" channel="NickJrAsia.sg@SD"><title lang="id">Rubble &amp; Crew - Eps.304</title></programme>
 <programme start="20251222164000 +0000" stop="20251222170500 +0000" channel="NickJrAsia.sg@SD"><title lang="id">Rubble &amp; Crew - Eps.115</title></programme>
-<programme start="20251221170000 +0000" stop="20251221180000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Crime</title></programme>
-<programme start="20251221180000 +0000" stop="20251221190000 +0000" channel="NusantaraTV.id@SD"><title lang="id">A Shop</title></programme>
-<programme start="20251221190000 +0000" stop="20251221200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Sport</title></programme>
-<programme start="20251221200000 +0000" stop="20251221210000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Top Lines</title></programme>
-<programme start="20251221210000 +0000" stop="20251221220000 +0000" channel="NusantaraTV.id@SD"><title lang="id">A Shop</title></programme>
-<programme start="20251221220000 +0000" stop="20251221230000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Crime</title></programme>
-<programme start="20251221230000 +0000" stop="20251222003000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Morning</title></programme>
-<programme start="20251222003000 +0000" stop="20251222010000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Jelajah Rasa</title></programme>
-<programme start="20251222010000 +0000" stop="20251222020000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ooh I See</title></programme>
-<programme start="20251222020000 +0000" stop="20251222030000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Kok Bisa Viral</title></programme>
-<programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Jelajah Rasa</title></programme>
-<programme start="20251222033000 +0000" stop="20251222040000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Celebrity Fresh</title></programme>
-<programme start="20251222040000 +0000" stop="20251222050000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Today</title></programme>
+<programme start="20251221210000 +0000" stop="20251221213000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Toplines</title></programme>
+<programme start="20251221213000 +0000" stop="20251221220000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Crime</title></programme>
+<programme start="20251221220000 +0000" stop="20251221223000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Headlines</title></programme>
+<programme start="20251221223000 +0000" stop="20251221230000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Nusantara Economic Updates</title></programme>
+<programme start="20251221230000 +0000" stop="20251222003000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Morning</title></programme>
+<programme start="20251222003000 +0000" stop="20251222013000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Celebrity Fresh</title></programme>
+<programme start="20251222013000 +0000" stop="20251222023000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ooh I See</title></programme>
+<programme start="20251222023000 +0000" stop="20251222030000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Jelajah Rasa</title></programme>
+<programme start="20251222030000 +0000" stop="20251222040000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Nusantara Economic Updates</title></programme>
+<programme start="20251222040000 +0000" stop="20251222050000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Today</title></programme>
 <programme start="20251222050000 +0000" stop="20251222063000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Soundcore Dangdut</title></programme>
-<programme start="20251222063000 +0000" stop="20251222070000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Kok Bisa Viral</title></programme>
-<programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Today</title></programme>
-<programme start="20251222080000 +0000" stop="20251222090000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Celebrity Fresh</title></programme>
-<programme start="20251222090000 +0000" stop="20251222100000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Crime</title></programme>
-<programme start="20251222100000 +0000" stop="20251222130000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Prime</title></programme>
-<programme start="20251222130000 +0000" stop="20251222143000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Merah Putih</title></programme>
-<programme start="20251222143000 +0000" stop="20251222150000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Sport</title></programme>
-<programme start="20251222150000 +0000" stop="20251222160000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Tonight</title></programme>
-<programme start="20251222160000 +0000" stop="20251222170000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Kok Bisa Viral</title></programme>
+<programme start="20251222063000 +0000" stop="20251222073000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Celebrity Fresh</title></programme>
+<programme start="20251222073000 +0000" stop="20251222080500 +0000" channel="NusantaraTV.id@SD"><title lang="id">Lol</title></programme>
+<programme start="20251222080500 +0000" stop="20251222090000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Kok Bisa Viral</title></programme>
+<programme start="20251222090000 +0000" stop="20251222093000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Asta Cita</title></programme>
+<programme start="20251222093000 +0000" stop="20251222100000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Crime</title></programme>
+<programme start="20251222100000 +0000" stop="20251222120000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Prime</title></programme>
+<programme start="20251222120000 +0000" stop="20251222130000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Toplines</title></programme>
+<programme start="20251222130000 +0000" stop="20251222140000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Abraham</title></programme>
+<programme start="20251222140000 +0000" stop="20251222150000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Sport</title></programme>
+<programme start="20251222150000 +0000" stop="20251222160000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Tonight</title></programme>
+<programme start="20251222160000 +0000" stop="20251222163000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Ntv Headlines</title></programme>
+<programme start="20251222163000 +0000" stop="20251222170000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Checkpoint</title></programme>
 <programme start="20251221184500 +0000" stop="20251221205000 +0000" channel="ONE.sg@SD"><title lang="id">Adventure By Accident 4 - Eps. 2</title></programme>
 <programme start="20251221205000 +0000" stop="20251221220000 +0000" channel="ONE.sg@SD"><title lang="id">Law Of The Jungle In Chatham Islands - Eps. 2</title></programme>
 <programme start="20251221220000 +0000" stop="20251222000000 +0000" channel="ONE.sg@SD"><title lang="id">Running Man - Eps. 760</title></programme>
@@ -3415,25 +3412,22 @@
 <programme start="20251221183000 +0000" stop="20251221190000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Besti (Best Informasi)</title></programme>
 <programme start="20251221190000 +0000" stop="20251221203000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Movinesia</title></programme>
 <programme start="20251221203000 +0000" stop="20251221210000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ustadz On The Road</title></programme>
-<programme start="20251221210000 +0000" stop="20251221213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Kokom (Kompilasi Komedi)</title></programme>
-<programme start="20251221213000 +0000" stop="20251221220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riko The Series</title></programme>
+<programme start="20251221210000 +0000" stop="20251221220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riko The Series</title></programme>
 <programme start="20251221220000 +0000" stop="20251221230000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Marsupilami</title></programme>
 <programme start="20251221230000 +0000" stop="20251222010000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
-<programme start="20251222010000 +0000" stop="20251222023000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
+<programme start="20251222010000 +0000" stop="20251222023000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Barbie Princess Adventure</title></programme>
 <programme start="20251222023000 +0000" stop="20251222033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
 <programme start="20251222033000 +0000" stop="20251222043000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
 <programme start="20251222043000 +0000" stop="20251222050000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Tawa Satwa</title></programme>
-<programme start="20251222050000 +0000" stop="20251222070000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy</title></programme>
-<programme start="20251222070000 +0000" stop="20251222093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
-<programme start="20251222093000 +0000" stop="20251222120000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
-<programme start="20251222120000 +0000" stop="20251222133000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Mechamato</title></programme>
-<programme start="20251222133000 +0000" stop="20251222140000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Pokemon Horizon - Pencarian Laqua</title></programme>
-<programme start="20251222140000 +0000" stop="20251222143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
-<programme start="20251222143000 +0000" stop="20251222150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Si Paling Trending!</title></programme>
+<programme start="20251222050000 +0000" stop="20251222063000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy</title></programme>
+<programme start="20251222063000 +0000" stop="20251222090000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings The Movie</title></programme>
+<programme start="20251222090000 +0000" stop="20251222110000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy The Movie</title></programme>
+<programme start="20251222110000 +0000" stop="20251222133000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Mechamato</title></programme>
+<programme start="20251222133000 +0000" stop="20251222150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Lego The Movie</title></programme>
 <programme start="20251222150000 +0000" stop="20251222153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ijin, Ndan !</title></programme>
 <programme start="20251222153000 +0000" stop="20251222160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Lensa Indonesia Malam</title></programme>
 <programme start="20251222160000 +0000" stop="20251222163000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terkepo-Kepo</title></programme>
-<programme start="20251222163000 +0000" stop="20251222170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Stb (Sangat Tidak Biasa)</title></programme>
+<programme start="20251222163000 +0000" stop="20251222170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">STB (Sangat Tidak Biasa)</title></programme>
 <programme start="20251221181500 +0000" stop="20251221190000 +0000" channel="RCTI.id@SD"><title lang="id">Mega Film TV Malam</title></programme>
 <programme start="20251221190000 +0000" stop="20251221200000 +0000" channel="RCTI.id@SD"><title lang="id">Mega Film TV Malam</title></programme>
 <programme start="20251221200000 +0000" stop="20251221224500 +0000" channel="RCTI.id@SD"><title lang="id">Preman Pensiun S7</title></programme>
@@ -3545,23 +3539,22 @@
 <programme start="20251222153000 +0000" stop="20251222160000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
 <programme start="20251222160000 +0000" stop="20251222163000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
 <programme start="20251222163000 +0000" stop="20251222170000 +0000" channel="RT.ru@SD"><title lang="id">Going Underground</title></programme>
-<programme start="20251221173000 +0000" stop="20251221190000 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Utama</title></programme>
-<programme start="20251221190000 +0000" stop="20251221201500 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Malam</title></programme>
-<programme start="20251221201500 +0000" stop="20251221211500 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Dini Hari</title></programme>
-<programme start="20251221211500 +0000" stop="20251221225700 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Pagi - Live</title></programme>
-<programme start="20251221225700 +0000" stop="20251222000400 +0000" channel="SCTV.id@SD"><title lang="id">Hot Shot</title></programme>
-<programme start="20251222000400 +0000" stop="20251222012200 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Asmara Gen Z</title></programme>
-<programme start="20251222012200 +0000" stop="20251222025800 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi Mendadak Tenar Sungguh Di Luar Nalar</title></programme>
-<programme start="20251222025800 +0000" stop="20251222045700 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi Ratu Es Cintanya Bikin Shick Shack Shock</title></programme>
-<programme start="20251222045700 +0000" stop="20251222053000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Siang - Live</title></programme>
-<programme start="20251222053000 +0000" stop="20251222070300 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang Bisa Bisanya Gue Naksir Mas Susu</title></programme>
-<programme start="20251222070300 +0000" stop="20251222083400 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang Dari Lifeguard Jadi Love Guard</title></programme>
-<programme start="20251222083400 +0000" stop="20251222095500 +0000" channel="SCTV.id@SD"><title lang="id">Drama Turki Azizah : Cinta 6 Hati</title></programme>
-<programme start="20251222095500 +0000" stop="20251222112200 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Asmara Gen Z</title></programme>
-<programme start="20251222112200 +0000" stop="20251222130900 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Cinta Sedalam Rindu</title></programme>
-<programme start="20251222130900 +0000" stop="20251222143500 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Cinta Di Bawah Tangan</title></programme>
-<programme start="20251222143500 +0000" stop="20251222155600 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Wanita Istimewa</title></programme>
-<programme start="20251222155600 +0000" stop="20251222174500 +0000" channel="SCTV.id@SD"><title lang="id">FTV Primetime Live With My Ketos</title></programme>
+<programme start="20251221210000 +0000" stop="20251221213000 +0000" channel="SCTV.id@SD"><title lang="id">Indahnya Kebersamaan</title></programme>
+<programme start="20251221213000 +0000" stop="20251221220000 +0000" channel="SCTV.id@SD"><title lang="id">Buser</title></programme>
+<programme start="20251221220000 +0000" stop="20251221230000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Pagi - Live</title></programme>
+<programme start="20251221230000 +0000" stop="20251222000000 +0000" channel="SCTV.id@SD"><title lang="id">Hot Shot</title></programme>
+<programme start="20251222000000 +0000" stop="20251222013000 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Pagi Spesial &quot;Aku Bukan Anak Adopsi&quot;</title></programme>
+<programme start="20251222013000 +0000" stop="20251222030000 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Pagi Spesial &quot;Menghapus Jejakmu&quot;</title></programme>
+<programme start="20251222030000 +0000" stop="20251222050000 +0000" channel="SCTV.id@SD"><title lang="id">Sctv Ftv Pagi &quot;Status Palsu Cintamu Menyala Abangkuh&quot;</title></programme>
+<programme start="20251222050000 +0000" stop="20251222053000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Siang - Live</title></programme>
+<programme start="20251222053000 +0000" stop="20251222070000 +0000" channel="SCTV.id@SD"><title lang="id">Sctv Ftv Siang&quot; Antara You, Me &amp; Bakmie&quot;</title></programme>
+<programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="SCTV.id@SD"><title lang="id">Sctv Ftv Siang &quot;Dari Teh Kita Belajar Rasa Penghalau Galau&quot;</title></programme>
+<programme start="20251222080000 +0000" stop="20251222094500 +0000" channel="SCTV.id@SD"><title lang="id">Drama Turki &quot;Janji Cinta Zahra&quot;</title></programme>
+<programme start="20251222094500 +0000" stop="20251222111500 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron &quot;Asmara Gen Z&quot;</title></programme>
+<programme start="20251222111500 +0000" stop="20251222130000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron &quot;Beri Cinta Waktu&quot;</title></programme>
+<programme start="20251222130000 +0000" stop="20251222143000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron &quot;Cinta Sedalam Rindu&quot;</title></programme>
+<programme start="20251222143000 +0000" stop="20251222160000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron &quot;Wanita Istimewa&quot;</title></programme>
+<programme start="20251222160000 +0000" stop="20251222174500 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Primetime &quot;Art Cantik Gini Patut Dilestarikan&quot;</title></programme>
 <programme start="20251221171500 +0000" stop="20251221175000 +0000" channel="ShenzhenTV.cn@SD"><title lang="id">TV Theatre</title></programme>
 <programme start="20251221175000 +0000" stop="20251221183000 +0000" channel="ShenzhenTV.cn@SD"><title lang="id">TV Theatre</title></programme>
 <programme start="20251221183000 +0000" stop="20251221192000 +0000" channel="ShenzhenTV.cn@SD"><title lang="id">TV Theatre</title></programme>
@@ -3618,29 +3611,18 @@
 <programme start="20251222143000 +0000" stop="20251222153000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">Sindo Malam</title></programme>
 <programme start="20251222153000 +0000" stop="20251222163000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">Sindo Files</title></programme>
 <programme start="20251222163000 +0000" stop="20251222170000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">OMG</title></programme>
-<programme start="20251221180000 +0000" stop="20251221184500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251221184500 +0000" stop="20251221192500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251221192500 +0000" stop="20251221200500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251221200500 +0000" stop="20251221212200 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251221212200 +0000" stop="20251221221500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251221221500 +0000" stop="20251221231500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251221231500 +0000" stop="20251222003000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222003000 +0000" stop="20251222010000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 ALM Mini Match Rd 1</title></programme>
-<programme start="20251222010000 +0000" stop="20251222030000 +0000" channel="SPOTV2.id@SD"><title lang="id">ROSHN Saudi League 25/26 MW5</title></programme>
-<programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 A-League Men</title></programme>
-<programme start="20251222033000 +0000" stop="20251222043000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222043000 +0000" stop="20251222050000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 ALM Mini Match Rd 1</title></programme>
-<programme start="20251222050000 +0000" stop="20251222063000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 FIA TCR World Tour Korea</title></programme>
-<programme start="20251222063000 +0000" stop="20251222082300 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 A-League Men Round 1</title></programme>
-<programme start="20251222082300 +0000" stop="20251222091500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222091500 +0000" stop="20251222095500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222095500 +0000" stop="20251222103500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222103500 +0000" stop="20251222114500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222114500 +0000" stop="20251222124500 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 Asian Tour: SJM Macao Open</title></programme>
-<programme start="20251222124500 +0000" stop="20251222134500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222134500 +0000" stop="20251222144500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222144500 +0000" stop="20251222160000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Round 19- Liqui Moly Australian Motorcycle Grand Prix</title></programme>
-<programme start="20251222160000 +0000" stop="20251222180000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/26 A-League Men Round 1</title></programme>
+<programme start="20251221180000 +0000" stop="20251221183000 +0000" channel="SPOTV2.id@SD"><title lang="id">202025/2026 ALM Mini Match Rd 8</title></programme>
+<programme start="20251221183000 +0000" stop="20251221190000 +0000" channel="SPOTV2.id@SD"><title lang="id">202025/2026 ALM Mini Match Rd 8</title></programme>
+<programme start="20251221190000 +0000" stop="20251221210000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/2026 A-League Men Round 9</title></programme>
+<programme start="20251221210000 +0000" stop="20251222013500 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 MotoGP Rd1 PT GP of Thailand</title></programme>
+<programme start="20251222013500 +0000" stop="20251222033500 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/2026 A-League Men Round 9</title></programme>
+<programme start="20251222033500 +0000" stop="20251222053000 +0000" channel="SPOTV2.id@SD"><title lang="id">Golf: 2025 GTOUR</title></programme>
+<programme start="20251222053000 +0000" stop="20251222060000 +0000" channel="SPOTV2.id@SD"><title lang="id">202025/2026 ALM Mini Match Rd 8</title></programme>
+<programme start="20251222060000 +0000" stop="20251222063000 +0000" channel="SPOTV2.id@SD"><title lang="id">202025/2026 ALM Mini Match Rd 8</title></programme>
+<programme start="20251222063000 +0000" stop="20251222071500 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Spotlight</title></programme>
+<programme start="20251222071500 +0000" stop="20251222101500 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 MotoGP Rd1 PT GP of Thailand</title></programme>
+<programme start="20251222101500 +0000" stop="20251222150000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 MotoGP Rd1 PT GP of Thailand</title></programme>
+<programme start="20251222150000 +0000" stop="20251222170000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025/2026 A-League Men Round 9</title></programme>
 <programme start="20251221173000 +0000" stop="20251221180000 +0000" channel="SPOTV.id@SD"><title lang="id">UIM E1: Champions of the Water 2025: Ep 7 Miami</title></programme>
 <programme start="20251221180000 +0000" stop="20251221200000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 A-League Men Round 9: Perth Glory vs Adelaide United</title></programme>
 <programme start="20251221200000 +0000" stop="20251221223000 +0000" channel="SPOTV.id@SD"><title lang="id">WTT Singapore Smash 2025: Day 8 Session 2 Finals</title></programme>
