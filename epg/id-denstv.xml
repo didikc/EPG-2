@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251227">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
 <channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
@@ -33,7 +33,7 @@
 <channel id="WION.in@SD"><display-name>WION</display-name><icon src="https://i.imgur.com/Wc5Z3iS.png"/><url>https://dens.tv</url></channel>
 <channel id="TBN.ru@SD"><display-name>TBN</display-name><icon src="https://i.imgur.com/XAmPtWu.png"/><url>https://dens.tv</url></channel>
 <channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://i.postimg.cc/prRQTsmD/nhkworldjapan.png"/><url>https://dens.tv</url></channel>
-<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://i.imgur.com/u8N6uoj.png"/><url>https://dens.tv</url></channel>
+<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png"/><url>https://dens.tv</url></channel>
 <channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://dens.tv</url></channel>
 <channel id="tvNAsia.hk@SD"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="tvNMoviesAsia.hk@SD"><display-name>tvN Movies HD</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://dens.tv</url></channel>
@@ -49,10 +49,10 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
 <programme start="20251226170000 +0000" stop="20251226180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20251226180000 +0000" stop="20251226183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20251226183000 +0000" stop="20251226190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
