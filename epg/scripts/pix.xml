@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="freeview.co.uk" lang="en" xmltv_id="Film4.uk" site_id="64257#8385">Film4</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="More4.uk" site_id="64257#8442">More 4</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="BBCNews.uk" site_id="64257#4352">BBC NEWS</channel>
   <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyNews.uk" site_id="dvb://233a..5640">Sky News</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#645e7828e1979c00087b75b4">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/gb#6401d85a49839300087b116c">MovieSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#64a3d96f060e830008af6745">MovieSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="MovieSphere.us" site_id="Plex/all#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f">MOVIESPHERE</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="SamsungTVPlus/gb#GBBA33000557H">MovieSphere</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f">MOVIESPHERE</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec">Miramax Movie Channel</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="nz/epg#mjh-redbull-tv">Redbull TV</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#636adc255bcf470007d6e0e2">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#638e10220aa6a6000726979f">Top Gear</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/all#5e20b730f2f8d5003d739db7-6308f121ac9983739c8a29bd">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
   <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
 </channels>
