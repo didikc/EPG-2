@@ -12,23 +12,19 @@ npm run grab -- --site=cubmu.com --lang=id --output=../epg/id-cubmu.xml --days=3
 
 # Dens TV EPG
 
-# npm run grab -- --site=dens.tv --output=../epg/id-denstv.xml --days=3
+npm run grab -- --site=dens.tv --output=../epg/id-denstv.xml --days=3
 
 # Vision Plus EPG
 
-# npm run grab -- --site=visionplus.id --output=../epg/id-visionplus.xml --days=3
+npm run grab -- --site=visionplus.id --output=../epg/id-visionplus.xml --days=3
 
 # Vidio EPG
 
-# npm run grab -- --site=vidio.com --output=../epg/id-vidio.xml --days=3
+npm run grab -- --site=vidio.com --output=../epg/id-vidio.xml --days=3
 
 # Firstmedia EPG
 
-# npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
-
-# Singtel EPG
-
-# npm run grab -- --site=singtel.com --output=../epg/sg-singtel.xml --days=3
+npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
 
 # Pix EPG
 
@@ -39,12 +35,10 @@ cd ../epg/
 
 # gzip -k -f -9 ../epg/id*.xml
 gzip -k -f -9 ../epg/pix.xml
-# gzip -k -f -9 ../epg/sg*.xml
 
 # Remove EPG xml files
 
 # rm ../epg/id*.xml.gz
-# rm ../epg/sg*.xml.gz
 # rm ../epg/pix.xml
 
 exit 0
