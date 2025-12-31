@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="Film4.uk" site_id="64257#8385">Film4</channel>
+  <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
+  <channel site="dens.tv" site_id="82" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Quran TV</channel>
+  <channel site="dens.tv" site_id="88" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa@SD">Sunna TV</channel>
+  <channel site="indihometv.com" site_id="rodjatv" lang="id" xmltv_id="RodjaTV.id@SD">Rodja TV</channel>
+  <channel site="indihometv.com" site_id="beritasatu" lang="id" xmltv_id="BTV.id@SD">BTV</channel>
+  <channel site="indihometv.com" site_id="cnnindonesia" lang="id" xmltv_id="CNNIndonesia.id@SD">CNN Indonesia</channel>
+  <channel site="cubmu.com" site_id="4028c6858f902547018fccae36ec12b0" lang="id" xmltv_id="DensFoodChannel.id@SD">DENS Food Channel</channel>
+  <channel site="indihometv.com" site_id="indosiar" lang="id" xmltv_id="Indosiar.id@SD">Indosiar</channel>
+  <channel site="indihometv.com" site_id="kompastv" lang="id" xmltv_id="KompasTV.id@SD">Kompas TV</channel>
+  <channel site="indihometv.com" site_id="metrotv" lang="id" xmltv_id="MetroTV.id@SD">Metro TV</channel>
+  <channel site="indihometv.com" site_id="net" lang="id" xmltv_id="MDTV.id@SD">MDTV</channel>
+  <channel site="indihometv.com" site_id="nusantaratv" lang="id" xmltv_id="NusantaraTV.id@SD">Nusantara TV</channel>
+  <channel site="indihometv.com" site_id="rtv" lang="id" xmltv_id="RajawaliTV.id@SD">Rajawali TV</channel>
+  <channel site="indihometv.com" site_id="sctv" lang="id" xmltv_id="SCTV.id@SD">SCTV</channel>
+  <channel site="indihometv.com" site_id="trans7" lang="id" xmltv_id="Trans7.id@SD">Trans7</channel>
+  <channel site="indihometv.com" site_id="transtv" lang="id" xmltv_id="TransTV.id@SD">TransTV</channel>
+  <channel site="dens.tv" site_id="56" lang="id" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="BBCNews.uk" site_id="64257#4352">BBC NEWS</channel>
   <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyNews.uk" site_id="dvb://233a..5640">Sky News</channel>
+  <channel site="dens.tv" site_id="81" lang="id" xmltv_id="DW.de@English">DW-TV</channel>
+  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec">Miramax Movie Channel</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="Film4.uk" site_id="64257#8385">Film4</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#645e7828e1979c00087b75b4">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/gb#6401d85a49839300087b116c">MovieSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec">Miramax Movie Channel</channel>
+  <channel site="indihometv.com" site_id="horizonsport" lang="id" xmltv_id="HorizonSports.us@SD">Horizon Sports</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#636adc255bcf470007d6e0e2">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#638e10220aa6a6000726979f">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
-  <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
   <channel site="pluto.tv" site_id="65c69ee3d77d450008c80438" lang="en" xmltv_id="">Formula 1 Channel</channel>
-  <channel site="dens.tv" site_id="56" lang="id" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
-  <channel site="dens.tv" site_id="81" lang="id" xmltv_id="DW.de@English">DW-TV</channel>
-  <channel site="dens.tv" site_id="82" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Quran TV</channel>
-  <channel site="dens.tv" site_id="88" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa@SD">Sunna TV</channel>
 </channels>
