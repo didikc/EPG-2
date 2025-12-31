@@ -13,4 +13,6 @@
   <channel site="pluto.tv" site_id="65c69ee3d77d450008c80438" lang="en" xmltv_id="">Formula 1 Channel</channel>
   <channel site="dens.tv" site_id="56" lang="id" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
   <channel site="dens.tv" site_id="81" lang="id" xmltv_id="DW.de@English">DW-TV</channel>
+  <channel site="dens.tv" site_id="82" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Quran TV</channel>
+  <channel site="dens.tv" site_id="88" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa@SD">Sunna TV</channel>
 </channels>
