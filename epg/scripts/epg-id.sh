@@ -2,6 +2,10 @@
 
 cd /home/runner/work/EPG-2/EPG-2/iptv-org-epg && npm install
 
+# Pix EPG
+
+npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3
+
 # Indihome TV EPG
 
 npm run grab -- --site=indihometv.com --output=../epg/id-indihometv.xml --days=3
@@ -25,10 +29,6 @@ npm run grab -- --site=vidio.com --output=../epg/id-vidio.xml --days=3
 # Firstmedia EPG
 
 npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
-
-# Pix EPG
-
-npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3
 
 # Compress EPG xml files
 cd ../epg/
