@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260101">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
-<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
-<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
-<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
-<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
+<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="321"><display-name>Champions TV 1 HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="Eurosport.fr@AsiaHD"><display-name>Eurosport HD</display-name><icon src="https://i.imgur.com/s4jDnJh.png"/><url>https://firstmedia.com</url></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://firstmedia.com</url></channel>
 <channel id="CelestialMoviesIndonesia.id@HD"><display-name>Celestial Movies HD</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://firstmedia.com</url></channel>
 <channel id="CinemaxAsia.sg@HD"><display-name>Cinemax HD</display-name><icon src="https://i.imgur.com/c8crJfA.png"/><url>https://firstmedia.com</url></channel>
@@ -109,31 +108,32 @@
 <channel id="16"><display-name>TVRI Nasional</display-name><url>https://firstmedia.com</url></channel>
 <channel id="KompasTV.id@SD"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://firstmedia.com</url></channel>
 <channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="321"><display-name>Champions TV 1 HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="Eurosport.fr@AsiaHD"><display-name>Eurosport HD</display-name><icon src="https://i.imgur.com/s4jDnJh.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260101150000 +0000" stop="20260101170000 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Menyambut 2026 (L)</title></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
+<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
+<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
+<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260102150000 +0000" stop="20260102170000 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Menyambut 2026 (L)</title></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260102150000 +0000" stop="20260102160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260102160000 +0000" stop="20260102170000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
 </tv>
