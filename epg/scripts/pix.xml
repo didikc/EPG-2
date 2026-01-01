@@ -2,20 +2,22 @@
 <channels>
   <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
   <channel site="dens.tv" site_id="82" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Quran TV</channel>
+  <channel site="cubmu.com" site_id="4028c68574f658b101750641670b540e" lang="id" xmltv_id="QuranTV.sa@SD">Al Quran Al Kareem</channel>
   <channel site="dens.tv" site_id="88" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa@SD">Sunna TV</channel>
   <channel site="indihometv.com" site_id="rodjatv" lang="id" xmltv_id="RodjaTV.id@SD">Rodja TV</channel>
-  <channel site="indihometv.com" site_id="beritasatu" lang="id" xmltv_id="BTV.id@SD">BTV</channel>
-  <channel site="indihometv.com" site_id="cnnindonesia" lang="id" xmltv_id="CNNIndonesia.id@SD">CNN Indonesia</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be56c7d858fd" lang="id" xmltv_id="BTV.id@SD">BTV</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be4997e958db" lang="id" xmltv_id="CNNIndonesia.id@SD">CNN Indonesia</channel>
   <channel site="cubmu.com" site_id="4028c6858f902547018fccae36ec12b0" lang="id" xmltv_id="DensFoodChannel.id@SD">DENS Food Channel</channel>
-  <channel site="indihometv.com" site_id="indosiar" lang="id" xmltv_id="Indosiar.id@SD">Indosiar</channel>
-  <channel site="indihometv.com" site_id="kompastv" lang="id" xmltv_id="KompasTV.id@SD">Kompas TV</channel>
-  <channel site="indihometv.com" site_id="metrotv" lang="id" xmltv_id="MetroTV.id@SD">Metro TV</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be4f342858e9" lang="id" xmltv_id="Indosiar.id@SD">Indosiar</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be58644c5901" lang="id" xmltv_id="KompasTV.id@SD">Kompas TV</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be4783ff58da" lang="id" xmltv_id="MetroTV.id@SD">MetroTV</channel>
   <channel site="indihometv.com" site_id="net" lang="id" xmltv_id="MDTV.id@SD">MDTV</channel>
+  <channel site="cubmu.com" site_id="4028c685758bcfff01776c4ea3520a72" lang="id" xmltv_id="NET.id@SD">MDTV</channel>
   <channel site="indihometv.com" site_id="nusantaratv" lang="id" xmltv_id="NusantaraTV.id@SD">Nusantara TV</channel>
-  <channel site="indihometv.com" site_id="rtv" lang="id" xmltv_id="RajawaliTV.id@SD">Rajawali TV</channel>
-  <channel site="indihometv.com" site_id="sctv" lang="id" xmltv_id="SCTV.id@SD">SCTV</channel>
-  <channel site="indihometv.com" site_id="trans7" lang="id" xmltv_id="Trans7.id@SD">Trans7</channel>
-  <channel site="indihometv.com" site_id="transtv" lang="id" xmltv_id="TransTV.id@SD">TransTV</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be5cd0b15903" lang="id" xmltv_id="RajawaliTV.id@SD">rtv</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be4d55ce58dd" lang="id" xmltv_id="SCTV.id@SD">SCTV</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be43042758d8" lang="id" xmltv_id="TransTV.id@SD">Trans TV</channel>
+  <channel site="cubmu.com" site_id="4028c68574537fcd0174be45631158d9" lang="id" xmltv_id="Trans7.id@SD">Trans 7</channel>
   <channel site="dens.tv" site_id="56" lang="id" xmltv_id="AlJazeera.qa@English">Al Jazeera English</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="BBCNews.uk" site_id="64257#4352">BBC NEWS</channel>
   <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyNews.uk" site_id="dvb://233a..5640">Sky News</channel>
@@ -30,3 +32,4 @@
   <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
   <channel site="pluto.tv" site_id="65c69ee3d77d450008c80438" lang="en" xmltv_id="">Formula 1 Channel</channel>
 </channels>
+  
