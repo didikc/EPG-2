@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260101">
 <channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
-<channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://vidio.com</url></channel>
 <channel id="DaystarTV.us@SD"><display-name>Daystar TV</display-name><icon src="https://i.imgur.com/IjzCv8f.png"/><url>https://vidio.com</url></channel>
 <channel id="BeritaSatuEnglish.id@SD"><display-name>BeritaSatu</display-name><icon src="https://i.postimg.cc/SRDWxRGs/13092012142252.jpg"/><url>https://vidio.com</url></channel>
 <channel id="18190"><display-name>Champions Golf 2</display-name><url>https://vidio.com</url></channel>
@@ -56,6 +55,7 @@
 <channel id="Trans7.id@SD"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://vidio.com</url></channel>
 <channel id="TransTV.id@SD"><display-name>TRANS TV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://vidio.com</url></channel>
 <channel id="Moji.id@SD"><display-name>Moji</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://vidio.com</url></channel>
+<channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://vidio.com</url></channel>
 <programme start="20251231160000 +0000" stop="20251231170000 +0000" channel="17875"><title lang="id">Ambition: Next Gen Now : AO Originals 2026</title><desc lang="id">Ambition: Next Gen Now</desc><image>https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg</image></programme>
 <programme start="20251231170000 +0000" stop="20251231173000 +0000" channel="17875"><title lang="id">Women&apos;s Singles SF Zheng v Yastremska : Mini Match - Australian Open 2024</title><desc lang="id">Women&apos;s Singles SF Zheng v Yastremska</desc><image>https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg</image></programme>
 <programme start="20251231173000 +0000" stop="20251231180000 +0000" channel="17875"><title lang="id">Men&apos;s Singles SF Djokovic v Sinner : Mini Match - Australian Open 2024</title><desc lang="id">Men&apos;s Singles SF Djokovic v Sinner</desc><image>https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg</image></programme>
