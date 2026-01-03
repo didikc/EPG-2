@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260103">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
-<channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
-<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
+<channel id="ATV.id@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/uHcRd1t.png"/><url>https://indihometv.com</url></channel>
+<channel id="CartoonNetworkAsia.sg@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="DW.de@English"><display-name>DW (English)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://indihometv.com</url></channel>
+<channel id="MDTV.id@SD"><display-name>MDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="NBATV.us@SD"><display-name>NBA</display-name><icon src="https://i.postimg.cc/pVCJsCD5/nbatv.png"/><url>https://indihometv.com</url></channel>
+<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://indihometv.com</url></channel>
+<channel id="DuniaLain.id@SD"><display-name>Dunia Lain</display-name><icon src="https://i.imgur.com/XgIuU7M.png"/><url>https://indihometv.com</url></channel>
+<channel id="MyKidz.id@SD"><display-name>MyKidz</display-name><icon src="https://i.imgur.com/qzZFU6d.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
@@ -40,13 +46,14 @@
 <channel id="newtvfinance"><display-name>New Tv Finance</display-name><url>https://indihometv.com</url></channel>
 <channel id="newtvcomprehensive"><display-name>New Tv Comprehensive</display-name><url>https://indihometv.com</url></channel>
 <channel id="CNA.sg@SD"><display-name>News Asia</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://indihometv.com</url></channel>
-<channel id="MDTV.id@SD"><display-name>MDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="NBATV.us@SD"><display-name>NBA</display-name><icon src="https://i.postimg.cc/pVCJsCD5/nbatv.png"/><url>https://indihometv.com</url></channel>
-<channel id="MyKidz.id@SD"><display-name>MyKidz</display-name><icon src="https://i.imgur.com/qzZFU6d.png"/><url>https://indihometv.com</url></channel>
 <channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://indihometv.com</url></channel>
+<channel id="DuniaAnak.id@SD"><display-name>Dunia anak</display-name><icon src="https://i.imgur.com/pI76ufZ.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVMUI.id@SD"><display-name>MUI TV</display-name><icon src="https://i.imgur.com/vWtViyC.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
-<channel id="MTVLive.uk@SD"><display-name>MTV Live</display-name><icon src="https://i.postimg.cc/V6dm2DJs/mtvlive.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://indihometv.com</url></channel>
+<channel id="ROCKExtreme.sg@SD"><display-name>Rock Action</display-name><icon src="https://i.imgur.com/3U1JpHm.png"/><url>https://indihometv.com</url></channel>
+<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"/><url>https://indihometv.com</url></channel>
 <channel id="MTATV.id@SD"><display-name>MTATV</display-name><icon src="https://i.imgur.com/3kGs7k0.png"/><url>https://indihometv.com</url></channel>
 <channel id="MQTV.id@SD"><display-name>MQTV</display-name><icon src="https://i.imgur.com/d8dQo6E.png"/><url>https://indihometv.com</url></channel>
 <channel id="moonbug"><display-name>Moonbug</display-name><url>https://indihometv.com</url></channel>
@@ -83,13 +90,10 @@
 <channel id="FightSports.us@SD"><display-name>Fight Sport</display-name><icon src="https://i.imgur.com/nV55veq.png"/><url>https://indihometv.com</url></channel>
 <channel id="FashionTVAsia.fr@SD"><display-name>FashionTV</display-name><icon src="https://i.imgur.com/ucTh9tO.png"/><url>https://indihometv.com</url></channel>
 <channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://indihometv.com</url></channel>
-<channel id="DW.de@English"><display-name>DW (English)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/><url>https://indihometv.com</url></channel>
-<channel id="DuniaLain.id@SD"><display-name>Dunia Lain</display-name><icon src="https://i.imgur.com/XgIuU7M.png"/><url>https://indihometv.com</url></channel>
-<channel id="DuniaAnak.id@SD"><display-name>Dunia anak</display-name><icon src="https://i.imgur.com/pI76ufZ.png"/><url>https://indihometv.com</url></channel>
-<channel id="DreamWorksChannelAsia.us@SD"><display-name>Dreamworks</display-name><icon src="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"/><url>https://indihometv.com</url></channel>
+<channel id="MTVLive.uk@SD"><display-name>MTV Live</display-name><icon src="https://i.postimg.cc/V6dm2DJs/mtvlive.png"/><url>https://indihometv.com</url></channel>
 <channel id="DiscoveryAsia.sg@SD"><display-name>Discovery Asia</display-name><icon src="https://i.imgur.com/foLICwL.png"/><url>https://indihometv.com</url></channel>
+<channel id="ROCKEntertainment.sg@SD"><display-name>Rock Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://indihometv.com</url></channel>
 <channel id="DiscoveryChannel.id@SD"><display-name>Discovery Channel</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://indihometv.com</url></channel>
-<channel id="DaVinciAsia.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://indihometv.com</url></channel>
 <channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
 <channel id="CuriosityChannel.us@SD"><display-name>Curiosity</display-name><icon src="https://i.imgur.com/K0kZMYo.png"/><url>https://indihometv.com</url></channel>
 <channel id="CrimePlusInvestigationAsia.sg@SD"><display-name>Crime Investigation</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/><url>https://indihometv.com</url></channel>
@@ -104,27 +108,23 @@
 <channel id="CelestialMoviesIndonesia.id@SD"><display-name>Celestial Movie</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://indihometv.com</url></channel>
 <channel id="CitraDrama.id@SD"><display-name>Citra Drama</display-name><icon src="https://i.imgur.com/lXhXwx7.png"/><url>https://indihometv.com</url></channel>
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://indihometv.com</url></channel>
-<channel id="CartoonNetworkAsia.sg@SD"><display-name>Cartoon Network</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="Cartoonito.uk@SD"><display-name>Cartoonito</display-name><icon src="https://i.imgur.com/B29D2s1.png"/><url>https://indihometv.com</url></channel>
-<channel id="ROCKExtreme.sg@SD"><display-name>Rock Action</display-name><icon src="https://i.imgur.com/3U1JpHm.png"/><url>https://indihometv.com</url></channel>
-<channel id="ROCKEntertainment.sg@SD"><display-name>Rock Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://indihometv.com</url></channel>
+<channel id="DaVinciAsia.de@SD"><display-name>Da Vinci Learning</display-name><icon src="https://i.imgur.com/iBx7K1M.png"/><url>https://indihometv.com</url></channel>
+<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="BloombergTV.us@Asia"><display-name>Bloomberg</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://indihometv.com</url></channel>
 <channel id="BioskopIndonesia.id@SD"><display-name>Bioskop Indonesia</display-name><icon src="https://i.imgur.com/8gdyddg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="SPOTV2.id@SD"><display-name>SPOTV 2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://indihometv.com</url></channel>
 <channel id="SPOTV.id@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/><url>https://indihometv.com</url></channel>
 <channel id="BaliTV.id@SD"><display-name>Bali TV</display-name><icon src="https://i.imgur.com/uH1Szme.png"/><url>https://indihometv.com</url></channel>
 <channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="ATV.id@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/uHcRd1t.png"/><url>https://indihometv.com</url></channel>
-<channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://indihometv.com</url></channel>
-<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260102172000 +0000" stop="20260102173500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Camel Capers - Camel Queen</title></programme>
 <programme start="20260102173500 +0000" stop="20260102180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw - What&apos;s For Dinner?</title></programme>
 <programme start="20260102180000 +0000" stop="20260102190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Alone Australia - Episode 10</title></programme>
