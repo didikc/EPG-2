@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260105">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
 <channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
@@ -50,9 +50,9 @@
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
 <channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260104170000 +0000" stop="20260104180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260104180000 +0000" stop="20260104183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260104183000 +0000" stop="20260104190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2744,6 +2744,7 @@
 <programme start="20260107150000 +0000" stop="20260107160000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260107160000 +0000" stop="20260107165950 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260107165950 +0000" stop="20260107165959 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260104170000 +0000" stop="20260104174000 +0000" channel="Motorvision.de@SD"><title lang="id">GT World Challenge Europe 2025 :Final Endurance Cup</title><desc lang="id">The GT World Challenge Europe is back for another season. The schedule consists of 10 rounds at high-level circuits, split evenly between the Endurance Cup and Sprint Cup. And once again, the calendar features the Total 24 Hours of Spa as the marquee event.</desc></programme>
 <programme start="20260104174000 +0000" stop="20260104183500 +0000" channel="Motorvision.de@SD"><title lang="id">European Le Mans Series 2025 :Season Review</title><desc lang="id">The European Le Mans Series is a multiclass endurance championship with several races across Europe</desc></programme>
 <programme start="20260104183500 +0000" stop="20260104193000 +0000" channel="Motorvision.de@SD"><title lang="id">DTM 2025 :Season Review</title><desc lang="id">The Deutsche Tourenwagen Masters (DTM) thrills with close GT3 racing, featuring top drivers and teams competing on iconic circuits across Germany and Europe. High-octane motorsport at its finest.</desc></programme>
 <programme start="20260104193000 +0000" stop="20260104203000 +0000" channel="Motorvision.de@SD"><title lang="id">European Le Mans Series 2025 :Autodromo di Imola, Italy</title><desc lang="id">The European Le Mans Series is a multiclass endurance championship with several races across Europe</desc></programme>
