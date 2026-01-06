@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260106">
 <channel id="JTV.id@SD"><display-name>jtv</display-name><icon src="https://i.imgur.com/mIDWIQk.png"/><url>https://cubmu.com</url></channel>
-<channel id="4028c6858119921801816b5359d15e63"><display-name>Gaming TV</display-name><url>https://cubmu.com</url></channel>
-<channel id="4028c68598610fad0198875a95322b98"><display-name>GOLF PLUS ID</display-name><url>https://cubmu.com</url></channel>
-<channel id="4028c68598610fad01987a41012571f7"><display-name>LPS Financial Festival 2025</display-name><url>https://cubmu.com</url></channel>
+<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://cubmu.com</url></channel>
+<channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://cubmu.com</url></channel>
+<channel id="WION.in@SD"><display-name>Wion TV</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png"/><url>https://cubmu.com</url></channel>
 <channel id="CGTNDocumentary.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.imgur.com/JHv0WxM.png"/><url>https://cubmu.com</url></channel>
 <channel id="Trans7.id@SD"><display-name>Trans 7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://cubmu.com</url></channel>
 <channel id="TransTV.id@SD"><display-name>Trans TV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://cubmu.com</url></channel>
@@ -66,9 +66,9 @@
 <channel id="4028c6857fe540a1018060a4379740b7"><display-name>Xtrem Sports</display-name><url>https://cubmu.com</url></channel>
 <channel id="Fight.us@SD"><display-name>Fight TV Premium</display-name><icon src="https://i.imgur.com/bBv4p5K.png"/><url>https://cubmu.com</url></channel>
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV 4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://cubmu.com</url></channel>
-<channel id="WION.in@SD"><display-name>Wion TV</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png"/><url>https://cubmu.com</url></channel>
-<channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://cubmu.com</url></channel>
-<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://cubmu.com</url></channel>
+<channel id="4028c68598610fad0198875a95322b98"><display-name>GOLF PLUS ID</display-name><url>https://cubmu.com</url></channel>
+<channel id="4028c68598610fad01987a41012571f7"><display-name>LPS Financial Festival 2025</display-name><url>https://cubmu.com</url></channel>
+<channel id="4028c6858119921801816b5359d15e63"><display-name>Gaming TV</display-name><url>https://cubmu.com</url></channel>
 <programme start="20260105170000 +0000" stop="20260105174500 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Silent Revolution</title><desc lang="id">Silent Revolution adalah tayangan dokumenter yang berfokus pada dunia BMX Downhill, Freestyle, dan 4Cross yang berkembang pesat.</desc></programme>
 <programme start="20260105174500 +0000" stop="20260105180000 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Xtrem Clips</title><desc lang="id">Sebuah distilasi dari rekaman paling gila yang pernah ada, kumpulan klip ini sangat beragam dan mendebarkan!</desc></programme>
 <programme start="20260105180000 +0000" stop="20260105182200 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Hawaiian Xtrem Sports</title><desc lang="id">Majalah gaya hidup olahraga ekstrem dari Hawaii dengan atlet top dunia. Setiap episode HXS menghadirkan aksi olahraga ekstrem terbaru, hanya untuk memberi Anda rasa HXS!</desc></programme>
@@ -2871,51 +2871,6 @@
 <programme start="20260108150000 +0000" stop="20260108155000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">TV Drama</title><desc lang="id">Menyajikan berbagai drama televisi Tiongkok yang menyentuh.</desc></programme>
 <programme start="20260108155000 +0000" stop="20260108164000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">TV Drama</title><desc lang="id">Menyajikan berbagai drama televisi Tiongkok yang menyentuh.</desc></programme>
 <programme start="20260108164000 +0000" stop="20260107173000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">TV Drama</title><desc lang="id">Menyajikan berbagai drama televisi Tiongkok yang menyentuh.</desc></programme>
-<programme start="20260105170000 +0000" stop="20260105180000 +0000" channel="CGTN.cn@SD"><title lang="id">Africa Live</title><desc lang="id">-</desc></programme>
-<programme start="20260105180000 +0000" stop="20260105190000 +0000" channel="CGTN.cn@SD"><title lang="id">Global Business</title><desc lang="id">-</desc></programme>
-<programme start="20260105190000 +0000" stop="20260105193000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260105193000 +0000" stop="20260105200000 +0000" channel="CGTN.cn@SD"><title lang="id">World Insight with Tian Wei</title><desc lang="id">-</desc></programme>
-<programme start="20260105200000 +0000" stop="20260105203000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260105203000 +0000" stop="20260105210000 +0000" channel="CGTN.cn@SD"><title lang="id">Dialogue</title><desc lang="id">-</desc></programme>
-<programme start="20260105210000 +0000" stop="20260105213000 +0000" channel="CGTN.cn@SD"><title lang="id">Global Business</title><desc lang="id">-</desc></programme>
-<programme start="20260105213000 +0000" stop="20260105220000 +0000" channel="CGTN.cn@SD"><title lang="id">The Hub With Wang Guan</title><desc lang="id">-</desc></programme>
-<programme start="20260105220000 +0000" stop="20260105223000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260105223000 +0000" stop="20260105230000 +0000" channel="CGTN.cn@SD"><title lang="id">Rediscovering China</title><desc lang="id">-</desc></programme>
-<programme start="20260105230000 +0000" stop="20260105233000 +0000" channel="CGTN.cn@SD"><title lang="id">The Heat</title><desc lang="id">-</desc></programme>
-<programme start="20260105233000 +0000" stop="20260106000000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106000000 +0000" stop="20260106010000 +0000" channel="CGTN.cn@SD"><title lang="id">Global Business</title><desc lang="id">-</desc></programme>
-<programme start="20260106010000 +0000" stop="20260106013000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106013000 +0000" stop="20260106020000 +0000" channel="CGTN.cn@SD"><title lang="id">China 24</title><desc lang="id">-</desc></programme>
-<programme start="20260106020000 +0000" stop="20260106023000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106023000 +0000" stop="20260106030000 +0000" channel="CGTN.cn@SD"><title lang="id">World Insight with Tian Wei</title><desc lang="id">-</desc></programme>
-<programme start="20260106030000 +0000" stop="20260106031500 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106031500 +0000" stop="20260106033000 +0000" channel="CGTN.cn@SD"><title lang="id">Sports Scene</title><desc lang="id">-</desc></programme>
-<programme start="20260106033000 +0000" stop="20260106040000 +0000" channel="CGTN.cn@SD"><title lang="id">The Point with Liu Xin</title><desc lang="id">-</desc></programme>
-<programme start="20260106040000 +0000" stop="20260106050000 +0000" channel="CGTN.cn@SD"><title lang="id">Global Watch</title><desc lang="id">-</desc></programme>
-<programme start="20260106050000 +0000" stop="20260106051500 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106051500 +0000" stop="20260106053000 +0000" channel="CGTN.cn@SD"><title lang="id">Sports Scene</title><desc lang="id">-</desc></programme>
-<programme start="20260106053000 +0000" stop="20260106060000 +0000" channel="CGTN.cn@SD"><title lang="id">Assignment Asia</title><desc lang="id">-</desc></programme>
-<programme start="20260106060000 +0000" stop="20260106063000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106063000 +0000" stop="20260106070000 +0000" channel="CGTN.cn@SD"><title lang="id">The Heat</title><desc lang="id">-</desc></programme>
-<programme start="20260106070000 +0000" stop="20260106073000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106073000 +0000" stop="20260106080000 +0000" channel="CGTN.cn@SD"><title lang="id">Sports Scene</title><desc lang="id">-</desc></programme>
-<programme start="20260106080000 +0000" stop="20260106081500 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106081500 +0000" stop="20260106090000 +0000" channel="CGTN.cn@SD"><title lang="id">Global Business</title><desc lang="id">-</desc></programme>
-<programme start="20260106090000 +0000" stop="20260106093000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106093000 +0000" stop="20260106100000 +0000" channel="CGTN.cn@SD"><title lang="id">The Vibe</title><desc lang="id">-</desc></programme>
-<programme start="20260106100000 +0000" stop="20260106101500 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106101500 +0000" stop="20260106110000 +0000" channel="CGTN.cn@SD"><title lang="id">Africa Live</title><desc lang="id">-</desc></programme>
-<programme start="20260106110000 +0000" stop="20260106113000 +0000" channel="CGTN.cn@SD"><title lang="id">Asia Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106113000 +0000" stop="20260106120000 +0000" channel="CGTN.cn@SD"><title lang="id">Dialogue</title><desc lang="id">-</desc></programme>
-<programme start="20260106120000 +0000" stop="20260106121500 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106121500 +0000" stop="20260106130000 +0000" channel="CGTN.cn@SD"><title lang="id">China 24</title><desc lang="id">-</desc></programme>
-<programme start="20260106130000 +0000" stop="20260106133000 +0000" channel="CGTN.cn@SD"><title lang="id">Global Business</title><desc lang="id">-</desc></programme>
-<programme start="20260106133000 +0000" stop="20260106140000 +0000" channel="CGTN.cn@SD"><title lang="id">The Point with Liu Xin</title><desc lang="id">-</desc></programme>
-<programme start="20260106140000 +0000" stop="20260106143000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106143000 +0000" stop="20260106150000 +0000" channel="CGTN.cn@SD"><title lang="id">World Insight with Tian Wei</title><desc lang="id">-</desc></programme>
-<programme start="20260106150000 +0000" stop="20260106153000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
-<programme start="20260106153000 +0000" stop="20260106160000 +0000" channel="CGTN.cn@SD"><title lang="id">The Vibe</title><desc lang="id">-</desc></programme>
-<programme start="20260106160000 +0000" stop="20260105170000 +0000" channel="CGTN.cn@SD"><title lang="id">Global Business</title><desc lang="id">-</desc></programme>
 <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="CGTN.cn@SD"><title lang="id">Africa Live</title><desc lang="id">-</desc></programme>
 <programme start="20260106180000 +0000" stop="20260106190000 +0000" channel="CGTN.cn@SD"><title lang="id">Global Business</title><desc lang="id">-</desc></programme>
 <programme start="20260106190000 +0000" stop="20260106193000 +0000" channel="CGTN.cn@SD"><title lang="id">The World Today</title><desc lang="id">-</desc></programme>
