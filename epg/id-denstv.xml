@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260107">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
 <channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
@@ -49,10 +49,10 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
 <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260106180000 +0000" stop="20260106183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260106183000 +0000" stop="20260106190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1664,12 +1664,12 @@
 <programme start="20260108050000 +0000" stop="20260108060000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
 <programme start="20260108060000 +0000" stop="20260108070000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20260108070000 +0000" stop="20260108073000 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
-<programme start="20260108073000 +0000" stop="20260108080000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
-<programme start="20260108080000 +0000" stop="20260108100000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Mayli</title></programme>
-<programme start="20260108100000 +0000" stop="20260108110000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
+<programme start="20260108073000 +0000" stop="20260108083000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
+<programme start="20260108083000 +0000" stop="20260108103000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Mayli</title></programme>
+<programme start="20260108103000 +0000" stop="20260108110000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20260108110000 +0000" stop="20260108120000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
-<programme start="20260108120000 +0000" stop="20260108130000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
-<programme start="20260108130000 +0000" stop="20260108133000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
+<programme start="20260108120000 +0000" stop="20260108130800 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
+<programme start="20260108130800 +0000" stop="20260108133000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
 <programme start="20260108133000 +0000" stop="20260108140000 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
 <programme start="20260108140000 +0000" stop="20260108150000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
 <programme start="20260108150000 +0000" stop="20260108165959 +0000" channel="DensPlay.id@SD"><title lang="id">Battleplay Honor of Kings</title></programme>
@@ -1730,7 +1730,7 @@
 <programme start="20260108120000 +0000" stop="20260108130000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
 <programme start="20260108130000 +0000" stop="20260108140000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour</title></programme>
 <programme start="20260108140000 +0000" stop="20260108150000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Gerbang Dimensi</title></programme>
-<programme start="20260108150000 +0000" stop="20260108165959 +0000" channel="DensShowBiz.id@SD"><title lang="id">Live Streaming</title></programme>
+<programme start="20260108150000 +0000" stop="20260108165959 +0000" channel="DensShowBiz.id@SD"><title lang="id">Active Up Zumba Toning (Recorded)</title></programme>
 <programme start="20260108230000 +0000" stop="20260109000000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 2</title></programme>
 <programme start="20260109000000 +0000" stop="20260109010000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
 <programme start="20260109010000 +0000" stop="20260109020000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
