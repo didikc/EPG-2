@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260107">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
 <channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
@@ -49,10 +49,10 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260106180000 +0000" stop="20260106183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260106183000 +0000" stop="20260106190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2583,6 +2583,64 @@
 <programme start="20260107153000 +0000" stop="20260107160000 +0000" channel="JakTV.id@SD"><title lang="id">Pak Kobra</title></programme>
 <programme start="20260107160000 +0000" stop="20260107165950 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri</title></programme>
 <programme start="20260107165950 +0000" stop="20260107165959 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri</title></programme>
+<programme start="20260107170000 +0000" stop="20260107220000 +0000" channel="JakTV.id@SD"><title lang="id">Offline</title></programme>
+<programme start="20260107220000 +0000" stop="20260107223000 +0000" channel="JakTV.id@SD"><title lang="id">Senyum Quran</title></programme>
+<programme start="20260107223000 +0000" stop="20260107230000 +0000" channel="JakTV.id@SD"><title lang="id">Chess Player</title></programme>
+<programme start="20260107230000 +0000" stop="20260107233000 +0000" channel="JakTV.id@SD"><title lang="id">Kara Dan Mayi</title></programme>
+<programme start="20260107233000 +0000" stop="20260108000000 +0000" channel="JakTV.id@SD"><title lang="id">Cave And Cavern</title></programme>
+<programme start="20260108000000 +0000" stop="20260108010000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260108010000 +0000" stop="20260108020000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260108020000 +0000" stop="20260108030000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260108030000 +0000" stop="20260108033000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260108033000 +0000" stop="20260108040000 +0000" channel="JakTV.id@SD"><title lang="id">Animal Action</title></programme>
+<programme start="20260108040000 +0000" stop="20260108043000 +0000" channel="JakTV.id@SD"><title lang="id">Everyday Chinese</title></programme>
+<programme start="20260108043000 +0000" stop="20260108050000 +0000" channel="JakTV.id@SD"><title lang="id">Khazanah Kenyalang</title></programme>
+<programme start="20260108050000 +0000" stop="20260108060000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260108060000 +0000" stop="20260108063000 +0000" channel="JakTV.id@SD"><title lang="id">Inovator</title></programme>
+<programme start="20260108063000 +0000" stop="20260108070000 +0000" channel="JakTV.id@SD"><title lang="id">Cooking Time</title></programme>
+<programme start="20260108070000 +0000" stop="20260108080000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260108080000 +0000" stop="20260108090000 +0000" channel="JakTV.id@SD"><title lang="id">Berkah Shop</title></programme>
+<programme start="20260108090000 +0000" stop="20260108100000 +0000" channel="JakTV.id@SD"><title lang="id">Berdoa Yuk</title></programme>
+<programme start="20260108100000 +0000" stop="20260108110000 +0000" channel="JakTV.id@SD"><title lang="id">Douluo Continent</title></programme>
+<programme start="20260108110000 +0000" stop="20260108113000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260108113000 +0000" stop="20260108120000 +0000" channel="JakTV.id@SD"><title lang="id">Dunia Kita</title></programme>
+<programme start="20260108120000 +0000" stop="20260108123000 +0000" channel="JakTV.id@SD"><title lang="id">Khazanah Kenyalang</title></programme>
+<programme start="20260108123000 +0000" stop="20260108130000 +0000" channel="JakTV.id@SD"><title lang="id">Cave And Cavern</title></programme>
+<programme start="20260108130000 +0000" stop="20260108140000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260108140000 +0000" stop="20260108150000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260108150000 +0000" stop="20260108153000 +0000" channel="JakTV.id@SD"><title lang="id">Mirror Story</title></programme>
+<programme start="20260108153000 +0000" stop="20260108160000 +0000" channel="JakTV.id@SD"><title lang="id">Pak Kobra</title></programme>
+<programme start="20260108160000 +0000" stop="20260108165950 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri</title></programme>
+<programme start="20260108165950 +0000" stop="20260108165959 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri</title></programme>
+<programme start="20260108170000 +0000" stop="20260108220000 +0000" channel="JakTV.id@SD"><title lang="id">Offline</title></programme>
+<programme start="20260108220000 +0000" stop="20260108223000 +0000" channel="JakTV.id@SD"><title lang="id">Senyum Quran</title></programme>
+<programme start="20260108223000 +0000" stop="20260108230000 +0000" channel="JakTV.id@SD"><title lang="id">Chess Player</title></programme>
+<programme start="20260108230000 +0000" stop="20260108233000 +0000" channel="JakTV.id@SD"><title lang="id">Kara Dan Mayi</title></programme>
+<programme start="20260108233000 +0000" stop="20260109000000 +0000" channel="JakTV.id@SD"><title lang="id">Cave And Cavern</title></programme>
+<programme start="20260109000000 +0000" stop="20260109010000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260109010000 +0000" stop="20260109020000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260109020000 +0000" stop="20260109030000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260109030000 +0000" stop="20260109033000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260109033000 +0000" stop="20260109040000 +0000" channel="JakTV.id@SD"><title lang="id">Animal Action</title></programme>
+<programme start="20260109040000 +0000" stop="20260109043000 +0000" channel="JakTV.id@SD"><title lang="id">Everyday Chinese</title></programme>
+<programme start="20260109043000 +0000" stop="20260109050000 +0000" channel="JakTV.id@SD"><title lang="id">Khazanah Kenyalang</title></programme>
+<programme start="20260109050000 +0000" stop="20260109060000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260109060000 +0000" stop="20260109063000 +0000" channel="JakTV.id@SD"><title lang="id">Inovator</title></programme>
+<programme start="20260109063000 +0000" stop="20260109070000 +0000" channel="JakTV.id@SD"><title lang="id">Cooking Time</title></programme>
+<programme start="20260109070000 +0000" stop="20260109080000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260109080000 +0000" stop="20260109090000 +0000" channel="JakTV.id@SD"><title lang="id">Berkah Shop</title></programme>
+<programme start="20260109090000 +0000" stop="20260109100000 +0000" channel="JakTV.id@SD"><title lang="id">Berdoa Yuk</title></programme>
+<programme start="20260109100000 +0000" stop="20260109110000 +0000" channel="JakTV.id@SD"><title lang="id">Douluo Continent</title></programme>
+<programme start="20260109110000 +0000" stop="20260109113000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260109113000 +0000" stop="20260109120000 +0000" channel="JakTV.id@SD"><title lang="id">Dunia Kita</title></programme>
+<programme start="20260109120000 +0000" stop="20260109123000 +0000" channel="JakTV.id@SD"><title lang="id">Khazanah Kenyalang</title></programme>
+<programme start="20260109123000 +0000" stop="20260109130000 +0000" channel="JakTV.id@SD"><title lang="id">Cave And Cavern</title></programme>
+<programme start="20260109130000 +0000" stop="20260109140000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260109140000 +0000" stop="20260109150000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260109150000 +0000" stop="20260109153000 +0000" channel="JakTV.id@SD"><title lang="id">Mirror Story</title></programme>
+<programme start="20260109153000 +0000" stop="20260109160000 +0000" channel="JakTV.id@SD"><title lang="id">Pak Kobra</title></programme>
+<programme start="20260109160000 +0000" stop="20260109165950 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri</title></programme>
+<programme start="20260109165950 +0000" stop="20260109165959 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri</title></programme>
 <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260106180000 +0000" stop="20260106183000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260106183000 +0000" stop="20260106190000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -3618,32 +3676,89 @@
 <programme start="20260109150000 +0000" stop="20260109160000 +0000" channel="RodjaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260109160000 +0000" stop="20260109165950 +0000" channel="RodjaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260109165950 +0000" stop="20260109165959 +0000" channel="RodjaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106180000 +0000" stop="20260106183000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106183000 +0000" stop="20260106190000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106190000 +0000" stop="20260106200000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106200000 +0000" stop="20260106213000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106213000 +0000" stop="20260106223000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106223000 +0000" stop="20260106230000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106230000 +0000" stop="20260106233000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260106233000 +0000" stop="20260107000000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107000000 +0000" stop="20260107010000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107010000 +0000" stop="20260107023000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107023000 +0000" stop="20260107030000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107030000 +0000" stop="20260107040000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107040000 +0000" stop="20260107043000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107043000 +0000" stop="20260107070000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107070000 +0000" stop="20260107080000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107080000 +0000" stop="20260107090000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107090000 +0000" stop="20260107100000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107100000 +0000" stop="20260107110000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107110000 +0000" stop="20260107113000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107113000 +0000" stop="20260107120000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107120000 +0000" stop="20260107140000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107140000 +0000" stop="20260107150000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107150000 +0000" stop="20260107160000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107160000 +0000" stop="20260107165950 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260107165950 +0000" stop="20260107165959 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260106170000 +0000" stop="20260106180100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Mahler - Symphony No. 5</title></programme>
+<programme start="20260106180100 +0000" stop="20260106183300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classical:NEXT 2019 - Lost Heritage</title></programme>
+<programme start="20260106183300 +0000" stop="20260106193200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Testing Mozart</title></programme>
+<programme start="20260106193200 +0000" stop="20260106195900 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Villa-Lobos - String Quartet No. 13</title></programme>
+<programme start="20260106195900 +0000" stop="20260106202600 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Prokofiev - Peter and the Wolf</title></programme>
+<programme start="20260106202600 +0000" stop="20260106210000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classica Spotlight</title></programme>
+<programme start="20260106210000 +0000" stop="20260106222700 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Rogerio Tutti in Concert</title></programme>
+<programme start="20260106222700 +0000" stop="20260106232500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Pierre Boulez and the Lucerne Festival Academy</title></programme>
+<programme start="20260106232500 +0000" stop="20260106234100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Ravel - Ma mÃ¨re l&apos;Oye</title></programme>
+<programme start="20260106234100 +0000" stop="20260107000000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classica Spotlight</title></programme>
+<programme start="20260107000000 +0000" stop="20260107025200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Rossini - La Cenerentola</title></programme>
+<programme start="20260107025200 +0000" stop="20260107041300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Beethoven - Piano Concerto No. 1 &amp; Symphony No. 2</title></programme>
+<programme start="20260107041300 +0000" stop="20260107050200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Orquesta de MinerÃ­a - Anniversary Concert II</title></programme>
+<programme start="20260107050200 +0000" stop="20260107052100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Ravel - Mother Goose Suite</title></programme>
+<programme start="20260107052100 +0000" stop="20260107054000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Ravel - Sonata for violin and piano in G major</title></programme>
+<programme start="20260107054000 +0000" stop="20260107060000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classica Spotlight</title></programme>
+<programme start="20260107060000 +0000" stop="20260107065100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Celebrate St. Patrick 2020</title></programme>
+<programme start="20260107065100 +0000" stop="20260107080500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Brahms Tragic Overture &amp; Mahler Symphony No. 1</title></programme>
+<programme start="20260107080500 +0000" stop="20260107090400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">CMIM Piano 2024 - Semi-final II: Arisa Onoda</title></programme>
+<programme start="20260107090400 +0000" stop="20260107093700 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Bach - Partita for Violin No. 2 (BWV 1004)</title></programme>
+<programme start="20260107093700 +0000" stop="20260107100100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">IVC 2021 - Semi-finals: Brahms, Britten a. o.</title></programme>
+<programme start="20260107100100 +0000" stop="20260107105600 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Celebrate St. Patrick 2018</title></programme>
+<programme start="20260107105600 +0000" stop="20260107124500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Bach - Brandenburg Concertos, BWV 1046-1051</title></programme>
+<programme start="20260107124500 +0000" stop="20260107133700 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Israel Philharmonic Orchestra: Coming Home</title></programme>
+<programme start="20260107133700 +0000" stop="20260107140100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Mozart - Violin Concerto No. 3</title></programme>
+<programme start="20260107140100 +0000" stop="20260107154400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Nelsons and Opolais perform DvoÅ™Ã¡k</title></programme>
+<programme start="20260107154400 +0000" stop="20260107165800 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Le Sacre: A ballet in two parts by Uwe Scholz</title></programme>
+<programme start="20260107165800 +0000" stop="20260107165950 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Orquesta de MinerÃ­a: Anniversary Concert I</title></programme>
+<programme start="20260107165950 +0000" stop="20260107165959 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Orquesta de MinerÃ­a: Anniversary Concert I</title></programme>
+<programme start="20260107170000 +0000" stop="20260107175200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Orquesta de MinerÃ­a: Anniversary Concert I</title></programme>
+<programme start="20260107175200 +0000" stop="20260107182100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Mozart - Divertimento No. 11, K. 251</title></programme>
+<programme start="20260107182100 +0000" stop="20260107200200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Homage to Yehudi Menuhin</title></programme>
+<programme start="20260107200200 +0000" stop="20260107210000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Pierre Boulez - A life for music</title></programme>
+<programme start="20260107210000 +0000" stop="20260107225500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Liszt&apos;s 1st Piano Concerto &amp; Mahler&apos;s 7th Symphony</title></programme>
+<programme start="20260107225500 +0000" stop="20260108000000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Works by Mozart and Sarti</title></programme>
+<programme start="20260108000000 +0000" stop="20260108015600 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Beethoven - Fidelio, Op. 72</title></programme>
+<programme start="20260108015600 +0000" stop="20260108032500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Europakonzert 2012 - Vienna</title></programme>
+<programme start="20260108032500 +0000" stop="20260108044500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Cleveland Orchestra - Centennial Celebration</title></programme>
+<programme start="20260108044500 +0000" stop="20260108051200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Haydn - Symphony No. 45 &apos;Farewell&apos;</title></programme>
+<programme start="20260108051200 +0000" stop="20260108054100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Chamber Music by Mozart and Von DohnÃ¡nyi</title></programme>
+<programme start="20260108054100 +0000" stop="20260108060000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classica Spotlight</title></programme>
+<programme start="20260108060000 +0000" stop="20260108072100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">An evening with Gabriela Montero</title></programme>
+<programme start="20260108072100 +0000" stop="20260108082000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">A Singalong Christmas</title></programme>
+<programme start="20260108082000 +0000" stop="20260108085700 +0000" channel="StingrayClassica.ca@SD"><title lang="id">CMIM Piano 2024 â€“ First Round: Anthony Ratinov</title></programme>
+<programme start="20260108085700 +0000" stop="20260108092400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Mozart - Violin Concerto No. 5</title></programme>
+<programme start="20260108092400 +0000" stop="20260108095000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">IVC 2021 - Semi-finals: Debussy, Messiaen a. o.</title></programme>
+<programme start="20260108095000 +0000" stop="20260108100500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classica Spotlight</title></programme>
+<programme start="20260108100500 +0000" stop="20260108110100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Behind the Scenes at the Zurich Opera House</title></programme>
+<programme start="20260108110100 +0000" stop="20260108114300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Monteverdi - Madrigals, Book I</title></programme>
+<programme start="20260108114300 +0000" stop="20260108115500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Chopin - Introduction &amp; Polonaise, Op. 3</title></programme>
+<programme start="20260108115500 +0000" stop="20260108124400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Beethoven - Piano Concerto No. 3 in C minor</title></programme>
+<programme start="20260108124400 +0000" stop="20260108131200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Prokofiev - Peter and the Wolf</title></programme>
+<programme start="20260108131200 +0000" stop="20260108134500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Mexican Concert - Part II</title></programme>
+<programme start="20260108134500 +0000" stop="20260108140500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classica Spotlight</title></programme>
+<programme start="20260108140500 +0000" stop="20260108150100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Straight from the heart: Chansonnier Cordiforme</title></programme>
+<programme start="20260108150100 +0000" stop="20260108165900 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Puccini - La bohÃ¨me</title></programme>
+<programme start="20260108165900 +0000" stop="20260108165950 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Holst - The Planets</title></programme>
+<programme start="20260108165950 +0000" stop="20260108165959 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Holst - The Planets</title></programme>
+<programme start="20260108170000 +0000" stop="20260108175100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Holst - The Planets</title></programme>
+<programme start="20260108175100 +0000" stop="20260108181900 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classical:NEXT 2019 - ÅšniedÅº</title></programme>
+<programme start="20260108181900 +0000" stop="20260108201300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Knowledge is the Beginning</title></programme>
+<programme start="20260108201300 +0000" stop="20260108203800 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Bach - Violin Sonata No. 3 (BWV 1005)</title></programme>
+<programme start="20260108203800 +0000" stop="20260108210000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Mozart - Violin Concerto No. 4</title></programme>
+<programme start="20260108210000 +0000" stop="20260108222800 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Anna Karenina</title></programme>
+<programme start="20260108222800 +0000" stop="20260108234100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Vocal baroque works by Cavalli, Strozzi &amp; Bembo</title></programme>
+<programme start="20260108234100 +0000" stop="20260109000000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classica Spotlight</title></programme>
+<programme start="20260109000000 +0000" stop="20260109012500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Pierre Boulez conducts Modern Classics</title></programme>
+<programme start="20260109012500 +0000" stop="20260109020100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Classica Spotlight</title></programme>
+<programme start="20260109020100 +0000" stop="20260109042400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Live in Aix-en-Provence</title></programme>
+<programme start="20260109042400 +0000" stop="20260109053800 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Martha Argerich â€“ A Birthday Celebration - II</title></programme>
+<programme start="20260109053800 +0000" stop="20260109060000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Beethoven - String Quartet No. 2, Op. 18, No. 2</title></programme>
+<programme start="20260109060000 +0000" stop="20260109073100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">House of Dreams</title></programme>
+<programme start="20260109073100 +0000" stop="20260109090100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Gala from Berlin - 2010</title></programme>
+<programme start="20260109090100 +0000" stop="20260109093200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">CMIM Piano 2024 â€“ First Round: Rachel Breen</title></programme>
+<programme start="20260109093200 +0000" stop="20260109100100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Mozart - String Quartet No. 19 in C major, K. 465</title></programme>
+<programme start="20260109100100 +0000" stop="20260109104700 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Piano works by Scriabin, Berg &amp; Beethoven</title></programme>
+<programme start="20260109104700 +0000" stop="20260109121500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Piano Duets - Mozart, Ravel, Rachmaninoff a. o.</title></programme>
+<programme start="20260109121500 +0000" stop="20260109125000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Mexican Concert - Part I</title></programme>
+<programme start="20260109125000 +0000" stop="20260109134200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Violin&apos;s Voice</title></programme>
+<programme start="20260109134200 +0000" stop="20260109140100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Ravel - Mother Goose Suite</title></programme>
+<programme start="20260109140100 +0000" stop="20260109145000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Divas and Diamonds</title></programme>
+<programme start="20260109145000 +0000" stop="20260109165950 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Donizetti â€“ Lâ€™elisir dâ€™amore</title></programme>
+<programme start="20260109165950 +0000" stop="20260109165959 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Donizetti â€“ Lâ€™elisir dâ€™amore</title></programme>
 <programme start="20260106170000 +0000" stop="20260106180000 +0000" channel="TBN.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260106180000 +0000" stop="20260106183000 +0000" channel="TBN.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260106183000 +0000" stop="20260106190000 +0000" channel="TBN.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
