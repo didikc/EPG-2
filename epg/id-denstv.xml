@@ -1375,9 +1375,7 @@
 <programme start="20260113150000 +0000" stop="20260113153000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Tentang Rasa</title></programme>
 <programme start="20260113153000 +0000" stop="20260113160000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Cooking Duck</title></programme>
 <programme start="20260113160000 +0000" stop="20260113165959 +0000" channel="DensFoodChannel.id@SD"><title lang="id">The Boston</title></programme>
-<programme start="20260113230000 +0000" stop="20260114010000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Live Cooking (Recorded)</title></programme>
-<programme start="20260114010000 +0000" stop="20260114013000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Sweet Yummy</title></programme>
-<programme start="20260114013000 +0000" stop="20260114020000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Nyasar (Nyicip Asik Ala Rakyat)</title></programme>
+<programme start="20260113230000 +0000" stop="20260114020000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Live Cooking (Recorded)</title></programme>
 <programme start="20260114020000 +0000" stop="20260114030000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">The Boston</title></programme>
 <programme start="20260114030000 +0000" stop="20260114040000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Dialog Rasa</title></programme>
 <programme start="20260114040000 +0000" stop="20260114043000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Secret Chef Season 2</title></programme>
@@ -1397,8 +1395,8 @@
 <programme start="20260114120000 +0000" stop="20260114123000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Sweet Yummy</title></programme>
 <programme start="20260114123000 +0000" stop="20260114130000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Foodsaurus</title></programme>
 <programme start="20260114130000 +0000" stop="20260114140000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Bongs Happy Restaurant</title></programme>
-<programme start="20260114140000 +0000" stop="20260114143000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Halal Kuliner</title></programme>
-<programme start="20260114143000 +0000" stop="20260114150000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Pecah Rasa</title></programme>
+<programme start="20260114140800 +0000" stop="20260114144000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Halal Kuliner</title></programme>
+<programme start="20260114144000 +0000" stop="20260114150000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Pecah Rasa</title></programme>
 <programme start="20260114150000 +0000" stop="20260114153000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Tentang Rasa</title></programme>
 <programme start="20260114153000 +0000" stop="20260114160000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Cooking Duck</title></programme>
 <programme start="20260114160000 +0000" stop="20260114165959 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Meat And Great</title></programme>
@@ -1420,8 +1418,8 @@
 <programme start="20260115073000 +0000" stop="20260115080000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Escape</title></programme>
 <programme start="20260115080000 +0000" stop="20260115083000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Tentang Rasa</title></programme>
 <programme start="20260115083000 +0000" stop="20260115090000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Sweet Yummy</title></programme>
-<programme start="20260115090000 +0000" stop="20260115100000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Bongs Happy Restaurant</title></programme>
-<programme start="20260115100000 +0000" stop="20260115103000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Nyasar (Nyicip Asik Ala Rakyat)</title></programme>
+<programme start="20260115085500 +0000" stop="20260115100300 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Bongs Happy Restaurant</title></programme>
+<programme start="20260115100300 +0000" stop="20260115103000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Nyasar (Nyicip Asik Ala Rakyat)</title></programme>
 <programme start="20260115103000 +0000" stop="20260115110000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Secret Chef Season 2</title></programme>
 <programme start="20260115110000 +0000" stop="20260115130000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Live Cooking (Recorded)</title></programme>
 <programme start="20260115130000 +0000" stop="20260115140000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">The Boston</title></programme>
@@ -1559,17 +1557,16 @@
 <programme start="20260115160000 +0000" stop="20260115165959 +0000" channel="DensLifeStyle.id@SD"><title lang="id">So Expensive</title></programme>
 <programme start="20260112230000 +0000" stop="20260113010000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Mayli</title></programme>
 <programme start="20260113010000 +0000" stop="20260113020000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
-<programme start="20260113020000 +0000" stop="20260113030000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
-<programme start="20260113030000 +0000" stop="20260113040000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
-<programme start="20260113040000 +0000" stop="20260113043000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
+<programme start="20260113020000 +0000" stop="20260113033000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
+<programme start="20260113033000 +0000" stop="20260113043000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20260113043000 +0000" stop="20260113050000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20260113050000 +0000" stop="20260113053000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
 <programme start="20260113053000 +0000" stop="20260113060000 +0000" channel="DensPlay.id@SD"><title lang="id">Alter Ego Esports</title></programme>
 <programme start="20260113060000 +0000" stop="20260113070000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
-<programme start="20260113070000 +0000" stop="20260113080000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
-<programme start="20260113080000 +0000" stop="20260113100000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By KekeLawar</title></programme>
-<programme start="20260113100000 +0000" stop="20260113110000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
-<programme start="20260113110000 +0000" stop="20260113120000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
+<programme start="20260113070000 +0000" stop="20260113083000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
+<programme start="20260113083000 +0000" stop="20260113103000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By KekeLawar</title></programme>
+<programme start="20260113103000 +0000" stop="20260113113000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
+<programme start="20260113113000 +0000" stop="20260113123000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
 <programme start="20260113120000 +0000" stop="20260113130000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20260113130000 +0000" stop="20260113133000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20260113133000 +0000" stop="20260113140000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
@@ -1579,11 +1576,9 @@
 <programme start="20260113170600 +0000" stop="20260114010000 +0000" channel="DensPlay.id@SD"><title lang="id">Valoverse</title></programme>
 <programme start="20260114010000 +0000" stop="20260114013000 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
 <programme start="20260114013000 +0000" stop="20260114020000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
-<programme start="20260114020000 +0000" stop="20260114023000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
-<programme start="20260114023000 +0000" stop="20260114030000 +0000" channel="DensPlay.id@SD"><title lang="id">Alter Ego Esports</title></programme>
-<programme start="20260114030000 +0000" stop="20260114040000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
-<programme start="20260114040000 +0000" stop="20260114043000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
-<programme start="20260114043000 +0000" stop="20260114050000 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
+<programme start="20260114020000 +0000" stop="20260114030000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
+<programme start="20260114030000 +0000" stop="20260114041100 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
+<programme start="20260114041100 +0000" stop="20260114050000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
 <programme start="20260114050000 +0000" stop="20260114060000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20260114060000 +0000" stop="20260114070000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20260114070000 +0000" stop="20260114080000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
@@ -1592,8 +1587,7 @@
 <programme start="20260114110000 +0000" stop="20260114113000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
 <programme start="20260114113000 +0000" stop="20260114120000 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
 <programme start="20260114120000 +0000" stop="20260114130000 +0000" channel="DensPlay.id@SD"><title lang="id">DPM : Dewan Perwakilan Mobile Legends</title></programme>
-<programme start="20260114130000 +0000" stop="20260114140000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
-<programme start="20260114140000 +0000" stop="20260114143000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
+<programme start="20260114130000 +0000" stop="20260114143000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
 <programme start="20260114143000 +0000" stop="20260114150000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20260114150000 +0000" stop="20260114165959 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Bewokin</title></programme>
 <programme start="20260114230000 +0000" stop="20260115010000 +0000" channel="DensPlay.id@SD"><title lang="id">Battleplay Honor of Kings</title></programme>
@@ -1641,7 +1635,7 @@
 <programme start="20260114040000 +0000" stop="20260114043000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Amnesia Romansa</title></programme>
 <programme start="20260114043000 +0000" stop="20260114050000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Kelam</title></programme>
 <programme start="20260114050000 +0000" stop="20260114060000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
-<programme start="20260114060000 +0000" stop="20260114080000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Live Streaming</title></programme>
+<programme start="20260114060000 +0000" stop="20260114080000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Ommo Show (Recorded)</title></programme>
 <programme start="20260114080000 +0000" stop="20260114090000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour - All Performance</title></programme>
 <programme start="20260114090000 +0000" stop="20260114100000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
 <programme start="20260114100000 +0000" stop="20260114110000 +0000" channel="DensShowBiz.id@SD"><title lang="id">All Event Liputan</title></programme>
