@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260115">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -121,10 +122,9 @@
 <channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260114173500 +0000" stop="20260114180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw - Be My Guest</title></programme>
 <programme start="20260114180000 +0000" stop="20260114183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 7</title></programme>
 <programme start="20260114183000 +0000" stop="20260114190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Pacific - Living In Fear</title></programme>
@@ -3447,10 +3447,10 @@
 <programme start="20260114171000 +0000" stop="20260114183500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">10.5 Apocalypse Part 1</title></programme>
 <programme start="20260114183500 +0000" stop="20260114200500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">10.5 Apocalypse Part 2</title></programme>
 <programme start="20260114200500 +0000" stop="20260114223000 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">The Hunger Games</title></programme>
-<programme start="20260114223000 +0000" stop="20260115005500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">The Hunger Games</title></programme>
-<programme start="20260115005500 +0000" stop="20260115024500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">The Librarian: The Quest For The Spear</title></programme>
-<programme start="20260115024500 +0000" stop="20260115044000 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">47 Ronin</title></programme>
-<programme start="20260115044000 +0000" stop="20260115065000 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">Godzilla Minus One</title></programme>
+<programme start="20260114223000 +0000" stop="20260115002000 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">The Librarian: The Quest For The Spear</title></programme>
+<programme start="20260115002000 +0000" stop="20260115021500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">47 Ronin</title></programme>
+<programme start="20260115021500 +0000" stop="20260115042500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">Godzilla Minus One</title></programme>
+<programme start="20260115042500 +0000" stop="20260115065000 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">The Hunger Games</title></programme>
 <programme start="20260115065000 +0000" stop="20260115084500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">Back To The Future III</title></programme>
 <programme start="20260115084500 +0000" stop="20260115103500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">The Karate Kid: Part II</title></programme>
 <programme start="20260115103500 +0000" stop="20260115125500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">The Hunger Games</title></programme>
