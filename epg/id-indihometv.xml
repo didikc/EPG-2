@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260116">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -122,9 +121,10 @@
 <channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260115173000 +0000" stop="20260115180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Off Country - Episode 2</title></programme>
 <programme start="20260115180000 +0000" stop="20260115183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 8</title></programme>
 <programme start="20260115183000 +0000" stop="20260115190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Pacific - The Untold Story: China in the Pacific</title></programme>
@@ -2784,23 +2784,6 @@
 <programme start="20260116130000 +0000" stop="20260116140000 +0000" channel="MusikIndonesia.id@SD"><title lang="id">Best Indonesian Soundtrack</title></programme>
 <programme start="20260116140000 +0000" stop="20260116150000 +0000" channel="MusikIndonesia.id@SD"><title lang="id">Indie Lokal</title></programme>
 <programme start="20260116150000 +0000" stop="20260116170000 +0000" channel="MusikIndonesia.id@SD"><title lang="id">Mixtape</title></programme>
-<programme start="20260115170000 +0000" stop="20260115190000 +0000" channel="MyKidz.id@SD"><title lang="id">Santa Magic Crystal</title></programme>
-<programme start="20260115190000 +0000" stop="20260115210000 +0000" channel="MyKidz.id@SD"><title lang="id">Freebirds</title></programme>
-<programme start="20260115210000 +0000" stop="20260115220000 +0000" channel="MyKidz.id@SD"><title lang="id">Highlight Sunday - Monday</title></programme>
-<programme start="20260115220000 +0000" stop="20260115223000 +0000" channel="MyKidz.id@SD"><title lang="id">Vicky and Johnny eps 58</title></programme>
-<programme start="20260115223000 +0000" stop="20260115230000 +0000" channel="MyKidz.id@SD"><title lang="id">Vicky and Johnny eps 59</title></programme>
-<programme start="20260115230000 +0000" stop="20260115233000 +0000" channel="MyKidz.id@SD"><title lang="id">Oscar Oasis eps 12</title></programme>
-<programme start="20260115233000 +0000" stop="20260116000000 +0000" channel="MyKidz.id@SD"><title lang="id">Oscar Oasis eps 13</title></programme>
-<programme start="20260116000000 +0000" stop="20260116003000 +0000" channel="MyKidz.id@SD"><title lang="id">GON eps 43</title></programme>
-<programme start="20260116003000 +0000" stop="20260116010000 +0000" channel="MyKidz.id@SD"><title lang="id">GON eps 44</title></programme>
-<programme start="20260116010000 +0000" stop="20260116030000 +0000" channel="MyKidz.id@SD"><title lang="id">Freddy Frog Face</title></programme>
-<programme start="20260116030000 +0000" stop="20260116050000 +0000" channel="MyKidz.id@SD"><title lang="id">Wings</title></programme>
-<programme start="20260116050000 +0000" stop="20260116070000 +0000" channel="MyKidz.id@SD"><title lang="id">Yugo &amp; Lala</title></programme>
-<programme start="20260116070000 +0000" stop="20260116090000 +0000" channel="MyKidz.id@SD"><title lang="id">Norm Of The North</title></programme>
-<programme start="20260116090000 +0000" stop="20260116110000 +0000" channel="MyKidz.id@SD"><title lang="id">Journey To The Christmas Star</title></programme>
-<programme start="20260116110000 +0000" stop="20260116130000 +0000" channel="MyKidz.id@SD"><title lang="id">The Stolen Princess</title></programme>
-<programme start="20260116130000 +0000" stop="20260116150000 +0000" channel="MyKidz.id@SD"><title lang="id">All Creature Big And Small</title></programme>
-<programme start="20260116150000 +0000" stop="20260116170000 +0000" channel="MyKidz.id@SD"><title lang="id">Animals United</title></programme>
 <programme start="20260115183000 +0000" stop="20260115190000 +0000" channel="NBATV.us@SD"><title lang="id">Top 60 Dunks from 2024-2025 Season</title></programme>
 <programme start="20260115190000 +0000" stop="20260115200000 +0000" channel="NBATV.us@SD"><title lang="id">Top 10 Epic Comebacks from 2024-2025 Season</title></programme>
 <programme start="20260115200000 +0000" stop="20260115230000 +0000" channel="NBATV.us@SD"><title lang="id">NBA Today - Sirius</title></programme>
