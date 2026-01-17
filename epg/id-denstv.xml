@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260117">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
 <channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/fksxiaS.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
@@ -50,9 +49,10 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260116170000 +0000" stop="20260116180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260116180000 +0000" stop="20260116183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260116183000 +0000" stop="20260116190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -902,6 +902,31 @@
 <programme start="20260118163000 +0000" stop="20260118165950 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship 2025</title></programme>
 <programme start="20260118165950 +0000" stop="20260118165959 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship 2025</title></programme>
 <programme start="20260118170000 +0000" stop="20260118173000 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship 2025</title></programme>
+<programme start="20260118173000 +0000" stop="20260118182700 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260118182700 +0000" stop="20260118183000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
+<programme start="20260118183000 +0000" stop="20260118203000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260118203000 +0000" stop="20260118213000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260118213000 +0000" stop="20260118230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260118230000 +0000" stop="20260118230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20260118230300 +0000" stop="20260119003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260119003000 +0000" stop="20260119011500 +0000" channel="BTV.id@SD"><title lang="id">Figur Publik</title></programme>
+<programme start="20260119011500 +0000" stop="20260119014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
+<programme start="20260119014500 +0000" stop="20260119023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260119023000 +0000" stop="20260119033000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
+<programme start="20260119033000 +0000" stop="20260119040000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260119040000 +0000" stop="20260119060000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260119060000 +0000" stop="20260119073000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260119073000 +0000" stop="20260119080000 +0000" channel="BTV.id@SD"><title lang="id">Dikit-Dikit Damkar</title></programme>
+<programme start="20260119080000 +0000" stop="20260119083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Merah Putih</title></programme>
+<programme start="20260119083000 +0000" stop="20260119103000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260119103000 +0000" stop="20260119110000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260119110000 +0000" stop="20260119130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260119130000 +0000" stop="20260119140000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260119140000 +0000" stop="20260119150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260119150000 +0000" stop="20260119160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260119160000 +0000" stop="20260119163000 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20260119163000 +0000" stop="20260119165950 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260119165950 +0000" stop="20260119165959 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
 <programme start="20260116170000 +0000" stop="20260116180000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260116180000 +0000" stop="20260116183000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260116183000 +0000" stop="20260116190000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1945,6 +1970,73 @@
 <programme start="20260118161500 +0000" stop="20260118163000 +0000" channel="DW.de@English"><title lang="id">Reporter: On Location</title></programme>
 <programme start="20260118163000 +0000" stop="20260118165950 +0000" channel="DW.de@English"><title lang="id">Afrimaxx: African Lifestyle</title></programme>
 <programme start="20260118165950 +0000" stop="20260118165959 +0000" channel="DW.de@English"><title lang="id">Afrimaxx: African Lifestyle</title></programme>
+<programme start="20260118170000 +0000" stop="20260118171500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260118171500 +0000" stop="20260118173000 +0000" channel="DW.de@English"><title lang="id">Sports Life: Overcoming...</title></programme>
+<programme start="20260118173000 +0000" stop="20260118180000 +0000" channel="DW.de@English"><title lang="id">Euromaxx: Lifestyle Europe</title></programme>
+<programme start="20260118180000 +0000" stop="20260118181500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260118181500 +0000" stop="20260118183000 +0000" channel="DW.de@English"><title lang="id">Shift: Living In Digital Age</title></programme>
+<programme start="20260118183000 +0000" stop="20260118190000 +0000" channel="DW.de@English"><title lang="id">REV: Peugeot E-5008</title></programme>
+<programme start="20260118190000 +0000" stop="20260118191500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260118191500 +0000" stop="20260118200000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260118200000 +0000" stop="20260118201500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260118201500 +0000" stop="20260118203000 +0000" channel="DW.de@English"><title lang="id">Sports Life: Overcoming...</title></programme>
+<programme start="20260118203000 +0000" stop="20260118210000 +0000" channel="DW.de@English"><title lang="id">DW News: Africa</title></programme>
+<programme start="20260118210000 +0000" stop="20260118211500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260118211500 +0000" stop="20260118213000 +0000" channel="DW.de@English"><title lang="id">Reporter: On Location</title></programme>
+<programme start="20260118213000 +0000" stop="20260118220000 +0000" channel="DW.de@English"><title lang="id">Tomorrow Today: Science</title></programme>
+<programme start="20260118220000 +0000" stop="20260118220200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260118220200 +0000" stop="20260118223000 +0000" channel="DW.de@English"><title lang="id">Afrimaxx: African Lifestyle</title></programme>
+<programme start="20260118223000 +0000" stop="20260118230000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Podcasts</title></programme>
+<programme start="20260118230000 +0000" stop="20260118231500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260118231500 +0000" stop="20260118233000 +0000" channel="DW.de@English"><title lang="id">Reporter: On Location</title></programme>
+<programme start="20260118233000 +0000" stop="20260119000000 +0000" channel="DW.de@English"><title lang="id">REV: Peugeot E-5008</title></programme>
+<programme start="20260119000000 +0000" stop="20260119000200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119000200 +0000" stop="20260119003000 +0000" channel="DW.de@English"><title lang="id">Euromaxx: Lifestyle Europe</title></programme>
+<programme start="20260119003000 +0000" stop="20260119010000 +0000" channel="DW.de@English"><title lang="id">Global Us: What Connects Us All</title></programme>
+<programme start="20260119010000 +0000" stop="20260119011500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119011500 +0000" stop="20260119014500 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260119014500 +0000" stop="20260119020000 +0000" channel="DW.de@English"><title lang="id">Reporter: On Location</title></programme>
+<programme start="20260119020000 +0000" stop="20260119020200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119020200 +0000" stop="20260119023000 +0000" channel="DW.de@English"><title lang="id">Eco India: Environment</title></programme>
+<programme start="20260119023000 +0000" stop="20260119030000 +0000" channel="DW.de@English"><title lang="id">In Good Shape: The Health Show</title></programme>
+<programme start="20260119030000 +0000" stop="20260119031500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119031500 +0000" stop="20260119033000 +0000" channel="DW.de@English"><title lang="id">Sports Life: Overcoming...</title></programme>
+<programme start="20260119033000 +0000" stop="20260119040000 +0000" channel="DW.de@English"><title lang="id">Euromaxx: Lifestyle Europe</title></programme>
+<programme start="20260119040000 +0000" stop="20260119041500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119041500 +0000" stop="20260119044500 +0000" channel="DW.de@English"><title lang="id">Global Us: What Connects Us All</title></programme>
+<programme start="20260119044500 +0000" stop="20260119050000 +0000" channel="DW.de@English"><title lang="id">Reporter: On Location</title></programme>
+<programme start="20260119050000 +0000" stop="20260119050200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119050200 +0000" stop="20260119053000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260119053000 +0000" stop="20260119060000 +0000" channel="DW.de@English"><title lang="id">Tomorrow Today: Science</title></programme>
+<programme start="20260119060000 +0000" stop="20260119061500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119061500 +0000" stop="20260119063000 +0000" channel="DW.de@English"><title lang="id">Shift: Living In Digital Age</title></programme>
+<programme start="20260119063000 +0000" stop="20260119070000 +0000" channel="DW.de@English"><title lang="id">Eco Africa: Environment</title></programme>
+<programme start="20260119070000 +0000" stop="20260119071500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119071500 +0000" stop="20260119080000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260119080000 +0000" stop="20260119081500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119081500 +0000" stop="20260119083000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Online Content</title></programme>
+<programme start="20260119083000 +0000" stop="20260119090000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Podcasts</title></programme>
+<programme start="20260119090000 +0000" stop="20260119091500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119091500 +0000" stop="20260119100000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260119100000 +0000" stop="20260119101500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119101500 +0000" stop="20260119103000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Online Content</title></programme>
+<programme start="20260119103000 +0000" stop="20260119110000 +0000" channel="DW.de@English"><title lang="id">Eco Africa: Environment</title></programme>
+<programme start="20260119110000 +0000" stop="20260119111500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119111500 +0000" stop="20260119113000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Online Content</title></programme>
+<programme start="20260119113000 +0000" stop="20260119120000 +0000" channel="DW.de@English"><title lang="id">Global Us: What Connects Us All</title></programme>
+<programme start="20260119120000 +0000" stop="20260119121500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119121500 +0000" stop="20260119130000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260119130000 +0000" stop="20260119131500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119131500 +0000" stop="20260119133000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Online Content</title></programme>
+<programme start="20260119133000 +0000" stop="20260119140000 +0000" channel="DW.de@English"><title lang="id">The 77 Percent: Africa&apos;s Youth</title></programme>
+<programme start="20260119140000 +0000" stop="20260119141500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119141500 +0000" stop="20260119150000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260119150000 +0000" stop="20260119151500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119151500 +0000" stop="20260119153000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Online Content</title></programme>
+<programme start="20260119153000 +0000" stop="20260119160000 +0000" channel="DW.de@English"><title lang="id">Global Us: What Connects Us All</title></programme>
+<programme start="20260119160000 +0000" stop="20260119161500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260119161500 +0000" stop="20260119165950 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260119165950 +0000" stop="20260119165959 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
 <programme start="20260116170000 +0000" stop="20260116180000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260116180000 +0000" stop="20260116183000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260116183000 +0000" stop="20260116190000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -3075,6 +3167,30 @@
 <programme start="20260118163000 +0000" stop="20260118165950 +0000" channel="NET.id@SD"><title lang="id">My Happy Ending</title></programme>
 <programme start="20260118165950 +0000" stop="20260118165959 +0000" channel="NET.id@SD"><title lang="id">My Happy Ending</title></programme>
 <programme start="20260118170000 +0000" stop="20260118174500 +0000" channel="NET.id@SD"><title lang="id">My Happy Ending</title></programme>
+<programme start="20260118173500 +0000" stop="20260118184500 +0000" channel="NET.id@SD"><title lang="id">Jatanras</title></programme>
+<programme start="20260118184500 +0000" stop="20260118193000 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260118193000 +0000" stop="20260118202000 +0000" channel="NET.id@SD"><title lang="id">Inilah Kisahnya</title></programme>
+<programme start="20260118202000 +0000" stop="20260118212500 +0000" channel="NET.id@SD"><title lang="id">Di Balik Mitos</title></programme>
+<programme start="20260118212500 +0000" stop="20260118223000 +0000" channel="NET.id@SD"><title lang="id">Keajaiban Dunia</title></programme>
+<programme start="20260118223000 +0000" stop="20260118234500 +0000" channel="NET.id@SD"><title lang="id">Top Spot</title></programme>
+<programme start="20260118234500 +0000" stop="20260119010000 +0000" channel="NET.id@SD"><title lang="id">AADD: Ada Apa Dengan Dunia</title></programme>
+<programme start="20260119010000 +0000" stop="20260119015000 +0000" channel="NET.id@SD"><title lang="id">Fakta +62</title></programme>
+<programme start="20260119015000 +0000" stop="20260119025500 +0000" channel="NET.id@SD"><title lang="id">SensasiHot</title></programme>
+<programme start="20260119025500 +0000" stop="20260119041000 +0000" channel="NET.id@SD"><title lang="id">Rosalinda</title></programme>
+<programme start="20260119041000 +0000" stop="20260119053000 +0000" channel="NET.id@SD"><title lang="id">Cerita Nyata</title></programme>
+<programme start="20260119053000 +0000" stop="20260119070500 +0000" channel="NET.id@SD"><title lang="id">Cinta Fitri S5</title></programme>
+<programme start="20260119070500 +0000" stop="20260119080000 +0000" channel="NET.id@SD"><title lang="id">Makan Enak</title></programme>
+<programme start="20260119080000 +0000" stop="20260119090000 +0000" channel="NET.id@SD"><title lang="id">Masak Gesss!!!</title></programme>
+<programme start="20260119090000 +0000" stop="20260119100000 +0000" channel="NET.id@SD"><title lang="id">Adit Sopo Jarwo</title></programme>
+<programme start="20260119100000 +0000" stop="20260119105000 +0000" channel="NET.id@SD"><title lang="id">Cinta Paulina</title></programme>
+<programme start="20260119105000 +0000" stop="20260119114000 +0000" channel="NET.id@SD"><title lang="id">Maria Cinta Yang Hilang</title></programme>
+<programme start="20260119114000 +0000" stop="20260119123000 +0000" channel="NET.id@SD"><title lang="id">Maria Mercedes</title></programme>
+<programme start="20260119123000 +0000" stop="20260119133000 +0000" channel="NET.id@SD"><title lang="id">Pernikahan Dini Gen Z</title></programme>
+<programme start="20260119133000 +0000" stop="20260119143000 +0000" channel="NET.id@SD"><title lang="id">Ipar Adalah Maut: The Series</title></programme>
+<programme start="20260119143000 +0000" stop="20260119152000 +0000" channel="NET.id@SD"><title lang="id">5 Detik &amp; Rasa Rindu</title></programme>
+<programme start="20260119152000 +0000" stop="20260119162500 +0000" channel="NET.id@SD"><title lang="id">She Was Pretty</title></programme>
+<programme start="20260119162500 +0000" stop="20260119165950 +0000" channel="NET.id@SD"><title lang="id">My Happy Ending</title></programme>
+<programme start="20260119165950 +0000" stop="20260119165959 +0000" channel="NET.id@SD"><title lang="id">My Happy Ending</title></programme>
 <programme start="20260116170000 +0000" stop="20260116173000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
 <programme start="20260116173000 +0000" stop="20260116180000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Today&apos;s Close-Up</title></programme>
 <programme start="20260116180000 +0000" stop="20260116182800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
@@ -3244,6 +3360,87 @@
 <programme start="20260118163000 +0000" stop="20260118165700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
 <programme start="20260118165700 +0000" stop="20260118165950 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
 <programme start="20260118165950 +0000" stop="20260118165959 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
+<programme start="20260118170000 +0000" stop="20260118171000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260118171000 +0000" stop="20260118172500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK World-Japan Spc. Program</title></programme>
+<programme start="20260118172500 +0000" stop="20260118173000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Core Kyoto Mini</title></programme>
+<programme start="20260118173000 +0000" stop="20260118174500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20260118174500 +0000" stop="20260118180000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Zero Waste Life</title></programme>
+<programme start="20260118180000 +0000" stop="20260118181000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260118181000 +0000" stop="20260118190000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Decoding I-Soon Document Leaks</title></programme>
+<programme start="20260118190000 +0000" stop="20260118191000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260118191000 +0000" stop="20260118195500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK World TV Special Program</title></programme>
+<programme start="20260118195500 +0000" stop="20260118200000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">1 1000: Lay Judges</title></programme>
+<programme start="20260118200000 +0000" stop="20260118201000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260118201000 +0000" stop="20260118204000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Anime Manga Explosion</title></programme>
+<programme start="20260118204000 +0000" stop="20260118205000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Rockie And Her Friends</title></programme>
+<programme start="20260118205000 +0000" stop="20260118210000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Texico</title></programme>
+<programme start="20260118210000 +0000" stop="20260118211000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260118211000 +0000" stop="20260118214000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">J-Melo</title></programme>
+<programme start="20260118214000 +0000" stop="20260118215000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Little Charo</title></programme>
+<programme start="20260118215000 +0000" stop="20260118215500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Japanology Plus Mini</title></programme>
+<programme start="20260118215500 +0000" stop="20260118220000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">A Cat&apos;s-Eye View Of Japan</title></programme>
+<programme start="20260118220000 +0000" stop="20260118221000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260118221000 +0000" stop="20260118222500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK World-Japan Spc. Program</title></programme>
+<programme start="20260118222500 +0000" stop="20260118223000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Core Kyoto Mini</title></programme>
+<programme start="20260118223000 +0000" stop="20260118224500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20260118224500 +0000" stop="20260118230000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Zero Waste Life</title></programme>
+<programme start="20260118230000 +0000" stop="20260118231000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260118231000 +0000" stop="20260118232500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">World Heritage Sites In Japan</title></programme>
+<programme start="20260118232500 +0000" stop="20260118233000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Okinawa: The Holiest Place</title></programme>
+<programme start="20260118233000 +0000" stop="20260118235700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
+<programme start="20260118235700 +0000" stop="20260119000000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
+<programme start="20260119000000 +0000" stop="20260119001000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119001000 +0000" stop="20260119001500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Chatroom Japan</title></programme>
+<programme start="20260119001500 +0000" stop="20260119002500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Impacts: Climates Change...</title></programme>
+<programme start="20260119002500 +0000" stop="20260119003000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Spiritual Designs For Fishermen</title></programme>
+<programme start="20260119003000 +0000" stop="20260119005700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20260119005700 +0000" stop="20260119010000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Time-Lapse Japan</title></programme>
+<programme start="20260119010000 +0000" stop="20260119011000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119011000 +0000" stop="20260119011500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Time-Lapse Japan</title></programme>
+<programme start="20260119011500 +0000" stop="20260119013000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BOSAI</title></programme>
+<programme start="20260119013000 +0000" stop="20260119014500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20260119014500 +0000" stop="20260119015500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20260119015500 +0000" stop="20260119020000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
+<programme start="20260119020000 +0000" stop="20260119023000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119023000 +0000" stop="20260119030000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20260119030000 +0000" stop="20260119033000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119033000 +0000" stop="20260119040000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Biz Stream</title></programme>
+<programme start="20260119040000 +0000" stop="20260119043000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119043000 +0000" stop="20260119045700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
+<programme start="20260119045700 +0000" stop="20260119050000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
+<programme start="20260119050000 +0000" stop="20260119053000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119053000 +0000" stop="20260119060000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20260119060000 +0000" stop="20260119063000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsline Asia 24</title></programme>
+<programme start="20260119063000 +0000" stop="20260119064500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20260119064500 +0000" stop="20260119065500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20260119065500 +0000" stop="20260119070000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
+<programme start="20260119070000 +0000" stop="20260119073000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsline Asia 24</title></programme>
+<programme start="20260119073000 +0000" stop="20260119080000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20260119080000 +0000" stop="20260119083000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119083000 +0000" stop="20260119085700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
+<programme start="20260119085700 +0000" stop="20260119090000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
+<programme start="20260119090000 +0000" stop="20260119093000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119093000 +0000" stop="20260119100000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Biz Stream</title></programme>
+<programme start="20260119100000 +0000" stop="20260119103000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK News 7</title></programme>
+<programme start="20260119103000 +0000" stop="20260119110000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20260119110000 +0000" stop="20260119112800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
+<programme start="20260119112800 +0000" stop="20260119114300 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
+<programme start="20260119114300 +0000" stop="20260119115500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK World Selection</title></programme>
+<programme start="20260119115500 +0000" stop="20260119120000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ukiyoe Edo-Life: The Bird Cafe</title></programme>
+<programme start="20260119120000 +0000" stop="20260119123000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
+<programme start="20260119123000 +0000" stop="20260119124500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20260119124500 +0000" stop="20260119125500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20260119125500 +0000" stop="20260119130000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
+<programme start="20260119130000 +0000" stop="20260119133000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119133000 +0000" stop="20260119140000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20260119140000 +0000" stop="20260119143000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119143000 +0000" stop="20260119150000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Medical Frontiers</title></programme>
+<programme start="20260119150000 +0000" stop="20260119153000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119153000 +0000" stop="20260119160000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20260119160000 +0000" stop="20260119163000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260119163000 +0000" stop="20260119165700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
+<programme start="20260119165700 +0000" stop="20260119165950 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
+<programme start="20260119165950 +0000" stop="20260119165959 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Sumopedia</title></programme>
 <programme start="20260116170000 +0000" stop="20260116180000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
 <programme start="20260116180000 +0000" stop="20260116190000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
 <programme start="20260116190000 +0000" stop="20260116200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
