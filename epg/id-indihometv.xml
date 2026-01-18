@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260118">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
-<channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
-<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
-<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
-<channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
-<channel id="AllPlayEnt.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png"/><url>https://indihometv.com</url></channel>
-<channel id="UChannel.id@SD"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRI.id@SD"><display-name>TVRI Nasional</display-name><icon src="https://i.postimg.cc/NM7W0n5k/tvri.png"/><url>https://indihometv.com</url></channel>
-<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="tvNMoviesAsia.hk@SD"><display-name>TVN Movies</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://indihometv.com</url></channel>
-<channel id="tvNAsia.hk@SD"><display-name>TVN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
+<channel id="ATV.id@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/uHcRd1t.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://indihometv.com</url></channel>
+<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="SPOTV2.id@SD"><display-name>SPOTV 2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://indihometv.com</url></channel>
+<channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
+<channel id="SPOTV.id@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/><url>https://indihometv.com</url></channel>
+<channel id="BaliTV.id@SD"><display-name>Bali TV</display-name><icon src="https://i.imgur.com/uH1Szme.png"/><url>https://indihometv.com</url></channel>
+<channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVBSNews.tw@SD"><display-name>TVBS News</display-name><icon src="https://i.imgur.com/171lwfg.png"/><url>https://indihometv.com</url></channel>
 <channel id="TV9Nusantara.id@SD"><display-name>TV9 NU</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png"/><url>https://indihometv.com</url></channel>
 <channel id="TV5MondeAsia.fr@SD"><display-name>TV5Monde</display-name><icon src="https://i.imgur.com/FRsRXRR.png"/><url>https://indihometv.com</url></channel>
@@ -110,21 +111,20 @@
 <channel id="ROCKEntertainment.sg@SD"><display-name>Rock Entertainment</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://indihometv.com</url></channel>
 <channel id="BloombergTV.us@Asia"><display-name>Bloomberg</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://indihometv.com</url></channel>
 <channel id="BioskopIndonesia.id@SD"><display-name>Bioskop Indonesia</display-name><icon src="https://i.imgur.com/8gdyddg.png"/><url>https://indihometv.com</url></channel>
-<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="SPOTV2.id@SD"><display-name>SPOTV 2</display-name><icon src="https://i.imgur.com/YD8fbTH.png"/><url>https://indihometv.com</url></channel>
-<channel id="SPOTV.id@SD"><display-name>SPOTV</display-name><icon src="https://i.imgur.com/HaoVsm5.png"/><url>https://indihometv.com</url></channel>
-<channel id="BaliTV.id@SD"><display-name>Bali TV</display-name><icon src="https://i.imgur.com/uH1Szme.png"/><url>https://indihometv.com</url></channel>
-<channel id="AXNAsia.sg@Indonesia"><display-name>AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="ATV.id@SD"><display-name>ATV</display-name><icon src="https://i.imgur.com/uHcRd1t.png"/><url>https://indihometv.com</url></channel>
-<channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://indihometv.com</url></channel>
-<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
+<channel id="ZeeBioskop.id@SD"><display-name>ZBioskop</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Zee_Bioskop_%282025%29.svg"/><url>https://indihometv.com</url></channel>
+<channel id="WarnerTVAsia.us@SD"><display-name>Warner</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://indihometv.com</url></channel>
+<channel id="AllPlayEnt.id@SD"><display-name>AllPlay Ent</display-name><icon src="https://i.postimg.cc/K8yShFYn/1200px-All-Play-Entertainment.png"/><url>https://indihometv.com</url></channel>
+<channel id="UChannel.id@SD"><display-name>UChannel</display-name><icon src="https://i.imgur.com/qxkb0cy.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRI.id@SD"><display-name>TVRI Nasional</display-name><icon src="https://i.postimg.cc/NM7W0n5k/tvri.png"/><url>https://indihometv.com</url></channel>
+<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="tvNMoviesAsia.hk@SD"><display-name>TVN Movies</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://indihometv.com</url></channel>
+<channel id="tvNAsia.hk@SD"><display-name>TVN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
+<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260117170000 +0000" stop="20260117180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Makers of Modern Australia - Rebels</title></programme>
 <programme start="20260117180000 +0000" stop="20260117183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World This Week - Episode 1</title></programme>
 <programme start="20260117183000 +0000" stop="20260117190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">That Pacific Sports Show - One-on-One with Lisa Fiaola</title></programme>
@@ -1454,47 +1454,6 @@
 <programme start="20260118140000 +0000" stop="20260118144500 +0000" channel="DuniaAnak.id@SD"><title lang="id">My Trip My Advanture Kids - Eps. 4,5</title></programme>
 <programme start="20260118144500 +0000" stop="20260118150500 +0000" channel="DuniaAnak.id@SD"><title lang="id">Dunia Air - Eps. 18</title></programme>
 <programme start="20260118150500 +0000" stop="20260118170000 +0000" channel="DuniaAnak.id@SD"><title lang="id">Music Lullaby</title></programme>
-<programme start="20260117170000 +0000" stop="20260117174500 +0000" channel="DuniaLain.id@SD"><title lang="id">Ghost Hunter - Eps. 24</title></programme>
-<programme start="20260117174500 +0000" stop="20260117180000 +0000" channel="DuniaLain.id@SD"><title lang="id">Kabar Mistis - Eps. 3</title></programme>
-<programme start="20260117180000 +0000" stop="20260117184500 +0000" channel="DuniaLain.id@SD"><title lang="id">Gost - Eps. 10</title></programme>
-<programme start="20260117184500 +0000" stop="20260117193000 +0000" channel="DuniaLain.id@SD"><title lang="id">Kisah Nyata - Eps. 54</title></programme>
-<programme start="20260117193000 +0000" stop="20260117200000 +0000" channel="DuniaLain.id@SD"><title lang="id">Dua Dunia - Eps. 430</title></programme>
-<programme start="20260117200000 +0000" stop="20260117203000 +0000" channel="DuniaLain.id@SD"><title lang="id">Misteri Tempat Angker - Eps. 34</title></programme>
-<programme start="20260117203000 +0000" stop="20260117210000 +0000" channel="DuniaLain.id@SD"><title lang="id">Satpam Horor - Eps. 62</title></programme>
-<programme start="20260117210000 +0000" stop="20260117213000 +0000" channel="DuniaLain.id@SD"><title lang="id">Seram - Eps. 13</title></programme>
-<programme start="20260117213000 +0000" stop="20260117221500 +0000" channel="DuniaLain.id@SD"><title lang="id">Jangan Nonton Sendirian - Eps. 7</title></programme>
-<programme start="20260117221500 +0000" stop="20260117230000 +0000" channel="DuniaLain.id@SD"><title lang="id">Yang Tak Terungkap - Eps. 1</title></programme>
-<programme start="20260117230000 +0000" stop="20260117231500 +0000" channel="DuniaLain.id@SD"><title lang="id">Kabar Mistis - Eps. 2</title></programme>
-<programme start="20260117231500 +0000" stop="20260118000000 +0000" channel="DuniaLain.id@SD"><title lang="id">Centhini - Eps. 12</title></programme>
-<programme start="20260118000000 +0000" stop="20260118004500 +0000" channel="DuniaLain.id@SD"><title lang="id">Secret Story - Eps. 635</title></programme>
-<programme start="20260118004500 +0000" stop="20260118011500 +0000" channel="DuniaLain.id@SD"><title lang="id">Misteri Dunia - Eps. 155</title></programme>
-<programme start="20260118011500 +0000" stop="20260118014500 +0000" channel="DuniaLain.id@SD"><title lang="id">Pajri - Eps. 25</title></programme>
-<programme start="20260118014500 +0000" stop="20260118021500 +0000" channel="DuniaLain.id@SD"><title lang="id">El Adventure Camping Horor - Eps. 175</title></programme>
-<programme start="20260118021500 +0000" stop="20260118024500 +0000" channel="DuniaLain.id@SD"><title lang="id">Ssstt Jangan Sendirian - Eps. 6</title></programme>
-<programme start="20260118024500 +0000" stop="20260118033000 +0000" channel="DuniaLain.id@SD"><title lang="id">Liga Paranormal - Eps. 2</title></programme>
-<programme start="20260118033000 +0000" stop="20260118041500 +0000" channel="DuniaLain.id@SD"><title lang="id">Ghost Hunter - Eps. 12</title></programme>
-<programme start="20260118041500 +0000" stop="20260118043000 +0000" channel="DuniaLain.id@SD"><title lang="id">Kabar Mistis - Eps. 3</title></programme>
-<programme start="20260118043000 +0000" stop="20260118051500 +0000" channel="DuniaLain.id@SD"><title lang="id">Gost - Eps. 9</title></programme>
-<programme start="20260118051500 +0000" stop="20260118060000 +0000" channel="DuniaLain.id@SD"><title lang="id">Kisah Nyata - Eps. 169</title></programme>
-<programme start="20260118060000 +0000" stop="20260118063000 +0000" channel="DuniaLain.id@SD"><title lang="id">Dua Dunia - Eps. 432</title></programme>
-<programme start="20260118063000 +0000" stop="20260118070000 +0000" channel="DuniaLain.id@SD"><title lang="id">Satpam Horor - Eps. 59</title></programme>
-<programme start="20260118070000 +0000" stop="20260118073000 +0000" channel="DuniaLain.id@SD"><title lang="id">Misteri Tempat Angker - Eps. 30</title></programme>
-<programme start="20260118073000 +0000" stop="20260118080000 +0000" channel="DuniaLain.id@SD"><title lang="id">Seram - Eps. 13</title></programme>
-<programme start="20260118080000 +0000" stop="20260118084500 +0000" channel="DuniaLain.id@SD"><title lang="id">Jangan Nonton Sendirian - Eps. 2</title></programme>
-<programme start="20260118084500 +0000" stop="20260118093000 +0000" channel="DuniaLain.id@SD"><title lang="id">Yang Tak Terungkap - Eps. 24</title></programme>
-<programme start="20260118093000 +0000" stop="20260118094500 +0000" channel="DuniaLain.id@SD"><title lang="id">Kabar Mistis - Eps. 4</title></programme>
-<programme start="20260118094500 +0000" stop="20260118103000 +0000" channel="DuniaLain.id@SD"><title lang="id">Centhini - Eps. 13</title></programme>
-<programme start="20260118103000 +0000" stop="20260118111500 +0000" channel="DuniaLain.id@SD"><title lang="id">Secret Story - Eps. 636</title></programme>
-<programme start="20260118111500 +0000" stop="20260118114500 +0000" channel="DuniaLain.id@SD"><title lang="id">Misteri Dunia - Eps. 153</title></programme>
-<programme start="20260118114500 +0000" stop="20260118121500 +0000" channel="DuniaLain.id@SD"><title lang="id">Satpam Horor - Eps. 60</title></programme>
-<programme start="20260118121500 +0000" stop="20260118124500 +0000" channel="DuniaLain.id@SD"><title lang="id">Pajri - Eps. 22</title></programme>
-<programme start="20260118124500 +0000" stop="20260118131500 +0000" channel="DuniaLain.id@SD"><title lang="id">Seram - Eps. 14</title></programme>
-<programme start="20260118131500 +0000" stop="20260118140000 +0000" channel="DuniaLain.id@SD"><title lang="id">Liga Paranormal - Eps. 4</title></programme>
-<programme start="20260118140000 +0000" stop="20260118144500 +0000" channel="DuniaLain.id@SD"><title lang="id">Ghost Hunter - Eps. 25</title></programme>
-<programme start="20260118144500 +0000" stop="20260118150000 +0000" channel="DuniaLain.id@SD"><title lang="id">Kabar Mistis - Eps. 2</title></programme>
-<programme start="20260118150000 +0000" stop="20260118154500 +0000" channel="DuniaLain.id@SD"><title lang="id">Gost - Eps. 1</title></programme>
-<programme start="20260118154500 +0000" stop="20260118163000 +0000" channel="DuniaLain.id@SD"><title lang="id">Kisah Nyata - Eps. 170</title></programme>
-<programme start="20260118163000 +0000" stop="20260118170000 +0000" channel="DuniaLain.id@SD"><title lang="id">Dua Dunia - Eps. 433</title></programme>
 <programme start="20260117170000 +0000" stop="20260117171500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
 <programme start="20260117171500 +0000" stop="20260117173000 +0000" channel="DW.de@English"><title lang="id">Shift</title></programme>
 <programme start="20260117173000 +0000" stop="20260117180000 +0000" channel="DW.de@English"><title lang="id">The 77 Percent</title></programme>
@@ -3681,6 +3640,24 @@
 <programme start="20260118143000 +0000" stop="20260118153000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">iNews Room Weekend</title></programme>
 <programme start="20260118153000 +0000" stop="20260118163000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">Top Issue</title></programme>
 <programme start="20260118163000 +0000" stop="20260118170000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">Special Report</title></programme>
+<programme start="20260117170000 +0000" stop="20260117180000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 MotoGP Rookies Cup SACHSENRING: Race 2</title></programme>
+<programme start="20260117180000 +0000" stop="20260117200000 +0000" channel="SPOTV2.id@SD"><title lang="id">Golf: 2025 GTOUR: Women&apos;s 7th Tournament</title></programme>
+<programme start="20260117200000 +0000" stop="20260117213000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 The Asian Tournament, Ilagan: 3rd Place: Vanta vs Sirius</title></programme>
+<programme start="20260117213000 +0000" stop="20260117233000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 The Asian Tournament, Ilagan: Final: Aces vs Ilagan</title></programme>
+<programme start="20260117233000 +0000" stop="20260118000000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 12: Macarthur FC vs Sydney FC</title></programme>
+<programme start="20260118000000 +0000" stop="20260118003000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 12: Perth Glory vs Central Coast Mariners FC</title></programme>
+<programme start="20260118003000 +0000" stop="20260118033000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Star Contender Doha 2026: Day 3 Session 1</title></programme>
+<programme start="20260118033000 +0000" stop="20260118040000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 12: Highlights</title></programme>
+<programme start="20260118040000 +0000" stop="20260118053000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 SailGP S6 Oracle Perth Sail Grand Prix: Day 2 Race - Live</title></programme>
+<programme start="20260118053000 +0000" stop="20260118060000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 12: Brisbane Roar FC vs Auckland FC</title></programme>
+<programme start="20260118060000 +0000" stop="20260118070000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 MotoGP Rookies Cup Mugello: Race 1</title></programme>
+<programme start="20260118070000 +0000" stop="20260118080000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 MotoGP Rookies Cup Mugello: Race 2</title></programme>
+<programme start="20260118080000 +0000" stop="20260118100000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP 2025 Spotlight: The Magic of the TT</title></programme>
+<programme start="20260118100000 +0000" stop="20260118113000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 The Asian Tournament, Ilagan: 3rd Place: Vanta vs Sirius</title></programme>
+<programme start="20260118113000 +0000" stop="20260118133000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 The Asian Tournament, Ilagan: Final: Aces vs Ilagan</title></programme>
+<programme start="20260118133000 +0000" stop="20260118140000 +0000" channel="SPOTV2.id@SD"><title lang="id">SailGP: Racing on the Edge S5: Episode 13</title></programme>
+<programme start="20260118140000 +0000" stop="20260118160000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 13: Central Coast Mariners FC vs Macarthur FC</title></programme>
+<programme start="20260118160000 +0000" stop="20260118171500 +0000" channel="SPOTV2.id@SD"><title lang="id">2025 MotoGP Season Review:</title></programme>
 <programme start="20260117190000 +0000" stop="20260117193000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 12: Melbourne City FC vs Newcastle Jets FC</title></programme>
 <programme start="20260117193000 +0000" stop="20260117213000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 Scottish Premiership Round 17: Falkirk vs Celtic</title></programme>
 <programme start="20260117213000 +0000" stop="20260117233000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 A-League Men Round 13: Western Sydney Wanderers FC vs Newcastle Jets FC</title></programme>
