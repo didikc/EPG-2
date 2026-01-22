@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260122">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -121,10 +122,9 @@
 <channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260121173000 +0000" stop="20260121180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw - Salsa Party</title></programme>
 <programme start="20260121180000 +0000" stop="20260121190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 11</title></programme>
 <programme start="20260121190000 +0000" stop="20260121200000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast - Episode 16</title></programme>
@@ -984,42 +984,22 @@
 <programme start="20260121190000 +0000" stop="20260121210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
 <programme start="20260121210000 +0000" stop="20260121213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260121213000 +0000" stop="20260121223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
-<programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260121233000 +0000" stop="20260122000000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122000000 +0000" stop="20260122003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122003000 +0000" stop="20260122010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122010000 +0000" stop="20260122013000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
-<programme start="20260122013000 +0000" stop="20260122020000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
-<programme start="20260122020000 +0000" stop="20260122023000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
-<programme start="20260122023000 +0000" stop="20260122030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
-<programme start="20260122030000 +0000" stop="20260122033000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">CNBC Indonesia Exclusive</title></programme>
-<programme start="20260122033000 +0000" stop="20260122040000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20260122040000 +0000" stop="20260122043000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20260122043000 +0000" stop="20260122050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20260122050000 +0000" stop="20260122053000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">CNBC Indonesia Exclusive</title></programme>
-<programme start="20260122053000 +0000" stop="20260122060000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Central Banking</title></programme>
-<programme start="20260122060000 +0000" stop="20260122063000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Sharia Money</title></programme>
-<programme start="20260122063000 +0000" stop="20260122070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
-<programme start="20260122070000 +0000" stop="20260122073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
-<programme start="20260122073000 +0000" stop="20260122080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
-<programme start="20260122080000 +0000" stop="20260122083000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122083000 +0000" stop="20260122090000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122090000 +0000" stop="20260122093000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122093000 +0000" stop="20260122100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122100000 +0000" stop="20260122103000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260122103000 +0000" stop="20260122110000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra</title></programme>
-<programme start="20260122110000 +0000" stop="20260122113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
-<programme start="20260122113000 +0000" stop="20260122120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
-<programme start="20260122120000 +0000" stop="20260122130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260122130000 +0000" stop="20260122133000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260122133000 +0000" stop="20260122140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260122140000 +0000" stop="20260122143000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260122143000 +0000" stop="20260122150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260122150000 +0000" stop="20260122153000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
-<programme start="20260122153000 +0000" stop="20260122160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122160000 +0000" stop="20260122163000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20260122163000 +0000" stop="20260122170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Editor&apos;s View</title></programme>
+<programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260121233000 +0000" stop="20260122003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra</title></programme>
+<programme start="20260122003000 +0000" stop="20260122010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260122010000 +0000" stop="20260122030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
+<programme start="20260122030000 +0000" stop="20260122045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20260122045500 +0000" stop="20260122070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20260122070000 +0000" stop="20260122073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260122073000 +0000" stop="20260122080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260122080000 +0000" stop="20260122100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
+<programme start="20260122100000 +0000" stop="20260122110500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20260122110500 +0000" stop="20260122120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Nation Hub - Live</title></programme>
+<programme start="20260122120000 +0000" stop="20260122123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260122123000 +0000" stop="20260122130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260122130000 +0000" stop="20260122150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
+<programme start="20260122150000 +0000" stop="20260122170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
 <programme start="20260121171500 +0000" stop="20260121174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20260121174500 +0000" stop="20260121183000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi</title></programme>
 <programme start="20260121183000 +0000" stop="20260121194500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
@@ -4040,45 +4020,46 @@
 <programme start="20260122143000 +0000" stop="20260122153000 +0000" channel="TVRI.id@SD"><title lang="id">Irama Gambus</title></programme>
 <programme start="20260122153000 +0000" stop="20260122163000 +0000" channel="TVRI.id@SD"><title lang="id">Menjemput Ridhomu</title></programme>
 <programme start="20260122163000 +0000" stop="20260122170000 +0000" channel="TVRI.id@SD"><title lang="id">Monitor Olahraga</title></programme>
-<programme start="20260121170000 +0000" stop="20260121173000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
-<programme start="20260121173000 +0000" stop="20260121180000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260121180000 +0000" stop="20260121183000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260121183000 +0000" stop="20260121190000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
+<programme start="20260121170000 +0000" stop="20260121173000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260121173000 +0000" stop="20260121180000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260121180000 +0000" stop="20260121183000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260121183000 +0000" stop="20260121190000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20260121190000 +0000" stop="20260121200000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
-<programme start="20260121200000 +0000" stop="20260121203000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260121203000 +0000" stop="20260121210000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260121210000 +0000" stop="20260121213000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260121213000 +0000" stop="20260121220000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260121200000 +0000" stop="20260121203000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
+<programme start="20260121203000 +0000" stop="20260121210000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260121210000 +0000" stop="20260121213000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260121213000 +0000" stop="20260121220000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
 <programme start="20260121220000 +0000" stop="20260121223000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Jelajah Kopi</title></programme>
 <programme start="20260121223000 +0000" stop="20260121230000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Flavor</title></programme>
 <programme start="20260121230000 +0000" stop="20260122000000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
 <programme start="20260122000000 +0000" stop="20260122010000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
 <programme start="20260122010000 +0000" stop="20260122020000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Starting Point</title></programme>
 <programme start="20260122020000 +0000" stop="20260122023000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
-<programme start="20260122023000 +0000" stop="20260122030000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Ambassador Corner</title></programme>
-<programme start="20260122030000 +0000" stop="20260122033000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
-<programme start="20260122033000 +0000" stop="20260122040000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260122040000 +0000" stop="20260122043000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260122023000 +0000" stop="20260122030000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Special Dialogue</title></programme>
+<programme start="20260122030000 +0000" stop="20260122033000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260122033000 +0000" stop="20260122040000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260122040000 +0000" stop="20260122043000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Game of Ancestor</title></programme>
 <programme start="20260122043000 +0000" stop="20260122050000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Flavor</title></programme>
 <programme start="20260122050000 +0000" stop="20260122060000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
-<programme start="20260122060000 +0000" stop="20260122063000 +0000" channel="TVRIWorld.id@SD"><title lang="id">On Location</title></programme>
+<programme start="20260122060000 +0000" stop="20260122063000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
 <programme start="20260122063000 +0000" stop="20260122070000 +0000" channel="TVRIWorld.id@SD"><title lang="id">News Watch</title></programme>
 <programme start="20260122070000 +0000" stop="20260122073000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
 <programme start="20260122073000 +0000" stop="20260122080000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260122080000 +0000" stop="20260122083000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260122080000 +0000" stop="20260122083000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
 <programme start="20260122083000 +0000" stop="20260122090000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
-<programme start="20260122090000 +0000" stop="20260122093000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260122090000 +0000" stop="20260122093000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
 <programme start="20260122093000 +0000" stop="20260122100000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Flavor</title></programme>
 <programme start="20260122100000 +0000" stop="20260122110000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
 <programme start="20260122110000 +0000" stop="20260122120000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
-<programme start="20260122120000 +0000" stop="20260122123000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
+<programme start="20260122120000 +0000" stop="20260122123000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Game of Ancestor</title></programme>
 <programme start="20260122123000 +0000" stop="20260122130000 +0000" channel="TVRIWorld.id@SD"><title lang="id">News Watch</title></programme>
-<programme start="20260122130000 +0000" stop="20260122133000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Ambassador Corner</title></programme>
-<programme start="20260122133000 +0000" stop="20260122140000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260122140000 +0000" stop="20260122143000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Space of Mind</title></programme>
-<programme start="20260122143000 +0000" stop="20260122150000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
+<programme start="20260122130000 +0000" stop="20260122133000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260122133000 +0000" stop="20260122140000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260122140000 +0000" stop="20260122143000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Special Dialogue</title></programme>
+<programme start="20260122143000 +0000" stop="20260122150000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20260122150000 +0000" stop="20260122160000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
-<programme start="20260122160000 +0000" stop="20260122170000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
+<programme start="20260122160000 +0000" stop="20260122163000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
+<programme start="20260122163000 +0000" stop="20260122170000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
 <programme start="20260121170000 +0000" stop="20260121190000 +0000" channel="UChannel.id@SD"><title lang="id">Riwayat Isa Almasih</title></programme>
 <programme start="20260121190000 +0000" stop="20260121200000 +0000" channel="UChannel.id@SD"><title lang="id">Lakewood ^</title></programme>
 <programme start="20260121200000 +0000" stop="20260121203000 +0000" channel="UChannel.id@SD"><title lang="id">Restoration Road ^</title></programme>
