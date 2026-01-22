@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260121">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260122">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
@@ -403,23 +403,7 @@
 <programme start="20260124140000 +0000" stop="20260124150000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260124150000 +0000" stop="20260124160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260124160000 +0000" stop="20260124170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260121180000 +0000" stop="20260121190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
-<programme start="20260121190000 +0000" stop="20260121203000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260121203000 +0000" stop="20260121213000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260121213000 +0000" stop="20260121233000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260121233000 +0000" stop="20260122003000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122003000 +0000" stop="20260122013000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122013000 +0000" stop="20260122040000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122040000 +0000" stop="20260122070000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122070000 +0000" stop="20260122080000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122080000 +0000" stop="20260122090000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122090000 +0000" stop="20260122110000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122110000 +0000" stop="20260122111500 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122111500 +0000" stop="20260122123000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122123000 +0000" stop="20260122143000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122143000 +0000" stop="20260122160000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260122160000 +0000" stop="20260122180000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
-<programme start="20260123160000 +0000" stop="20260123170000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
+<programme start="20260122160000 +0000" stop="20260122170000 +0000" channel="GTV.id@SD"><title lang="en">GTV</title></programme>
 <programme start="20260121170000 +0000" stop="20260121180000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260121180000 +0000" stop="20260121190000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260121190000 +0000" stop="20260121200000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
@@ -708,32 +692,9 @@
 <programme start="20260124140000 +0000" stop="20260124150000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260124150000 +0000" stop="20260124160000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260124160000 +0000" stop="20260124170000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260121180000 +0000" stop="20260121183000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
-<programme start="20260121183000 +0000" stop="20260121190000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20260121190000 +0000" stop="20260121193000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan</title></programme>
-<programme start="20260121193000 +0000" stop="20260121210000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
-<programme start="20260121210000 +0000" stop="20260121213000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
-<programme start="20260121213000 +0000" stop="20260121230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi (L)</title></programme>
-<programme start="20260121230000 +0000" stop="20260121233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi (L)</title></programme>
-<programme start="20260121233000 +0000" stop="20260122013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
-<programme start="20260122013000 +0000" stop="20260122020000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat (L)</title></programme>
-<programme start="20260122020000 +0000" stop="20260122023000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi (L)</title></programme>
-<programme start="20260122023000 +0000" stop="20260122033000 +0000" channel="tvOne.id@SD"><title lang="id">Pagi-Pagi Seru (L)</title></programme>
-<programme start="20260122033000 +0000" stop="20260122040000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan (L)</title></programme>
-<programme start="20260122040000 +0000" stop="20260122060000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang (L)</title></programme>
-<programme start="20260122060000 +0000" stop="20260122073000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Siang (L)</title></programme>
-<programme start="20260122073000 +0000" stop="20260122083000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih (L)</title></programme>
-<programme start="20260122083000 +0000" stop="20260122090000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal (L)</title></programme>
-<programme start="20260122090000 +0000" stop="20260122110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang (L)</title></programme>
-<programme start="20260122110000 +0000" stop="20260122130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20260122130000 +0000" stop="20260122140000 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Business Forum (L)</title></programme>
-<programme start="20260122140000 +0000" stop="20260122150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
 <programme start="20260122150000 +0000" stop="20260122160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
 <programme start="20260122160000 +0000" stop="20260122163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam (L)</title></programme>
-<programme start="20260122163000 +0000" stop="20260122180000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20260123150000 +0000" stop="20260123160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
-<programme start="20260123160000 +0000" stop="20260123163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam (L)</title></programme>
-<programme start="20260123163000 +0000" stop="20260123170000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20260122163000 +0000" stop="20260122170000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
 <programme start="20260121170000 +0000" stop="20260121180000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260121180000 +0000" stop="20260121190000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260121190000 +0000" stop="20260121200000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
