@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260123">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -122,9 +121,10 @@
 <channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260122173000 +0000" stop="20260122180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Off Country - Episode 3</title></programme>
 <programme start="20260122180000 +0000" stop="20260122190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World - Episode 12</title></programme>
 <programme start="20260122190000 +0000" stop="20260122200000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast - Episode 17</title></programme>
@@ -3222,26 +3222,27 @@
 <programme start="20260123140000 +0000" stop="20260123150000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Sport</title></programme>
 <programme start="20260123150000 +0000" stop="20260123160000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV Tonight</title></programme>
 <programme start="20260123160000 +0000" stop="20260123170000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Kok Bisa Viral</title></programme>
-<programme start="20260122174500 +0000" stop="20260122193500 +0000" channel="ONE.sg@SD"><title lang="id">Tbc Thur Variety - Eps.3</title></programme>
-<programme start="20260122193500 +0000" stop="20260122204500 +0000" channel="ONE.sg@SD"><title lang="id">Doctors - Eps.6</title></programme>
-<programme start="20260122204500 +0000" stop="20260122220000 +0000" channel="ONE.sg@SD"><title lang="id">Bad Memory Eraser - Eps.3</title></programme>
-<programme start="20260122220000 +0000" stop="20260122224500 +0000" channel="ONE.sg@SD"><title lang="id">The Woman Who Swallowed The Sun - Eps.100</title></programme>
-<programme start="20260122224500 +0000" stop="20260123001500 +0000" channel="ONE.sg@SD"><title lang="id">Moon River - Eps.1</title></programme>
-<programme start="20260123001500 +0000" stop="20260123013500 +0000" channel="ONE.sg@SD"><title lang="id">Doctors - Eps.6</title></programme>
-<programme start="20260123013500 +0000" stop="20260123030000 +0000" channel="ONE.sg@SD"><title lang="id">Bad Memory Eraser - Eps.3</title></programme>
-<programme start="20260123030000 +0000" stop="20260123034000 +0000" channel="ONE.sg@SD"><title lang="id">The Brave Yongsujung - Eps.49</title></programme>
-<programme start="20260123034000 +0000" stop="20260123042500 +0000" channel="ONE.sg@SD"><title lang="id">The Brave Yongsujung - Eps.50</title></programme>
-<programme start="20260123042500 +0000" stop="20260123051500 +0000" channel="ONE.sg@SD"><title lang="id">The Woman Who Swallowed The Sun - Eps.100</title></programme>
-<programme start="20260123051500 +0000" stop="20260123064500 +0000" channel="ONE.sg@SD"><title lang="id">Moon River - Eps.1</title></programme>
-<programme start="20260123064500 +0000" stop="20260123080500 +0000" channel="ONE.sg@SD"><title lang="id">Bad Memory Eraser - Eps.3</title></programme>
-<programme start="20260123080500 +0000" stop="20260123085000 +0000" channel="ONE.sg@SD"><title lang="id">The Woman Who Swallowed The Sun - Eps.100</title></programme>
-<programme start="20260123085000 +0000" stop="20260123093500 +0000" channel="ONE.sg@SD"><title lang="id">The Brave Yongsujung - Eps.49</title></programme>
-<programme start="20260123093500 +0000" stop="20260123102000 +0000" channel="ONE.sg@SD"><title lang="id">The Brave Yongsujung - Eps.50</title></programme>
-<programme start="20260123102000 +0000" stop="20260123114000 +0000" channel="ONE.sg@SD"><title lang="id">Doctors - Eps.7</title></programme>
-<programme start="20260123114000 +0000" stop="20260123130000 +0000" channel="ONE.sg@SD"><title lang="id">Bad Memory Eraser - Eps.4</title></programme>
-<programme start="20260123130000 +0000" stop="20260123143000 +0000" channel="ONE.sg@SD"><title lang="id">Moon River - Eps.2</title></programme>
-<programme start="20260123143000 +0000" stop="20260123162000 +0000" channel="ONE.sg@SD"><title lang="id">Running Man - Eps.765</title></programme>
-<programme start="20260123162000 +0000" stop="20260123174500 +0000" channel="ONE.sg@SD"><title lang="id">Moon River - Eps.2</title></programme>
+<programme start="20260122171000 +0000" stop="20260122183000 +0000" channel="ONE.sg@SD"><title lang="id">Brewer Lee Eps.3</title></programme>
+<programme start="20260122183000 +0000" stop="20260122193000 +0000" channel="ONE.sg@SD"><title lang="id">My Life&apos;s Traveling Cut Eps.2</title></programme>
+<programme start="20260122193000 +0000" stop="20260122204000 +0000" channel="ONE.sg@SD"><title lang="id">Doctors Eps.6</title></programme>
+<programme start="20260122204000 +0000" stop="20260122220000 +0000" channel="ONE.sg@SD"><title lang="id">Oh My Ghost Clients Eps.3</title></programme>
+<programme start="20260122220000 +0000" stop="20260122224500 +0000" channel="ONE.sg@SD"><title lang="id">The Woman Who Swallowed The Sun Eps.100</title></programme>
+<programme start="20260122224500 +0000" stop="20260123001500 +0000" channel="ONE.sg@SD"><title lang="id">Bad Memory Eraser Eps.1</title></programme>
+<programme start="20260123001500 +0000" stop="20260123013500 +0000" channel="ONE.sg@SD"><title lang="id">Doctors Eps.6</title></programme>
+<programme start="20260123013500 +0000" stop="20260123030000 +0000" channel="ONE.sg@SD"><title lang="id">Oh My Ghost Clients Eps.3</title></programme>
+<programme start="20260123030000 +0000" stop="20260123034000 +0000" channel="ONE.sg@SD"><title lang="id">The Brave Yongsujung Eps.49</title></programme>
+<programme start="20260123034000 +0000" stop="20260123042500 +0000" channel="ONE.sg@SD"><title lang="id">The Brave Yongsujung Eps.50</title></programme>
+<programme start="20260123042500 +0000" stop="20260123051500 +0000" channel="ONE.sg@SD"><title lang="id">The Woman Who Swallowed The Sun Eps.100</title></programme>
+<programme start="20260123051500 +0000" stop="20260123064500 +0000" channel="ONE.sg@SD"><title lang="id">Bad Memory Eraser Eps.1</title></programme>
+<programme start="20260123064500 +0000" stop="20260123080500 +0000" channel="ONE.sg@SD"><title lang="id">Oh My Ghost Clients Eps.3</title></programme>
+<programme start="20260123080500 +0000" stop="20260123085000 +0000" channel="ONE.sg@SD"><title lang="id">The Woman Who Swallowed The Sun Eps.100</title></programme>
+<programme start="20260123085000 +0000" stop="20260123093500 +0000" channel="ONE.sg@SD"><title lang="id">The Brave Yongsujung Eps.49</title></programme>
+<programme start="20260123093500 +0000" stop="20260123102000 +0000" channel="ONE.sg@SD"><title lang="id">The Brave Yongsujung Eps.50</title></programme>
+<programme start="20260123102000 +0000" stop="20260123114000 +0000" channel="ONE.sg@SD"><title lang="id">Doctors Eps.7</title></programme>
+<programme start="20260123114000 +0000" stop="20260123130000 +0000" channel="ONE.sg@SD"><title lang="id">Oh My Ghost Clients Eps.4</title></programme>
+<programme start="20260123130000 +0000" stop="20260123143000 +0000" channel="ONE.sg@SD"><title lang="id">Bad Memory Eraser Eps.2</title></programme>
+<programme start="20260123143000 +0000" stop="20260123162000 +0000" channel="ONE.sg@SD"><title lang="id">Running Man Eps.765</title></programme>
+<programme start="20260123162000 +0000" stop="20260123174500 +0000" channel="ONE.sg@SD"><title lang="id">Bad Memory Eraser Eps.2</title></programme>
 <programme start="20260122170000 +0000" stop="20260122173000 +0000" channel="PhoenixChineseChannel.hk@SD"><title lang="id">Summary Of Press</title></programme>
 <programme start="20260122173000 +0000" stop="20260122180000 +0000" channel="PhoenixChineseChannel.hk@SD"><title lang="id">Phoenix Panorama</title></programme>
 <programme start="20260122180000 +0000" stop="20260122183000 +0000" channel="PhoenixChineseChannel.hk@SD"><title lang="id">The Great Era</title></programme>
