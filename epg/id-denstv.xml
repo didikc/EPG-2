@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260124">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
 <channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
@@ -50,9 +49,10 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260123170000 +0000" stop="20260123180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260123180000 +0000" stop="20260123183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260123183000 +0000" stop="20260123190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -3037,6 +3037,92 @@
 <programme start="20260125162500 +0000" stop="20260125163000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Okinawa: US Influences</title></programme>
 <programme start="20260125163000 +0000" stop="20260125165950 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
 <programme start="20260125165950 +0000" stop="20260125165959 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
+<programme start="20260125170000 +0000" stop="20260125171000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260125171000 +0000" stop="20260125172500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ramen Japan</title></programme>
+<programme start="20260125172500 +0000" stop="20260125173000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Core Kyoto Mini</title></programme>
+<programme start="20260125173000 +0000" stop="20260125174500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20260125174500 +0000" stop="20260125180000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Zero Waste Life</title></programme>
+<programme start="20260125180000 +0000" stop="20260125181000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260125181000 +0000" stop="20260125190000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">The Tokyo Land Swindlers Scam</title></programme>
+<programme start="20260125190000 +0000" stop="20260125191000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260125191000 +0000" stop="20260125200000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Explore Tokyo National Museum</title></programme>
+<programme start="20260125200000 +0000" stop="20260125201000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260125201000 +0000" stop="20260125204000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Anime Manga Explosion</title></programme>
+<programme start="20260125204000 +0000" stop="20260125205000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Rockie And Her Friends</title></programme>
+<programme start="20260125205000 +0000" stop="20260125210000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Texico</title></programme>
+<programme start="20260125210000 +0000" stop="20260125211000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260125211000 +0000" stop="20260125214000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK World-Japan Spc. Program</title></programme>
+<programme start="20260125214000 +0000" stop="20260125215000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Little Charo</title></programme>
+<programme start="20260125215000 +0000" stop="20260125215500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Japanology Plus Mini</title></programme>
+<programme start="20260125215500 +0000" stop="20260125220000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">A Cat&apos;s-Eye View Of Japan</title></programme>
+<programme start="20260125220000 +0000" stop="20260125221000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260125221000 +0000" stop="20260125222500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ramen Japan</title></programme>
+<programme start="20260125222500 +0000" stop="20260125223000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Core Kyoto Mini</title></programme>
+<programme start="20260125223000 +0000" stop="20260125224500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese For Work</title></programme>
+<programme start="20260125224500 +0000" stop="20260125230000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Zero Waste Life</title></programme>
+<programme start="20260125230000 +0000" stop="20260125231000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260125231000 +0000" stop="20260125232500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">World Heritage Sites In Japan</title></programme>
+<programme start="20260125232500 +0000" stop="20260125233000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Okinawa: US Influences</title></programme>
+<programme start="20260125233000 +0000" stop="20260126000000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
+<programme start="20260126000000 +0000" stop="20260126001000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126001000 +0000" stop="20260126001500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Chatroom Japan</title></programme>
+<programme start="20260126001500 +0000" stop="20260126002500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Impacts: Climates Change...</title></programme>
+<programme start="20260126002500 +0000" stop="20260126003000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Atmospheric Tiles</title></programme>
+<programme start="20260126003000 +0000" stop="20260126005700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20260126005700 +0000" stop="20260126010000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">HAGI: Vessels That Age With You</title></programme>
+<programme start="20260126010000 +0000" stop="20260126011000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126011000 +0000" stop="20260126011500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Okinawa: Shuri Castle</title></programme>
+<programme start="20260126011500 +0000" stop="20260126013000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BOSAI</title></programme>
+<programme start="20260126013000 +0000" stop="20260126014000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Magical Japanese</title></programme>
+<programme start="20260126014000 +0000" stop="20260126014500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese</title></programme>
+<programme start="20260126014500 +0000" stop="20260126015500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20260126015500 +0000" stop="20260126020000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
+<programme start="20260126020000 +0000" stop="20260126023000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126023000 +0000" stop="20260126030000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20260126030000 +0000" stop="20260126033000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126033000 +0000" stop="20260126035500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Darwin&apos;s Amazing Animals</title></programme>
+<programme start="20260126035500 +0000" stop="20260126040000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Time-Lapse Journey</title></programme>
+<programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126043000 +0000" stop="20260126050000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
+<programme start="20260126050000 +0000" stop="20260126053000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126053000 +0000" stop="20260126055700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20260126055700 +0000" stop="20260126060000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">HAGI: Vessels That Age With You</title></programme>
+<programme start="20260126060000 +0000" stop="20260126063000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsline Asia 24</title></programme>
+<programme start="20260126063000 +0000" stop="20260126064000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Magical Japanese</title></programme>
+<programme start="20260126064000 +0000" stop="20260126064500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese</title></programme>
+<programme start="20260126064500 +0000" stop="20260126065500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20260126065500 +0000" stop="20260126070000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
+<programme start="20260126070000 +0000" stop="20260126073000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsline Asia 24</title></programme>
+<programme start="20260126073000 +0000" stop="20260126080000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20260126080000 +0000" stop="20260126083000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Grand Sumo Highlights</title></programme>
+<programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126093000 +0000" stop="20260126095500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Darwin&apos;s Amazing Animals</title></programme>
+<programme start="20260126095500 +0000" stop="20260126100000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Time-Lapse Journey</title></programme>
+<programme start="20260126100000 +0000" stop="20260126103000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK News 7</title></programme>
+<programme start="20260126103000 +0000" stop="20260126105700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20260126105700 +0000" stop="20260126110000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">HAGI: Vessels That Age With You</title></programme>
+<programme start="20260126110000 +0000" stop="20260126112800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
+<programme start="20260126112800 +0000" stop="20260126114300 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
+<programme start="20260126114300 +0000" stop="20260126114800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">On The Wings</title></programme>
+<programme start="20260126114800 +0000" stop="20260126115500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ramen Japan</title></programme>
+<programme start="20260126115500 +0000" stop="20260126120000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ukiyoe Edo-Life: Unruly Catfish</title></programme>
+<programme start="20260126120000 +0000" stop="20260126123000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
+<programme start="20260126123000 +0000" stop="20260126124000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Magical Japanese</title></programme>
+<programme start="20260126124000 +0000" stop="20260126124500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Easy Japanese</title></programme>
+<programme start="20260126124500 +0000" stop="20260126125500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
+<programme start="20260126125500 +0000" stop="20260126130000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hello! NHK World-Japan</title></programme>
+<programme start="20260126130000 +0000" stop="20260126133000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126133000 +0000" stop="20260126140000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Seasoning The Seasons</title></programme>
+<programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Medical Frontiers</title></programme>
+<programme start="20260126150000 +0000" stop="20260126153000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126153000 +0000" stop="20260126155700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Where We Call Home</title></programme>
+<programme start="20260126155700 +0000" stop="20260126160000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">HAGI: Vessels That Age With You</title></programme>
+<programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260126163000 +0000" stop="20260126165700 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Hometown Stories</title></programme>
+<programme start="20260126165700 +0000" stop="20260126165950 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Satoyama Kitchen Fall</title></programme>
+<programme start="20260126165950 +0000" stop="20260126165959 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Satoyama Kitchen Fall</title></programme>
 <programme start="20260123170000 +0000" stop="20260123180000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
 <programme start="20260123180000 +0000" stop="20260123190000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
 <programme start="20260123190000 +0000" stop="20260123200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
