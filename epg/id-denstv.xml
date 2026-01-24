@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260124">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
@@ -49,10 +50,9 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
 <programme start="20260123170000 +0000" stop="20260123180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260123180000 +0000" stop="20260123183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260123183000 +0000" stop="20260123190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -598,6 +598,46 @@
 <programme start="20260125160000 +0000" stop="20260125163000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
 <programme start="20260125163000 +0000" stop="20260125165950 +0000" channel="AlJazeera.qa@English"><title lang="id">People &amp; Power: Water For Data</title></programme>
 <programme start="20260125165950 +0000" stop="20260125165959 +0000" channel="AlJazeera.qa@English"><title lang="id">People &amp; Power: Water For Data</title></programme>
+<programme start="20260125170000 +0000" stop="20260125173000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260125173000 +0000" stop="20260125180000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260125180000 +0000" stop="20260125190000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260125190000 +0000" stop="20260125193000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260125193000 +0000" stop="20260125200000 +0000" channel="AlJazeera.qa@English"><title lang="id">Talk To Al Jazeera: Cornel West</title></programme>
+<programme start="20260125200000 +0000" stop="20260125210000 +0000" channel="AlJazeera.qa@English"><title lang="id">Chocolate&apos;s Heart Of Darkness</title></programme>
+<programme start="20260125210000 +0000" stop="20260125220000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260125220000 +0000" stop="20260125223000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260125223000 +0000" stop="20260125230000 +0000" channel="AlJazeera.qa@English"><title lang="id">All Hail The Military</title></programme>
+<programme start="20260125230000 +0000" stop="20260125233000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260125233000 +0000" stop="20260126000000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260126000000 +0000" stop="20260126010000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260126010000 +0000" stop="20260126020000 +0000" channel="AlJazeera.qa@English"><title lang="id">Witness: A Song For My Land</title></programme>
+<programme start="20260126020000 +0000" stop="20260126023000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126023000 +0000" stop="20260126030000 +0000" channel="AlJazeera.qa@English"><title lang="id">UpFront</title></programme>
+<programme start="20260126030000 +0000" stop="20260126033000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126033000 +0000" stop="20260126040000 +0000" channel="AlJazeera.qa@English"><title lang="id">The Bottom Line</title></programme>
+<programme start="20260126040000 +0000" stop="20260126043000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126043000 +0000" stop="20260126050000 +0000" channel="AlJazeera.qa@English"><title lang="id">Talk To Al Jazeera: Cornel West</title></programme>
+<programme start="20260126050000 +0000" stop="20260126053000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126053000 +0000" stop="20260126060000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260126060000 +0000" stop="20260126063000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126063000 +0000" stop="20260126070000 +0000" channel="AlJazeera.qa@English"><title lang="id">People &amp; Power: Water For Data</title></programme>
+<programme start="20260126070000 +0000" stop="20260126073000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126073000 +0000" stop="20260126080000 +0000" channel="AlJazeera.qa@English"><title lang="id">Counting The Cost</title></programme>
+<programme start="20260126080000 +0000" stop="20260126083000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126083000 +0000" stop="20260126090000 +0000" channel="AlJazeera.qa@English"><title lang="id">Venezuela: In The Shadow Of US</title></programme>
+<programme start="20260126090000 +0000" stop="20260126093000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126093000 +0000" stop="20260126100000 +0000" channel="AlJazeera.qa@English"><title lang="id">All Hail The Military</title></programme>
+<programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260126110000 +0000" stop="20260126113000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126113000 +0000" stop="20260126120000 +0000" channel="AlJazeera.qa@English"><title lang="id">Inside Story</title></programme>
+<programme start="20260126120000 +0000" stop="20260126130000 +0000" channel="AlJazeera.qa@English"><title lang="id">Chocolate&apos;s Heart Of Darkness</title></programme>
+<programme start="20260126130000 +0000" stop="20260126140000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260126140000 +0000" stop="20260126143000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126143000 +0000" stop="20260126150000 +0000" channel="AlJazeera.qa@English"><title lang="id">Talk To Al Jazeera: Cornel West</title></programme>
+<programme start="20260126150000 +0000" stop="20260126160000 +0000" channel="AlJazeera.qa@English"><title lang="id">NewsHour</title></programme>
+<programme start="20260126160000 +0000" stop="20260126163000 +0000" channel="AlJazeera.qa@English"><title lang="id">News (L)</title></programme>
+<programme start="20260126163000 +0000" stop="20260126165950 +0000" channel="AlJazeera.qa@English"><title lang="id">101 East: Kidnapped Online</title></programme>
+<programme start="20260126165950 +0000" stop="20260126165959 +0000" channel="AlJazeera.qa@English"><title lang="id">101 East: Kidnapped Online</title></programme>
 <programme start="20260123170000 +0000" stop="20260123180000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260123180000 +0000" stop="20260123183000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260123183000 +0000" stop="20260123190000 +0000" channel="AlQuranAlKareemTV.sa@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1130,6 +1170,33 @@
 <programme start="20260125160000 +0000" stop="20260125160300 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260125160300 +0000" stop="20260125165950 +0000" channel="CNA.sg@SD"><title lang="id">Life, Unexpected S2, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
 <programme start="20260125165950 +0000" stop="20260125165959 +0000" channel="CNA.sg@SD"><title lang="id">Life, Unexpected S2, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260125170000 +0000" stop="20260125180000 +0000" channel="CNA.sg@SD"><title lang="id">Insight, Ep 35</title><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num></programme>
+<programme start="20260125180000 +0000" stop="20260125183000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260125183000 +0000" stop="20260125190000 +0000" channel="CNA.sg@SD"><title lang="id">Talking Point, Ep 30</title><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
+<programme start="20260125190000 +0000" stop="20260125193000 +0000" channel="CNA.sg@SD"><title lang="id">Money Mind, Ep 35</title><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num></programme>
+<programme start="20260125193000 +0000" stop="20260125200000 +0000" channel="CNA.sg@SD"><title lang="id">On The Red Dot, Ep 34</title><episode-num system="xmltv_ns">0.33.0/1</episode-num><episode-num system="onscreen">S01E34</episode-num></programme>
+<programme start="20260125200000 +0000" stop="20260125203000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260125203000 +0000" stop="20260125210000 +0000" channel="CNA.sg@SD"><title lang="id">Salt Of The Earth, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260125210000 +0000" stop="20260125220000 +0000" channel="CNA.sg@SD"><title lang="id">The Mark Of Empire S3, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260125220000 +0000" stop="20260125223000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260125223000 +0000" stop="20260125230000 +0000" channel="CNA.sg@SD"><title lang="id">Talking Point, Ep 30</title><episode-num system="xmltv_ns">0.29.0/1</episode-num><episode-num system="onscreen">S01E30</episode-num></programme>
+<programme start="20260125230000 +0000" stop="20260126020000 +0000" channel="CNA.sg@SD"><title lang="id">Asia First</title></programme>
+<programme start="20260126020000 +0000" stop="20260126030000 +0000" channel="CNA.sg@SD"><title lang="id">The Mark Of Empire, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260126030000 +0000" stop="20260126050000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260126050000 +0000" stop="20260126060000 +0000" channel="CNA.sg@SD"><title lang="id">The Mark Of Empire, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260126060000 +0000" stop="20260126080000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260126080000 +0000" stop="20260126090000 +0000" channel="CNA.sg@SD"><title lang="id">Life, Unexpected S2, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
+<programme start="20260126090000 +0000" stop="20260126090200 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260126090200 +0000" stop="20260126100000 +0000" channel="CNA.sg@SD"><title lang="id">Insight, Ep 35</title><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num></programme>
+<programme start="20260126100000 +0000" stop="20260126110000 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260126110000 +0000" stop="20260126120000 +0000" channel="CNA.sg@SD"><title lang="id">ISEAS Regional Outlook..., Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260126120000 +0000" stop="20260126130000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260126130000 +0000" stop="20260126140000 +0000" channel="CNA.sg@SD"><title lang="id">The Mark Of Empire, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260126140000 +0000" stop="20260126150000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260126150000 +0000" stop="20260126160000 +0000" channel="CNA.sg@SD"><title lang="id">The Mark Of Empire, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260126160000 +0000" stop="20260126160300 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260126160300 +0000" stop="20260126165950 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260126165950 +0000" stop="20260126165959 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20260123170000 +0000" stop="20260123180000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260123180000 +0000" stop="20260123183000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260123183000 +0000" stop="20260123190000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
