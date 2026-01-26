@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260126">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
-<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
-<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
+<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
 <channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
 <channel id="321"><display-name>Champions TV 1 HD</display-name><url>https://firstmedia.com</url></channel>
 <channel id="Eurosport.fr@AsiaHD"><display-name>Eurosport HD</display-name><icon src="https://i.imgur.com/s4jDnJh.png"/><url>https://firstmedia.com</url></channel>
@@ -112,9 +112,9 @@
 <channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
-<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
+<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
+<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
+<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
 <programme start="20260125170000 +0000" stop="20260125180000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260125180000 +0000" stop="20260125190000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260125190000 +0000" stop="20260125200000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
