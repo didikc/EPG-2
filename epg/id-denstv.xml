@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260202">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
@@ -49,10 +50,9 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
 <programme start="20260201170000 +0000" stop="20260201180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260201180000 +0000" stop="20260201183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260201183000 +0000" stop="20260201190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -301,6 +301,34 @@
 <programme start="20260202120000 +0000" stop="20260202143200 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
 <programme start="20260202143200 +0000" stop="20260202165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
 <programme start="20260202165950 +0000" stop="20260202165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260202170000 +0000" stop="20260202181200 +0000" channel="143"><title lang="id">Joe Cocker - Live 1981</title><desc lang="id">The &quot;You can leave your hat on&quot; singer gives a bluesful, rock infused performance in this 1981 show in Italy.</desc></programme>
+<programme start="20260202181200 +0000" stop="20260202202100 +0000" channel="143"><title lang="id">Zara McFarlane - Live at Moods</title><desc lang="id">Blending jazz, reggae, folk and nu-soul, the British powerhouse performs backed by her quartet at Moods.</desc></programme>
+<programme start="20260202202100 +0000" stop="20260202213100 +0000" channel="143"><title lang="id">Hiromi&apos;s Sonicwonder</title><desc lang="id">With Sonicwonder, the Japanese pianist now leads an electronically-flecked jazz fusion quartet.</desc></programme>
+<programme start="20260202213100 +0000" stop="20260202230000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260202230000 +0000" stop="20260203004100 +0000" channel="143"><title lang="id">Pianomania - Live in Paris</title><desc lang="id">Laurent de Wilde brings together an exceptional group composed of some of the best jazz pianists.</desc></programme>
+<programme start="20260203004100 +0000" stop="20260203014800 +0000" channel="143"><title lang="id">DD Bridgewater Pays Tribute to Ella</title><desc lang="id">Jazz prodigee Dee Dee Bridgewater pays tribute to Ella Fitzgerald accompanied by Ray Brown, Milt Jackson, etc</desc></programme>
+<programme start="20260203014800 +0000" stop="20260203022200 +0000" channel="143"><title lang="id">Chuck Berry - RTBF Archives 1965</title><desc lang="id">Berry&apos;s natural energy is enough to break through all formalities, getting rid of any stuffiness.</desc></programme>
+<programme start="20260203022200 +0000" stop="20260203040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title><desc lang="id">&quot;This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music&quot; - Quincy Jones</desc></programme>
+<programme start="20260203040000 +0000" stop="20260203065800 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260203065800 +0000" stop="20260203092600 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
+<programme start="20260203092600 +0000" stop="20260203120100 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title><desc lang="id">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!</desc></programme>
+<programme start="20260203120100 +0000" stop="20260203151100 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
+<programme start="20260203151100 +0000" stop="20260203165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260203165950 +0000" stop="20260203165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260203170000 +0000" stop="20260203173000 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260203173000 +0000" stop="20260203190000 +0000" channel="143"><title lang="id">Bassekou KouyatÃ© - Live at Moods</title><desc lang="id">Qwest TV presents Bassekou KouyatÃ© and Amy Sacko live at Moods on Monday, 3 February, 8:30pm CET, 2:30pm EST</desc></programme>
+<programme start="20260203190000 +0000" stop="20260203205900 +0000" channel="143"><title lang="id">HervÃ© Samb - Live at Moods</title><desc lang="id">Samb introduces his album, &quot;Terenga&quot;, blending traditional Senegalese music with many modern influences.</desc></programme>
+<programme start="20260203205900 +0000" stop="20260203224800 +0000" channel="143"><title lang="id">The Brooks - Live at Cosmo Jazz</title><desc lang="id">A powerful fusion of funk, soul, R&amp;B, and jazz, showcasing Montreal&apos;s finest groove</desc></programme>
+<programme start="20260203224800 +0000" stop="20260203230000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260203230000 +0000" stop="20260204010200 +0000" channel="143"><title lang="id">Rumba Rules, New Genealogies</title><desc lang="id">An incursion into the arcanes of a monumental African music, following the great Brigade Sarbati Orchestra.</desc></programme>
+<programme start="20260204010200 +0000" stop="20260204030000 +0000" channel="143"><title lang="id">HervÃ© Samb - Live at Moods</title><desc lang="id">Samb introduces his album, &quot;Terenga&quot;, blending traditional Senegalese music with many modern influences.</desc></programme>
+<programme start="20260204030000 +0000" stop="20260204040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title><desc lang="id">&quot;This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music&quot; - Quincy Jones</desc></programme>
+<programme start="20260204040000 +0000" stop="20260204070300 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260204070300 +0000" stop="20260204100400 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
+<programme start="20260204100400 +0000" stop="20260204120300 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title><desc lang="id">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!</desc></programme>
+<programme start="20260204120300 +0000" stop="20260204145800 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
+<programme start="20260204145800 +0000" stop="20260204165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260204165950 +0000" stop="20260204165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
 <programme start="20260201170000 +0000" stop="20260201173000 +0000" channel="144"><title lang="id">Headline News</title></programme>
 <programme start="20260201173000 +0000" stop="20260201180000 +0000" channel="144"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
 <programme start="20260201180000 +0000" stop="20260201183000 +0000" channel="144"><title lang="id">Headline News</title></programme>
@@ -1374,8 +1402,8 @@
 <programme start="20260203080000 +0000" stop="20260203090000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Molala Cake</title></programme>
 <programme start="20260203090000 +0000" stop="20260203100000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Doobydobap</title></programme>
 <programme start="20260203100000 +0000" stop="20260203120000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Live Cooking (Recorded)</title></programme>
-<programme start="20260203120000 +0000" stop="20260203130000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Dialog Rasa</title></programme>
-<programme start="20260203130000 +0000" stop="20260203140000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Bongs Happy Restaurant</title></programme>
+<programme start="20260203120000 +0000" stop="20260203125200 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Dialog Rasa</title></programme>
+<programme start="20260203125200 +0000" stop="20260203140000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Bongs Happy Restaurant</title></programme>
 <programme start="20260203140000 +0000" stop="20260203143000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Halal Kuliner</title></programme>
 <programme start="20260203143000 +0000" stop="20260203150000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Pecah Rasa</title></programme>
 <programme start="20260203150000 +0000" stop="20260203153000 +0000" channel="DensFoodChannel.id@SD"><title lang="id">Tentang Rasa</title></programme>
@@ -1553,23 +1581,22 @@
 <programme start="20260202230000 +0000" stop="20260203010000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Mayli</title></programme>
 <programme start="20260203010000 +0000" stop="20260203020000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
 <programme start="20260203020000 +0000" stop="20260203030000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
-<programme start="20260203030000 +0000" stop="20260203040000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
-<programme start="20260203040000 +0000" stop="20260203043000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
-<programme start="20260203043000 +0000" stop="20260203050000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
-<programme start="20260203050000 +0000" stop="20260203053000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
-<programme start="20260203053000 +0000" stop="20260203060000 +0000" channel="DensPlay.id@SD"><title lang="id">Alter Ego Esports</title></programme>
+<programme start="20260203030000 +0000" stop="20260203040900 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
+<programme start="20260203040900 +0000" stop="20260203043700 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
+<programme start="20260203043700 +0000" stop="20260203050000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
+<programme start="20260203050000 +0000" stop="20260203060000 +0000" channel="DensPlay.id@SD"><title lang="id">Gaming Room</title></programme>
 <programme start="20260203060000 +0000" stop="20260203070000 +0000" channel="DensPlay.id@SD"><title lang="id">Makmur Jaya Esports</title></programme>
 <programme start="20260203070000 +0000" stop="20260203080000 +0000" channel="DensPlay.id@SD"><title lang="id">TimTheTatman Gametrough</title></programme>
 <programme start="20260203080000 +0000" stop="20260203090000 +0000" channel="DensPlay.id@SD"><title lang="id">Caylus Gametrough</title></programme>
 <programme start="20260203090000 +0000" stop="20260203100000 +0000" channel="DensPlay.id@SD"><title lang="id">Before You Buy</title></programme>
 <programme start="20260203100000 +0000" stop="20260203110000 +0000" channel="DensPlay.id@SD"><title lang="id">Warnet (Warga Net)</title></programme>
 <programme start="20260203110000 +0000" stop="20260203120000 +0000" channel="DensPlay.id@SD"><title lang="id">Anak Rental</title></programme>
-<programme start="20260203120000 +0000" stop="20260203130000 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
-<programme start="20260203130000 +0000" stop="20260203133000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
+<programme start="20260203120000 +0000" stop="20260203130800 +0000" channel="DensPlay.id@SD"><title lang="id">Cantik-Cantik Gamers</title></programme>
+<programme start="20260203130800 +0000" stop="20260203133000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20260203133000 +0000" stop="20260203140000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
-<programme start="20260203140000 +0000" stop="20260203160000 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By KekeLawar</title></programme>
-<programme start="20260203160000 +0000" stop="20260203163000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
-<programme start="20260203163000 +0000" stop="20260203165959 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
+<programme start="20260203140000 +0000" stop="20260203161200 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By KekeLawar</title></programme>
+<programme start="20260203161200 +0000" stop="20260203163800 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Spectator by SL</title></programme>
+<programme start="20260203163800 +0000" stop="20260203165959 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
 <programme start="20260203170600 +0000" stop="20260204010000 +0000" channel="DensPlay.id@SD"><title lang="id">Valoverse</title></programme>
 <programme start="20260204010000 +0000" stop="20260204013000 +0000" channel="DensPlay.id@SD"><title lang="id">Isekai Podcast</title></programme>
 <programme start="20260204013000 +0000" stop="20260204020000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
@@ -1590,7 +1617,7 @@
 <programme start="20260204140000 +0000" stop="20260204143000 +0000" channel="DensPlay.id@SD"><title lang="id">Main Rasa</title></programme>
 <programme start="20260204143000 +0000" stop="20260204150000 +0000" channel="DensPlay.id@SD"><title lang="id">Esports Play &amp; Pro</title></programme>
 <programme start="20260204150000 +0000" stop="20260204165959 +0000" channel="DensPlay.id@SD"><title lang="id">Game On By Bewokin</title></programme>
-<programme start="20260201230000 +0000" stop="20260202010000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Live Streaming</title></programme>
+<programme start="20260201230000 +0000" stop="20260202010000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Online Talkshow Creating Creative Content (Recorded)</title></programme>
 <programme start="20260202010000 +0000" stop="20260202013000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Hilang Jejak</title></programme>
 <programme start="20260202013000 +0000" stop="20260202020000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcast Terkuat Di Bumi</title></programme>
 <programme start="20260202020000 +0000" stop="20260202030000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Mora Show by Ruang Cinema</title></programme>
@@ -1601,12 +1628,12 @@
 <programme start="20260202060000 +0000" stop="20260202070000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
 <programme start="20260202070000 +0000" stop="20260202080000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Open Door Celebrity</title></programme>
 <programme start="20260202080000 +0000" stop="20260202090000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Actor On Actor</title></programme>
-<programme start="20260202090000 +0000" stop="20260202100000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 1</title></programme>
-<programme start="20260202100000 +0000" stop="20260202110000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcast Curiga</title></programme>
-<programme start="20260202110000 +0000" stop="20260202113000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Hilang Jejak</title></programme>
-<programme start="20260202113000 +0000" stop="20260202120000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcast Terkuat Di Bumi</title></programme>
-<programme start="20260202120000 +0000" stop="20260202130000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
-<programme start="20260202130000 +0000" stop="20260202140000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
+<programme start="20260202090000 +0000" stop="20260202100400 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 1</title></programme>
+<programme start="20260202100400 +0000" stop="20260202110700 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcast Curiga</title></programme>
+<programme start="20260202110700 +0000" stop="20260202113800 +0000" channel="DensShowBiz.id@SD"><title lang="id">Hilang Jejak</title></programme>
+<programme start="20260202113800 +0000" stop="20260202120600 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcast Terkuat Di Bumi</title></programme>
+<programme start="20260202120600 +0000" stop="20260202130500 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
+<programme start="20260202130500 +0000" stop="20260202140000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
 <programme start="20260202140000 +0000" stop="20260202150000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Gerbang Dimensi</title></programme>
 <programme start="20260202150000 +0000" stop="20260202165959 +0000" channel="DensShowBiz.id@SD"><title lang="id">Convidens</title></programme>
 <programme start="20260202230000 +0000" stop="20260203000000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour</title></programme>
