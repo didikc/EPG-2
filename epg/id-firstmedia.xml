@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260204">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260205">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
@@ -403,12 +403,13 @@
 <programme start="20260207140000 +0000" stop="20260207150000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260207150000 +0000" stop="20260207160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260207160000 +0000" stop="20260207170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260204170000 +0000" stop="20260204180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
 <programme start="20260204180000 +0000" stop="20260204190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
 <programme start="20260204190000 +0000" stop="20260204200000 +0000" channel="GTV.id@SD"><title lang="en">Naik Enak Turun Ogah</title></programme>
 <programme start="20260204200000 +0000" stop="20260204220000 +0000" channel="GTV.id@SD"><title lang="en">Awas Ada Sule</title></programme>
 <programme start="20260204220000 +0000" stop="20260204230000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
 <programme start="20260204230000 +0000" stop="20260205000000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260205000000 +0000" stop="20260205010000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebritis</title></programme>
+<programme start="20260205000000 +0000" stop="20260205010000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebriti</title></programme>
 <programme start="20260205010000 +0000" stop="20260205013000 +0000" channel="GTV.id@SD"><title lang="en">Buletin iNews Pagi</title></programme>
 <programme start="20260205013000 +0000" stop="20260205020000 +0000" channel="GTV.id@SD"><title lang="en">CoComelon Dan Sahabat</title></programme>
 <programme start="20260205020000 +0000" stop="20260205023000 +0000" channel="GTV.id@SD"><title lang="en">Bernard Bear</title></programme>
@@ -416,8 +417,8 @@
 <programme start="20260205050000 +0000" stop="20260205073000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260205073000 +0000" stop="20260205093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260205093000 +0000" stop="20260205110000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260205110000 +0000" stop="20260205130000 +0000" channel="GTV.id@SD"><title lang="en">Monster Hunter</title></programme>
-<programme start="20260205130000 +0000" stop="20260205150000 +0000" channel="GTV.id@SD"><title lang="en">Legend Of Broken Sword Hero</title></programme>
+<programme start="20260205110000 +0000" stop="20260205130000 +0000" channel="GTV.id@SD"><title lang="en">Giant Snake Events In Yellow...</title></programme>
+<programme start="20260205130000 +0000" stop="20260205150000 +0000" channel="GTV.id@SD"><title lang="en">Pain &amp; Gain</title></programme>
 <programme start="20260205150000 +0000" stop="20260205160000 +0000" channel="GTV.id@SD"><title lang="en">Last Man Standing</title></programme>
 <programme start="20260205160000 +0000" stop="20260205170000 +0000" channel="GTV.id@SD"><title lang="en">12 Hari</title></programme>
 <programme start="20260205170000 +0000" stop="20260205180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
@@ -429,31 +430,30 @@
 <programme start="20260206000000 +0000" stop="20260206010000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebriti</title></programme>
 <programme start="20260206010000 +0000" stop="20260206013000 +0000" channel="GTV.id@SD"><title lang="en">Buletin iNews Pagi</title></programme>
 <programme start="20260206013000 +0000" stop="20260206020000 +0000" channel="GTV.id@SD"><title lang="en">CoComelon Dan Sahabat</title></programme>
-<programme start="20260206020000 +0000" stop="20260206023000 +0000" channel="GTV.id@SD"><title lang="en">Bernard Bear</title></programme>
+<programme start="20260206020000 +0000" stop="20260206023000 +0000" channel="GTV.id@SD"><title lang="en">TV Champion</title></programme>
 <programme start="20260206023000 +0000" stop="20260206050000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260206050000 +0000" stop="20260206073000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260206073000 +0000" stop="20260206093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260206093000 +0000" stop="20260206110000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260206110000 +0000" stop="20260206130000 +0000" channel="GTV.id@SD"><title lang="en">Giant Snake Events In Yellow...</title></programme>
-<programme start="20260206130000 +0000" stop="20260206150000 +0000" channel="GTV.id@SD"><title lang="en">Pain &amp; Gain</title></programme>
-<programme start="20260206150000 +0000" stop="20260206160000 +0000" channel="GTV.id@SD"><title lang="en">Last Man Standing</title></programme>
-<programme start="20260206160000 +0000" stop="20260206170000 +0000" channel="GTV.id@SD"><title lang="en">12 Hari</title></programme>
-<programme start="20260206170000 +0000" stop="20260206180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
+<programme start="20260206110000 +0000" stop="20260206123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
+<programme start="20260206123000 +0000" stop="20260206143000 +0000" channel="GTV.id@SD"><title lang="en">Extraordinary Rescue</title></programme>
+<programme start="20260206143000 +0000" stop="20260206153000 +0000" channel="GTV.id@SD"><title lang="en">Untold Story</title></programme>
+<programme start="20260206153000 +0000" stop="20260206163000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
+<programme start="20260206163000 +0000" stop="20260206180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
 <programme start="20260206180000 +0000" stop="20260206190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
 <programme start="20260206190000 +0000" stop="20260206200000 +0000" channel="GTV.id@SD"><title lang="en">Naik Enak Turun Ogah</title></programme>
 <programme start="20260206200000 +0000" stop="20260206220000 +0000" channel="GTV.id@SD"><title lang="en">Awas Ada Sule</title></programme>
-<programme start="20260206220000 +0000" stop="20260206230000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
-<programme start="20260206230000 +0000" stop="20260207000000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260207000000 +0000" stop="20260207010000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebriti</title></programme>
-<programme start="20260207010000 +0000" stop="20260207013000 +0000" channel="GTV.id@SD"><title lang="en">Buletin iNews Pagi</title></programme>
-<programme start="20260207013000 +0000" stop="20260207020000 +0000" channel="GTV.id@SD"><title lang="en">CoComelon Dan Sahabat</title></programme>
-<programme start="20260207020000 +0000" stop="20260207023000 +0000" channel="GTV.id@SD"><title lang="en">TV Champion</title></programme>
-<programme start="20260207023000 +0000" stop="20260207050000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260207050000 +0000" stop="20260207073000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260207073000 +0000" stop="20260207093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260206220000 +0000" stop="20260206231500 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
+<programme start="20260206231500 +0000" stop="20260206234500 +0000" channel="GTV.id@SD"><title lang="en">Bima-S</title></programme>
+<programme start="20260206234500 +0000" stop="20260207020000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260207020000 +0000" stop="20260207050000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260207050000 +0000" stop="20260207060000 +0000" channel="GTV.id@SD"><title lang="en">Naruto Shippuden</title></programme>
+<programme start="20260207060000 +0000" stop="20260207070000 +0000" channel="GTV.id@SD"><title lang="en">Zak Storm</title></programme>
+<programme start="20260207070000 +0000" stop="20260207080000 +0000" channel="GTV.id@SD"><title lang="en">Bleach</title></programme>
+<programme start="20260207080000 +0000" stop="20260207093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260207093000 +0000" stop="20260207110000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260207110000 +0000" stop="20260207123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
-<programme start="20260207123000 +0000" stop="20260207143000 +0000" channel="GTV.id@SD"><title lang="en">Extraordinary Rescue</title></programme>
+<programme start="20260207123000 +0000" stop="20260207143000 +0000" channel="GTV.id@SD"><title lang="en">River God Water Strange Story</title></programme>
 <programme start="20260207143000 +0000" stop="20260207153000 +0000" channel="GTV.id@SD"><title lang="en">Untold Story</title></programme>
 <programme start="20260207153000 +0000" stop="20260207163000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
 <programme start="20260207163000 +0000" stop="20260207180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
@@ -750,36 +750,35 @@
 <programme start="20260204180000 +0000" stop="20260204190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
 <programme start="20260204190000 +0000" stop="20260204200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
 <programme start="20260204200000 +0000" stop="20260204210000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sore</title></programme>
-<programme start="20260204210000 +0000" stop="20260204220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260204220000 +0000" stop="20260204223000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Ayat-Ayat Langit</title></programme>
-<programme start="20260204223000 +0000" stop="20260204233000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20260204233000 +0000" stop="20260205003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
+<programme start="20260204210000 +0000" stop="20260204220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
+<programme start="20260204220000 +0000" stop="20260204230000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
+<programme start="20260204230000 +0000" stop="20260205000000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
+<programme start="20260205000000 +0000" stop="20260205003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
 <programme start="20260205003000 +0000" stop="20260205020000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
 <programme start="20260205020000 +0000" stop="20260205030000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
-<programme start="20260205030000 +0000" stop="20260205033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Autotech</title></programme>
+<programme start="20260205030000 +0000" stop="20260205033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport Pagi</title></programme>
 <programme start="20260205033000 +0000" stop="20260205050000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Siang</title></programme>
-<programme start="20260205050000 +0000" stop="20260205053000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Food Diary</title></programme>
-<programme start="20260205053000 +0000" stop="20260205060000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">I Love Indonesia</title></programme>
-<programme start="20260205060000 +0000" stop="20260205073000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
-<programme start="20260205073000 +0000" stop="20260205083000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Siang</title></programme>
-<programme start="20260205083000 +0000" stop="20260205093000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
+<programme start="20260205050000 +0000" stop="20260205053000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Siang</title></programme>
+<programme start="20260205053000 +0000" stop="20260205063000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
+<programme start="20260205063000 +0000" stop="20260205070000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Seputar iNews Siang</title></programme>
+<programme start="20260205070000 +0000" stop="20260205083000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Siang</title></programme>
+<programme start="20260205083000 +0000" stop="20260205093000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260205093000 +0000" stop="20260205110000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
-<programme start="20260205110000 +0000" stop="20260205120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
-<programme start="20260205120000 +0000" stop="20260205130000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
-<programme start="20260205130000 +0000" stop="20260205133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260205110000 +0000" stop="20260205120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
+<programme start="20260205120000 +0000" stop="20260205133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260205133000 +0000" stop="20260205143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260205143000 +0000" stop="20260205153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Room Weekend</title></programme>
-<programme start="20260205153000 +0000" stop="20260205163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
-<programme start="20260205163000 +0000" stop="20260205170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260205143000 +0000" stop="20260205153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">One On One</title></programme>
+<programme start="20260205153000 +0000" stop="20260205163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
+<programme start="20260205163000 +0000" stop="20260205170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260205170000 +0000" stop="20260205173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
 <programme start="20260205173000 +0000" stop="20260205180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
 <programme start="20260205180000 +0000" stop="20260205190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
-<programme start="20260205190000 +0000" stop="20260205200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
+<programme start="20260205190000 +0000" stop="20260205200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260205200000 +0000" stop="20260205210000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sore</title></programme>
 <programme start="20260205210000 +0000" stop="20260205220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
 <programme start="20260205220000 +0000" stop="20260205230000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
 <programme start="20260205230000 +0000" stop="20260206000000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20260206000000 +0000" stop="20260206003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
+<programme start="20260206000000 +0000" stop="20260206003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
 <programme start="20260206003000 +0000" stop="20260206020000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
 <programme start="20260206020000 +0000" stop="20260206030000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260206030000 +0000" stop="20260206033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport Pagi</title></programme>
@@ -793,9 +792,9 @@
 <programme start="20260206110000 +0000" stop="20260206120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260206120000 +0000" stop="20260206133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260206133000 +0000" stop="20260206143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260206143000 +0000" stop="20260206153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">One On One</title></programme>
-<programme start="20260206153000 +0000" stop="20260206163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
-<programme start="20260206163000 +0000" stop="20260206170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
+<programme start="20260206143000 +0000" stop="20260206153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
+<programme start="20260206153000 +0000" stop="20260206163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
+<programme start="20260206163000 +0000" stop="20260206170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
 <programme start="20260206170000 +0000" stop="20260206173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
 <programme start="20260206173000 +0000" stop="20260206180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
 <programme start="20260206180000 +0000" stop="20260206190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
@@ -817,8 +816,7 @@
 <programme start="20260207093000 +0000" stop="20260207110000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
 <programme start="20260207110000 +0000" stop="20260207120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260207120000 +0000" stop="20260207133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
-<programme start="20260207133000 +0000" stop="20260207143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260207143000 +0000" stop="20260207153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
+<programme start="20260207133000 +0000" stop="20260207153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Rakyat Bersuara</title></programme>
 <programme start="20260207153000 +0000" stop="20260207163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260207163000 +0000" stop="20260207170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
 <programme start="20260204180000 +0000" stop="20260204193000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
@@ -839,7 +837,7 @@
 <programme start="20260205083000 +0000" stop="20260205090000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal (L)</title></programme>
 <programme start="20260205090000 +0000" stop="20260205110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang (L)</title></programme>
 <programme start="20260205110000 +0000" stop="20260205130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20260205130000 +0000" stop="20260205140000 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Business Forum (L)</title></programme>
+<programme start="20260205130000 +0000" stop="20260205140000 +0000" channel="tvOne.id@SD"><title lang="id">Dua Sisi (L)</title></programme>
 <programme start="20260205140000 +0000" stop="20260205150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
 <programme start="20260205150000 +0000" stop="20260205160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
 <programme start="20260205160000 +0000" stop="20260205163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam (L)</title></programme>
@@ -852,7 +850,7 @@
 <programme start="20260205213000 +0000" stop="20260205230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi (L)</title></programme>
 <programme start="20260205230000 +0000" stop="20260205233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi (L)</title></programme>
 <programme start="20260205233000 +0000" stop="20260206013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
-<programme start="20260206013000 +0000" stop="20260206020000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat (L)</title></programme>
+<programme start="20260206013000 +0000" stop="20260206020000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat</title></programme>
 <programme start="20260206020000 +0000" stop="20260206023000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi (L)</title></programme>
 <programme start="20260206023000 +0000" stop="20260206030000 +0000" channel="tvOne.id@SD"><title lang="id">Pagi-Pagi Seru (L)</title></programme>
 <programme start="20260206030000 +0000" stop="20260206040000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan (L)</title></programme>
@@ -862,7 +860,7 @@
 <programme start="20260206083000 +0000" stop="20260206090000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal (L)</title></programme>
 <programme start="20260206090000 +0000" stop="20260206110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang (L)</title></programme>
 <programme start="20260206110000 +0000" stop="20260206130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20260206130000 +0000" stop="20260206140000 +0000" channel="tvOne.id@SD"><title lang="id">Dua Sisi (L)</title></programme>
+<programme start="20260206130000 +0000" stop="20260206140000 +0000" channel="tvOne.id@SD"><title lang="id">One On One (L)</title></programme>
 <programme start="20260206140000 +0000" stop="20260206150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
 <programme start="20260206150000 +0000" stop="20260206160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
 <programme start="20260206160000 +0000" stop="20260206163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam (L)</title></programme>
@@ -874,19 +872,21 @@
 <programme start="20260206210000 +0000" stop="20260206213000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
 <programme start="20260206213000 +0000" stop="20260206230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi (L)</title></programme>
 <programme start="20260206230000 +0000" stop="20260206233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi (L)</title></programme>
-<programme start="20260206233000 +0000" stop="20260207013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
-<programme start="20260207013000 +0000" stop="20260207020000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat</title></programme>
-<programme start="20260207020000 +0000" stop="20260207023000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi (L)</title></programme>
-<programme start="20260207023000 +0000" stop="20260207030000 +0000" channel="tvOne.id@SD"><title lang="id">Pagi-Pagi Seru (L)</title></programme>
-<programme start="20260207030000 +0000" stop="20260207040000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan (L)</title></programme>
-<programme start="20260207040000 +0000" stop="20260207060000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang (L)</title></programme>
-<programme start="20260207060000 +0000" stop="20260207073000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Siang (L)</title></programme>
-<programme start="20260207073000 +0000" stop="20260207083000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih (L)</title></programme>
-<programme start="20260207083000 +0000" stop="20260207090000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal (L)</title></programme>
+<programme start="20260206233000 +0000" stop="20260207010000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
+<programme start="20260207010000 +0000" stop="20260207020000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi</title></programme>
+<programme start="20260207020000 +0000" stop="20260207023000 +0000" channel="tvOne.id@SD"><title lang="id">Pesona Nusantara</title></programme>
+<programme start="20260207023000 +0000" stop="20260207030000 +0000" channel="tvOne.id@SD"><title lang="id">Xpose</title></programme>
+<programme start="20260207030000 +0000" stop="20260207033000 +0000" channel="tvOne.id@SD"><title lang="id">Bukan Jalan-Jalan Biasa</title></programme>
+<programme start="20260207033000 +0000" stop="20260207040000 +0000" channel="tvOne.id@SD"><title lang="id">Jajago</title></programme>
+<programme start="20260207040000 +0000" stop="20260207053000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang (L)</title></programme>
+<programme start="20260207053000 +0000" stop="20260207070000 +0000" channel="tvOne.id@SD"><title lang="id">Damai Indonesiaku (L)</title></programme>
+<programme start="20260207070000 +0000" stop="20260207073000 +0000" channel="tvOne.id@SD"><title lang="id">Selalu Ada Hikmah</title></programme>
+<programme start="20260207073000 +0000" stop="20260207080000 +0000" channel="tvOne.id@SD"><title lang="id">Satria Biru</title></programme>
+<programme start="20260207080000 +0000" stop="20260207090000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia... (L)</title></programme>
 <programme start="20260207090000 +0000" stop="20260207110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang (L)</title></programme>
 <programme start="20260207110000 +0000" stop="20260207130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20260207130000 +0000" stop="20260207140000 +0000" channel="tvOne.id@SD"><title lang="id">One On One (L)</title></programme>
-<programme start="20260207140000 +0000" stop="20260207150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
+<programme start="20260207130000 +0000" stop="20260207140000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
+<programme start="20260207140000 +0000" stop="20260207150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
 <programme start="20260207150000 +0000" stop="20260207160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
 <programme start="20260207160000 +0000" stop="20260207163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam (L)</title></programme>
 <programme start="20260207163000 +0000" stop="20260207180000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
