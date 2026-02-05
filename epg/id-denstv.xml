@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260205">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
 <channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
 <channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
@@ -52,7 +53,6 @@
 <channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
 <channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260204170000 +0000" stop="20260204180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260204180000 +0000" stop="20260204183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260204183000 +0000" stop="20260204190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
