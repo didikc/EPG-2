@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260209">
 <channel id="JTV.id@SD"><display-name>jtv</display-name><icon src="https://i.imgur.com/mIDWIQk.png"/><url>https://cubmu.com</url></channel>
+<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://cubmu.com</url></channel>
 <channel id="4028c6858119921801816b5359d15e63"><display-name>Gaming TV</display-name><url>https://cubmu.com</url></channel>
 <channel id="4028c68598610fad0198875a95322b98"><display-name>GOLF PLUS ID</display-name><url>https://cubmu.com</url></channel>
 <channel id="4028c68598610fad01987a41012571f7"><display-name>LPS Financial Festival 2025</display-name><url>https://cubmu.com</url></channel>
@@ -28,6 +29,8 @@
 <channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://cubmu.com</url></channel>
 <channel id="Khazanah.id@SD"><display-name>Khazanah</display-name><icon src="https://i.imgur.com/FYMUkth.png"/><url>https://cubmu.com</url></channel>
 <channel id="EatNGo.id@SD"><display-name>Eat N Go</display-name><icon src="https://i.imgur.com/Xk2s1q3.png"/><url>https://cubmu.com</url></channel>
+<channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://cubmu.com</url></channel>
+<channel id="Fight.us@SD"><display-name>Fight TV Premium</display-name><icon src="https://i.imgur.com/bBv4p5K.png"/><url>https://cubmu.com</url></channel>
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://cubmu.com</url></channel>
 <channel id="DuniaLain.id@SD"><display-name>Dunia Lain</display-name><icon src="https://i.imgur.com/XgIuU7M.png"/><url>https://cubmu.com</url></channel>
 <channel id="SeruChannel.id@SD"><display-name>Channel Seru!</display-name><icon src="https://i.imgur.com/3EXNT5x.png"/><url>https://cubmu.com</url></channel>
@@ -49,6 +52,7 @@
 <channel id="4028c685840ff0490184616d5ba53e65"><display-name>Song TV</display-name><url>https://cubmu.com</url></channel>
 <channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://cubmu.com</url></channel>
 <channel id="NabawiTV.id@SD"><display-name>Nabawi TV</display-name><icon src="https://i.imgur.com/O8WONFB.png"/><url>https://cubmu.com</url></channel>
+<channel id="4028c6857fe540a1018060afdef540bc"><display-name>Sports TV</display-name><url>https://cubmu.com</url></channel>
 <channel id="QuranTV.sa@SD"><display-name>Al Quran Al Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://cubmu.com</url></channel>
 <channel id="PijarTV.id@SD"><display-name>Pijar TV</display-name><icon src="https://i.imgur.com/6rYTI41.png"/><url>https://cubmu.com</url></channel>
 <channel id="TVMu.id@SD"><display-name>tv Mu</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://cubmu.com</url></channel>
@@ -59,16 +63,12 @@
 <channel id="PSJTV.id@SD"><display-name>PSJ TV</display-name><icon src="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png"/><url>https://cubmu.com</url></channel>
 <channel id="4028c6857fe540a1018060b2307340bd"><display-name>Speed TV</display-name><url>https://cubmu.com</url></channel>
 <channel id="SuperyachtTV.mc@SD"><display-name>SuperYacht TV</display-name><icon src="https://i.imgur.com/cgjgjE1.png"/><url>https://cubmu.com</url></channel>
-<channel id="4028c6857fe540a1018060afdef540bc"><display-name>Sports TV</display-name><url>https://cubmu.com</url></channel>
 <channel id="4028c6857fe540a1018060ae0aa740bb"><display-name>Movies News</display-name><url>https://cubmu.com</url></channel>
 <channel id="FashionTVAsia.fr@SD"><display-name>Fashion TV</display-name><icon src="https://i.imgur.com/ucTh9tO.png"/><url>https://cubmu.com</url></channel>
 <channel id="4028c6857fe540a1018060aab83c40b9"><display-name>Travel TV</display-name><url>https://cubmu.com</url></channel>
 <channel id="4028c6857fe540a1018060a4379740b7"><display-name>Xtrem Sports</display-name><url>https://cubmu.com</url></channel>
-<channel id="Fight.us@SD"><display-name>Fight TV Premium</display-name><icon src="https://i.imgur.com/bBv4p5K.png"/><url>https://cubmu.com</url></channel>
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV 4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://cubmu.com</url></channel>
 <channel id="WION.in@SD"><display-name>Wion TV</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png"/><url>https://cubmu.com</url></channel>
-<channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://cubmu.com</url></channel>
-<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://cubmu.com</url></channel>
 <programme start="20260208172700 +0000" stop="20260208173000 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Xtrem Clips</title><desc lang="id">Sebuah distilasi dari rekaman paling gila yang pernah ada, kumpulan klip ini sangat beragam dan mendebarkan!</desc></programme>
 <programme start="20260208173000 +0000" stop="20260208180000 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Ride Along</title><desc lang="id">Ikuti dua peselancar layang-layang profesional, Linn Svendsen &amp; Jeremie Tronet keliling dunia dalam serial TV orisinil dan berkualitas tinggi ini.</desc></programme>
 <programme start="20260208180000 +0000" stop="20260208184500 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Silent Revolution</title><desc lang="id">Silent Revolution adalah tayangan dokumenter yang berfokus pada dunia BMX Downhill, Freestyle, dan 4Cross yang berkembang pesat.</desc></programme>
