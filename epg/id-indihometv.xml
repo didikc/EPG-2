@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260209">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -121,10 +122,9 @@
 <channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260208173000 +0000" stop="20260208183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Insiders - Episode 3</title></programme>
 <programme start="20260208183000 +0000" stop="20260208190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Offsiders - Episode 2</title></programme>
 <programme start="20260208190000 +0000" stop="20260208193000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Foreign Correspondent - Hot Property - Greenland</title></programme>
@@ -2013,6 +2013,32 @@
 <programme start="20260209145000 +0000" stop="20260209154500 +0000" channel="HistoryAsia.us@SD"><title lang="id">The Food That Built The World S4 - Eps. 33</title></programme>
 <programme start="20260209154500 +0000" stop="20260209164000 +0000" channel="HistoryAsia.us@SD"><title lang="id">Alone S12 - Eps. 10</title></programme>
 <programme start="20260209164000 +0000" stop="20260209173500 +0000" channel="HistoryAsia.us@SD"><title lang="id">The Pickers S18 - Eps. 322</title></programme>
+<programme start="20260208170000 +0000" stop="20260208180000 +0000" channel="HITS.sg@SD"><title lang="id">The Six Million Dollar Man S2 - Eps. 08</title></programme>
+<programme start="20260208180000 +0000" stop="20260208190000 +0000" channel="HITS.sg@SD"><title lang="id">The New Adventures Of Wonder Woman - Eps. 03</title></programme>
+<programme start="20260208190000 +0000" stop="20260208200000 +0000" channel="HITS.sg@SD"><title lang="id">Agatha Christie&apos;s Poirot S3 - Eps. 10</title></programme>
+<programme start="20260208200000 +0000" stop="20260208210000 +0000" channel="HITS.sg@SD"><title lang="id">Xena: Warrior Princess S1 - Eps. 08</title></programme>
+<programme start="20260208210000 +0000" stop="20260208220000 +0000" channel="HITS.sg@SD"><title lang="id">The Six Million Dollar Man S2 - Eps. 08</title></programme>
+<programme start="20260208220000 +0000" stop="20260208230000 +0000" channel="HITS.sg@SD"><title lang="id">The New Adventures Of Wonder Woman - Eps. 03</title></programme>
+<programme start="20260208230000 +0000" stop="20260208233000 +0000" channel="HITS.sg@SD"><title lang="id">I Dream Of Jeannie S4 - Eps. 17</title></programme>
+<programme start="20260208233000 +0000" stop="20260209003000 +0000" channel="HITS.sg@SD"><title lang="id">Mission: Impossible S1 - Eps. 02</title></programme>
+<programme start="20260209003000 +0000" stop="20260209013000 +0000" channel="HITS.sg@SD"><title lang="id">Mission: Impossible S1 - Eps. 03</title></programme>
+<programme start="20260209013000 +0000" stop="20260209023000 +0000" channel="HITS.sg@SD"><title lang="id">Xena: Warrior Princess S1 - Eps. 08</title></programme>
+<programme start="20260209023000 +0000" stop="20260209033000 +0000" channel="HITS.sg@SD"><title lang="id">The Six Million Dollar Man S2 - Eps. 08</title></programme>
+<programme start="20260209033000 +0000" stop="20260209040000 +0000" channel="HITS.sg@SD"><title lang="id">The Jeffersons S5 - Eps. 15</title></programme>
+<programme start="20260209040000 +0000" stop="20260209043000 +0000" channel="HITS.sg@SD"><title lang="id">Frasier S3 - Eps. 16</title></programme>
+<programme start="20260209043000 +0000" stop="20260209053000 +0000" channel="HITS.sg@SD"><title lang="id">The New Adventures Of Wonder Woman - Eps. 03</title></programme>
+<programme start="20260209053000 +0000" stop="20260209063000 +0000" channel="HITS.sg@SD"><title lang="id">Agatha Christie&apos;s Poirot S3 - Eps. 10</title></programme>
+<programme start="20260209063000 +0000" stop="20260209070000 +0000" channel="HITS.sg@SD"><title lang="id">I Dream Of Jeannie S4 - Eps. 18</title></programme>
+<programme start="20260209070000 +0000" stop="20260209080000 +0000" channel="HITS.sg@SD"><title lang="id">Mission: Impossible S1 - Eps. 04</title></programme>
+<programme start="20260209080000 +0000" stop="20260209090000 +0000" channel="HITS.sg@SD"><title lang="id">Mission: Impossible S1 - Eps. 05</title></programme>
+<programme start="20260209090000 +0000" stop="20260209100000 +0000" channel="HITS.sg@SD"><title lang="id">The New Adventures Of Wonder Woman - Eps. 03</title></programme>
+<programme start="20260209100000 +0000" stop="20260209103000 +0000" channel="HITS.sg@SD"><title lang="id">The Jeffersons S5 - Eps. 15</title></programme>
+<programme start="20260209103000 +0000" stop="20260209110000 +0000" channel="HITS.sg@SD"><title lang="id">Frasier S3 - Eps. 16</title></programme>
+<programme start="20260209110000 +0000" stop="20260209120000 +0000" channel="HITS.sg@SD"><title lang="id">Xena: Warrior Princess S1 - Eps. 09</title></programme>
+<programme start="20260209120000 +0000" stop="20260209140000 +0000" channel="HITS.sg@SD"><title lang="id">The Magic of Lemon Drops</title></programme>
+<programme start="20260209140000 +0000" stop="20260209150000 +0000" channel="HITS.sg@SD"><title lang="id">The Six Million Dollar Man S2 - Eps. 09</title></programme>
+<programme start="20260209150000 +0000" stop="20260209160000 +0000" channel="HITS.sg@SD"><title lang="id">Agatha Christie&apos;s Poirot S4 - Eps. 01</title></programme>
+<programme start="20260209160000 +0000" stop="20260209180000 +0000" channel="HITS.sg@SD"><title lang="id">The Magic of Lemon Drops</title></programme>
 <programme start="20260208183000 +0000" stop="20260208203000 +0000" channel="HITSMovies.sg@SD"><title lang="id">Pillow Talk</title></programme>
 <programme start="20260208203000 +0000" stop="20260208231500 +0000" channel="HITSMovies.sg@SD"><title lang="id">Apollo 13</title></programme>
 <programme start="20260208231500 +0000" stop="20260209014500 +0000" channel="HITSMovies.sg@SD"><title lang="id">Ocean&apos;s Thirteen</title></programme>
