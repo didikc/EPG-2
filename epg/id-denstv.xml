@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260210">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
-<channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
-<channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
-<channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
-<channel id="131"><display-name>Berita Satu</display-name><url>https://dens.tv</url></channel>
-<channel id="DanceTelevision.nl@SD"><display-name>Dance TV</display-name><icon src="https://i.postimg.cc/nLQHQCnV/dancetelevision.png"/><url>https://dens.tv</url></channel>
-<channel id="StingrayClassica.ca@SD"><display-name>Stingray Classica</display-name><icon src="https://i.imgur.com/nh1k5RC.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
+<channel id="TV5MondeStyle.fr@SD"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://dens.tv</url></channel>
+<channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
+<channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="127"><display-name>Crema TV</display-name><url>https://dens.tv</url></channel>
 <channel id="MagnaChannel.id@SD"><display-name>Magna Channel</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://dens.tv</url></channel>
 <channel id="TVRISport.id@SD"><display-name>TVRI Sport</display-name><icon src="https://i.postimg.cc/PrqBt2h1/tvrisport.png"/><url>https://dens.tv</url></channel>
@@ -43,16 +43,16 @@
 <channel id="TRTWorld.tr@SD"><display-name>TRT World</display-name><icon src="https://i.postimg.cc/pLBgJ42h/trtworld.png"/><url>https://dens.tv</url></channel>
 <channel id="ROCKEntertainment.sg@SD"><display-name>ROCK Entertainment HD</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://dens.tv</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>ANIPLUS HD</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://dens.tv</url></channel>
-<channel id="TV5MondeStyle.fr@SD"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://i.postimg.cc/02FwDqPn/aljazeera.png"/><url>https://dens.tv</url></channel>
-<channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
-<channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
-<channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
-<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.postimg.cc/Kvm5YTmb/cgtn.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="DanceTelevision.nl@SD"><display-name>Dance TV</display-name><icon src="https://i.postimg.cc/nLQHQCnV/dancetelevision.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
+<channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
+<channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
+<channel id="131"><display-name>Berita Satu</display-name><url>https://dens.tv</url></channel>
+<channel id="StingrayClassica.ca@SD"><display-name>Stingray Classica</display-name><icon src="https://i.imgur.com/nh1k5RC.png"/><url>https://dens.tv</url></channel>
+<channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <programme start="20260209170000 +0000" stop="20260209180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260209180000 +0000" stop="20260209183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260209183000 +0000" stop="20260209190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -301,6 +301,35 @@
 <programme start="20260210120100 +0000" stop="20260210151100 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
 <programme start="20260210151100 +0000" stop="20260210165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
 <programme start="20260210165950 +0000" stop="20260210165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260210170000 +0000" stop="20260210182000 +0000" channel="143"><title lang="id">Dark City Beneath the Beat</title><desc lang="id">The rhythmic &amp; raw documentary is a Baltimore club musical experience with local artists pioneering the sound</desc></programme>
+<programme start="20260210182000 +0000" stop="20260210200200 +0000" channel="143"><title lang="id">Souleance Live Band</title><desc lang="id">A high-energy performance, blending soulful grooves, funk, and electronic influences</desc></programme>
+<programme start="20260210200200 +0000" stop="20260210210900 +0000" channel="143"><title lang="id">The Last Poets</title><desc lang="id">Forty years after their debut in 1968, and after many disagreements, the Last Poets agreed to a reunion.</desc></programme>
+<programme start="20260210210900 +0000" stop="20260210230000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260210230000 +0000" stop="20260211000400 +0000" channel="143"><title lang="id">Keith Jarrett - Lugano Estival Jazz</title><desc lang="id">The KÃ¶ln Concert is undoubtedly the greatest expression of Keith Jarret immense talent.</desc></programme>
+<programme start="20260211000400 +0000" stop="20260211020200 +0000" channel="143"><title lang="id">FORQ - Live at Moods</title><desc lang="id">Jason Thomas (dr), Henry Hey (keys), Chris McQueen (guitar) &amp; Kevin Scott (bass) form a groovy quartet.</desc></programme>
+<programme start="20260211020200 +0000" stop="20260211025800 +0000" channel="143"><title lang="id">New Orleans Live - Bamboula 2015</title><desc lang="id">The lively Bamboula 2015 and Zachary Richard kick off this lineup, showcasing the city&apos;s rich diversity.</desc></programme>
+<programme start="20260211025800 +0000" stop="20260211040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title><desc lang="id">&quot;This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music&quot; - Quincy Jones</desc></programme>
+<programme start="20260211040000 +0000" stop="20260211064900 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260211064900 +0000" stop="20260211094300 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
+<programme start="20260211094300 +0000" stop="20260211123100 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title><desc lang="id">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!</desc></programme>
+<programme start="20260211123100 +0000" stop="20260211151700 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
+<programme start="20260211151700 +0000" stop="20260211165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260211165950 +0000" stop="20260211165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260211170000 +0000" stop="20260211175600 +0000" channel="143"><title lang="id">Gilad Hekselman Trio</title><desc lang="id">Gilad Hekselmanâ€™s trio displays artistry and synergy, creating a captivating jazz performance.</desc></programme>
+<programme start="20260211175600 +0000" stop="20260211184300 +0000" channel="143"><title lang="id">Nina Simone - Olympia - Part 1</title><desc lang="id">Nina was in ebullient shape, wowing the public with her contralto vocals and steady piano rhythmic support.</desc></programme>
+<programme start="20260211184300 +0000" stop="20260211194200 +0000" channel="143"><title lang="id">Theo Croker&apos;s Dream Manifest</title><desc lang="id">The Grammy-nominated trumpeter fuses jazz, hip-hop, and soul in a hypnotic concert.</desc></programme>
+<programme start="20260211194200 +0000" stop="20260211222900 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260211222900 +0000" stop="20260211230000 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
+<programme start="20260211230000 +0000" stop="20260211235600 +0000" channel="143"><title lang="id">Gilad Hekselman Trio</title><desc lang="id">Gilad Hekselmanâ€™s trio displays artistry and synergy, creating a captivating jazz performance.</desc></programme>
+<programme start="20260211235600 +0000" stop="20260212004300 +0000" channel="143"><title lang="id">Nina Simone - Olympia - Part 1</title><desc lang="id">Nina was in ebullient shape, wowing the public with her contralto vocals and steady piano rhythmic support.</desc></programme>
+<programme start="20260212004300 +0000" stop="20260212014200 +0000" channel="143"><title lang="id">Theo Croker&apos;s Dream Manifest</title><desc lang="id">The Grammy-nominated trumpeter fuses jazz, hip-hop, and soul in a hypnotic concert.</desc></programme>
+<programme start="20260212014200 +0000" stop="20260212040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title><desc lang="id">&quot;This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music&quot; - Quincy Jones</desc></programme>
+<programme start="20260212040000 +0000" stop="20260212064500 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260212064500 +0000" stop="20260212093200 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
+<programme start="20260212093200 +0000" stop="20260212121000 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title><desc lang="id">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!</desc></programme>
+<programme start="20260212121000 +0000" stop="20260212145900 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
+<programme start="20260212145900 +0000" stop="20260212165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260212165950 +0000" stop="20260212165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
 <programme start="20260209170000 +0000" stop="20260209173000 +0000" channel="144"><title lang="id">Headline News</title></programme>
 <programme start="20260209173000 +0000" stop="20260209180000 +0000" channel="144"><title lang="id">Documentary</title></programme>
 <programme start="20260209180000 +0000" stop="20260209183000 +0000" channel="144"><title lang="id">Headline News</title></programme>
@@ -1094,8 +1123,67 @@
 <programme start="20260210163000 +0000" stop="20260210165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 39</title></programme>
 <programme start="20260210165950 +0000" stop="20260210165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 39</title></programme>
 <programme start="20260210165959 +0000" stop="20260629175959 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 39</title></programme>
+<programme start="20260210170000 +0000" stop="20260210173000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 12</title></programme>
+<programme start="20260210173000 +0000" stop="20260210180000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps28</title></programme>
+<programme start="20260210180000 +0000" stop="20260210190000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 261</title></programme>
+<programme start="20260210190000 +0000" stop="20260210200000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Punakawan # Eps 47</title></programme>
+<programme start="20260210200000 +0000" stop="20260210210000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps17</title></programme>
+<programme start="20260210210000 +0000" stop="20260210230000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Srikandhi Larasati Kembar</title></programme>
+<programme start="20260210230000 +0000" stop="20260211000000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 299</title></programme>
+<programme start="20260211000000 +0000" stop="20260211010000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Guyon Gayeng # Eps 13</title></programme>
+<programme start="20260211010000 +0000" stop="20260211013000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 15</title></programme>
+<programme start="20260211013000 +0000" stop="20260211020000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 8</title></programme>
+<programme start="20260211020000 +0000" stop="20260211023000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 49</title></programme>
 <programme start="20260211023000 +0000" stop="20260206033000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Bayu Aji, Ki H yanto, Ki Srikncoro # Pandu Suwarga 3</title></programme>
+<programme start="20260211023000 +0000" stop="20260211033000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Warjito Kliwir # Petruk Dadiratu1</title></programme>
+<programme start="20260211033000 +0000" stop="20260211043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 292</title></programme>
+<programme start="20260211043000 +0000" stop="20260211050000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps2</title></programme>
+<programme start="20260211050000 +0000" stop="20260211053000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps25</title></programme>
+<programme start="20260211053000 +0000" stop="20260211060000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 9</title></programme>
+<programme start="20260211060000 +0000" stop="20260211080000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Pandhu Jumenengnata</title></programme>
+<programme start="20260211080000 +0000" stop="20260211083000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 28</title></programme>
+<programme start="20260211083000 +0000" stop="20260211090000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUmebyar Budoyo # GAGAH GEMURUH</title></programme>
+<programme start="20260211090000 +0000" stop="20260211100000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 306</title></programme>
+<programme start="20260211100000 +0000" stop="20260211103000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps13</title></programme>
+<programme start="20260211103000 +0000" stop="20260211110000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 52</title></programme>
+<programme start="20260211110000 +0000" stop="20260211113000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 26</title></programme>
+<programme start="20260211113000 +0000" stop="20260211120000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps24</title></programme>
+<programme start="20260211120000 +0000" stop="20260211130000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Gareng Kembar1</title></programme>
+<programme start="20260211130000 +0000" stop="20260211133000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 40</title></programme>
+<programme start="20260211133000 +0000" stop="20260211140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 5</title></programme>
+<programme start="20260211140000 +0000" stop="20260211150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 348</title></programme>
+<programme start="20260211150000 +0000" stop="20260211160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Cahyo Kuntadi # Bima Sekti1</title></programme>
+<programme start="20260211160000 +0000" stop="20260211165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps1</title></programme>
+<programme start="20260211165950 +0000" stop="20260211165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps1</title></programme>
+<programme start="20260211170000 +0000" stop="20260211200000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Cahyo Kuntadi # Bethari Sadyatwati 1-3</title></programme>
+<programme start="20260211200000 +0000" stop="20260211210000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps18</title></programme>
+<programme start="20260211210000 +0000" stop="20260211230000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Widharetna</title></programme>
+<programme start="20260211230000 +0000" stop="20260212000000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 300</title></programme>
+<programme start="20260212000000 +0000" stop="20260212010000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Guyon Gayeng # Eps 14</title></programme>
+<programme start="20260212010000 +0000" stop="20260212013000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 16</title></programme>
+<programme start="20260212013000 +0000" stop="20260212020000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 9</title></programme>
+<programme start="20260212020000 +0000" stop="20260212023000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 50</title></programme>
+<programme start="20260212023000 +0000" stop="20260212033000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Warjito Kliwir # Petruk Dadiratu2</title></programme>
 <programme start="20260212033000 +0000" stop="20260206043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 287</title></programme>
+<programme start="20260212033000 +0000" stop="20260212043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 293</title></programme>
+<programme start="20260212043000 +0000" stop="20260212050000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps3</title></programme>
+<programme start="20260212050000 +0000" stop="20260212053000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps26</title></programme>
+<programme start="20260212053000 +0000" stop="20260212060000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 10</title></programme>
+<programme start="20260212060000 +0000" stop="20260212080000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Semar Sewu</title></programme>
+<programme start="20260212080000 +0000" stop="20260212083000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 29</title></programme>
+<programme start="20260212083000 +0000" stop="20260212090000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUmebyar Budoyo # GAMELAN</title></programme>
+<programme start="20260212090000 +0000" stop="20260212100000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 307</title></programme>
+<programme start="20260212100000 +0000" stop="20260212103000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps14</title></programme>
+<programme start="20260212103000 +0000" stop="20260212110000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 53</title></programme>
+<programme start="20260212110000 +0000" stop="20260212113000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 27</title></programme>
+<programme start="20260212113000 +0000" stop="20260212120000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps25</title></programme>
+<programme start="20260212120000 +0000" stop="20260212130000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Gareng Kembar2</title></programme>
+<programme start="20260212130000 +0000" stop="20260212133000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 41</title></programme>
+<programme start="20260212133000 +0000" stop="20260212140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 6</title></programme>
+<programme start="20260212140000 +0000" stop="20260212150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 349</title></programme>
+<programme start="20260212150000 +0000" stop="20260212160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Cahyo Kuntadi # Bima Sekti2</title></programme>
+<programme start="20260212160000 +0000" stop="20260212165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps2</title></programme>
+<programme start="20260212165950 +0000" stop="20260212165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps2</title></programme>
 <programme start="20260209170000 +0000" stop="20260209180000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Hour, Ep 32</title><episode-num system="xmltv_ns">0.31.0/1</episode-num><episode-num system="onscreen">S01E32</episode-num></programme>
 <programme start="20260209180000 +0000" stop="20260209190000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight, Ep 315</title><episode-num system="xmltv_ns">0.314.0/1</episode-num><episode-num system="onscreen">S01E315</episode-num></programme>
 <programme start="20260209190000 +0000" stop="20260209200000 +0000" channel="CNA.sg@SD"><title lang="id">Insight, Ep 37</title><episode-num system="xmltv_ns">0.36.0/1</episode-num><episode-num system="onscreen">S01E37</episode-num></programme>
@@ -1587,18 +1675,16 @@
 <programme start="20260210130000 +0000" stop="20260210140000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 2</title></programme>
 <programme start="20260210140000 +0000" stop="20260210150000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour - All Performance</title></programme>
 <programme start="20260210150000 +0000" stop="20260210165959 +0000" channel="DensShowBiz.id@SD"><title lang="id">All Event Liputan</title></programme>
-<programme start="20260210230000 +0000" stop="20260211000000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
-<programme start="20260211000000 +0000" stop="20260211010000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Mora Show by Ruang Cinema</title></programme>
+<programme start="20260210230000 +0000" stop="20260211010000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
 <programme start="20260211010000 +0000" stop="20260211020000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour - All Performance</title></programme>
 <programme start="20260211020000 +0000" stop="20260211030000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 1</title></programme>
 <programme start="20260211030000 +0000" stop="20260211040000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcast Curiga</title></programme>
 <programme start="20260211040000 +0000" stop="20260211043000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Amnesia Romansa</title></programme>
 <programme start="20260211043000 +0000" stop="20260211050000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Kelam</title></programme>
 <programme start="20260211050000 +0000" stop="20260211060000 +0000" channel="DensShowBiz.id@SD"><title lang="id">100% Warga Konoha</title></programme>
-<programme start="20260211060000 +0000" stop="20260211080000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Live Streaming</title></programme>
+<programme start="20260211060000 +0000" stop="20260211080000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Ommo Show (Recorded)</title></programme>
 <programme start="20260211080000 +0000" stop="20260211090000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Mysteri Of Asia</title></programme>
-<programme start="20260211090000 +0000" stop="20260211100000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
-<programme start="20260211100000 +0000" stop="20260211110000 +0000" channel="DensShowBiz.id@SD"><title lang="id">All Event Liputan</title></programme>
+<programme start="20260211090000 +0000" stop="20260211110000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Peluit Akhir Podcast</title></programme>
 <programme start="20260211110000 +0000" stop="20260211123000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Office Hour - All Performance</title></programme>
 <programme start="20260211123000 +0000" stop="20260211133000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Podcastis Season 1</title></programme>
 <programme start="20260211133000 +0000" stop="20260211143000 +0000" channel="DensShowBiz.id@SD"><title lang="id">Mencekam! Live Penelusuran</title></programme>
