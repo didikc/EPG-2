@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260212">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
-<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
-<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
-<channel id="16"><display-name>TVRI Nasional</display-name><url>https://firstmedia.com</url></channel>
-<channel id="34"><display-name>Balai Kota Bandung</display-name><url>https://firstmedia.com</url></channel>
-<channel id="33"><display-name>Balai Kota Channel</display-name><url>https://firstmedia.com</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
-<channel id="KompasTV.id@SD"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://firstmedia.com</url></channel>
-<channel id="30"><display-name>KaraOKE Channel</display-name><url>https://firstmedia.com</url></channel>
-<channel id="EWTN.us@AsiaPacific"><display-name>Eternal Word Television Network (EWTN)</display-name><icon src="https://i.imgur.com/sua70RO.png"/><url>https://firstmedia.com</url></channel>
-<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://firstmedia.com</url></channel>
-<channel id="Moji.id@SD"><display-name>MOJI</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://firstmedia.com</url></channel>
-<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
-<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="25"><display-name>Liga Mahasiswa</display-name><url>https://firstmedia.com</url></channel>
-<channel id="24"><display-name>Sekolah Pelita Harapan Channel - SPH</display-name><url>https://firstmedia.com</url></channel>
-<channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="23"><display-name>Kairos</display-name><url>https://firstmedia.com</url></channel>
-<channel id="Reformed21.id@SD"><display-name>Reformed 21</display-name><icon src="https://i.postimg.cc/5tTBMx5Q/reformed21.png"/><url>https://firstmedia.com</url></channel>
-<channel id="TV9Nusantara.id@SD"><display-name>TV9</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png"/><url>https://firstmedia.com</url></channel>
-<channel id="JTV.id@SD"><display-name>Jawa Pos Media Televisi - JTV</display-name><icon src="https://i.imgur.com/mIDWIQk.png"/><url>https://firstmedia.com</url></channel>
-<channel id="SindoNewsTV.id@SD"><display-name>MNC News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/375px-SindoNewsTV_2023.png"/><url>https://firstmedia.com</url></channel>
-<channel id="RajawaliTV.id@SD"><display-name>Rajawali TV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
+<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="321"><display-name>Champions TV 1 HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="Eurosport.fr@AsiaHD"><display-name>Eurosport HD</display-name><icon src="https://i.imgur.com/s4jDnJh.png"/><url>https://firstmedia.com</url></channel>
+<channel id="WarnerTVAsia.us@SD"><display-name>Warner TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://firstmedia.com</url></channel>
+<channel id="CelestialMoviesIndonesia.id@HD"><display-name>Celestial Movies HD</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://firstmedia.com</url></channel>
+<channel id="CinemaxAsia.sg@HD"><display-name>Cinemax HD</display-name><icon src="https://i.imgur.com/c8crJfA.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HBOSignatureAsia.sg@HD"><display-name>HBO Signature HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HBOFamilyAsia.sg@HD"><display-name>HBO Family HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HBOHitsAsia.sg@HD"><display-name>HBO Hits HD</display-name><icon src="https://i.imgur.com/CTjmocc.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HBOAsia.sg@HD"><display-name>HBO HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="303"><display-name>First Lifestyle HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="302"><display-name>Jakarta Globe News Channel HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="301"><display-name>First Highlights HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="300"><display-name>First Atmos HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="CinemaxAsia.sg@SD"><display-name>Cinemax</display-name><icon src="https://i.imgur.com/c8crJfA.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HBOFamilyAsia.sg@SD"><display-name>HBO Family</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HBOHitsAsia.sg@SD"><display-name>HBO Hits</display-name><icon src="https://i.imgur.com/CTjmocc.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HBOSignatureAsia.sg@SD"><display-name>HBO Signature</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HBOAsia.sg@Vietnam"><display-name>HBO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="TV5MondeAsia.fr@SD"><display-name>TV5 Monde</display-name><icon src="https://i.imgur.com/FRsRXRR.png"/><url>https://firstmedia.com</url></channel>
 <channel id="RaiItalia.it@Asia"><display-name>Rai Italia</display-name><icon src="https://i.imgur.com/1nN4rEP.png"/><url>https://firstmedia.com</url></channel>
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://firstmedia.com</url></channel>
 <channel id="NHKWorldPremium.jp@SD"><display-name>NHK World Premium</display-name><icon src="https://i.imgur.com/4ESi2La.png"/><url>https://firstmedia.com</url></channel>
@@ -92,29 +91,30 @@
 <channel id="AlSunnahAlNabawiyahTV.sa@SD"><display-name>Sunnah TV</display-name><icon src="https://i.imgur.com/S6LcTJv.png"/><url>https://firstmedia.com</url></channel>
 <channel id="QuranTV.sa@SD"><display-name>Al Quran Al Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://firstmedia.com</url></channel>
 <channel id="GarudaTV.id@SD"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://firstmedia.com</url></channel>
-<channel id="300"><display-name>First Atmos HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="HBOFamilyAsia.sg@SD"><display-name>HBO Family</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HBOHitsAsia.sg@SD"><display-name>HBO Hits</display-name><icon src="https://i.imgur.com/CTjmocc.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HBOSignatureAsia.sg@SD"><display-name>HBO Signature</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HBOAsia.sg@Vietnam"><display-name>HBO</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
-<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="Eurosport.fr@AsiaHD"><display-name>Eurosport HD</display-name><icon src="https://i.imgur.com/s4jDnJh.png"/><url>https://firstmedia.com</url></channel>
-<channel id="WarnerTVAsia.us@SD"><display-name>Warner TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://firstmedia.com</url></channel>
-<channel id="CelestialMoviesIndonesia.id@HD"><display-name>Celestial Movies HD</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/><url>https://firstmedia.com</url></channel>
-<channel id="CinemaxAsia.sg@HD"><display-name>Cinemax HD</display-name><icon src="https://i.imgur.com/c8crJfA.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HBOFamilyAsia.sg@HD"><display-name>HBO Family HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HBOHitsAsia.sg@HD"><display-name>HBO Hits HD</display-name><icon src="https://i.imgur.com/CTjmocc.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HBOAsia.sg@HD"><display-name>HBO HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="303"><display-name>First Lifestyle HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="302"><display-name>Jakarta Globe News Channel HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="301"><display-name>First Highlights HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="CinemaxAsia.sg@SD"><display-name>Cinemax</display-name><icon src="https://i.imgur.com/c8crJfA.png"/><url>https://firstmedia.com</url></channel>
-<channel id="TV5MondeAsia.fr@SD"><display-name>TV5 Monde</display-name><icon src="https://i.imgur.com/FRsRXRR.png"/><url>https://firstmedia.com</url></channel>
-<channel id="321"><display-name>Champions TV 1 HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="HBOSignatureAsia.sg@HD"><display-name>HBO Signature HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png"/><url>https://firstmedia.com</url></channel>
+<channel id="TV9Nusantara.id@SD"><display-name>TV9</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png"/><url>https://firstmedia.com</url></channel>
+<channel id="SindoNewsTV.id@SD"><display-name>MNC News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SindoNewsTV_2023.png/375px-SindoNewsTV_2023.png"/><url>https://firstmedia.com</url></channel>
+<channel id="RajawaliTV.id@SD"><display-name>Rajawali TV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://firstmedia.com</url></channel>
+<channel id="34"><display-name>Balai Kota Bandung</display-name><url>https://firstmedia.com</url></channel>
+<channel id="33"><display-name>Balai Kota Channel</display-name><url>https://firstmedia.com</url></channel>
+<channel id="30"><display-name>KaraOKE Channel</display-name><url>https://firstmedia.com</url></channel>
+<channel id="EWTN.us@AsiaPacific"><display-name>Eternal Word Television Network (EWTN)</display-name><icon src="https://i.imgur.com/sua70RO.png"/><url>https://firstmedia.com</url></channel>
+<channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://firstmedia.com</url></channel>
+<channel id="Moji.id@SD"><display-name>MOJI</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://firstmedia.com</url></channel>
+<channel id="25"><display-name>Liga Mahasiswa</display-name><url>https://firstmedia.com</url></channel>
+<channel id="24"><display-name>Sekolah Pelita Harapan Channel - SPH</display-name><url>https://firstmedia.com</url></channel>
+<channel id="23"><display-name>Kairos</display-name><url>https://firstmedia.com</url></channel>
+<channel id="Reformed21.id@SD"><display-name>Reformed 21</display-name><icon src="https://i.postimg.cc/5tTBMx5Q/reformed21.png"/><url>https://firstmedia.com</url></channel>
+<channel id="JTV.id@SD"><display-name>Jawa Pos Media Televisi - JTV</display-name><icon src="https://i.imgur.com/mIDWIQk.png"/><url>https://firstmedia.com</url></channel>
+<channel id="16"><display-name>TVRI Nasional</display-name><url>https://firstmedia.com</url></channel>
+<channel id="KompasTV.id@SD"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://firstmedia.com</url></channel>
+<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://firstmedia.com</url></channel>
+<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
+<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
+<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
+<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
 <programme start="20260211170000 +0000" stop="20260211180000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260211180000 +0000" stop="20260211190000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260211190000 +0000" stop="20260211200000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
