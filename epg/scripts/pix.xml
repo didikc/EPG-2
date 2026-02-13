@@ -24,7 +24,6 @@
   <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyNews.uk" site_id="dvb://233a..5640">Sky News</channel>
   <channel site="dens.tv" site_id="81" lang="id" xmltv_id="DW.de@English">DW-TV</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec">Miramax Movie Channel</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="Film4.uk" site_id="64257#8385">Film4</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#645e7828e1979c00087b75b4">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/gb#6401d85a49839300087b116c">MovieSphere by Lionsgate</channel>
   <channel site="indihometv.com" site_id="horizonsport" lang="id" xmltv_id="HorizonSports.us@SD">Horizon Sports</channel>
@@ -33,5 +32,13 @@
   <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
   <channel site="i.mjh.nz" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b" lang="en" xmltv_id="FifthGear.us@UK">Fifth Gear</channel>
   <channel site="pluto.tv" site_id="65c69ee3d77d450008c80438" lang="en" xmltv_id="">Formula 1 Channel</channel>
+  <channel site="freeview.co.uk" site_id="64257#8385" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
+  <channel site="freeview.co.uk" site_id="64257#8442" lang="en" xmltv_id="More4.uk@SD">More 4</channel>
+  <channel site="freeview.co.uk" site_id="64257#8448" lang="en" xmltv_id="E4.uk@SD">E4</channel>
+  <channel site="freeview.co.uk" site_id="64257#8460" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
+  <channel site="freeview.co.uk" site_id="64257#8294" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
+  <channel site="freeview.co.uk" site_id="64257#8325" lang="en" xmltv_id="ITV2.uk@SD">ITV2</channel>
+  <channel site="freeview.co.uk" site_id="64257#8330" lang="en" xmltv_id="ITV4.uk@SD">ITV4</channel>
+  <channel site="freeview.co.uk" site_id="64257#8500" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
 </channels>
   
