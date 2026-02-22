@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260222">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
@@ -123,8 +123,8 @@
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260221170000 +0000" stop="20260221180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Australia In Colour - Episode 4</title></programme>
 <programme start="20260221180000 +0000" stop="20260221183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World This Week - Episode 5</title></programme>
 <programme start="20260221183000 +0000" stop="20260221190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">That Pacific Sports Show - Episode 3</title></programme>
@@ -462,7 +462,10 @@
 <programme start="20260222130000 +0000" stop="20260222133000 +0000" channel="ArirangTV.kr@SD"><title lang="id">With Science, We Live</title></programme>
 <programme start="20260222133000 +0000" stop="20260222140000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Diplomat&apos;s Archive: Hidden Stories</title></programme>
 <programme start="20260222140000 +0000" stop="20260222143000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection</title></programme>
-<programme start="20260222143000 +0000" stop="20260222170000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection</title></programme>
+<programme start="20260222143000 +0000" stop="20260222150000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection</title></programme>
+<programme start="20260222150000 +0000" stop="20260222153000 +0000" channel="ArirangTV.kr@SD"><title lang="id">K-Stage Pan</title></programme>
+<programme start="20260222153000 +0000" stop="20260222160000 +0000" channel="ArirangTV.kr@SD"><title lang="id">I&apos;m Live</title></programme>
+<programme start="20260222160000 +0000" stop="20260222170000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Arirang Prime</title></programme>
 <programme start="20260221172000 +0000" stop="20260221175000 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">Inspired With Anna Olson S1 - Eps.2</title></programme>
 <programme start="20260221175000 +0000" stop="20260221181500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">John Torode&apos;s Asia S1 - Eps.1</title></programme>
 <programme start="20260221181500 +0000" stop="20260221184500 +0000" channel="AsianFoodNetwork.sg@SD"><title lang="id">John Torode&apos;s Asia S1 - Eps.2</title></programme>
