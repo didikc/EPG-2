@@ -46,5 +46,8 @@
   <channel site="freeview.co.uk" site_id="64257#8384" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
   <channel site="freeview.co.uk" site_id="64257#8500" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
   <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
+  <channel site="indihometv.com" site_id="cdrama" lang="id" xmltv_id="CitraDrama.id@SD">Citra Drama</channel>
+  <channel site="indihometv.com" site_id="imc" lang="id" xmltv_id="IMC.id@SD">IMC</channel>
+  <channel site="indihometv.com" site_id="flik" lang="id" xmltv_id="Flik.id@SD">Flik</channel>
 </channels>
   
