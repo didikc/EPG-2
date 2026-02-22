@@ -49,5 +49,13 @@
   <channel site="indihometv.com" site_id="cdrama" lang="id" xmltv_id="CitraDrama.id@SD">Citra Drama</channel>
   <channel site="indihometv.com" site_id="imc" lang="id" xmltv_id="IMC.id@SD">IMC</channel>
   <channel site="indihometv.com" site_id="flik" lang="id" xmltv_id="Flik.id@SD">Flik</channel>
+  <channel site="singtel.com" site_id="6420" lang="en" xmltv_id="HBOAsia.sg@Vietnam">HBO HD</channel>
+  <channel site="singtel.com" site_id="6421" lang="en" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature (HD)</channel>
+  <channel site="singtel.com" site_id="6422" lang="en" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family (HD)</channel>
+  <channel site="singtel.com" site_id="6423" lang="en" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits (HD)</channel>
+  <channel site="singtel.com" site_id="6424" lang="en" xmltv_id="CinemaxAsia.sg@SD">CINEMAX (HD)</channel>
+  <channel site="indihometv.com" site_id="galaxy" lang="id" xmltv_id="Galaxy.id@SD">Galaxy</channel>
+  <channel site="indihometv.com" site_id="galaxypremium" lang="id" xmltv_id="GalaxyPremium.id@SD">Galaxy Premium</channel>
+  <channel site="indihometv.com" site_id="studiouniversal" lang="id" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
 </channels>
   
