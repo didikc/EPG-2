@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260224">
 <channel id="JTV.id@SD"><display-name>jtv</display-name><icon src="https://i.imgur.com/mIDWIQk.png"/><url>https://cubmu.com</url></channel>
-<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://cubmu.com</url></channel>
 <channel id="4028c6858119921801816b5359d15e63"><display-name>Gaming TV</display-name><url>https://cubmu.com</url></channel>
 <channel id="4028c68598610fad0198875a95322b98"><display-name>GOLF PLUS ID</display-name><url>https://cubmu.com</url></channel>
 <channel id="4028c68598610fad01987a41012571f7"><display-name>LPS Financial Festival 2025</display-name><url>https://cubmu.com</url></channel>
@@ -69,6 +68,7 @@
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV 4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://cubmu.com</url></channel>
 <channel id="WION.in@SD"><display-name>Wion TV</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png"/><url>https://cubmu.com</url></channel>
 <channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://cubmu.com</url></channel>
+<channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://cubmu.com</url></channel>
 <programme start="20260223170000 +0000" stop="20260223174500 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Silent Revolution</title><desc lang="id">Silent Revolution adalah tayangan dokumenter yang berfokus pada dunia BMX Downhill, Freestyle, dan 4Cross yang berkembang pesat.</desc></programme>
 <programme start="20260223174500 +0000" stop="20260223180000 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Xtrem Clips</title><desc lang="id">Sebuah distilasi dari rekaman paling gila yang pernah ada, kumpulan klip ini sangat beragam dan mendebarkan!</desc></programme>
 <programme start="20260223180000 +0000" stop="20260223182200 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Hawaiian Xtrem Sports</title><desc lang="id">Majalah gaya hidup olahraga ekstrem dari Hawaii dengan atlet top dunia. Setiap episode HXS menghadirkan aksi olahraga ekstrem terbaru, hanya untuk memberi Anda rasa HXS!</desc></programme>

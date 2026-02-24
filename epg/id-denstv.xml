@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260224">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="TV5MondeStyle.fr@SD"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
-<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"/><url>https://dens.tv</url></channel>
-<channel id="MagnaChannel.id@SD"><display-name>Magna Channel</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://dens.tv</url></channel>
-<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png"/><url>https://dens.tv</url></channel>
-<channel id="TVRISport.id@SD"><display-name>TVRI Sport</display-name><url>https://dens.tv</url></channel>
-<channel id="DensFoodChannel.id@SD"><display-name>DensFood Channel</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://dens.tv</url></channel>
-<channel id="JakTV.id@SD"><display-name>Jak tv</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
+<channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
+<channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
+<channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
 <channel id="131"><display-name>Berita Satu</display-name><url>https://dens.tv</url></channel>
 <channel id="DanceTelevision.nl@SD"><display-name>Dance TV</display-name><icon src="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg"/><url>https://dens.tv</url></channel>
 <channel id="StingrayClassica.ca@SD"><display-name>Stingray Classica</display-name><icon src="https://i.imgur.com/nh1k5RC.png"/><url>https://dens.tv</url></channel>
 <channel id="127"><display-name>Crema TV</display-name><url>https://dens.tv</url></channel>
+<channel id="MagnaChannel.id@SD"><display-name>Magna Channel</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://dens.tv</url></channel>
+<channel id="TVRISport.id@SD"><display-name>TVRI Sport</display-name><url>https://dens.tv</url></channel>
+<channel id="DensFoodChannel.id@SD"><display-name>DensFood Channel</display-name><url>https://dens.tv</url></channel>
+<channel id="JakTV.id@SD"><display-name>Jak tv</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://dens.tv</url></channel>
 <channel id="MyCinemaAsia.id@SD"><display-name>My Cinema Asia</display-name><icon src="https://i.imgur.com/4XVZLW0.png"/><url>https://dens.tv</url></channel>
-<channel id="tvNAsia.hk@SD"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="DensPlay.id@SD"><display-name>DensPlay</display-name><url>https://dens.tv</url></channel>
 <channel id="FREEDOM.ua@SD"><display-name>FREEDOM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
-<channel id="tvNMoviesAsia.hk@SD"><display-name>tvN Movies HD</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://dens.tv</url></channel>
 <channel id="DensShowBiz.id@SD"><display-name>DensShowBiz</display-name><url>https://dens.tv</url></channel>
 <channel id="KPlus.sg@SD"><display-name>K-PLUS HD</display-name><icon src="https://i.imgur.com/RbS0q71.png"/><url>https://dens.tv</url></channel>
 <channel id="Motorvision.de@SD"><display-name>Motorvision+</display-name><icon src="https://i.imgur.com/v4kj8pI.png"/><url>https://dens.tv</url></channel>
@@ -37,22 +32,27 @@
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="WION.in@SD"><display-name>WION</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png"/><url>https://dens.tv</url></channel>
 <channel id="TBN.ru@SD"><display-name>TBN</display-name><icon src="https://i.imgur.com/XAmPtWu.png"/><url>https://dens.tv</url></channel>
+<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"/><url>https://dens.tv</url></channel>
+<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png"/><url>https://dens.tv</url></channel>
+<channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://dens.tv</url></channel>
+<channel id="tvNAsia.hk@SD"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="tvNMoviesAsia.hk@SD"><display-name>tvN Movies HD</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://dens.tv</url></channel>
 <channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="ROCKAction.sg@SD"><display-name>ROCK Action</display-name><icon src="https://i.imgur.com/l6lmlqG.png"/><url>https://dens.tv</url></channel>
 <channel id="DensLifeStyle.id@SD"><display-name>DensLife&amp;Style</display-name><url>https://dens.tv</url></channel>
-<channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="TRTWorld.tr@SD"><display-name>TRT World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="ROCKEntertainment.sg@SD"><display-name>ROCK Entertainment HD</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://dens.tv</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>ANIPLUS HD</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://dens.tv</url></channel>
-<channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
-<channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="TV5MondeStyle.fr@SD"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
+<channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
+<channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
+<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260223170000 +0000" stop="20260223180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260223180000 +0000" stop="20260223183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260223183000 +0000" stop="20260223190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1181,8 +1181,67 @@
 <programme start="20260224150000 +0000" stop="20260224160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Cahyo Kuntadi # Wayang Dakwah1</title></programme>
 <programme start="20260224160000 +0000" stop="20260224165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps11</title></programme>
 <programme start="20260224165950 +0000" stop="20260224165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps11</title></programme>
+<programme start="20260224170000 +0000" stop="20260224173000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 18</title></programme>
+<programme start="20260224173000 +0000" stop="20260224180000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps9</title></programme>
+<programme start="20260224180000 +0000" stop="20260224190000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 266</title></programme>
+<programme start="20260224190000 +0000" stop="20260224193000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 10</title></programme>
+<programme start="20260224193000 +0000" stop="20260224200000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 20</title></programme>
+<programme start="20260224200000 +0000" stop="20260224210000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Punakawan # Eps 17</title></programme>
+<programme start="20260224210000 +0000" stop="20260224230000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Amarta Binangun</title></programme>
+<programme start="20260224230000 +0000" stop="20260225000000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 312</title></programme>
+<programme start="20260225000000 +0000" stop="20260225010000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Guyon Gayeng # Eps 26</title></programme>
+<programme start="20260225010000 +0000" stop="20260225013000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 29</title></programme>
+<programme start="20260225013000 +0000" stop="20260225020000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 5</title></programme>
+<programme start="20260225020000 +0000" stop="20260225023000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 3</title></programme>
+<programme start="20260225023000 +0000" stop="20260225033000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Bayu Aji # Parikesit Wisuda1</title></programme>
+<programme start="20260225033000 +0000" stop="20260225043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 306</title></programme>
+<programme start="20260225043000 +0000" stop="20260225050000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 1</title></programme>
+<programme start="20260225050000 +0000" stop="20260225053000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps27</title></programme>
+<programme start="20260225053000 +0000" stop="20260225060000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 23</title></programme>
+<programme start="20260225060000 +0000" stop="20260225080000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Satru</title></programme>
+<programme start="20260225080000 +0000" stop="20260225083000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps3</title></programme>
+<programme start="20260225083000 +0000" stop="20260225090000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 8</title></programme>
+<programme start="20260225090000 +0000" stop="20260225100000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 321</title></programme>
+<programme start="20260225100000 +0000" stop="20260225103000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps37</title></programme>
+<programme start="20260225103000 +0000" stop="20260225110000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 7</title></programme>
+<programme start="20260225110000 +0000" stop="20260225113000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUmebyar Budoyo # LARUNG SESAJI, NYADRAN</title></programme>
+<programme start="20260225113000 +0000" stop="20260225120000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 1</title></programme>
+<programme start="20260225120000 +0000" stop="20260225130000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Petruk Mantu2</title></programme>
 <programme start="20260225130000 +0000" stop="20260206140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps22</title></programme>
+<programme start="20260225130000 +0000" stop="20260225133000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 52</title></programme>
+<programme start="20260225133000 +0000" stop="20260225140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 19</title></programme>
+<programme start="20260225140000 +0000" stop="20260225150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 362</title></programme>
+<programme start="20260225150000 +0000" stop="20260225160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Cahyo Kuntadi # Wayang Dakwah2</title></programme>
+<programme start="20260225160000 +0000" stop="20260225165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps10</title></programme>
+<programme start="20260225165950 +0000" stop="20260225165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps10</title></programme>
+<programme start="20260225170000 +0000" stop="20260225210000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Cahyo Kuntadi # Sang Wiji Sejati 1-4</title></programme>
+<programme start="20260225210000 +0000" stop="20260225230000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Wahyu Garuda Manunggal</title></programme>
+<programme start="20260225230000 +0000" stop="20260226000000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 313</title></programme>
+<programme start="20260226000000 +0000" stop="20260226010000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Guyon Gayeng # Eps 27</title></programme>
+<programme start="20260226010000 +0000" stop="20260226013000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 30</title></programme>
+<programme start="20260226013000 +0000" stop="20260226020000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 6</title></programme>
+<programme start="20260226020000 +0000" stop="20260226023000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 4</title></programme>
+<programme start="20260226023000 +0000" stop="20260226033000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Bayu Aji # Parikesit Wisuda2</title></programme>
+<programme start="20260226033000 +0000" stop="20260226043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 307</title></programme>
+<programme start="20260226043000 +0000" stop="20260226050000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 2</title></programme>
+<programme start="20260226050000 +0000" stop="20260226053000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps28</title></programme>
+<programme start="20260226053000 +0000" stop="20260226060000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 24</title></programme>
+<programme start="20260226060000 +0000" stop="20260226080000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Kangsa Lair</title></programme>
+<programme start="20260226080000 +0000" stop="20260226083000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps4</title></programme>
+<programme start="20260226083000 +0000" stop="20260226090000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 9</title></programme>
+<programme start="20260226090000 +0000" stop="20260226100000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 322</title></programme>
+<programme start="20260226100000 +0000" stop="20260226103000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps38</title></programme>
+<programme start="20260226103000 +0000" stop="20260226110000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 8</title></programme>
+<programme start="20260226110000 +0000" stop="20260226113000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUmebyar Budoyo # BATIK KAYU &amp; TOPLES KEMIREN</title></programme>
+<programme start="20260226113000 +0000" stop="20260226120000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 2</title></programme>
+<programme start="20260226120000 +0000" stop="20260226130000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Dumadine Punokawan1</title></programme>
+<programme start="20260226130000 +0000" stop="20260226133000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 53</title></programme>
+<programme start="20260226133000 +0000" stop="20260226140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 20</title></programme>
 <programme start="20260226140000 +0000" stop="20260206150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Purbo Asmoro # Bimo Bungkus2</title></programme>
+<programme start="20260226140000 +0000" stop="20260226150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 363</title></programme>
+<programme start="20260226150000 +0000" stop="20260226160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Cahyo Kuntadi # Wayang Dakwah3</title></programme>
+<programme start="20260226160000 +0000" stop="20260226165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps11</title></programme>
+<programme start="20260226165950 +0000" stop="20260226165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps11</title></programme>
 <programme start="20260223170000 +0000" stop="20260223180000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Hour, Ep 34</title><episode-num system="xmltv_ns">0.33.0/1</episode-num><episode-num system="onscreen">S01E34</episode-num></programme>
 <programme start="20260223180000 +0000" stop="20260223190000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
 <programme start="20260223190000 +0000" stop="20260223200000 +0000" channel="CNA.sg@SD"><title lang="id">Insight, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
