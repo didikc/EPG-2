@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260228">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
 <channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
 <channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
 <channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
@@ -14,9 +12,6 @@
 <channel id="StingrayClassica.ca@SD"><display-name>Stingray Classica</display-name><icon src="https://i.imgur.com/nh1k5RC.png"/><url>https://dens.tv</url></channel>
 <channel id="127"><display-name>Crema TV</display-name><url>https://dens.tv</url></channel>
 <channel id="MagnaChannel.id@SD"><display-name>Magna Channel</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://dens.tv</url></channel>
-<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="TV5MondeStyle.fr@SD"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
-<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"/><url>https://dens.tv</url></channel>
 <channel id="TVRISport.id@SD"><display-name>TVRI Sport</display-name><url>https://dens.tv</url></channel>
 <channel id="DensFoodChannel.id@SD"><display-name>DensFood Channel</display-name><url>https://dens.tv</url></channel>
 <channel id="JakTV.id@SD"><display-name>Jak tv</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://dens.tv</url></channel>
@@ -37,6 +32,7 @@
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="WION.in@SD"><display-name>WION</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png"/><url>https://dens.tv</url></channel>
 <channel id="TBN.ru@SD"><display-name>TBN</display-name><icon src="https://i.imgur.com/XAmPtWu.png"/><url>https://dens.tv</url></channel>
+<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"/><url>https://dens.tv</url></channel>
 <channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png"/><url>https://dens.tv</url></channel>
 <channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://dens.tv</url></channel>
 <channel id="tvNAsia.hk@SD"><display-name>tvN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png"/><url>https://dens.tv</url></channel>
@@ -47,12 +43,16 @@
 <channel id="TRTWorld.tr@SD"><display-name>TRT World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="ROCKEntertainment.sg@SD"><display-name>ROCK Entertainment HD</display-name><icon src="https://i.imgur.com/PWzq0aU.png"/><url>https://dens.tv</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>ANIPLUS HD</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="TV5MondeStyle.fr@SD"><display-name>TV5MONDE Style HD</display-name><icon src="https://i.imgur.com/cwC7Q2V.png"/><url>https://dens.tv</url></channel>
 <channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
+<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227180000 +0000" stop="20260227183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1190,6 +1190,81 @@
 <programme start="20260228160300 +0000" stop="20260228163000 +0000" channel="CNA.sg@SD"><title lang="id">CNA Correspondent, Ep 37</title><episode-num system="xmltv_ns">0.36.0/1</episode-num><episode-num system="onscreen">S01E37</episode-num></programme>
 <programme start="20260228163000 +0000" stop="20260228165950 +0000" channel="CNA.sg@SD"><title lang="id">Salt Of The Earth, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
 <programme start="20260228165950 +0000" stop="20260228165959 +0000" channel="CNA.sg@SD"><title lang="id">Salt Of The Earth, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260228170000 +0000" stop="20260228173000 +0000" channel="CNA.sg@SD"><title lang="id">Money Mind, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20260228173000 +0000" stop="20260228180000 +0000" channel="CNA.sg@SD"><title lang="id">Talking Point, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20260228180000 +0000" stop="20260228183000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="CNA.sg@SD"><title lang="id">On The Red Dot, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20260228190000 +0000" stop="20260228200000 +0000" channel="CNA.sg@SD"><title lang="id">Who&apos;s Driving Now?, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260228200000 +0000" stop="20260228203000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260228203000 +0000" stop="20260228210000 +0000" channel="CNA.sg@SD"><title lang="id">Salt Of The Earth, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260228210000 +0000" stop="20260228220000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260228220000 +0000" stop="20260228223000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260228223000 +0000" stop="20260228230000 +0000" channel="CNA.sg@SD"><title lang="id">CNA Correspondent, Ep 37</title><episode-num system="xmltv_ns">0.36.0/1</episode-num><episode-num system="onscreen">S01E37</episode-num></programme>
+<programme start="20260228230000 +0000" stop="20260228233000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260228233000 +0000" stop="20260301000000 +0000" channel="CNA.sg@SD"><title lang="id">On The Red Dot, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20260301000000 +0000" stop="20260301003000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260301003000 +0000" stop="20260301010000 +0000" channel="CNA.sg@SD"><title lang="id">Salt Of The Earth, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260301010000 +0000" stop="20260301013000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260301013000 +0000" stop="20260301020000 +0000" channel="CNA.sg@SD"><title lang="id">Talking Point, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20260301020000 +0000" stop="20260301020200 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260301020200 +0000" stop="20260301030000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260301030000 +0000" stop="20260301033000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260301033000 +0000" stop="20260301040000 +0000" channel="CNA.sg@SD"><title lang="id">Money Mind, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20260301040000 +0000" stop="20260301043000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260301043000 +0000" stop="20260301050000 +0000" channel="CNA.sg@SD"><title lang="id">CNA Correspondent, Ep 37</title><episode-num system="xmltv_ns">0.36.0/1</episode-num><episode-num system="onscreen">S01E37</episode-num></programme>
+<programme start="20260301050000 +0000" stop="20260301050200 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260301050200 +0000" stop="20260301060000 +0000" channel="CNA.sg@SD"><title lang="id">Japan Hour, Ep 9</title><episode-num system="xmltv_ns">0.8.0/1</episode-num><episode-num system="onscreen">S01E09</episode-num></programme>
+<programme start="20260301060000 +0000" stop="20260301063000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260301063000 +0000" stop="20260301070000 +0000" channel="CNA.sg@SD"><title lang="id">Salt Of The Earth, Ep 6</title><episode-num system="xmltv_ns">0.5.0/1</episode-num><episode-num system="onscreen">S01E06</episode-num></programme>
+<programme start="20260301070000 +0000" stop="20260301073000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260301073000 +0000" stop="20260301080000 +0000" channel="CNA.sg@SD"><title lang="id">On The Red Dot, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20260301080000 +0000" stop="20260301080200 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260301080200 +0000" stop="20260301090000 +0000" channel="CNA.sg@SD"><title lang="id">Besties, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260301090000 +0000" stop="20260301093000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260301093000 +0000" stop="20260301100000 +0000" channel="CNA.sg@SD"><title lang="id">CNA Correspondent, Ep 37</title><episode-num system="xmltv_ns">0.36.0/1</episode-num><episode-num system="onscreen">S01E37</episode-num></programme>
+<programme start="20260301100000 +0000" stop="20260301103000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260301103000 +0000" stop="20260301110000 +0000" channel="CNA.sg@SD"><title lang="id">Talking Point, Ep 14</title><episode-num system="xmltv_ns">0.13.0/1</episode-num><episode-num system="onscreen">S01E14</episode-num></programme>
+<programme start="20260301110000 +0000" stop="20260301110200 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260301110200 +0000" stop="20260301120000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Hour, Ep 35</title><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num></programme>
+<programme start="20260301120000 +0000" stop="20260301123000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260301123000 +0000" stop="20260301130000 +0000" channel="CNA.sg@SD"><title lang="id">Byte The Habit, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260301130000 +0000" stop="20260301130200 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260301130200 +0000" stop="20260301140000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260301140000 +0000" stop="20260301143000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260301143000 +0000" stop="20260301150000 +0000" channel="CNA.sg@SD"><title lang="id">Talking Point, Ep 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20260301150000 +0000" stop="20260301150300 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260301150300 +0000" stop="20260301160000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260301160000 +0000" stop="20260301160300 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260301160300 +0000" stop="20260301165950 +0000" channel="CNA.sg@SD"><title lang="id">Besties, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260301165950 +0000" stop="20260301165959 +0000" channel="CNA.sg@SD"><title lang="id">Besties, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260301170000 +0000" stop="20260301180000 +0000" channel="CNA.sg@SD"><title lang="id">Insight, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20260301180000 +0000" stop="20260301183000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260301183000 +0000" stop="20260301190000 +0000" channel="CNA.sg@SD"><title lang="id">Talking Point, Ep 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20260301190000 +0000" stop="20260301193000 +0000" channel="CNA.sg@SD"><title lang="id">Money Mind, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20260301193000 +0000" stop="20260301200000 +0000" channel="CNA.sg@SD"><title lang="id">On The Red Dot, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20260301200000 +0000" stop="20260301203000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260301203000 +0000" stop="20260301210000 +0000" channel="CNA.sg@SD"><title lang="id">Byte The Habit, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260301210000 +0000" stop="20260301220000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260301220000 +0000" stop="20260301223000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260301223000 +0000" stop="20260301230000 +0000" channel="CNA.sg@SD"><title lang="id">Talking Point, Ep 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
+<programme start="20260301230000 +0000" stop="20260302020000 +0000" channel="CNA.sg@SD"><title lang="id">Asia First</title></programme>
+<programme start="20260302020000 +0000" stop="20260302030000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260302030000 +0000" stop="20260302050000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260302060000 +0000" stop="20260302080000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="CNA.sg@SD"><title lang="id">Who&apos;s Driving Now?, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260302090000 +0000" stop="20260302090200 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260302090200 +0000" stop="20260302100000 +0000" channel="CNA.sg@SD"><title lang="id">Insight, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260302110000 +0000" stop="20260302113000 +0000" channel="CNA.sg@SD"><title lang="id">Money Mind, Ep 40</title><episode-num system="xmltv_ns">0.39.0/1</episode-num><episode-num system="onscreen">S01E40</episode-num></programme>
+<programme start="20260302113000 +0000" stop="20260302120000 +0000" channel="CNA.sg@SD"><title lang="id">On The Red Dot, Ep 39</title><episode-num system="xmltv_ns">0.38.0/1</episode-num><episode-num system="onscreen">S01E39</episode-num></programme>
+<programme start="20260302120000 +0000" stop="20260302130000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 3</title><episode-num system="xmltv_ns">0.2.0/1</episode-num><episode-num system="onscreen">S01E03</episode-num></programme>
+<programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260302150000 +0000" stop="20260302160000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260302160000 +0000" stop="20260302160300 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260302160300 +0000" stop="20260302165950 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260302165950 +0000" stop="20260302165959 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227180000 +0000" stop="20260227183000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2494,6 +2569,83 @@
 <programme start="20260228153000 +0000" stop="20260228160000 +0000" channel="JakTV.id@SD"><title lang="id">My Health My Choice</title></programme>
 <programme start="20260228160000 +0000" stop="20260228165950 +0000" channel="JakTV.id@SD"><title lang="id">Douluo Continent</title></programme>
 <programme start="20260228165950 +0000" stop="20260228165959 +0000" channel="JakTV.id@SD"><title lang="id">Douluo Continent</title></programme>
+<programme start="20260228170000 +0000" stop="20260228173000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260228173000 +0000" stop="20260228180000 +0000" channel="JakTV.id@SD"><title lang="id">Vlogger On The Road</title></programme>
+<programme start="20260228180000 +0000" stop="20260228183000 +0000" channel="JakTV.id@SD"><title lang="id">Oooppss</title></programme>
+<programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="JakTV.id@SD"><title lang="id">Mirror Story</title></programme>
+<programme start="20260228190000 +0000" stop="20260228193000 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri Alkisah</title></programme>
+<programme start="20260228193000 +0000" stop="20260228200000 +0000" channel="JakTV.id@SD"><title lang="id">Senyum Quran</title></programme>
+<programme start="20260228200000 +0000" stop="20260228203000 +0000" channel="JakTV.id@SD"><title lang="id">Kajian</title></programme>
+<programme start="20260228203000 +0000" stop="20260228213000 +0000" channel="JakTV.id@SD"><title lang="id">Sahur Time</title></programme>
+<programme start="20260228213000 +0000" stop="20260228220000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260228220000 +0000" stop="20260228223000 +0000" channel="JakTV.id@SD"><title lang="id">Take Me To Sarawak</title></programme>
+<programme start="20260228223000 +0000" stop="20260228230000 +0000" channel="JakTV.id@SD"><title lang="id">Chess Player</title></programme>
+<programme start="20260228230000 +0000" stop="20260228233000 +0000" channel="JakTV.id@SD"><title lang="id">Pangeran Naga</title></programme>
+<programme start="20260228233000 +0000" stop="20260301000000 +0000" channel="JakTV.id@SD"><title lang="id">Inovator</title></programme>
+<programme start="20260301000000 +0000" stop="20260301003000 +0000" channel="JakTV.id@SD"><title lang="id">Agritek</title></programme>
+<programme start="20260301003000 +0000" stop="20260301010000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260301010000 +0000" stop="20260301020000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260301020000 +0000" stop="20260301030000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260301030000 +0000" stop="20260301033000 +0000" channel="JakTV.id@SD"><title lang="id">REV</title></programme>
+<programme start="20260301033000 +0000" stop="20260301040000 +0000" channel="JakTV.id@SD"><title lang="id">Otomotif Tips</title></programme>
+<programme start="20260301040000 +0000" stop="20260301043000 +0000" channel="JakTV.id@SD"><title lang="id">IBL Best Shoot</title></programme>
+<programme start="20260301043000 +0000" stop="20260301050000 +0000" channel="JakTV.id@SD"><title lang="id">Ninjao</title></programme>
+<programme start="20260301050000 +0000" stop="20260301060000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260301060000 +0000" stop="20260301063000 +0000" channel="JakTV.id@SD"><title lang="id">Fabyan Ingin Tahu</title></programme>
+<programme start="20260301063000 +0000" stop="20260301070000 +0000" channel="JakTV.id@SD"><title lang="id">Pintar Ngaji</title></programme>
+<programme start="20260301070000 +0000" stop="20260301080000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260301080000 +0000" stop="20260301090000 +0000" channel="JakTV.id@SD"><title lang="id">Berkah Shop</title></programme>
+<programme start="20260301090000 +0000" stop="20260301100000 +0000" channel="JakTV.id@SD"><title lang="id">Three Queens</title></programme>
+<programme start="20260301100000 +0000" stop="20260301103000 +0000" channel="JakTV.id@SD"><title lang="id">Cooking Time</title></programme>
+<programme start="20260301103000 +0000" stop="20260301110000 +0000" channel="JakTV.id@SD"><title lang="id">Kubah Borneo</title></programme>
+<programme start="20260301110000 +0000" stop="20260301113000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260301113000 +0000" stop="20260301120000 +0000" channel="JakTV.id@SD"><title lang="id">The Cloth Story</title></programme>
+<programme start="20260301120000 +0000" stop="20260301123000 +0000" channel="JakTV.id@SD"><title lang="id">Headgear Hunting</title></programme>
+<programme start="20260301123000 +0000" stop="20260301130000 +0000" channel="JakTV.id@SD"><title lang="id">Vlogger On The Road</title></programme>
+<programme start="20260301130000 +0000" stop="20260301140000 +0000" channel="JakTV.id@SD"><title lang="id">Kata Dokter</title></programme>
+<programme start="20260301140000 +0000" stop="20260301150000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260301150000 +0000" stop="20260301153000 +0000" channel="JakTV.id@SD"><title lang="id">In Good Shape</title></programme>
+<programme start="20260301153000 +0000" stop="20260301160000 +0000" channel="JakTV.id@SD"><title lang="id">My Health My Choice</title></programme>
+<programme start="20260301160000 +0000" stop="20260301165950 +0000" channel="JakTV.id@SD"><title lang="id">Douluo Continent</title></programme>
+<programme start="20260301170000 +0000" stop="20260301173000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260301173000 +0000" stop="20260301180000 +0000" channel="JakTV.id@SD"><title lang="id">Vlogger On The Road</title></programme>
+<programme start="20260301180000 +0000" stop="20260301183000 +0000" channel="JakTV.id@SD"><title lang="id">Oooppss</title></programme>
+<programme start="20260301183000 +0000" stop="20260301190000 +0000" channel="JakTV.id@SD"><title lang="id">Mirror Story</title></programme>
+<programme start="20260301190000 +0000" stop="20260301193000 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri Alkisah</title></programme>
+<programme start="20260301193000 +0000" stop="20260301200000 +0000" channel="JakTV.id@SD"><title lang="id">Senyum Quran</title></programme>
+<programme start="20260301200000 +0000" stop="20260301203000 +0000" channel="JakTV.id@SD"><title lang="id">Kubah Borneo</title></programme>
+<programme start="20260301203000 +0000" stop="20260301213000 +0000" channel="JakTV.id@SD"><title lang="id">Sahur Time</title></programme>
+<programme start="20260301213000 +0000" stop="20260301220000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260301220000 +0000" stop="20260301223000 +0000" channel="JakTV.id@SD"><title lang="id">Take Me To Sarawak</title></programme>
+<programme start="20260301223000 +0000" stop="20260301230000 +0000" channel="JakTV.id@SD"><title lang="id">Chess Player</title></programme>
+<programme start="20260301230000 +0000" stop="20260301233000 +0000" channel="JakTV.id@SD"><title lang="id">Pangeran Naga</title></programme>
+<programme start="20260301233000 +0000" stop="20260302000000 +0000" channel="JakTV.id@SD"><title lang="id">Inovator</title></programme>
+<programme start="20260302000000 +0000" stop="20260302003000 +0000" channel="JakTV.id@SD"><title lang="id">Agritek</title></programme>
+<programme start="20260302003000 +0000" stop="20260302010000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260302010000 +0000" stop="20260302020000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260302020000 +0000" stop="20260302030000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260302030000 +0000" stop="20260302033000 +0000" channel="JakTV.id@SD"><title lang="id">Everyday Chinese</title></programme>
+<programme start="20260302033000 +0000" stop="20260302040000 +0000" channel="JakTV.id@SD"><title lang="id">Animal Action</title></programme>
+<programme start="20260302040000 +0000" stop="20260302043000 +0000" channel="JakTV.id@SD"><title lang="id">Above And Beyond</title></programme>
+<programme start="20260302043000 +0000" stop="20260302050000 +0000" channel="JakTV.id@SD"><title lang="id">Ninjao</title></programme>
+<programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260302060000 +0000" stop="20260302063000 +0000" channel="JakTV.id@SD"><title lang="id">Kiddies World</title></programme>
+<programme start="20260302063000 +0000" stop="20260302070000 +0000" channel="JakTV.id@SD"><title lang="id">Pintar Ngaji</title></programme>
+<programme start="20260302070000 +0000" stop="20260302080000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="JakTV.id@SD"><title lang="id">Berkah Shop</title></programme>
+<programme start="20260302090000 +0000" stop="20260302100000 +0000" channel="JakTV.id@SD"><title lang="id">Three Queens</title></programme>
+<programme start="20260302100000 +0000" stop="20260302103000 +0000" channel="JakTV.id@SD"><title lang="id">Cooking Time</title></programme>
+<programme start="20260302103000 +0000" stop="20260302110000 +0000" channel="JakTV.id@SD"><title lang="id">Kubah Borneo</title></programme>
+<programme start="20260302110000 +0000" stop="20260302113000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260302113000 +0000" stop="20260302120000 +0000" channel="JakTV.id@SD"><title lang="id">The Cloth Story</title></programme>
+<programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="JakTV.id@SD"><title lang="id">Headgear Hunting</title></programme>
+<programme start="20260302123000 +0000" stop="20260302130000 +0000" channel="JakTV.id@SD"><title lang="id">Dunia Kita</title></programme>
+<programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="JakTV.id@SD"><title lang="id">Kata Dokter</title></programme>
+<programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260302150000 +0000" stop="20260302153000 +0000" channel="JakTV.id@SD"><title lang="id">Euromaxx</title></programme>
+<programme start="20260302153000 +0000" stop="20260302160000 +0000" channel="JakTV.id@SD"><title lang="id">My Health My Choice</title></programme>
+<programme start="20260302160000 +0000" stop="20260302165950 +0000" channel="JakTV.id@SD"><title lang="id">Douluo Continent</title></programme>
+<programme start="20260302165950 +0000" stop="20260302165959 +0000" channel="JakTV.id@SD"><title lang="id">Douluo Continent</title></programme>
 <programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227180000 +0000" stop="20260227183000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -3387,6 +3539,36 @@
 <programme start="20260228124000 +0000" stop="20260228133300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Israel Philharmonic Orchestra: Coming Home</title><desc lang="id">On December 24, 2011, one of the worldâ€™s most renowned classical orchestras, the Israel Philharmonic Orchestra, celebrated the 75th anniversary of its founding. The film portrays the orchestra and its eventful history against the backdrop of Israel and the holocaust. Interwoven with individual biographies and archival footage, the Israel Philharmonic Orchestraâ€™s 75 years of history are brought back to life in concerts featuring Arturo Toscanini, Arthur Rubinstein, Leonard Bernstein, Isaac Stern, Zubin Mehta, Daniel Barenboim and Itzhak Perlman. We also get the opportunity to watch the Israel Philharmonic in rehearsals, concerts and on tour</desc></programme>
 <programme start="20260228133300 +0000" stop="20260228140000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Haydn - Symphony No. 45 &apos;Farewell&apos;</title><desc lang="id">Under the direction of Conrad van Alphen, the Sinfonia Rotterdam Orchestra performs Haydn&apos;s Symphony No. 45 at the Nieuwe Kerk (New Church) in The Hague. This piece is nicknamed &quot;Farewell&quot; because of a funny anecdote. Haydn and his musicians stayed every year from May to October at the magnificent EsterhÃ¡azy Palace, at the request of Prince Nicholas. In early November 1772, the prince announced his intention to remain at the palace for two more months. The musicians then told Kapellmeister Haydn their disagreement with this forced extension of their stay. The solution proposed by Haydn was to compose a piece delivering a clear message: at the end of the last movement of the Symphony, the musicians were called to blow the candles on their lectern and leave the room one after the other. Prince Nicholas understood the message; the next day a car was waiting for the musicians to take them home.</desc></programme>
 <programme start="20260228140000 +0000" stop="20260228160300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Lisztâ€™s Concerto No. 1 &amp; Mahlerâ€™s Symphony No. 5</title><desc lang="id">American â€˜Conductor Laureateâ€™ Michael Tilson Thomas leads the London Symphony Orchestra in a program of romantic masterworks. The concert opens with Franz Lisztâ€™s Piano Concerto No. 1, featuring the brilliant Czech pianist LukÃ¡Å¡ VondrÃ¡Äek as soloist. The evening concludes with the emotional journey of Gustav Mahlerâ€™s Symphony No. 5. This performance was recorded at the Barbican Hall in London, UK, on May 15, 2022.</desc></programme>
+<programme start="20260228170000 +0000" stop="20260228172900 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228172900 +0000" stop="20260228182400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228182400 +0000" stop="20260228184500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228184500 +0000" stop="20260228192600 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228192600 +0000" stop="20260228201500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228201500 +0000" stop="20260228205200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228205200 +0000" stop="20260228210300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228210300 +0000" stop="20260228230400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228230400 +0000" stop="20260228233200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260228233200 +0000" stop="20260301000000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301000000 +0000" stop="20260301024500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301024500 +0000" stop="20260301041600 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301041600 +0000" stop="20260301044700 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301044700 +0000" stop="20260301051100 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301051100 +0000" stop="20260301053500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301053500 +0000" stop="20260301060000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301060000 +0000" stop="20260301073500 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301073500 +0000" stop="20260301075700 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301075700 +0000" stop="20260301085600 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301085600 +0000" stop="20260301092400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301092400 +0000" stop="20260301094700 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301094700 +0000" stop="20260301100300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301100300 +0000" stop="20260301111000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301111000 +0000" stop="20260301122400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301122400 +0000" stop="20260301124000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301124000 +0000" stop="20260301133300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301133300 +0000" stop="20260301140000 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301140000 +0000" stop="20260301160300 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301160300 +0000" stop="20260301165950 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260301165950 +0000" stop="20260301165959 +0000" channel="StingrayClassica.ca@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227170000 +0000" stop="20260227180000 +0000" channel="TBN.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227180000 +0000" stop="20260227183000 +0000" channel="TBN.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260227183000 +0000" stop="20260227190000 +0000" channel="TBN.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
