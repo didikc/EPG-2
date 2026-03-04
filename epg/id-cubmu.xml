@@ -15,7 +15,7 @@
 <channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://cubmu.com</url></channel>
 <channel id="MetroTV.id@SD"><display-name>MetroTV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://cubmu.com</url></channel>
 <channel id="nsert.id@SD"><display-name>!nsert</display-name><icon src="https://i.postimg.cc/dVVthRLJ/image.png"/><url>https://cubmu.com</url></channel>
-<channel id="RT.ru@SD"><display-name>Russia Today</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png"/><url>https://cubmu.com</url></channel>
+<channel id="RT.ru@SD"><display-name>Russia Today</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://cubmu.com</url></channel>
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://cubmu.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://cubmu.com</url></channel>
 <channel id="BioskopIndonesia.id@SD"><display-name>Bioskop Indonesia</display-name><icon src="https://i.imgur.com/8gdyddg.png"/><url>https://cubmu.com</url></channel>
@@ -33,7 +33,7 @@
 <channel id="SeruChannel.id@SD"><display-name>Channel Seru!</display-name><icon src="https://i.imgur.com/3EXNT5x.png"/><url>https://cubmu.com</url></channel>
 <channel id="DuniaAnak.id@SD"><display-name>Dunia Anak</display-name><icon src="https://i.imgur.com/pI76ufZ.png"/><url>https://cubmu.com</url></channel>
 <channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/><url>https://cubmu.com</url></channel>
-<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png"/><url>https://cubmu.com</url></channel>
+<channel id="France24.fr@English"><display-name>France 24</display-name><icon src="https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540"/><url>https://cubmu.com</url></channel>
 <channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://cubmu.com</url></channel>
 <channel id="CNA.sg@SD"><display-name>CNA</display-name><icon src="https://i.imgur.com/awIDugE.png"/><url>https://cubmu.com</url></channel>
 <channel id="4028c6859645ee4801965cf074994bf2"><display-name>Garuda TV</display-name><url>https://cubmu.com</url></channel>
@@ -66,7 +66,7 @@
 <channel id="4028c6857fe540a1018060a4379740b7"><display-name>Xtrem Sports</display-name><url>https://cubmu.com</url></channel>
 <channel id="Fight.us@SD"><display-name>Fight TV Premium</display-name><icon src="https://i.imgur.com/bBv4p5K.png"/><url>https://cubmu.com</url></channel>
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV 4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/><url>https://cubmu.com</url></channel>
-<channel id="WION.in@SD"><display-name>Wion TV</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png"/><url>https://cubmu.com</url></channel>
+<channel id="WION.in@SD"><display-name>Wion TV</display-name><icon src="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png?lock=720x540"/><url>https://cubmu.com</url></channel>
 <channel id="EuronewsEnglish.fr@SD"><display-name>Euronews</display-name><icon src="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png"/><url>https://cubmu.com</url></channel>
 <channel id="MusikIndonesia.id@SD"><display-name>Musik Indonesia</display-name><icon src="https://i.postimg.cc/xdtkx9P0/musik-indo.png"/><url>https://cubmu.com</url></channel>
 <programme start="20260303170000 +0000" stop="20260303174500 +0000" channel="4028c6857fe540a1018060a4379740b7"><title lang="id">Silent Revolution</title><desc lang="id">Silent Revolution adalah tayangan dokumenter yang berfokus pada dunia BMX Downhill, Freestyle, dan 4Cross yang berkembang pesat.</desc></programme>
