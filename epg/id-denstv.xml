@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260304">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
 <channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
 <channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
@@ -53,6 +52,7 @@
 <channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260303170000 +0000" stop="20260303180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260303180000 +0000" stop="20260303183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260303183000 +0000" stop="20260303190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1073,35 +1073,95 @@
 <programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="CGTN.cn@SD"><title lang="id">Masters Of The Century, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
 <programme start="20260305160000 +0000" stop="20260305165950 +0000" channel="CGTN.cn@SD"><title lang="id">The Songhua River, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
 <programme start="20260305165950 +0000" stop="20260305165959 +0000" channel="CGTN.cn@SD"><title lang="id">The Songhua River, Ep 4</title><episode-num system="xmltv_ns">0.3.0/1</episode-num><episode-num system="onscreen">S01E04</episode-num></programme>
-<programme start="20260303170000 +0000" stop="20260303180000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260303173000 +0000" stop="20260206180000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps25</title></programme>
-<programme start="20260303180000 +0000" stop="20260303183000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260303183000 +0000" stop="20260303190000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260303190000 +0000" stop="20260303200000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260303200000 +0000" stop="20260303213000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260303213000 +0000" stop="20260303223000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260303223000 +0000" stop="20260303230000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260303230000 +0000" stop="20260303233000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260303233000 +0000" stop="20260304000000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304000000 +0000" stop="20260304010000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304010000 +0000" stop="20260304023000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304023000 +0000" stop="20260304030000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304030000 +0000" stop="20260304040000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304040000 +0000" stop="20260304043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304043000 +0000" stop="20260304070000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304070000 +0000" stop="20260304080000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304080000 +0000" stop="20260304090000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304090000 +0000" stop="20260304100000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304100000 +0000" stop="20260304110000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304110000 +0000" stop="20260304113000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304113000 +0000" stop="20260304120000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304120000 +0000" stop="20260304140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304140000 +0000" stop="20260304150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304150000 +0000" stop="20260304160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304160000 +0000" stop="20260304165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304165950 +0000" stop="20260304165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260304180000 +0000" stop="20260206190000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 258</title></programme>
-<programme start="20260305190000 +0000" stop="20260206200000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Punakawan # Eps 43</title></programme>
+<programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 21</title></programme>
+<programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps12</title></programme>
+<programme start="20260303180000 +0000" stop="20260303190000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 269</title></programme>
+<programme start="20260303190000 +0000" stop="20260303193000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 13</title></programme>
+<programme start="20260303193000 +0000" stop="20260303200000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 23</title></programme>
+<programme start="20260303200000 +0000" stop="20260303210000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Punakawan # Eps 21</title></programme>
+<programme start="20260303210000 +0000" stop="20260303230000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # BEGAWAN TEJAWANA</title></programme>
+<programme start="20260303230000 +0000" stop="20260304000000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 319</title></programme>
+<programme start="20260304000000 +0000" stop="20260304010000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Guyon Gayeng # Eps 33</title></programme>
+<programme start="20260304010000 +0000" stop="20260304013000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 6</title></programme>
+<programme start="20260304013000 +0000" stop="20260304020000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 12</title></programme>
+<programme start="20260304020000 +0000" stop="20260304023000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 10</title></programme>
+<programme start="20260304023000 +0000" stop="20260304033000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Sarmadi # Puntadewa Muksa1</title></programme>
+<programme start="20260304033000 +0000" stop="20260304043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 313</title></programme>
+<programme start="20260304043000 +0000" stop="20260304050000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 8</title></programme>
+<programme start="20260304050000 +0000" stop="20260304053000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps34</title></programme>
+<programme start="20260304053000 +0000" stop="20260304060000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 30</title></programme>
+<programme start="20260304060000 +0000" stop="20260304080000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # BEGAWAN SUMONG</title></programme>
+<programme start="20260304080000 +0000" stop="20260304083000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps10</title></programme>
+<programme start="20260304083000 +0000" stop="20260304090000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 15</title></programme>
+<programme start="20260304090000 +0000" stop="20260304100000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 328</title></programme>
+<programme start="20260304100000 +0000" stop="20260304103000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps44</title></programme>
+<programme start="20260304103000 +0000" stop="20260304110000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 14</title></programme>
+<programme start="20260304110000 +0000" stop="20260304113000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUmebyar Budoyo # WAYANG BEBER</title></programme>
+<programme start="20260304113000 +0000" stop="20260304120000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 8</title></programme>
+<programme start="20260304120000 +0000" stop="20260304130000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Bagong Gugat1</title></programme>
+<programme start="20260304130000 +0000" stop="20260304133000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 59</title></programme>
+<programme start="20260304133000 +0000" stop="20260304140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 26</title></programme>
+<programme start="20260304140000 +0000" stop="20260304150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 369</title></programme>
+<programme start="20260304150000 +0000" stop="20260304160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Anom Dwijo Kangko # Semar Mbangun Khayanga4</title></programme>
+<programme start="20260304160000 +0000" stop="20260304163000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps16</title></programme>
+<programme start="20260304163000 +0000" stop="20260304165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps16</title></programme>
+<programme start="20260304165950 +0000" stop="20260304165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps16</title></programme>
+<programme start="20260304170000 +0000" stop="20260304210000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Danang Bagus # Bimo Bumbu1-4</title></programme>
+<programme start="20260304210000 +0000" stop="20260304230000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # PRIYAMBADA MUSTAKAWENI</title></programme>
+<programme start="20260304230000 +0000" stop="20260305000000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 320</title></programme>
+<programme start="20260305000000 +0000" stop="20260305010000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Guyon Gayeng # Eps 34</title></programme>
+<programme start="20260305010000 +0000" stop="20260305013000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 7</title></programme>
+<programme start="20260305013000 +0000" stop="20260305020000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 13</title></programme>
+<programme start="20260305020000 +0000" stop="20260305023000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 11</title></programme>
+<programme start="20260305023000 +0000" stop="20260305033000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Sarmadi # Puntadewa Muksa2</title></programme>
+<programme start="20260305033000 +0000" stop="20260305043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 314</title></programme>
+<programme start="20260305043000 +0000" stop="20260305050000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 9</title></programme>
+<programme start="20260305050000 +0000" stop="20260305053000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps35</title></programme>
+<programme start="20260305053000 +0000" stop="20260305060000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 31</title></programme>
+<programme start="20260305060000 +0000" stop="20260305080000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # SUMANTRI - SUKASARANA</title></programme>
+<programme start="20260305080000 +0000" stop="20260305083000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps11</title></programme>
+<programme start="20260305083000 +0000" stop="20260305090000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 16</title></programme>
+<programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 329</title></programme>
+<programme start="20260305100000 +0000" stop="20260305103000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps45</title></programme>
+<programme start="20260305103000 +0000" stop="20260305110000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 15</title></programme>
+<programme start="20260305110000 +0000" stop="20260305113000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUmebyar Budoyo # Gelagat Gerak Keris</title></programme>
+<programme start="20260305113000 +0000" stop="20260305120000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 9</title></programme>
+<programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # Bagong Gugat2</title></programme>
+<programme start="20260305130000 +0000" stop="20260305133000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 60</title></programme>
+<programme start="20260305133000 +0000" stop="20260305140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 27</title></programme>
+<programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 370</title></programme>
+<programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Anom Dwijo Kangko # Semar Mbangun Khayanga5</title></programme>
+<programme start="20260305160000 +0000" stop="20260305163000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps17</title></programme>
+<programme start="20260305163000 +0000" stop="20260305165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps17</title></programme>
+<programme start="20260305165950 +0000" stop="20260305165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps17</title></programme>
+<programme start="20260305170000 +0000" stop="20260305210000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Cahyo Kuntadi # Pari Kesit Dadi Ratu2</title></programme>
+<programme start="20260305210000 +0000" stop="20260305230000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # ANGGADA BALIK</title></programme>
+<programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 321</title></programme>
+<programme start="20260306000000 +0000" stop="20260306010000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Guyon Gayeng # Eps 35</title></programme>
+<programme start="20260306010000 +0000" stop="20260306013000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wiwitane # Eps 8</title></programme>
+<programme start="20260306013000 +0000" stop="20260306020000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Mlaku - Mlaku # Eps 14</title></programme>
+<programme start="20260306020000 +0000" stop="20260306023000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 12</title></programme>
+<programme start="20260306023000 +0000" stop="20260306033000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki Sarmadi # Puntadewa Muksa3</title></programme>
+<programme start="20260306033000 +0000" stop="20260306043000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 315</title></programme>
+<programme start="20260306043000 +0000" stop="20260306050000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 10</title></programme>
+<programme start="20260306050000 +0000" stop="20260306053000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps36</title></programme>
+<programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 32</title></programme>
+<programme start="20260306060000 +0000" stop="20260306080000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Wayang Orang # NAKULA SADEWA KRIDA</title></programme>
+<programme start="20260306080000 +0000" stop="20260306083000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Pusaka Jawa # Eps12</title></programme>
+<programme start="20260306083000 +0000" stop="20260306090000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 17</title></programme>
+<programme start="20260306090000 +0000" stop="20260306100000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 330</title></programme>
+<programme start="20260306100000 +0000" stop="20260306103000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Nusantara # Eps46</title></programme>
+<programme start="20260306103000 +0000" stop="20260306110000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jowo Pedia # Eps 16</title></programme>
+<programme start="20260306110000 +0000" stop="20260306113000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUmebyar Budoyo # GERABAH PEKUNDEN PEMALANG_GERABAH BAYAT</title></programme>
+<programme start="20260306113000 +0000" stop="20260306120000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Jawadwipa # Eps 10</title></programme>
+<programme start="20260306120000 +0000" stop="20260306130000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ketoprak # Pedut Mataram1</title></programme>
+<programme start="20260306130000 +0000" stop="20260306133000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ragam Desa # Eps 1</title></programme>
+<programme start="20260306133000 +0000" stop="20260306140000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Babat Tanah Jowo # Eps 28</title></programme>
+<programme start="20260306140000 +0000" stop="20260306150000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Tembang Jowo # 371</title></programme>
+<programme start="20260306150000 +0000" stop="20260306160000 +0000" channel="ChannelJowo.id@SD"><title lang="id">Ki H. Sukron Suwondo # Sumilak Pedut Ngastino</title></programme>
+<programme start="20260306160000 +0000" stop="20260306163000 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps18</title></programme>
+<programme start="20260306163000 +0000" stop="20260306165950 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps18</title></programme>
+<programme start="20260306165950 +0000" stop="20260306165959 +0000" channel="ChannelJowo.id@SD"><title lang="id">GUYU BARENG # Eps18</title></programme>
 <programme start="20260303170000 +0000" stop="20260303180000 +0000" channel="CNA.sg@SD"><title lang="id">Pause With Purpose, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
 <programme start="20260303180000 +0000" stop="20260303190000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
 <programme start="20260303190000 +0000" stop="20260303200000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Hour, Ep 35</title><episode-num system="xmltv_ns">0.34.0/1</episode-num><episode-num system="onscreen">S01E35</episode-num></programme>
