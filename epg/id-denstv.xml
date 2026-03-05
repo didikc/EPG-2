@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260305">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
@@ -50,9 +50,9 @@
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
 <channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
 <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260304180000 +0000" stop="20260304183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260304183000 +0000" stop="20260304190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1969,6 +1969,162 @@
 <programme start="20260305160000 +0000" stop="20260305163000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
 <programme start="20260305163000 +0000" stop="20260305165950 +0000" channel="DW.de@English"><title lang="id">Focus On Europe: People</title></programme>
 <programme start="20260305165950 +0000" stop="20260305165959 +0000" channel="DW.de@English"><title lang="id">Focus On Europe: People</title></programme>
+<programme start="20260305170000 +0000" stop="20260305171500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260305171500 +0000" stop="20260305173000 +0000" channel="DW.de@English"><title lang="id">Arts Unveiled</title></programme>
+<programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="DW.de@English"><title lang="id">DW News Africa</title></programme>
+<programme start="20260305180000 +0000" stop="20260305183000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260305183000 +0000" stop="20260305190000 +0000" channel="DW.de@English"><title lang="id">Global Us: Pet Drug</title></programme>
+<programme start="20260305190000 +0000" stop="20260305190200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260305190200 +0000" stop="20260305191500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260305191500 +0000" stop="20260305193000 +0000" channel="DW.de@English"><title lang="id">Arts Unveiled</title></programme>
+<programme start="20260305193000 +0000" stop="20260305200000 +0000" channel="DW.de@English"><title lang="id">To The Point: Int&apos;l Debate</title></programme>
+<programme start="20260305200000 +0000" stop="20260305203000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260305203000 +0000" stop="20260305210000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260305210000 +0000" stop="20260305210200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260305210200 +0000" stop="20260305211500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260305211500 +0000" stop="20260305220000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260305220000 +0000" stop="20260305220200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260305220200 +0000" stop="20260305223000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260305223000 +0000" stop="20260305230000 +0000" channel="DW.de@English"><title lang="id">To The Point: Int&apos;l Debate</title></programme>
+<programme start="20260305230000 +0000" stop="20260305230200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260305230200 +0000" stop="20260305231500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260305231500 +0000" stop="20260305233000 +0000" channel="DW.de@English"><title lang="id">Arts Unveiled</title></programme>
+<programme start="20260305233000 +0000" stop="20260306000000 +0000" channel="DW.de@English"><title lang="id">DW News: Africa</title></programme>
+<programme start="20260306000000 +0000" stop="20260306000200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306000200 +0000" stop="20260306003000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260306003000 +0000" stop="20260306010000 +0000" channel="DW.de@English"><title lang="id">To The Point: Int&apos;l Debate</title></programme>
+<programme start="20260306010000 +0000" stop="20260306010200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306010200 +0000" stop="20260306011500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306011500 +0000" stop="20260306020000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260306020000 +0000" stop="20260306020200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306020200 +0000" stop="20260306023000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260306023000 +0000" stop="20260306030000 +0000" channel="DW.de@English"><title lang="id">Focus On Europe: People</title></programme>
+<programme start="20260306030000 +0000" stop="20260306030200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306030200 +0000" stop="20260306031500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306031500 +0000" stop="20260306033000 +0000" channel="DW.de@English"><title lang="id">Arts Unveiled</title></programme>
+<programme start="20260306033000 +0000" stop="20260306040000 +0000" channel="DW.de@English"><title lang="id">Made In Germany</title></programme>
+<programme start="20260306040000 +0000" stop="20260306040200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306040200 +0000" stop="20260306041500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306041500 +0000" stop="20260306050000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260306050000 +0000" stop="20260306050200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306050200 +0000" stop="20260306053000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="DW.de@English"><title lang="id">DW News Africa</title></programme>
+<programme start="20260306060000 +0000" stop="20260306060200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306060200 +0000" stop="20260306061500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306061500 +0000" stop="20260306063000 +0000" channel="DW.de@English"><title lang="id">Arts Unveiled</title></programme>
+<programme start="20260306063000 +0000" stop="20260306070000 +0000" channel="DW.de@English"><title lang="id">REV: DUI</title></programme>
+<programme start="20260306070000 +0000" stop="20260306070200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306070200 +0000" stop="20260306071500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306071500 +0000" stop="20260306080000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260306080000 +0000" stop="20260306080200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306080200 +0000" stop="20260306083000 +0000" channel="DW.de@English"><title lang="id">To The Point: Int&apos;l Debate</title></programme>
+<programme start="20260306083000 +0000" stop="20260306090000 +0000" channel="DW.de@English"><title lang="id">DW News Africa</title></programme>
+<programme start="20260306090000 +0000" stop="20260306090200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306090200 +0000" stop="20260306091500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306091500 +0000" stop="20260306100000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260306100000 +0000" stop="20260306100200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306100200 +0000" stop="20260306101500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306101500 +0000" stop="20260306110000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260306110000 +0000" stop="20260306110200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306110200 +0000" stop="20260306113000 +0000" channel="DW.de@English"><title lang="id">Arts Unveiled: Visionary</title></programme>
+<programme start="20260306113000 +0000" stop="20260306120000 +0000" channel="DW.de@English"><title lang="id">To The Point: Int&apos;l Debate</title></programme>
+<programme start="20260306120000 +0000" stop="20260306120200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306120200 +0000" stop="20260306121500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306121500 +0000" stop="20260306130000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260306130000 +0000" stop="20260306130200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306130200 +0000" stop="20260306131500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306131500 +0000" stop="20260306133000 +0000" channel="DW.de@English"><title lang="id">Travel: 5 Must-Sees</title></programme>
+<programme start="20260306133000 +0000" stop="20260306140000 +0000" channel="DW.de@English"><title lang="id">In Good Shape: mRNA Vaccine</title></programme>
+<programme start="20260306140000 +0000" stop="20260306140200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306140200 +0000" stop="20260306141500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306141500 +0000" stop="20260306150000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260306150000 +0000" stop="20260306153000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306153000 +0000" stop="20260306160000 +0000" channel="DW.de@English"><title lang="id">To The Point: Int&apos;l Debate</title></programme>
+<programme start="20260306160000 +0000" stop="20260306163000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306163000 +0000" stop="20260306165950 +0000" channel="DW.de@English"><title lang="id">Eco India</title></programme>
+<programme start="20260306165950 +0000" stop="20260306165959 +0000" channel="DW.de@English"><title lang="id">Eco India</title></programme>
+<programme start="20260306170000 +0000" stop="20260306171500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306171500 +0000" stop="20260306173000 +0000" channel="DW.de@English"><title lang="id">Travel: 5 Must-Sees</title></programme>
+<programme start="20260306173000 +0000" stop="20260306180000 +0000" channel="DW.de@English"><title lang="id">Afrimaxx: Pan-African Lifestyle</title></programme>
+<programme start="20260306180000 +0000" stop="20260306183000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306183000 +0000" stop="20260306190000 +0000" channel="DW.de@English"><title lang="id">DW News: Africa</title></programme>
+<programme start="20260306190000 +0000" stop="20260306190200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306190200 +0000" stop="20260306191500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306190200 +0000" stop="20260307165950 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306191500 +0000" stop="20260306193000 +0000" channel="DW.de@English"><title lang="id">Travel: 5 Must-Sees</title></programme>
+<programme start="20260306193000 +0000" stop="20260306200000 +0000" channel="DW.de@English"><title lang="id">Eco Africa</title></programme>
+<programme start="20260306200000 +0000" stop="20260306203000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306203000 +0000" stop="20260306210000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260306210000 +0000" stop="20260306210200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306210200 +0000" stop="20260306211500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306211500 +0000" stop="20260306220000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260306220000 +0000" stop="20260306220200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306220200 +0000" stop="20260306223000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260306223000 +0000" stop="20260306230000 +0000" channel="DW.de@English"><title lang="id">Eco India</title></programme>
+<programme start="20260306230000 +0000" stop="20260306230200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260306230200 +0000" stop="20260306231500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260306231500 +0000" stop="20260306233000 +0000" channel="DW.de@English"><title lang="id">Travel: 5 Must-Sees</title></programme>
+<programme start="20260306233000 +0000" stop="20260307000000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Podcasts</title></programme>
+<programme start="20260307000000 +0000" stop="20260307000200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307000200 +0000" stop="20260307003000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260307003000 +0000" stop="20260307010000 +0000" channel="DW.de@English"><title lang="id">REV</title></programme>
+<programme start="20260307010000 +0000" stop="20260307010200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307010200 +0000" stop="20260307011500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260307011500 +0000" stop="20260307013000 +0000" channel="DW.de@English"><title lang="id">The Dip</title></programme>
+<programme start="20260307013000 +0000" stop="20260307020000 +0000" channel="DW.de@English"><title lang="id">Tomorrow Today</title></programme>
+<programme start="20260307020000 +0000" stop="20260307020200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307020200 +0000" stop="20260307021500 +0000" channel="DW.de@English"><title lang="id">Shift: Living In Digital Age</title></programme>
+<programme start="20260307021500 +0000" stop="20260307030000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260307030000 +0000" stop="20260307030200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307030200 +0000" stop="20260307031500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260307031500 +0000" stop="20260307033000 +0000" channel="DW.de@English"><title lang="id">Travel: 5 Must-Sees</title></programme>
+<programme start="20260307033000 +0000" stop="20260307040000 +0000" channel="DW.de@English"><title lang="id">To The Point: Int&apos;l Debate</title></programme>
+<programme start="20260307040000 +0000" stop="20260307040200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307040200 +0000" stop="20260307041500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260307041500 +0000" stop="20260307043000 +0000" channel="DW.de@English"><title lang="id">Shift: Living In Digital Age</title></programme>
+<programme start="20260307043000 +0000" stop="20260307050000 +0000" channel="DW.de@English"><title lang="id">Euromaxx: Lifestyle Europe</title></programme>
+<programme start="20260307050000 +0000" stop="20260307050200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307050200 +0000" stop="20260307053000 +0000" channel="DW.de@English"><title lang="id">Arts Unveiled: The Art World</title></programme>
+<programme start="20260307053000 +0000" stop="20260307060000 +0000" channel="DW.de@English"><title lang="id">The 77 Percent</title></programme>
+<programme start="20260307060000 +0000" stop="20260307060200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307060200 +0000" stop="20260307061500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260307061500 +0000" stop="20260307063000 +0000" channel="DW.de@English"><title lang="id">Travel: 5 Must-Sees</title></programme>
+<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Podcasts</title></programme>
+<programme start="20260307070000 +0000" stop="20260307070200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307070200 +0000" stop="20260307071500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260307071500 +0000" stop="20260307073000 +0000" channel="DW.de@English"><title lang="id">Sports Life</title></programme>
+<programme start="20260307073000 +0000" stop="20260307080000 +0000" channel="DW.de@English"><title lang="id">Tomorrow Today</title></programme>
+<programme start="20260307080000 +0000" stop="20260307080200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307080200 +0000" stop="20260307081500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260307081500 +0000" stop="20260307090000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260307090000 +0000" stop="20260307090200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307090200 +0000" stop="20260307091500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260307091500 +0000" stop="20260307093000 +0000" channel="DW.de@English"><title lang="id">Reporter: On Location</title></programme>
+<programme start="20260307093000 +0000" stop="20260307100000 +0000" channel="DW.de@English"><title lang="id">In Good Shape: mRNA Vaccine</title></programme>
+<programme start="20260307100000 +0000" stop="20260307100200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307100200 +0000" stop="20260307101500 +0000" channel="DW.de@English"><title lang="id">HER: Women In Asia</title></programme>
+<programme start="20260307101500 +0000" stop="20260307103000 +0000" channel="DW.de@English"><title lang="id">Shift: Living In Digital Age</title></programme>
+<programme start="20260307103000 +0000" stop="20260307110000 +0000" channel="DW.de@English"><title lang="id">Best Of DW Podcasts</title></programme>
+<programme start="20260307110000 +0000" stop="20260307110200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307110200 +0000" stop="20260307120000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260307120000 +0000" stop="20260307120200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307120200 +0000" stop="20260307121500 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
+<programme start="20260307121500 +0000" stop="20260307123000 +0000" channel="DW.de@English"><title lang="id">Shift: Living In Digital Age</title></programme>
+<programme start="20260307123000 +0000" stop="20260307130000 +0000" channel="DW.de@English"><title lang="id">Euromaxx: Lifestyle Europe</title></programme>
+<programme start="20260307130000 +0000" stop="20260307130200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307130200 +0000" stop="20260307131500 +0000" channel="DW.de@English"><title lang="id">Sports Life</title></programme>
+<programme start="20260307131500 +0000" stop="20260307140000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260307140000 +0000" stop="20260307140200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307140200 +0000" stop="20260307141500 +0000" channel="DW.de@English"><title lang="id">HER: Women In Asia</title></programme>
+<programme start="20260307141500 +0000" stop="20260307143000 +0000" channel="DW.de@English"><title lang="id">Reporter: On Location</title></programme>
+<programme start="20260307143000 +0000" stop="20260307150000 +0000" channel="DW.de@English"><title lang="id">The 77 Percent</title></programme>
+<programme start="20260307150000 +0000" stop="20260307151500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307151500 +0000" stop="20260307153000 +0000" channel="DW.de@English"><title lang="id">Arts Unveiled</title></programme>
+<programme start="20260307153000 +0000" stop="20260307160000 +0000" channel="DW.de@English"><title lang="id">Euromaxx: Lifestyle Europe</title></programme>
+<programme start="20260307160000 +0000" stop="20260307161500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260307161500 +0000" stop="20260307163000 +0000" channel="DW.de@English"><title lang="id">Sports Life</title></programme>
+<programme start="20260307163000 +0000" stop="20260306190200 +0000" channel="DW.de@English"><title lang="id">DW News Africa</title></programme>
+<programme start="20260307165950 +0000" stop="20260307165959 +0000" channel="DW.de@English"><title lang="id">DW News Focus</title></programme>
 <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260304180000 +0000" stop="20260304183000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260304183000 +0000" stop="20260304190000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2168,6 +2324,232 @@
 <programme start="20260305164500 +0000" stop="20260305165100 +0000" channel="France24.fr@English"><title lang="id">Business (L)</title></programme>
 <programme start="20260305165100 +0000" stop="20260305165950 +0000" channel="France24.fr@English"><title lang="id">Sports (L)</title></programme>
 <programme start="20260305165950 +0000" stop="20260305165959 +0000" channel="France24.fr@English"><title lang="id">Sports (L)</title></programme>
+<programme start="20260305170000 +0000" stop="20260305171000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305171000 +0000" stop="20260305175300 +0000" channel="France24.fr@English"><title lang="id">The Debate (L)</title></programme>
+<programme start="20260305175300 +0000" stop="20260305180000 +0000" channel="France24.fr@English"><title lang="id">Short Cuts</title></programme>
+<programme start="20260305180000 +0000" stop="20260305182000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305182000 +0000" stop="20260305183000 +0000" channel="France24.fr@English"><title lang="id">Sports (L)</title></programme>
+<programme start="20260305183000 +0000" stop="20260305184500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305184500 +0000" stop="20260305185100 +0000" channel="France24.fr@English"><title lang="id">Truth Or Fake (L)</title></programme>
+<programme start="20260305185100 +0000" stop="20260305190000 +0000" channel="France24.fr@English"><title lang="id">Focus (L)</title></programme>
+<programme start="20260305190000 +0000" stop="20260305192000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305192000 +0000" stop="20260305193000 +0000" channel="France24.fr@English"><title lang="id">Business (L)</title></programme>
+<programme start="20260305193000 +0000" stop="20260305194000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305194000 +0000" stop="20260305200000 +0000" channel="France24.fr@English"><title lang="id">Eye On Africa (L)</title></programme>
+<programme start="20260305200000 +0000" stop="20260305201500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305201500 +0000" stop="20260305202100 +0000" channel="France24.fr@English"><title lang="id">Business (L)</title></programme>
+<programme start="20260305202100 +0000" stop="20260305203000 +0000" channel="France24.fr@English"><title lang="id">Truth Or Fake (L)</title></programme>
+<programme start="20260305203000 +0000" stop="20260305203200 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305203200 +0000" stop="20260305204400 +0000" channel="France24.fr@English"><title lang="id">A Propos (L)</title></programme>
+<programme start="20260305204400 +0000" stop="20260305210000 +0000" channel="France24.fr@English"><title lang="id">Eye On Africa (L)</title></programme>
+<programme start="20260305210000 +0000" stop="20260305211500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305211500 +0000" stop="20260305213000 +0000" channel="France24.fr@English"><title lang="id">Business + Truth Or Fake</title></programme>
+<programme start="20260305213000 +0000" stop="20260305214500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305214500 +0000" stop="20260305215100 +0000" channel="France24.fr@English"><title lang="id">Sports (L)</title></programme>
+<programme start="20260305215100 +0000" stop="20260305220000 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260305220000 +0000" stop="20260305221000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305221000 +0000" stop="20260305225300 +0000" channel="France24.fr@English"><title lang="id">The Debate</title></programme>
+<programme start="20260305225300 +0000" stop="20260305230000 +0000" channel="France24.fr@English"><title lang="id">Short Cuts</title></programme>
+<programme start="20260305230000 +0000" stop="20260305231500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260305231500 +0000" stop="20260305232000 +0000" channel="France24.fr@English"><title lang="id">Business</title></programme>
+<programme start="20260305232000 +0000" stop="20260305233000 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260305233000 +0000" stop="20260305234500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260305234500 +0000" stop="20260306000000 +0000" channel="France24.fr@English"><title lang="id">Arts24</title></programme>
+<programme start="20260306000000 +0000" stop="20260306001500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306001500 +0000" stop="20260306003000 +0000" channel="France24.fr@English"><title lang="id">A Propos</title></programme>
+<programme start="20260306003000 +0000" stop="20260306004500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306004500 +0000" stop="20260306010000 +0000" channel="France24.fr@English"><title lang="id">Eye On Africa</title></programme>
+<programme start="20260306010000 +0000" stop="20260306011000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306011000 +0000" stop="20260306015300 +0000" channel="France24.fr@English"><title lang="id">The Debate</title></programme>
+<programme start="20260306015300 +0000" stop="20260306020000 +0000" channel="France24.fr@English"><title lang="id">Short Cuts</title></programme>
+<programme start="20260306020000 +0000" stop="20260306021500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306021500 +0000" stop="20260306023000 +0000" channel="France24.fr@English"><title lang="id">Talking Europe, Pt 2</title></programme>
+<programme start="20260306023000 +0000" stop="20260306024500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306024500 +0000" stop="20260306025100 +0000" channel="France24.fr@English"><title lang="id">French Connections</title></programme>
+<programme start="20260306025100 +0000" stop="20260306030000 +0000" channel="France24.fr@English"><title lang="id">The Observers</title></programme>
+<programme start="20260306030000 +0000" stop="20260306031500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306031500 +0000" stop="20260306033000 +0000" channel="France24.fr@English"><title lang="id">Eye On Africa</title></programme>
+<programme start="20260306033000 +0000" stop="20260306034500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306034500 +0000" stop="20260306040000 +0000" channel="France24.fr@English"><title lang="id">Arts24</title></programme>
+<programme start="20260306040000 +0000" stop="20260306042000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306042000 +0000" stop="20260306042100 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306042100 +0000" stop="20260306043000 +0000" channel="France24.fr@English"><title lang="id">Focus (L)</title></programme>
+<programme start="20260306043000 +0000" stop="20260306045000 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306045000 +0000" stop="20260306045100 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306045100 +0000" stop="20260306050000 +0000" channel="France24.fr@English"><title lang="id">Sports</title></programme>
+<programme start="20260306050000 +0000" stop="20260306052000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306052000 +0000" stop="20260306053000 +0000" channel="France24.fr@English"><title lang="id">Press Review (L)</title></programme>
+<programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306060000 +0000" stop="20260306062000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306062000 +0000" stop="20260306063000 +0000" channel="France24.fr@English"><title lang="id">Global Grid (L)</title></programme>
+<programme start="20260306063000 +0000" stop="20260306064500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306064500 +0000" stop="20260306065000 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260306065000 +0000" stop="20260306070000 +0000" channel="France24.fr@English"><title lang="id">Sports</title></programme>
+<programme start="20260306070000 +0000" stop="20260306071500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306071500 +0000" stop="20260306071600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306071600 +0000" stop="20260306073000 +0000" channel="France24.fr@English"><title lang="id">T?te-?-T?te</title></programme>
+<programme start="20260306073000 +0000" stop="20260306074500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306074500 +0000" stop="20260306075100 +0000" channel="France24.fr@English"><title lang="id">Global Grid</title></programme>
+<programme start="20260306075100 +0000" stop="20260306080000 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260306080000 +0000" stop="20260306081500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306081500 +0000" stop="20260306081600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306081600 +0000" stop="20260306083000 +0000" channel="France24.fr@English"><title lang="id">Across Africa</title></programme>
+<programme start="20260306083000 +0000" stop="20260306084500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306084500 +0000" stop="20260306084600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306084600 +0000" stop="20260306085200 +0000" channel="France24.fr@English"><title lang="id">The Observers</title></programme>
+<programme start="20260306085200 +0000" stop="20260306090000 +0000" channel="France24.fr@English"><title lang="id">Sports</title></programme>
+<programme start="20260306090000 +0000" stop="20260306091500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306091500 +0000" stop="20260306091600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306091600 +0000" stop="20260306092200 +0000" channel="France24.fr@English"><title lang="id">French Connections</title></programme>
+<programme start="20260306092200 +0000" stop="20260306093000 +0000" channel="France24.fr@English"><title lang="id">Fashion</title></programme>
+<programme start="20260306093000 +0000" stop="20260306094500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306094500 +0000" stop="20260306094600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306094600 +0000" stop="20260306100000 +0000" channel="France24.fr@English"><title lang="id">France In Focus</title></programme>
+<programme start="20260306100000 +0000" stop="20260306101500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306101500 +0000" stop="20260306101600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306101600 +0000" stop="20260306103000 +0000" channel="France24.fr@English"><title lang="id">Arts24</title></programme>
+<programme start="20260306103000 +0000" stop="20260306104500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306104500 +0000" stop="20260306104600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306104600 +0000" stop="20260306105100 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260306105100 +0000" stop="20260306110000 +0000" channel="France24.fr@English"><title lang="id">Sports</title></programme>
+<programme start="20260306110000 +0000" stop="20260306111500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306111500 +0000" stop="20260306113000 +0000" channel="France24.fr@English"><title lang="id">Scoop (L)</title></programme>
+<programme start="20260306113000 +0000" stop="20260306114500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306114500 +0000" stop="20260306120000 +0000" channel="France24.fr@English"><title lang="id">Entre Nous (L)</title></programme>
+<programme start="20260306120000 +0000" stop="20260306121500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306121500 +0000" stop="20260306123000 +0000" channel="France24.fr@English"><title lang="id">Entre Nous (L)</title></programme>
+<programme start="20260306123000 +0000" stop="20260306125000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306125000 +0000" stop="20260306130000 +0000" channel="France24.fr@English"><title lang="id">Culture Critics (L)</title></programme>
+<programme start="20260306130000 +0000" stop="20260306131500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306131500 +0000" stop="20260306131600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306131600 +0000" stop="20260306133000 +0000" channel="France24.fr@English"><title lang="id">T?te-?-T?te</title></programme>
+<programme start="20260306133000 +0000" stop="20260306134500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306134500 +0000" stop="20260306134600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306134600 +0000" stop="20260306140000 +0000" channel="France24.fr@English"><title lang="id">Access Asia</title></programme>
+<programme start="20260306140000 +0000" stop="20260306141500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306141500 +0000" stop="20260306141600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306141600 +0000" stop="20260306143000 +0000" channel="France24.fr@English"><title lang="id">The 51%</title></programme>
+<programme start="20260306143000 +0000" stop="20260306144500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306144500 +0000" stop="20260306144600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306144600 +0000" stop="20260306150000 +0000" channel="France24.fr@English"><title lang="id">Arts24</title></programme>
+<programme start="20260306150000 +0000" stop="20260306151200 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306151200 +0000" stop="20260306151300 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306151300 +0000" stop="20260306152500 +0000" channel="France24.fr@English"><title lang="id">Reporters</title></programme>
+<programme start="20260306152500 +0000" stop="20260306153000 +0000" channel="France24.fr@English"><title lang="id">Short Cuts</title></programme>
+<programme start="20260306153000 +0000" stop="20260306154200 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306154200 +0000" stop="20260306154300 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306154300 +0000" stop="20260306160000 +0000" channel="France24.fr@English"><title lang="id">Paris Des Arts</title></programme>
+<programme start="20260306160000 +0000" stop="20260306162000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306162000 +0000" stop="20260306163000 +0000" channel="France24.fr@English"><title lang="id">Spotlight (L)</title></programme>
+<programme start="20260306163000 +0000" stop="20260306165000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306165000 +0000" stop="20260306165950 +0000" channel="France24.fr@English"><title lang="id">Sports (L)</title></programme>
+<programme start="20260306165950 +0000" stop="20260306165959 +0000" channel="France24.fr@English"><title lang="id">Sports (L)</title></programme>
+<programme start="20260306170000 +0000" stop="20260306171000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306171000 +0000" stop="20260306180000 +0000" channel="France24.fr@English"><title lang="id">The World This Week (L)</title></programme>
+<programme start="20260306180000 +0000" stop="20260306181500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306181500 +0000" stop="20260306181600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306181600 +0000" stop="20260306183000 +0000" channel="France24.fr@English"><title lang="id">People &amp; Profit</title></programme>
+<programme start="20260306183000 +0000" stop="20260306184500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306184500 +0000" stop="20260306184600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260306184600 +0000" stop="20260306190000 +0000" channel="France24.fr@English"><title lang="id">Across Africa</title></programme>
+<programme start="20260306190000 +0000" stop="20260306191500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306191500 +0000" stop="20260306193000 +0000" channel="France24.fr@English"><title lang="id">T?te-?-T?te</title></programme>
+<programme start="20260306193000 +0000" stop="20260306194000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306194000 +0000" stop="20260306200000 +0000" channel="France24.fr@English"><title lang="id">Eye On Africa (L)</title></programme>
+<programme start="20260306200000 +0000" stop="20260306201500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306201500 +0000" stop="20260306203000 +0000" channel="France24.fr@English"><title lang="id">The 51%</title></programme>
+<programme start="20260306203000 +0000" stop="20260306204200 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306204200 +0000" stop="20260306210000 +0000" channel="France24.fr@English"><title lang="id">Eye On Africa (L)</title></programme>
+<programme start="20260306210000 +0000" stop="20260306211500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306211500 +0000" stop="20260306213000 +0000" channel="France24.fr@English"><title lang="id">Scoop</title></programme>
+<programme start="20260306213000 +0000" stop="20260306214500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306214500 +0000" stop="20260306215000 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260306215000 +0000" stop="20260306220000 +0000" channel="France24.fr@English"><title lang="id">Sports</title></programme>
+<programme start="20260306220000 +0000" stop="20260306221000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306221000 +0000" stop="20260306230000 +0000" channel="France24.fr@English"><title lang="id">The World This Week</title></programme>
+<programme start="20260306230000 +0000" stop="20260306231500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260306231500 +0000" stop="20260306232100 +0000" channel="France24.fr@English"><title lang="id">French Connections</title></programme>
+<programme start="20260306232100 +0000" stop="20260306233000 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260306233000 +0000" stop="20260306234500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260306234500 +0000" stop="20260307000000 +0000" channel="France24.fr@English"><title lang="id">Arts24</title></programme>
+<programme start="20260307000000 +0000" stop="20260307001500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307001500 +0000" stop="20260307003000 +0000" channel="France24.fr@English"><title lang="id">People &amp; Profit</title></programme>
+<programme start="20260307003000 +0000" stop="20260307004500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307004500 +0000" stop="20260307010000 +0000" channel="France24.fr@English"><title lang="id">Eye On Africa</title></programme>
+<programme start="20260307010000 +0000" stop="20260307011000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307011000 +0000" stop="20260307020000 +0000" channel="France24.fr@English"><title lang="id">The World This Week</title></programme>
+<programme start="20260307020000 +0000" stop="20260307021500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307021500 +0000" stop="20260307023000 +0000" channel="France24.fr@English"><title lang="id">Across Africa</title></programme>
+<programme start="20260307023000 +0000" stop="20260307024500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307024500 +0000" stop="20260307030000 +0000" channel="France24.fr@English"><title lang="id">Scoop</title></programme>
+<programme start="20260307030000 +0000" stop="20260307031500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307031500 +0000" stop="20260307033000 +0000" channel="France24.fr@English"><title lang="id">Eye On Africa</title></programme>
+<programme start="20260307033000 +0000" stop="20260307034500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307034500 +0000" stop="20260307040000 +0000" channel="France24.fr@English"><title lang="id">Arts24</title></programme>
+<programme start="20260307040000 +0000" stop="20260307041200 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307041200 +0000" stop="20260307050000 +0000" channel="France24.fr@English"><title lang="id">The World This Week</title></programme>
+<programme start="20260307050000 +0000" stop="20260307052000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307052000 +0000" stop="20260307053000 +0000" channel="France24.fr@English"><title lang="id">Sports (L)</title></programme>
+<programme start="20260307053000 +0000" stop="20260307060000 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307060000 +0000" stop="20260307063000 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307070000 +0000" stop="20260307071500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307071500 +0000" stop="20260307073000 +0000" channel="France24.fr@English"><title lang="id">Guest Of The Day (L)</title></programme>
+<programme start="20260307073000 +0000" stop="20260307080000 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307080000 +0000" stop="20260307081500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307081500 +0000" stop="20260307081600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307081600 +0000" stop="20260307083000 +0000" channel="France24.fr@English"><title lang="id">Access Asia</title></programme>
+<programme start="20260307083000 +0000" stop="20260307084500 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307084500 +0000" stop="20260307084600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307084600 +0000" stop="20260307085200 +0000" channel="France24.fr@English"><title lang="id">The Observers</title></programme>
+<programme start="20260307085200 +0000" stop="20260307090000 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260307090000 +0000" stop="20260307090900 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307090900 +0000" stop="20260307091000 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307091000 +0000" stop="20260307093000 +0000" channel="France24.fr@English"><title lang="id">Revisited</title></programme>
+<programme start="20260307093000 +0000" stop="20260307093900 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307093900 +0000" stop="20260307094000 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307094000 +0000" stop="20260307095500 +0000" channel="France24.fr@English"><title lang="id">Paris Des Arts</title></programme>
+<programme start="20260307095500 +0000" stop="20260307100000 +0000" channel="France24.fr@English"><title lang="id">Short Cuts</title></programme>
+<programme start="20260307100000 +0000" stop="20260307101500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307101500 +0000" stop="20260307101600 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307101600 +0000" stop="20260307103000 +0000" channel="France24.fr@English"><title lang="id">Arts24</title></programme>
+<programme start="20260307103000 +0000" stop="20260307104400 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307104400 +0000" stop="20260307104500 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307104500 +0000" stop="20260307105000 +0000" channel="France24.fr@English"><title lang="id">Focus</title></programme>
+<programme start="20260307105000 +0000" stop="20260307110000 +0000" channel="France24.fr@English"><title lang="id">Sports</title></programme>
+<programme start="20260307110000 +0000" stop="20260307111500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307111500 +0000" stop="20260307113000 +0000" channel="France24.fr@English"><title lang="id">Guest Of The Day (L)</title></programme>
+<programme start="20260307113000 +0000" stop="20260307114500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307114500 +0000" stop="20260307120000 +0000" channel="France24.fr@English"><title lang="id">The 51%</title></programme>
+<programme start="20260307120000 +0000" stop="20260307121500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307121500 +0000" stop="20260307123000 +0000" channel="France24.fr@English"><title lang="id">A Week In France (L)</title></programme>
+<programme start="20260307123000 +0000" stop="20260307124500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307124500 +0000" stop="20260307130000 +0000" channel="France24.fr@English"><title lang="id">The Reporter&apos;s Week (L)</title></programme>
+<programme start="20260307130000 +0000" stop="20260307130900 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307130900 +0000" stop="20260307131000 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307131000 +0000" stop="20260307132500 +0000" channel="France24.fr@English"><title lang="id">Paris Des Arts</title></programme>
+<programme start="20260307132500 +0000" stop="20260307133000 +0000" channel="France24.fr@English"><title lang="id">Short Cuts</title></programme>
+<programme start="20260307133000 +0000" stop="20260307133900 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307133900 +0000" stop="20260307134000 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307134000 +0000" stop="20260307140000 +0000" channel="France24.fr@English"><title lang="id">Revisited</title></programme>
+<programme start="20260307140000 +0000" stop="20260307141400 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307141400 +0000" stop="20260307141500 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307141500 +0000" stop="20260307142100 +0000" channel="France24.fr@English"><title lang="id">French Connections</title></programme>
+<programme start="20260307142100 +0000" stop="20260307143000 +0000" channel="France24.fr@English"><title lang="id">Entre Nous</title></programme>
+<programme start="20260307143000 +0000" stop="20260307144400 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307144400 +0000" stop="20260307144500 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307144500 +0000" stop="20260307150000 +0000" channel="France24.fr@English"><title lang="id">Arts24</title></programme>
+<programme start="20260307150000 +0000" stop="20260307151400 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307151400 +0000" stop="20260307151500 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307151500 +0000" stop="20260307153000 +0000" channel="France24.fr@English"><title lang="id">Across Africa</title></programme>
+<programme start="20260307153000 +0000" stop="20260307154400 +0000" channel="France24.fr@English"><title lang="id">Bulletin (L)</title></programme>
+<programme start="20260307154400 +0000" stop="20260307154500 +0000" channel="France24.fr@English"><title lang="id">Introduction (L)</title></programme>
+<programme start="20260307154500 +0000" stop="20260307160000 +0000" channel="France24.fr@English"><title lang="id">T?te-?-T?te</title></programme>
+<programme start="20260307160000 +0000" stop="20260307161500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307161500 +0000" stop="20260307163000 +0000" channel="France24.fr@English"><title lang="id">Spotlight (L)</title></programme>
+<programme start="20260307163000 +0000" stop="20260307164500 +0000" channel="France24.fr@English"><title lang="id">News (L)</title></programme>
+<programme start="20260307164500 +0000" stop="20260307165950 +0000" channel="France24.fr@English"><title lang="id">Global Grid (L)</title></programme>
+<programme start="20260307165950 +0000" stop="20260307165959 +0000" channel="France24.fr@English"><title lang="id">Global Grid (L)</title></programme>
 <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="FREEDOM.ua@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260304180000 +0000" stop="20260304183000 +0000" channel="FREEDOM.ua@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260304183000 +0000" stop="20260304190000 +0000" channel="FREEDOM.ua@SD"><title lang="id">The Schedule Is Not Available</title></programme>
