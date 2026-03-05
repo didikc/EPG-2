@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260304">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260305">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
-<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
+<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
+<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
 <channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
 <channel id="321"><display-name>Champions TV 1 HD</display-name><url>https://firstmedia.com</url></channel>
 <channel id="Eurosport.fr@AsiaHD"><display-name>Eurosport HD</display-name><icon src="https://i.imgur.com/s4jDnJh.png"/><url>https://firstmedia.com</url></channel>
@@ -111,10 +112,9 @@
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
-<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
-<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
-<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
+<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
+<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
 <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260304180000 +0000" stop="20260304190000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260304190000 +0000" stop="20260304200000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
@@ -404,8 +404,8 @@
 <programme start="20260307150000 +0000" stop="20260307160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260307160000 +0000" stop="20260307170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260304170000 +0000" stop="20260304190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
-<programme start="20260304190000 +0000" stop="20260304203000 +0000" channel="GTV.id@SD"><title lang="en">Master So Dragon Subduing...</title></programme>
-<programme start="20260304203000 +0000" stop="20260304220000 +0000" channel="GTV.id@SD"><title lang="en">The Tiger King Returns</title></programme>
+<programme start="20260304190000 +0000" stop="20260304203000 +0000" channel="GTV.id@SD"><title lang="en">Soul Eating Spider</title></programme>
+<programme start="20260304203000 +0000" stop="20260304220000 +0000" channel="GTV.id@SD"><title lang="en">Monster Hunter</title></programme>
 <programme start="20260304220000 +0000" stop="20260304230000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
 <programme start="20260304230000 +0000" stop="20260305000000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260305000000 +0000" stop="20260305010000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebriti</title></programme>
@@ -418,44 +418,43 @@
 <programme start="20260305093000 +0000" stop="20260305103500 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260305103500 +0000" stop="20260305110000 +0000" channel="GTV.id@SD"><title lang="en">Ramadan Sama Artis</title></programme>
 <programme start="20260305110000 +0000" stop="20260305123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
-<programme start="20260305123000 +0000" stop="20260305150000 +0000" channel="GTV.id@SD"><title lang="en">Battle Of Snakes: King Kong...</title></programme>
+<programme start="20260305123000 +0000" stop="20260305150000 +0000" channel="GTV.id@SD"><title lang="en">Metamorphosis</title></programme>
 <programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="GTV.id@SD"><title lang="en">2nd Account</title></programme>
 <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
 <programme start="20260305170000 +0000" stop="20260305190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
-<programme start="20260305190000 +0000" stop="20260305203000 +0000" channel="GTV.id@SD"><title lang="en">Soul Eating Spider</title></programme>
-<programme start="20260305203000 +0000" stop="20260305220000 +0000" channel="GTV.id@SD"><title lang="en">Monster Hunter</title></programme>
+<programme start="20260305190000 +0000" stop="20260305203000 +0000" channel="GTV.id@SD"><title lang="en">Sword Dynasty: Treasure Of...</title></programme>
+<programme start="20260305203000 +0000" stop="20260305220000 +0000" channel="GTV.id@SD"><title lang="en">Legend Of Great Ming</title></programme>
 <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
 <programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260306000000 +0000" stop="20260306010000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebriti</title></programme>
 <programme start="20260306010000 +0000" stop="20260306013000 +0000" channel="GTV.id@SD"><title lang="en">Buletin iNews Pagi</title></programme>
 <programme start="20260306013000 +0000" stop="20260306020000 +0000" channel="GTV.id@SD"><title lang="en">CoComelon Dan Sahabat</title></programme>
-<programme start="20260306020000 +0000" stop="20260306023000 +0000" channel="GTV.id@SD"><title lang="en">Bernard Bear</title></programme>
+<programme start="20260306020000 +0000" stop="20260306023000 +0000" channel="GTV.id@SD"><title lang="en">TV Champion</title></programme>
 <programme start="20260306023000 +0000" stop="20260306050000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260306050000 +0000" stop="20260306073000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260306073000 +0000" stop="20260306093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260306093000 +0000" stop="20260306103500 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260306103500 +0000" stop="20260306110000 +0000" channel="GTV.id@SD"><title lang="en">Ramadan Sama Artis</title></programme>
 <programme start="20260306110000 +0000" stop="20260306123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
-<programme start="20260306123000 +0000" stop="20260306150000 +0000" channel="GTV.id@SD"><title lang="en">Metamorphosis</title></programme>
+<programme start="20260306123000 +0000" stop="20260306150000 +0000" channel="GTV.id@SD"><title lang="en">Conan The Barbarian</title></programme>
 <programme start="20260306150000 +0000" stop="20260306160000 +0000" channel="GTV.id@SD"><title lang="en">2nd Account</title></programme>
 <programme start="20260306160000 +0000" stop="20260306170000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
 <programme start="20260306170000 +0000" stop="20260306190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
-<programme start="20260306190000 +0000" stop="20260306203000 +0000" channel="GTV.id@SD"><title lang="en">Sword Dynasty: Treasure Of...</title></programme>
-<programme start="20260306203000 +0000" stop="20260306220000 +0000" channel="GTV.id@SD"><title lang="en">Legend Of Great Ming</title></programme>
-<programme start="20260306220000 +0000" stop="20260306230000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
-<programme start="20260306230000 +0000" stop="20260307000000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260307000000 +0000" stop="20260307010000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebriti</title></programme>
-<programme start="20260307010000 +0000" stop="20260307013000 +0000" channel="GTV.id@SD"><title lang="en">Buletin iNews Pagi</title></programme>
-<programme start="20260307013000 +0000" stop="20260307020000 +0000" channel="GTV.id@SD"><title lang="en">CoComelon Dan Sahabat</title></programme>
-<programme start="20260307020000 +0000" stop="20260307023000 +0000" channel="GTV.id@SD"><title lang="en">TV Champion</title></programme>
-<programme start="20260307023000 +0000" stop="20260307050000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260307050000 +0000" stop="20260307073000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260306190000 +0000" stop="20260306203000 +0000" channel="GTV.id@SD"><title lang="en">Mutant Tiger</title></programme>
+<programme start="20260306203000 +0000" stop="20260306220000 +0000" channel="GTV.id@SD"><title lang="en">Monster Hunter</title></programme>
+<programme start="20260306220000 +0000" stop="20260306231500 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
+<programme start="20260306231500 +0000" stop="20260306234500 +0000" channel="GTV.id@SD"><title lang="en">Bima-S</title></programme>
+<programme start="20260306234500 +0000" stop="20260307020000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260307020000 +0000" stop="20260307050000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260307050000 +0000" stop="20260307053000 +0000" channel="GTV.id@SD"><title lang="en">Naruto Shippuden</title></programme>
+<programme start="20260307053000 +0000" stop="20260307063000 +0000" channel="GTV.id@SD"><title lang="en">Bleach: The Conclusion</title></programme>
+<programme start="20260307063000 +0000" stop="20260307073000 +0000" channel="GTV.id@SD"><title lang="en">Zak Storm</title></programme>
 <programme start="20260307073000 +0000" stop="20260307093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260307093000 +0000" stop="20260307103500 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260307103500 +0000" stop="20260307110000 +0000" channel="GTV.id@SD"><title lang="en">Ramadan Sama Artis</title></programme>
 <programme start="20260307110000 +0000" stop="20260307123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
-<programme start="20260307123000 +0000" stop="20260307150000 +0000" channel="GTV.id@SD"><title lang="en">Conan The Barbarian</title></programme>
-<programme start="20260307150000 +0000" stop="20260307160000 +0000" channel="GTV.id@SD"><title lang="en">2nd Account</title></programme>
+<programme start="20260307123000 +0000" stop="20260307150000 +0000" channel="GTV.id@SD"><title lang="en">Giants Snake In Yellow River</title></programme>
+<programme start="20260307150000 +0000" stop="20260307160000 +0000" channel="GTV.id@SD"><title lang="en">Blood &amp; Oath</title></programme>
 <programme start="20260307160000 +0000" stop="20260307170000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
 <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260304180000 +0000" stop="20260304190000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
@@ -750,36 +749,35 @@
 <programme start="20260304180000 +0000" stop="20260304190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
 <programme start="20260304190000 +0000" stop="20260304200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
 <programme start="20260304200000 +0000" stop="20260304210000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sore</title></programme>
-<programme start="20260304210000 +0000" stop="20260304220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260304220000 +0000" stop="20260304223000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Ayat-Ayat Langit</title></programme>
-<programme start="20260304223000 +0000" stop="20260304233000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20260304233000 +0000" stop="20260305003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
+<programme start="20260304210000 +0000" stop="20260304220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
+<programme start="20260304220000 +0000" stop="20260304230000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
+<programme start="20260304230000 +0000" stop="20260305000000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
+<programme start="20260305000000 +0000" stop="20260305003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
 <programme start="20260305003000 +0000" stop="20260305020000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
 <programme start="20260305020000 +0000" stop="20260305030000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
-<programme start="20260305030000 +0000" stop="20260305033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Autotech</title></programme>
+<programme start="20260305030000 +0000" stop="20260305033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport Pagi</title></programme>
 <programme start="20260305033000 +0000" stop="20260305050000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Siang</title></programme>
-<programme start="20260305050000 +0000" stop="20260305053000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Food Diary</title></programme>
-<programme start="20260305053000 +0000" stop="20260305060000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">I Love Indonesia</title></programme>
-<programme start="20260305060000 +0000" stop="20260305073000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
-<programme start="20260305073000 +0000" stop="20260305083000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Siang</title></programme>
-<programme start="20260305083000 +0000" stop="20260305093000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
+<programme start="20260305050000 +0000" stop="20260305053000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Siang</title></programme>
+<programme start="20260305053000 +0000" stop="20260305063000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
+<programme start="20260305063000 +0000" stop="20260305070000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Seputar iNews Siang</title></programme>
+<programme start="20260305070000 +0000" stop="20260305083000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Siang</title></programme>
+<programme start="20260305083000 +0000" stop="20260305093000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260305093000 +0000" stop="20260305110000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
-<programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
-<programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
-<programme start="20260305130000 +0000" stop="20260305133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
+<programme start="20260305120000 +0000" stop="20260305133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260305133000 +0000" stop="20260305143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260305143000 +0000" stop="20260305153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Room Weekend</title></programme>
-<programme start="20260305153000 +0000" stop="20260305163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
-<programme start="20260305163000 +0000" stop="20260305170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260305143000 +0000" stop="20260305153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">One On One</title></programme>
+<programme start="20260305153000 +0000" stop="20260305163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
+<programme start="20260305163000 +0000" stop="20260305170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260305170000 +0000" stop="20260305173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
 <programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
 <programme start="20260305180000 +0000" stop="20260305190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
-<programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
+<programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260305200000 +0000" stop="20260305210000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sore</title></programme>
 <programme start="20260305210000 +0000" stop="20260305220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
 <programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
 <programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20260306000000 +0000" stop="20260306003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
+<programme start="20260306000000 +0000" stop="20260306003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
 <programme start="20260306003000 +0000" stop="20260306020000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
 <programme start="20260306020000 +0000" stop="20260306030000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260306030000 +0000" stop="20260306033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport Pagi</title></programme>
@@ -793,9 +791,9 @@
 <programme start="20260306110000 +0000" stop="20260306120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260306120000 +0000" stop="20260306133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260306133000 +0000" stop="20260306143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260306143000 +0000" stop="20260306153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">One On One</title></programme>
-<programme start="20260306153000 +0000" stop="20260306163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
-<programme start="20260306163000 +0000" stop="20260306170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
+<programme start="20260306143000 +0000" stop="20260306153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
+<programme start="20260306153000 +0000" stop="20260306163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
+<programme start="20260306163000 +0000" stop="20260306170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
 <programme start="20260306170000 +0000" stop="20260306173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
 <programme start="20260306173000 +0000" stop="20260306180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
 <programme start="20260306180000 +0000" stop="20260306190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
@@ -817,79 +815,84 @@
 <programme start="20260307093000 +0000" stop="20260307110000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
 <programme start="20260307110000 +0000" stop="20260307120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260307120000 +0000" stop="20260307133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
-<programme start="20260307133000 +0000" stop="20260307143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260307143000 +0000" stop="20260307153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
+<programme start="20260307133000 +0000" stop="20260307153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Rakyat Bersuara</title></programme>
 <programme start="20260307153000 +0000" stop="20260307163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260307163000 +0000" stop="20260307170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
-<programme start="20260304173000 +0000" stop="20260304180000 +0000" channel="SPOTV2.id@SD"><title lang="en">WPBL S2, Mumbai Highlights</title><desc lang="en">Day 1 Tie 2 Delhi vs Chennai</desc></programme>
-<programme start="20260304180000 +0000" stop="20260304200500 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Brisbane Roar FC vs Perth Glory</desc></programme>
-<programme start="20260304200500 +0000" stop="20260304230500 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic Exhibition</title><desc lang="en">San Francisco Giants vs USA</desc></programme>
-<programme start="20260304230500 +0000" stop="20260305020000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic Exhibition</title><desc lang="en">Boston Red Sox vs Puerto Rico</desc></programme>
-<programme start="20260305020000 +0000" stop="20260305023000 +0000" channel="SPOTV2.id@SD"><title lang="en">WPBL S2, Mumbai Highlights</title><desc lang="en">Day 2 Tie 1 Mumbai vs Delhi</desc></programme>
-<programme start="20260305023000 +0000" stop="20260305043000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Auckland FC vs Melbourne City FC</desc></programme>
-<programme start="20260305043000 +0000" stop="20260305053000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Idemitsu Moto4 Asia Cup, Thailand</title><desc lang="en">Race 1</desc></programme>
-<programme start="20260305053000 +0000" stop="20260305063000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Idemitsu Moto4 Asia Cup, Thailand</title><desc lang="en">Race 2</desc></programme>
-<programme start="20260305063000 +0000" stop="20260305070000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 A-League Men Round 18</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260305070000 +0000" stop="20260305101500 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Free Practice 2/Qualifying</desc></programme>
-<programme start="20260305101500 +0000" stop="20260305133000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Qualifying/Sprint</desc></programme>
-<programme start="20260305133000 +0000" stop="20260305180000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 NASCAR Cup Series</title><desc lang="en">DuraMax Grand Prix</desc></programme>
-<programme start="20260305180000 +0000" stop="20260305200500 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Central Coast Mariners FC vs Newcastle Jets FC</desc></programme>
-<programme start="20260305200500 +0000" stop="20260305230500 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic Exhibition</title><desc lang="en">Los Angeles Dodgers vs Mexico</desc></programme>
-<programme start="20260305230500 +0000" stop="20260306020000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic Exhibition</title><desc lang="en">Washington Nationals vs Venezuela</desc></programme>
-<programme start="20260306020000 +0000" stop="20260306023000 +0000" channel="SPOTV2.id@SD"><title lang="en">WPBL S2, Mumbai Highlights</title><desc lang="en">Day 2 Tie 2 Rajasthan vs Hederabad</desc></programme>
-<programme start="20260306023000 +0000" stop="20260306030000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic Preview</title><desc lang="en">Pool C</desc></programme>
-<programme start="20260306030000 +0000" stop="20260306060000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool C</title><desc lang="en">Chinese Taipei vs Australia</desc></programme>
-<programme start="20260306060000 +0000" stop="20260306063000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 A-League Men Round 18</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260306063000 +0000" stop="20260306090000 +0000" channel="SPOTV2.id@SD"><title lang="en">World Pickleball League S2, Mumbai</title><desc lang="en">Day 13 Final</desc></programme>
-<programme start="20260306090000 +0000" stop="20260306100000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260306100000 +0000" stop="20260306130000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool C</title><desc lang="en">Czechia vs Korea</desc></programme>
-<programme start="20260306130000 +0000" stop="20260306133000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 18</title><desc lang="en">Adelaide United vs Perth Glory</desc></programme>
-<programme start="20260306133000 +0000" stop="20260306143000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Asian Tour Highlights</title><desc lang="en">105th New Zealand Open</desc></programme>
-<programme start="20260306143000 +0000" stop="20260306153000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 PBR: Unleash the Beast</title><desc lang="en">Ep 4 Sacramento</desc></programme>
+<programme start="20260304180000 +0000" stop="20260304200500 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Central Coast Mariners FC vs Newcastle Jets FC</desc></programme>
+<programme start="20260304200500 +0000" stop="20260304230500 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic Exhibition</title><desc lang="en">Los Angeles Dodgers vs Mexico</desc></programme>
+<programme start="20260304230500 +0000" stop="20260305020000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic Exhibition</title><desc lang="en">Washington Nationals vs Venezuela</desc></programme>
+<programme start="20260305020000 +0000" stop="20260305023000 +0000" channel="SPOTV2.id@SD"><title lang="en">WPBL S2, Mumbai Highlights</title><desc lang="en">Day 2 Tie 2 Rajasthan vs Hederabad</desc></programme>
+<programme start="20260305023000 +0000" stop="20260305030000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic Preview</title><desc lang="en">Pool C</desc></programme>
+<programme start="20260305030000 +0000" stop="20260305060000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool C</title><desc lang="en">Chinese Taipei vs Australia</desc></programme>
+<programme start="20260305060000 +0000" stop="20260305063000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 A-League Men Round 18</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260305063000 +0000" stop="20260305090000 +0000" channel="SPOTV2.id@SD"><title lang="en">World Pickleball League S2, Mumbai</title><desc lang="en">Day 13 Final</desc></programme>
+<programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260305100000 +0000" stop="20260305130000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool C</title><desc lang="en">Czechia vs Korea</desc></programme>
+<programme start="20260305130000 +0000" stop="20260305133000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 18</title><desc lang="en">Adelaide United vs Perth Glory</desc></programme>
+<programme start="20260305133000 +0000" stop="20260305143000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Asian Tour Highlights</title><desc lang="en">105th New Zealand Open</desc></programme>
+<programme start="20260305143000 +0000" stop="20260305153000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 PBR: Unleash the Beast</title><desc lang="en">Ep 4 Sacramento</desc></programme>
+<programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 18</title><desc lang="en">Melbourne City FC vs Melbourne Victory</desc></programme>
+<programme start="20260305160000 +0000" stop="20260305180000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Brisbane Roar FC vs Perth Glory</desc></programme>
+<programme start="20260305180000 +0000" stop="20260305233000 +0000" channel="SPOTV2.id@SD"><title lang="en">Snow League 25/26: Buttermilk Mountain</title><desc lang="en">Snowboard Finals</desc></programme>
+<programme start="20260305233000 +0000" stop="20260306023000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic Exhibition</title><desc lang="en">San Francisco Giants vs USA</desc></programme>
+<programme start="20260306023000 +0000" stop="20260306030000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 18</title><desc lang="en">Adelaide United vs Perth Glory</desc></programme>
+<programme start="20260306030000 +0000" stop="20260306061500 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Free Practice 2/Qualifying</desc></programme>
+<programme start="20260306061500 +0000" stop="20260306093000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Qualifying/Sprint</desc></programme>
+<programme start="20260306093000 +0000" stop="20260306100000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 A-League Men Round 19</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260306100000 +0000" stop="20260306130000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool C</title><desc lang="en">Japan vs Chinese Taipei</desc></programme>
+<programme start="20260306130000 +0000" stop="20260306133000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic Preview</title><desc lang="en">Pool A</desc></programme>
+<programme start="20260306133000 +0000" stop="20260306143000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260306143000 +0000" stop="20260306153000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 PBR: Unleash the Beast</title><desc lang="en">Ep 5 Salt Lake City</desc></programme>
 <programme start="20260306153000 +0000" stop="20260306160000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 18</title><desc lang="en">Melbourne City FC vs Melbourne Victory</desc></programme>
 <programme start="20260306160000 +0000" stop="20260306180000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Brisbane Roar FC vs Perth Glory</desc></programme>
-<programme start="20260306180000 +0000" stop="20260306233000 +0000" channel="SPOTV2.id@SD"><title lang="en">Snow League 25/26: Buttermilk Mountain</title><desc lang="en">Snowboard Finals</desc></programme>
-<programme start="20260306233000 +0000" stop="20260307023000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic Exhibition</title><desc lang="en">San Francisco Giants vs USA</desc></programme>
-<programme start="20260307023000 +0000" stop="20260307030000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 18</title><desc lang="en">Adelaide United vs Perth Glory</desc></programme>
-<programme start="20260307030000 +0000" stop="20260307061500 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Free Practice 2/Qualifying</desc></programme>
-<programme start="20260307061500 +0000" stop="20260307093000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Qualifying/Sprint</desc></programme>
-<programme start="20260307093000 +0000" stop="20260307100000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 A-League Men Round 19</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260307100000 +0000" stop="20260307130000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool C</title><desc lang="en">Japan vs Chinese Taipei</desc></programme>
-<programme start="20260307130000 +0000" stop="20260307133000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic Preview</title><desc lang="en">Pool A</desc></programme>
-<programme start="20260307133000 +0000" stop="20260307143000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 1 PT Grand Prix of Thailand</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260307143000 +0000" stop="20260307153000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 PBR: Unleash the Beast</title><desc lang="en">Ep 5 Salt Lake City</desc></programme>
-<programme start="20260307153000 +0000" stop="20260307160000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 18</title><desc lang="en">Melbourne City FC vs Melbourne Victory</desc></programme>
-<programme start="20260307160000 +0000" stop="20260307180000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Brisbane Roar FC vs Perth Glory</desc></programme>
-<programme start="20260304173000 +0000" stop="20260304180000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Central Coast Mariners FC vs Newcastle Jets FC</desc></programme>
-<programme start="20260304180000 +0000" stop="20260304183000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Brisbane Roar FC vs Perth Glory</desc></programme>
-<programme start="20260304183000 +0000" stop="20260304200000 +0000" channel="SPOTV.id@SD"><title lang="en">Horse Racing</title><desc lang="en">Pegasus World Cup 2026</desc></programme>
-<programme start="20260304200000 +0000" stop="20260304220000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 24</title><desc lang="en">Al Shabab vs Al Hilal</desc></programme>
-<programme start="20260304220000 +0000" stop="20260305010000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 Women’s Amateur Asia-Pacific Championship</title><desc lang="en">Day 3</desc></programme>
-<programme start="20260305010000 +0000" stop="20260305103000 +0000" channel="SPOTV.id@SD"><title lang="en">Golf: 2026 Reignwood Icons of Football</title><desc lang="en">Day 2</desc></programme>
-<programme start="20260305103000 +0000" stop="20260305123000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 24</title><desc lang="en">Al Riyadh vs Al Ahli</desc></programme>
-<programme start="20260305123000 +0000" stop="20260305173000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LET: Ford Women&apos;s NSW Open</title><desc lang="en">Day 1</desc></programme>
-<programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Brisbane Roar FC vs Perth Glory</desc></programme>
-<programme start="20260305180000 +0000" stop="20260305195500 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Premiership Round 29</title><desc lang="en">Rangers vs Celtic</desc></programme>
-<programme start="20260305195500 +0000" stop="20260305215500 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)25/26 Scottish Premiership Round 25</title><desc lang="en">Aberdeen vs Celtic</desc></programme>
-<programme start="20260305215500 +0000" stop="20260306011000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 Women’s Amateur Asia-Pacific Championship</title><desc lang="en">Day 4 Final</desc></programme>
-<programme start="20260306011000 +0000" stop="20260306031000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Premiership Round 29</title><desc lang="en">Rangers vs Celtic</desc></programme>
-<programme start="20260306031000 +0000" stop="20260306050000 +0000" channel="SPOTV.id@SD"><title lang="en">Ras Al-Khaimah Half Marathon 2026</title><desc lang="en">Men&apos;s and Women&apos;s Race</desc></programme>
-<programme start="20260306050000 +0000" stop="20260306103000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)2026 LIV Golf League, Hong Kong</title><desc lang="en">Round 1</desc></programme>
-<programme start="20260306103000 +0000" stop="20260306123000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 A-League Men Round 20</title><desc lang="en">Macarthur FC vs Central Coast Mariners FC</desc></programme>
-<programme start="20260306123000 +0000" stop="20260306173000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LET: Ford Women&apos;s NSW Open</title><desc lang="en">Day 2</desc></programme>
-<programme start="20260306173000 +0000" stop="20260306180000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Auckland FC vs Melbourne City FC</desc></programme>
-<programme start="20260306180000 +0000" stop="20260306184500 +0000" channel="SPOTV.id@SD"><title lang="en">BXL 2025: BXL Rewind</title><desc lang="en">Day 1 Session 1</desc></programme>
-<programme start="20260306184500 +0000" stop="20260306210000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)25/26 ROSHN Saudi League MW 25</title><desc lang="en">Al Kholood vs Al Qadsiah</desc></programme>
-<programme start="20260306210000 +0000" stop="20260306230000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 A-League Men Round 20</title><desc lang="en">Macarthur FC vs Central Coast Mariners FC</desc></programme>
-<programme start="20260306230000 +0000" stop="20260307010000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 24</title><desc lang="en">Al Shabab vs Al Hilal</desc></programme>
-<programme start="20260307010000 +0000" stop="20260307020000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 Asian Le Mans Series, Abu Dhabi</title><desc lang="en">Highlights 1</desc></programme>
-<programme start="20260307020000 +0000" stop="20260307030000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 Asian Le Mans Series, Abu Dhabi</title><desc lang="en">Highlights 2</desc></programme>
-<programme start="20260307030000 +0000" stop="20260307040000 +0000" channel="SPOTV.id@SD"><title lang="en">Formula E S12: Rd 5 Jeddah E-Prix</title><desc lang="en">Highlights 1</desc></programme>
-<programme start="20260307040000 +0000" stop="20260307093000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)2026 LIV Golf League, Hong Kong</title><desc lang="en">Round 2</desc></programme>
-<programme start="20260307093000 +0000" stop="20260307100000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Central Coast Mariners FC vs Newcastle Jets FC</desc></programme>
-<programme start="20260307100000 +0000" stop="20260307120000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 25</title><desc lang="en">Al Kholood vs Al Qadsiah</desc></programme>
-<programme start="20260307120000 +0000" stop="20260307140000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Premiership Round 25</title><desc lang="en">Aberdeen vs Celtic</desc></programme>
-<programme start="20260307140000 +0000" stop="20260307160000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 A-League Men Round 20</title><desc lang="en">Macarthur FC vs Central Coast Mariners FC</desc></programme>
+<programme start="20260306170000 +0000" stop="20260306200000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool D</title><desc lang="en">Netherlands vs Venezuela</desc></programme>
+<programme start="20260306200000 +0000" stop="20260306220000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Central Coast Mariners FC vs Newcastle Jets FC</desc></programme>
+<programme start="20260306220000 +0000" stop="20260307010000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic Exhibition</title><desc lang="en">Los Angeles Dodgers vs Mexico</desc></programme>
+<programme start="20260307010000 +0000" stop="20260307060000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 LET: Australian Women&apos;s Classic</title><desc lang="en">Day 1</desc></programme>
+<programme start="20260307060000 +0000" stop="20260307063000 +0000" channel="SPOTV2.id@SD"><title lang="en">WPBL S2, Mumbai Highlights</title><desc lang="en">Day 2 Tie 2 Rajasthan vs Hederabad</desc></programme>
+<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Macarthur FC vs Western Sydney Wanderers FC</desc></programme>
+<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Melbourne Victory vs Adelaide United</desc></programme>
+<programme start="20260307073000 +0000" stop="20260307083000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Asian Tour Highlights</title><desc lang="en">105th New Zealand Open</desc></programme>
+<programme start="20260307083000 +0000" stop="20260307103000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)25/26 A-League Men Round 20</title><desc lang="en">Sydney FC vs Melbourne Victory</desc></programme>
+<programme start="20260307103000 +0000" stop="20260307130000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool C</title><desc lang="en">Korea vs Japan</desc></programme>
+<programme start="20260307130000 +0000" stop="20260307133000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 A-League Men Round 19</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260307133000 +0000" stop="20260307143000 +0000" channel="SPOTV2.id@SD"><title lang="en">SailGP S6: KPMG Sydney Sail Grand Prix</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260307143000 +0000" stop="20260307170000 +0000" channel="SPOTV2.id@SD"><title lang="en">World Pickleball League S2, Mumbai</title><desc lang="en">Day 13 Final</desc></programme>
+<programme start="20260304173000 +0000" stop="20260304180000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Brisbane Roar FC vs Perth Glory</desc></programme>
+<programme start="20260304180000 +0000" stop="20260304195500 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Premiership Round 29</title><desc lang="en">Rangers vs Celtic</desc></programme>
+<programme start="20260304195500 +0000" stop="20260304215500 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)25/26 Scottish Premiership Round 25</title><desc lang="en">Aberdeen vs Celtic</desc></programme>
+<programme start="20260304215500 +0000" stop="20260305011000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 Women’s Amateur Asia-Pacific Championship</title><desc lang="en">Day 4 Final</desc></programme>
+<programme start="20260305011000 +0000" stop="20260305031000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Premiership Round 29</title><desc lang="en">Rangers vs Celtic</desc></programme>
+<programme start="20260305031000 +0000" stop="20260305050000 +0000" channel="SPOTV.id@SD"><title lang="en">Ras Al-Khaimah Half Marathon 2026</title><desc lang="en">Men&apos;s and Women&apos;s Race</desc></programme>
+<programme start="20260305050000 +0000" stop="20260305103000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)2026 LIV Golf League, Hong Kong</title><desc lang="en">Round 1</desc></programme>
+<programme start="20260305103000 +0000" stop="20260305123000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 A-League Men Round 20</title><desc lang="en">Macarthur FC vs Central Coast Mariners FC</desc></programme>
+<programme start="20260305123000 +0000" stop="20260305173000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LET: Ford Women&apos;s NSW Open</title><desc lang="en">Day 2</desc></programme>
+<programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Auckland FC vs Melbourne City FC</desc></programme>
+<programme start="20260305180000 +0000" stop="20260305184500 +0000" channel="SPOTV.id@SD"><title lang="en">BXL 2025: BXL Rewind</title><desc lang="en">Day 1 Session 1</desc></programme>
+<programme start="20260305184500 +0000" stop="20260305210000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)25/26 ROSHN Saudi League MW 25</title><desc lang="en">Al Kholood vs Al Qadsiah</desc></programme>
+<programme start="20260305210000 +0000" stop="20260305230000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 A-League Men Round 20</title><desc lang="en">Macarthur FC vs Central Coast Mariners FC</desc></programme>
+<programme start="20260305230000 +0000" stop="20260306010000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 24</title><desc lang="en">Al Shabab vs Al Hilal</desc></programme>
+<programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 Asian Le Mans Series, Abu Dhabi</title><desc lang="en">Highlights 1</desc></programme>
+<programme start="20260306020000 +0000" stop="20260306030000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 Asian Le Mans Series, Abu Dhabi</title><desc lang="en">Highlights 2</desc></programme>
+<programme start="20260306030000 +0000" stop="20260306040000 +0000" channel="SPOTV.id@SD"><title lang="en">Formula E S12: Rd 5 Jeddah E-Prix</title><desc lang="en">Highlights 1</desc></programme>
+<programme start="20260306040000 +0000" stop="20260306093000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)2026 LIV Golf League, Hong Kong</title><desc lang="en">Round 2</desc></programme>
+<programme start="20260306093000 +0000" stop="20260306100000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Central Coast Mariners FC vs Newcastle Jets FC</desc></programme>
+<programme start="20260306100000 +0000" stop="20260306120000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 25</title><desc lang="en">Al Kholood vs Al Qadsiah</desc></programme>
+<programme start="20260306120000 +0000" stop="20260306140000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Premiership Round 25</title><desc lang="en">Aberdeen vs Celtic</desc></programme>
+<programme start="20260306140000 +0000" stop="20260306160000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 A-League Men Round 20</title><desc lang="en">Macarthur FC vs Central Coast Mariners FC</desc></programme>
+<programme start="20260306160000 +0000" stop="20260306180000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 25</title><desc lang="en">Al Kholood vs Al Qadsiah</desc></programme>
+<programme start="20260306180000 +0000" stop="20260306184500 +0000" channel="SPOTV.id@SD"><title lang="en">BXL 2025: BXL Rewind</title><desc lang="en">Day 1 Session 2</desc></programme>
+<programme start="20260306184500 +0000" stop="20260306210000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)25/26 ROSHN Saudi League MW 25</title><desc lang="en">Al Ahli vs Al Ittihad</desc></programme>
+<programme start="20260306210000 +0000" stop="20260306230000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Premiership Round 25</title><desc lang="en">Aberdeen vs Celtic</desc></programme>
+<programme start="20260306230000 +0000" stop="20260307010000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 A-League Men Round 19</title><desc lang="en">Macarthur FC vs Western Sydney Wanderers FC</desc></programme>
+<programme start="20260307010000 +0000" stop="20260307040000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)2026 World Baseball Classic: Pool B</title><desc lang="en">USA vs Brazil</desc></programme>
+<programme start="20260307040000 +0000" stop="20260307043000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Central Coast Mariners FC vs Newcastle Jets FC</desc></programme>
+<programme start="20260307043000 +0000" stop="20260307050000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Brisbane Roar FC vs Perth Glory</desc></programme>
+<programme start="20260307050000 +0000" stop="20260307103000 +0000" channel="SPOTV.id@SD"><title lang="en">(Live)2026 LIV Golf League, Hong Kong</title><desc lang="en">Round 3</desc></programme>
+<programme start="20260307103000 +0000" stop="20260307123000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Premiership Round 25</title><desc lang="en">Aberdeen vs Celtic</desc></programme>
+<programme start="20260307123000 +0000" stop="20260307130000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 19</title><desc lang="en">Central Coast Mariners FC vs Newcastle Jets FC</desc></programme>
+<programme start="20260307130000 +0000" stop="20260307140000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 Asian Le Mans Series, Abu Dhabi</title><desc lang="en">Highlights 1</desc></programme>
+<programme start="20260307140000 +0000" stop="20260307160000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 25</title><desc lang="en">Al Ahli vs Al Ittihad</desc></programme>
 <programme start="20260307160000 +0000" stop="20260307180000 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 ROSHN Saudi League MW 25</title><desc lang="en">Al Kholood vs Al Qadsiah</desc></programme>
 <programme start="20260304180000 +0000" stop="20260304190000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
 <programme start="20260304190000 +0000" stop="20260304193000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
@@ -913,7 +916,7 @@
 <programme start="20260305090000 +0000" stop="20260305104500 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang (L)</title></programme>
 <programme start="20260305104500 +0000" stop="20260305110000 +0000" channel="tvOne.id@SD"><title lang="id">Jelang Berbuka</title></programme>
 <programme start="20260305110000 +0000" stop="20260305130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20260305130000 +0000" stop="20260305134500 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Bisnis Forum (L)</title></programme>
+<programme start="20260305130000 +0000" stop="20260305134500 +0000" channel="tvOne.id@SD"><title lang="id">Dua Sisi (L)</title></programme>
 <programme start="20260305134500 +0000" stop="20260305140000 +0000" channel="tvOne.id@SD"><title lang="id">Tafakur: Bunda Munifah</title></programme>
 <programme start="20260305140000 +0000" stop="20260305150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
 <programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
@@ -941,7 +944,7 @@
 <programme start="20260306090000 +0000" stop="20260306104500 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang (L)</title></programme>
 <programme start="20260306104500 +0000" stop="20260306110000 +0000" channel="tvOne.id@SD"><title lang="id">Jelang Berbuka</title></programme>
 <programme start="20260306110000 +0000" stop="20260306130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20260306130000 +0000" stop="20260306134500 +0000" channel="tvOne.id@SD"><title lang="id">Dua Sisi (L)</title></programme>
+<programme start="20260306130000 +0000" stop="20260306134500 +0000" channel="tvOne.id@SD"><title lang="id">One On One (L)</title></programme>
 <programme start="20260306134500 +0000" stop="20260306140000 +0000" channel="tvOne.id@SD"><title lang="id">Tafakur: Bunda Munifah</title></programme>
 <programme start="20260306140000 +0000" stop="20260306150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
 <programme start="20260306150000 +0000" stop="20260306160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
@@ -954,24 +957,25 @@
 <programme start="20260306203000 +0000" stop="20260306213000 +0000" channel="tvOne.id@SD"><title lang="id">Indahnya Ramadan</title></programme>
 <programme start="20260306213000 +0000" stop="20260306230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi (L)</title></programme>
 <programme start="20260306230000 +0000" stop="20260306233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi (L)</title></programme>
-<programme start="20260306233000 +0000" stop="20260307013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
-<programme start="20260307013000 +0000" stop="20260307020000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat (L)</title></programme>
-<programme start="20260307020000 +0000" stop="20260307023000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi (L)</title></programme>
-<programme start="20260307023000 +0000" stop="20260307031500 +0000" channel="tvOne.id@SD"><title lang="id">Pagi-pagi Seru (L)</title></programme>
+<programme start="20260306233000 +0000" stop="20260307010000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi (L)</title></programme>
+<programme start="20260307010000 +0000" stop="20260307020000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi</title></programme>
+<programme start="20260307020000 +0000" stop="20260307023000 +0000" channel="tvOne.id@SD"><title lang="id">KI Awards 2026</title></programme>
+<programme start="20260307023000 +0000" stop="20260307030000 +0000" channel="tvOne.id@SD"><title lang="id">Xpose</title></programme>
+<programme start="20260307030000 +0000" stop="20260307031500 +0000" channel="tvOne.id@SD"><title lang="id">Bukan Jalan-Jalan Biasa</title></programme>
 <programme start="20260307031500 +0000" stop="20260307033000 +0000" channel="tvOne.id@SD"><title lang="id">Tafakur: Bunda Munifah</title></programme>
-<programme start="20260307033000 +0000" stop="20260307040000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan (L)</title></programme>
+<programme start="20260307033000 +0000" stop="20260307040000 +0000" channel="tvOne.id@SD"><title lang="id">Jajago</title></programme>
 <programme start="20260307040000 +0000" stop="20260307053000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang (L)</title></programme>
-<programme start="20260307053000 +0000" stop="20260307063000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Siang (L)</title></programme>
-<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih (L)</title></programme>
-<programme start="20260307070000 +0000" stop="20260307071500 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal (L)</title></programme>
+<programme start="20260307053000 +0000" stop="20260307063000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia... (L)</title></programme>
+<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
+<programme start="20260307070000 +0000" stop="20260307071500 +0000" channel="tvOne.id@SD"><title lang="id">Selalu Ada Hikmah</title></programme>
 <programme start="20260307071500 +0000" stop="20260307073000 +0000" channel="tvOne.id@SD"><title lang="id">Himkah Ramadan: Kemenag</title></programme>
 <programme start="20260307073000 +0000" stop="20260307090000 +0000" channel="tvOne.id@SD"><title lang="id">Damai Indonesiaku Ramadan (L)</title></programme>
 <programme start="20260307090000 +0000" stop="20260307104500 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang (L)</title></programme>
 <programme start="20260307104500 +0000" stop="20260307110000 +0000" channel="tvOne.id@SD"><title lang="id">Jelang Berbuka</title></programme>
 <programme start="20260307110000 +0000" stop="20260307130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam (L)</title></programme>
-<programme start="20260307130000 +0000" stop="20260307134500 +0000" channel="tvOne.id@SD"><title lang="id">One On One (L)</title></programme>
+<programme start="20260307130000 +0000" stop="20260307134500 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
 <programme start="20260307134500 +0000" stop="20260307140000 +0000" channel="tvOne.id@SD"><title lang="id">Tafakur: Bunda Munifah</title></programme>
-<programme start="20260307140000 +0000" stop="20260307150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama (L)</title></programme>
+<programme start="20260307140000 +0000" stop="20260307150000 +0000" channel="tvOne.id@SD"><title lang="id">Renungan Jiwa</title></programme>
 <programme start="20260307150000 +0000" stop="20260307160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini (L)</title></programme>
 <programme start="20260307160000 +0000" stop="20260307163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam (L)</title></programme>
 <programme start="20260307163000 +0000" stop="20260307180000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
