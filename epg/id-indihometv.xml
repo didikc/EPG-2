@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260309">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -122,9 +122,9 @@
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/512px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260308173000 +0000" stop="20260308183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Insiders</title></programme>
 <programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Offsiders</title></programme>
 <programme start="20260308190000 +0000" stop="20260308200000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast</title></programme>
@@ -223,35 +223,6 @@
 <programme start="20260309140000 +0000" stop="20260309160000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Cinta Pertama, Kedua Dan Ketiga</title></programme>
 <programme start="20260309160000 +0000" stop="20260309163000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Academy Of Pop</title></programme>
 <programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="AllPlayEnt.id@SD"><title lang="id">Ini Dia</title></programme>
-<programme start="20260308174500 +0000" stop="20260308184000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">China&apos;s Wild Secrets S1 - Eps. 4</title></programme>
-<programme start="20260308184000 +0000" stop="20260308193500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Incredible Animal Moments</title></programme>
-<programme start="20260308193500 +0000" stop="20260308203000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Just Animals S3 - Eps. 5</title></programme>
-<programme start="20260308203000 +0000" stop="20260308210000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Night S1 - Eps. 11</title></programme>
-<programme start="20260308210000 +0000" stop="20260308220000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Louisiana Law S2 - Eps. 5</title></programme>
-<programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Guardians Of The Glades S1 - Eps. 9</title></programme>
-<programme start="20260308230000 +0000" stop="20260308235500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Life Among Lions S1 - Eps. 2</title></programme>
-<programme start="20260308235500 +0000" stop="20260309002200 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Super Animals S2 - Eps. 9</title></programme>
-<programme start="20260309002200 +0000" stop="20260309005000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Super Animals S2 - Eps. 8</title></programme>
-<programme start="20260309005000 +0000" stop="20260309014500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Wild Dubai</title></programme>
-<programme start="20260309014500 +0000" stop="20260309024000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Incredible Animal Moments</title></programme>
-<programme start="20260309024000 +0000" stop="20260309033500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Jeremy Wade&apos;s Dark Waters S1 - Eps. 3</title></programme>
-<programme start="20260309033500 +0000" stop="20260309043000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Pandamonium S1 - Eps. 3</title></programme>
-<programme start="20260309043000 +0000" stop="20260309052500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Wild Assassins S2 - Eps. 5</title></programme>
-<programme start="20260309052500 +0000" stop="20260309062000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">My Cat From Hell S6 - Eps. 1</title></programme>
-<programme start="20260309062000 +0000" stop="20260309071500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Louisiana Law S2 - Eps. 5</title></programme>
-<programme start="20260309071500 +0000" stop="20260309081000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Scaled S1 - Eps. 9</title></programme>
-<programme start="20260309081000 +0000" stop="20260309083700 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Nature&apos;s Strangest Mysteries: Solved S1 - Eps. 25</title></programme>
-<programme start="20260309083700 +0000" stop="20260309090500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Nature&apos;s Strangest Mysteries: Solved S1 - Eps. 26</title></programme>
-<programme start="20260309090500 +0000" stop="20260309100000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Extinct Or Alive S2 - Eps. 4</title></programme>
-<programme start="20260309100000 +0000" stop="20260309110000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">My Cat From Hell S6 - Eps. 1</title></programme>
-<programme start="20260309110000 +0000" stop="20260309120000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Wild Assassins S2 - Eps. 5</title></programme>
-<programme start="20260309120000 +0000" stop="20260309130000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Earth Wonders S1 - Eps. 2</title></programme>
-<programme start="20260309130000 +0000" stop="20260309133000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Jewels Of The Natural World S1 - Eps. 1</title></programme>
-<programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Jewels Of The Natural World S1 - Eps. 2</title></programme>
-<programme start="20260309140000 +0000" stop="20260309150000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Life Among Lions S1 - Eps. 3</title></programme>
-<programme start="20260309150000 +0000" stop="20260309155500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Mysterious Creatures With Forrest Galante S1 - Eps. 6</title></programme>
-<programme start="20260309155500 +0000" stop="20260309165000 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">My Cat From Hell S6 - Eps. 1</title></programme>
-<programme start="20260309165000 +0000" stop="20260309174500 +0000" channel="AnimalPlanetSoutheastAsia.sg@SD"><title lang="id">Earth Wonders S1 - Eps. 2</title></programme>
 <programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford Arc - Eps.17</title></programme>
 <programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="AnimaxAsia.sg@SD"><title lang="id">One Piece: Marineford Arc - Eps.18</title></programme>
 <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="AnimaxAsia.sg@SD"><title lang="id">The Foolish Angel Dances With The Devil - Eps.7</title></programme>
@@ -589,17 +560,17 @@
 <programme start="20260309150500 +0000" stop="20260309153000 +0000" channel="BaliTV.id@SD"><title lang="id">Folk Song</title></programme>
 <programme start="20260309153000 +0000" stop="20260309160000 +0000" channel="BaliTV.id@SD"><title lang="id">Bali Channel Tourist TV</title></programme>
 <programme start="20260309160000 +0000" stop="20260309170000 +0000" channel="BaliTV.id@SD"><title lang="id">Penutup</title></programme>
-<programme start="20260308170000 +0000" stop="20260308180000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Supercar Championship</title></programme>
+<programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Viral</title></programme>
 <programme start="20260308180000 +0000" stop="20260308180300 +0000" channel="BeritaSatu.id@SD"><title lang="id">Tanah Airku</title></programme>
 <programme start="20260308180300 +0000" stop="20260308184500 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
 <programme start="20260308184500 +0000" stop="20260308193000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260308193000 +0000" stop="20260308210000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260308193000 +0000" stop="20260308210000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah Ramadan</title></programme>
 <programme start="20260308210000 +0000" stop="20260308213000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Sejarah Islam</title></programme>
-<programme start="20260308213000 +0000" stop="20260308214200 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
-<programme start="20260308214200 +0000" stop="20260308214600 +0000" channel="BeritaSatu.id@SD"><title lang="id">Adzan Subuh Jakarta</title></programme>
-<programme start="20260308214600 +0000" stop="20260308230000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260308213000 +0000" stop="20260308214300 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260308214300 +0000" stop="20260308214700 +0000" channel="BeritaSatu.id@SD"><title lang="id">Adzan Subuh Jakarta</title></programme>
+<programme start="20260308214700 +0000" stop="20260308230000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
 <programme start="20260308230000 +0000" stop="20260308230300 +0000" channel="BeritaSatu.id@SD"><title lang="id">Indonesia Raya</title></programme>
-<programme start="20260308230300 +0000" stop="20260309003000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260308230300 +0000" stop="20260309003000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah Ramadan</title></programme>
 <programme start="20260309003000 +0000" stop="20260309010000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jendela Nusantara</title></programme>
 <programme start="20260309010000 +0000" stop="20260309010500 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
 <programme start="20260309010500 +0000" stop="20260309013000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Info Seleb</title></programme>
@@ -614,13 +585,13 @@
 <programme start="20260309073000 +0000" stop="20260309080000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Viral</title></programme>
 <programme start="20260309080000 +0000" stop="20260309083000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Merah Putih</title></programme>
 <programme start="20260309083000 +0000" stop="20260309090000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Kriminal</title></programme>
-<programme start="20260309090000 +0000" stop="20260309100400 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20260309100400 +0000" stop="20260309110200 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah Ramadan</title></programme>
-<programme start="20260309110200 +0000" stop="20260309110900 +0000" channel="BeritaSatu.id@SD"><title lang="id">Kultum</title></programme>
-<programme start="20260309110900 +0000" stop="20260309111400 +0000" channel="BeritaSatu.id@SD"><title lang="id">Filler Menantikan Azan Magrib</title></programme>
-<programme start="20260309111400 +0000" stop="20260309111800 +0000" channel="BeritaSatu.id@SD"><title lang="id">Azan Magrib</title></programme>
-<programme start="20260309111800 +0000" stop="20260309112300 +0000" channel="BeritaSatu.id@SD"><title lang="id">Filler Selamat Berbuka Puasa</title></programme>
-<programme start="20260309112300 +0000" stop="20260309130000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260309090000 +0000" stop="20260309100000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260309100000 +0000" stop="20260309105900 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah Ramadan</title></programme>
+<programme start="20260309105900 +0000" stop="20260309110600 +0000" channel="BeritaSatu.id@SD"><title lang="id">Kultum</title></programme>
+<programme start="20260309110600 +0000" stop="20260309111100 +0000" channel="BeritaSatu.id@SD"><title lang="id">Filler Menantikan Azan Magrib</title></programme>
+<programme start="20260309111100 +0000" stop="20260309111500 +0000" channel="BeritaSatu.id@SD"><title lang="id">Azan Magrib</title></programme>
+<programme start="20260309111500 +0000" stop="20260309112000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Filler Selamat Berbuka Puasa</title></programme>
+<programme start="20260309112000 +0000" stop="20260309130000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Utama</title></programme>
 <programme start="20260309130000 +0000" stop="20260309140000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260309140000 +0000" stop="20260309150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Viral</title></programme>
 <programme start="20260309150000 +0000" stop="20260309160000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
@@ -1069,15 +1040,15 @@
 <programme start="20260309150000 +0000" stop="20260309153000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20260309153000 +0000" stop="20260309160000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi</title></programme>
 <programme start="20260309160000 +0000" stop="20260309171500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Prime News</title></programme>
-<programme start="20260308170000 +0000" stop="20260308180000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">Fareed Zakaria GPS</title></programme>
+<programme start="20260308170000 +0000" stop="20260308180000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
 <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
 <programme start="20260308190000 +0000" stop="20260308200000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
 <programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
 <programme start="20260308210000 +0000" stop="20260308220000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
 <programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
-<programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
-<programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
-<programme start="20260309010000 +0000" stop="20260309020000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom Sunday</title></programme>
+<programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">Anderson Cooper 360</title></programme>
+<programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">Anderson Cooper 360</title></programme>
+<programme start="20260309010000 +0000" stop="20260309020000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">Anderson Cooper 360</title></programme>
 <programme start="20260309020000 +0000" stop="20260309040000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">The Whole Story with Anderson Cooper</title></programme>
 <programme start="20260309040000 +0000" stop="20260309050000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom</title></programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="CNNInternational.us@AsiaPacific"><title lang="id">CNN Newsroom</title></programme>
@@ -1951,24 +1922,24 @@
 <programme start="20260309115500 +0000" stop="20260309140000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">The Core</title></programme>
 <programme start="20260309140000 +0000" stop="20260309155500 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Jack Reacher: Never Go Back</title></programme>
 <programme start="20260309155500 +0000" stop="20260309172000 +0000" channel="GalaxyPremium.id@SD"><title lang="id">Zoom (2006)</title></programme>
-<programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260308190000 +0000" stop="20260308200000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309010000 +0000" stop="20260309013000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309013000 +0000" stop="20260309020000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309020000 +0000" stop="20260309023000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309023000 +0000" stop="20260309050000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309050000 +0000" stop="20260309073000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309073000 +0000" stop="20260309093000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309093000 +0000" stop="20260309110000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309110000 +0000" stop="20260309123000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309123000 +0000" stop="20260309143000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309143000 +0000" stop="20260309153000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309153000 +0000" stop="20260309163000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
-<programme start="20260309163000 +0000" stop="20260309180000 +0000" channel="GTV.id@SD"><title lang="id">GTV</title></programme>
+<programme start="20260308170000 +0000" stop="20260308190000 +0000" channel="GTV.id@SD"><title lang="id">Crime KV</title></programme>
+<programme start="20260308190000 +0000" stop="20260308203000 +0000" channel="GTV.id@SD"><title lang="id">Sword Dynasty: Messy Inn</title></programme>
+<programme start="20260308203000 +0000" stop="20260308220000 +0000" channel="GTV.id@SD"><title lang="id">The Great Magician</title></programme>
+<programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="GTV.id@SD"><title lang="id">Kisah Viral</title></programme>
+<programme start="20260308230000 +0000" stop="20260309003000 +0000" channel="GTV.id@SD"><title lang="id">Spongebob Squarepants</title></programme>
+<programme start="20260309003000 +0000" stop="20260309011500 +0000" channel="GTV.id@SD"><title lang="id">Cocomelon Dan Sahabat</title></programme>
+<programme start="20260309011500 +0000" stop="20260309020000 +0000" channel="GTV.id@SD"><title lang="id">Obrolan Seputar Selebriti</title></programme>
+<programme start="20260309020000 +0000" stop="20260309021500 +0000" channel="GTV.id@SD"><title lang="id">Buletin Inews Pagi</title></programme>
+<programme start="20260309021500 +0000" stop="20260309030000 +0000" channel="GTV.id@SD"><title lang="id">Bernard Bear</title></programme>
+<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="GTV.id@SD"><title lang="id">Spongebob Squarepants</title></programme>
+<programme start="20260309050000 +0000" stop="20260309073000 +0000" channel="GTV.id@SD"><title lang="id">Spongebob Squarepants</title></programme>
+<programme start="20260309073000 +0000" stop="20260309093000 +0000" channel="GTV.id@SD"><title lang="id">Spongebob Squarepants</title></programme>
+<programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="GTV.id@SD"><title lang="id">Spongebob Squarepants</title></programme>
+<programme start="20260309100000 +0000" stop="20260309110000 +0000" channel="GTV.id@SD"><title lang="id">Ramadan Sama Artis</title></programme>
+<programme start="20260309110000 +0000" stop="20260309123000 +0000" channel="GTV.id@SD"><title lang="id">New Family 100</title></programme>
+<programme start="20260309123000 +0000" stop="20260309143000 +0000" channel="GTV.id@SD"><title lang="id">The Mechanic</title></programme>
+<programme start="20260309143000 +0000" stop="20260309153000 +0000" channel="GTV.id@SD"><title lang="id">Untold Story</title></programme>
+<programme start="20260309153000 +0000" stop="20260309170000 +0000" channel="GTV.id@SD"><title lang="id">Jelajah Mitos</title></programme>
 <programme start="20260308172000 +0000" stop="20260308174500 +0000" channel="HGTVAsia.us@SD"><title lang="id">House Hunters S248</title></programme>
 <programme start="20260308174500 +0000" stop="20260308181000 +0000" channel="HGTVAsia.us@SD"><title lang="id">House Hunters S187</title></programme>
 <programme start="20260308181000 +0000" stop="20260308183500 +0000" channel="HGTVAsia.us@SD"><title lang="id">House Hunters International S196</title></programme>
@@ -2258,17 +2229,18 @@
 <programme start="20260309050000 +0000" stop="20260309070000 +0000" channel="Indosiar.id@SD"><title lang="id">Kisah Nyata Siang</title></programme>
 <programme start="20260309070000 +0000" stop="20260309083000 +0000" channel="Indosiar.id@SD"><title lang="id">Kisah Nyata</title></programme>
 <programme start="20260309083000 +0000" stop="20260309103000 +0000" channel="Indosiar.id@SD"><title lang="id">Kisah Nyata Spesial</title></programme>
-<programme start="20260309103000 +0000" stop="20260309110000 +0000" channel="Indosiar.id@SD"><title lang="id">Shihab &amp; Shihab</title></programme>
+<programme start="20260309103000 +0000" stop="20260309110000 +0000" channel="Indosiar.id@SD"><title lang="id">Shihab &amp; Shihab 2026</title></programme>
 <programme start="20260309110000 +0000" stop="20260309130000 +0000" channel="Indosiar.id@SD"><title lang="id">Merangkai Kisah Indah</title></programme>
-<programme start="20260309130000 +0000" stop="20260309153000 +0000" channel="Indosiar.id@SD"><title lang="id">BRI Super League</title></programme>
-<programme start="20260309153000 +0000" stop="20260309173000 +0000" channel="Indosiar.id@SD"><title lang="id">BRI Super League</title></programme>
+<programme start="20260309130000 +0000" stop="20260309153000 +0000" channel="Indosiar.id@SD"><title lang="id">BRI Super League 2025-2026 : Persib Bandung Vs Persik Kediri</title></programme>
+<programme start="20260309153000 +0000" stop="20260309173000 +0000" channel="Indosiar.id@SD"><title lang="id">Mega Film Asia</title></programme>
 <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="iNews.id@SD"><title lang="id">Realita</title></programme>
 <programme start="20260308190000 +0000" stop="20260308200000 +0000" channel="iNews.id@SD"><title lang="id">iNews Sore</title></programme>
 <programme start="20260308200000 +0000" stop="20260308203000 +0000" channel="iNews.id@SD"><title lang="id">Ramadan Story</title></programme>
 <programme start="20260308203000 +0000" stop="20260308210000 +0000" channel="iNews.id@SD"><title lang="id">Cahaya Hati The Series</title></programme>
 <programme start="20260308210000 +0000" stop="20260308230000 +0000" channel="iNews.id@SD"><title lang="id">iNews Pagi</title></programme>
 <programme start="20260308230000 +0000" stop="20260308233000 +0000" channel="iNews.id@SD"><title lang="id">iNews Sport Pagi</title></programme>
-<programme start="20260308233000 +0000" stop="20260309001000 +0000" channel="iNews.id@SD"><title lang="id">Special Report</title></programme>
+<programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="iNews.id@SD"><title lang="id">iBreak</title></programme>
+<programme start="20260309000000 +0000" stop="20260309001000 +0000" channel="iNews.id@SD"><title lang="id">Special Report</title></programme>
 <programme start="20260309001000 +0000" stop="20260309011000 +0000" channel="iNews.id@SD"><title lang="id">Morning Update</title></programme>
 <programme start="20260309011000 +0000" stop="20260309022000 +0000" channel="iNews.id@SD"><title lang="id">Lapor Polisi</title></programme>
 <programme start="20260309022000 +0000" stop="20260309040000 +0000" channel="iNews.id@SD"><title lang="id">iNews Today</title></programme>
@@ -2585,27 +2557,6 @@
 <programme start="20260309140000 +0000" stop="20260309145000 +0000" channel="MDTV.id@SD"><title lang="id">MD C-Drama: The Return Of The Condor Heroes</title></programme>
 <programme start="20260309145000 +0000" stop="20260309161500 +0000" channel="MDTV.id@SD"><title lang="id">Jatanras</title></programme>
 <programme start="20260309161500 +0000" stop="20260309170500 +0000" channel="MDTV.id@SD"><title lang="id">86</title></programme>
-<programme start="20260308170000 +0000" stop="20260308183000 +0000" channel="MentariTV.id@SD"><title lang="id">Keluarga Somat Ramadan</title></programme>
-<programme start="20260308183000 +0000" stop="20260308210000 +0000" channel="MentariTV.id@SD"><title lang="id">Sahur Ceria</title></programme>
-<programme start="20260308210000 +0000" stop="20260308220000 +0000" channel="MentariTV.id@SD"><title lang="id">Tian Tian</title></programme>
-<programme start="20260308220000 +0000" stop="20260308223000 +0000" channel="MentariTV.id@SD"><title lang="id">Little Angel</title></programme>
-<programme start="20260308223000 +0000" stop="20260308230000 +0000" channel="MentariTV.id@SD"><title lang="id">Cocomelon Ind</title></programme>
-<programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="MentariTV.id@SD"><title lang="id">Numberblocks</title></programme>
-<programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="MentariTV.id@SD"><title lang="id">Pinkfong &amp; Friends</title></programme>
-<programme start="20260309010000 +0000" stop="20260309023000 +0000" channel="MentariTV.id@SD"><title lang="id">Tayo, The Little Bus</title></programme>
-<programme start="20260309023000 +0000" stop="20260309040000 +0000" channel="MentariTV.id@SD"><title lang="id">Katuri</title></programme>
-<programme start="20260309040000 +0000" stop="20260309060000 +0000" channel="MentariTV.id@SD"><title lang="id">Pororo, The Little Penguin</title></programme>
-<programme start="20260309060000 +0000" stop="20260309070000 +0000" channel="MentariTV.id@SD"><title lang="id">Rainbow Bubblegem</title></programme>
-<programme start="20260309070000 +0000" stop="20260309083000 +0000" channel="MentariTV.id@SD"><title lang="id">Bluey</title></programme>
-<programme start="20260309083000 +0000" stop="20260309093000 +0000" channel="MentariTV.id@SD"><title lang="id">Tian Tian</title></programme>
-<programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="MentariTV.id@SD"><title lang="id">Cipung Abubu Season 2</title></programme>
-<programme start="20260309100000 +0000" stop="20260309103000 +0000" channel="MentariTV.id@SD"><title lang="id">Bing</title></programme>
-<programme start="20260309103000 +0000" stop="20260309110000 +0000" channel="MentariTV.id@SD"><title lang="id">Kultum Ceria</title></programme>
-<programme start="20260309110000 +0000" stop="20260309120000 +0000" channel="MentariTV.id@SD"><title lang="id">Magic 5 The Animation</title></programme>
-<programme start="20260309120000 +0000" stop="20260309130000 +0000" channel="MentariTV.id@SD"><title lang="id">New Keluarga Somat</title></programme>
-<programme start="20260309130000 +0000" stop="20260309150000 +0000" channel="MentariTV.id@SD"><title lang="id">Bioskop Keluarga Indonesia (Dolphin Boy)</title></programme>
-<programme start="20260309150000 +0000" stop="20260309160000 +0000" channel="MentariTV.id@SD"><title lang="id">Pokemon Season 27 Horizon Season 2</title></programme>
-<programme start="20260309160000 +0000" stop="20260309170000 +0000" channel="MentariTV.id@SD"><title lang="id">Madun</title></programme>
 <programme start="20260308170000 +0000" stop="20260308170500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260308170500 +0000" stop="20260308173000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
 <programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
@@ -2709,22 +2660,22 @@
 <programme start="20260309160000 +0000" stop="20260309170000 +0000" channel="MNCTV.id@SD"><title lang="id">Daur Hidup</title></programme>
 <programme start="20260308173000 +0000" stop="20260308183000 +0000" channel="Moji.id@SD"><title lang="id">Tarawih Dari Mekkah</title></programme>
 <programme start="20260308183000 +0000" stop="20260308201000 +0000" channel="Moji.id@SD"><title lang="id">FTV Religi Sinemart</title></programme>
-<programme start="20260308201000 +0000" stop="20260308214400 +0000" channel="Moji.id@SD"><title lang="id">FTV Religi Sinemart</title></programme>
-<programme start="20260308214400 +0000" stop="20260308230700 +0000" channel="Moji.id@SD"><title lang="id">Tobat!</title></programme>
-<programme start="20260308230700 +0000" stop="20260309001500 +0000" channel="Moji.id@SD"><title lang="id">Moji Sport</title></programme>
+<programme start="20260308201000 +0000" stop="20260308213800 +0000" channel="Moji.id@SD"><title lang="id">FTV Religi Sinemart</title></programme>
+<programme start="20260308213800 +0000" stop="20260308230600 +0000" channel="Moji.id@SD"><title lang="id">FTV Religi</title></programme>
+<programme start="20260308230600 +0000" stop="20260309001500 +0000" channel="Moji.id@SD"><title lang="id">Moji Sport</title></programme>
 <programme start="20260309001500 +0000" stop="20260309010000 +0000" channel="Moji.id@SD"><title lang="id">Liputan 6 Pagi Moji</title></programme>
-<programme start="20260309010000 +0000" stop="20260309020300 +0000" channel="Moji.id@SD"><title lang="id">Netizen Update Spc Ramadan</title></programme>
-<programme start="20260309020300 +0000" stop="20260309030800 +0000" channel="Moji.id@SD"><title lang="id">Ungkap (Hikmah Dibalik Dosa)</title></programme>
-<programme start="20260309030800 +0000" stop="20260309040600 +0000" channel="Moji.id@SD"><title lang="id">Ungkap (Hikmah Dibalik Dosa)</title></programme>
+<programme start="20260309010000 +0000" stop="20260309020200 +0000" channel="Moji.id@SD"><title lang="id">Ungkap</title></programme>
+<programme start="20260309020200 +0000" stop="20260309030400 +0000" channel="Moji.id@SD"><title lang="id">Ungkap (Hikmah Di Balik Dosa)</title></programme>
+<programme start="20260309030400 +0000" stop="20260309040600 +0000" channel="Moji.id@SD"><title lang="id">Ungkap (Hikmah Di Balik Dosa)</title></programme>
 <programme start="20260309040600 +0000" stop="20260309050000 +0000" channel="Moji.id@SD"><title lang="id">Tercyduk</title></programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Moji.id@SD"><title lang="id">Checkout Sekarang</title></programme>
-<programme start="20260309060000 +0000" stop="20260309093400 +0000" channel="Moji.id@SD"><title lang="id">Tercyduk</title></programme>
-<programme start="20260309093400 +0000" stop="20260309105900 +0000" channel="Moji.id@SD"><title lang="id">Tobat!</title></programme>
-<programme start="20260309105900 +0000" stop="20260309111800 +0000" channel="Moji.id@SD"><title lang="id">Hikmah Ramadan</title></programme>
-<programme start="20260309111800 +0000" stop="20260309131600 +0000" channel="Moji.id@SD"><title lang="id">Para Pencari Tuhan Jilid 19</title></programme>
-<programme start="20260309131600 +0000" stop="20260309154100 +0000" channel="Moji.id@SD"><title lang="id">Proliga 2026</title></programme>
-<programme start="20260309154100 +0000" stop="20260309164600 +0000" channel="Moji.id@SD"><title lang="id">Ungkap (Hikmah Dibalik Dosa)</title></programme>
-<programme start="20260309164600 +0000" stop="20260309174700 +0000" channel="Moji.id@SD"><title lang="id">Harta Tahta Cinta</title></programme>
+<programme start="20260309060000 +0000" stop="20260309105700 +0000" channel="Moji.id@SD"><title lang="id">Tercyduk</title></programme>
+<programme start="20260309105700 +0000" stop="20260309110800 +0000" channel="Moji.id@SD"><title lang="id">Hikmah Ramadan</title></programme>
+<programme start="20260309110800 +0000" stop="20260309111600 +0000" channel="Moji.id@SD"><title lang="id">Rangkaian Adzan Maghrib</title></programme>
+<programme start="20260309111600 +0000" stop="20260309122700 +0000" channel="Moji.id@SD"><title lang="id">Tobat!</title></programme>
+<programme start="20260309122700 +0000" stop="20260309142400 +0000" channel="Moji.id@SD"><title lang="id">Para Pencari Tuhan Jilid 19</title></programme>
+<programme start="20260309142400 +0000" stop="20260309165600 +0000" channel="Moji.id@SD"><title lang="id">Rerun Proliga 2026</title></programme>
+<programme start="20260309165600 +0000" stop="20260309175500 +0000" channel="Moji.id@SD"><title lang="id">Ungkap (Hikmah Di Balik Dosa)</title></programme>
 <programme start="20260308172300 +0000" stop="20260308175100 +0000" channel="moonbug"><title lang="id">Oddbods</title></programme>
 <programme start="20260308175100 +0000" stop="20260308181900 +0000" channel="moonbug"><title lang="id">Oddbods</title></programme>
 <programme start="20260308181900 +0000" stop="20260308185000 +0000" channel="moonbug"><title lang="id">Antiks</title></programme>
@@ -3484,15 +3435,15 @@
 <programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boba (Bombastis Banget)</title></programme>
 <programme start="20260308190000 +0000" stop="20260308200000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Trang Quynh</title></programme>
 <programme start="20260308200000 +0000" stop="20260308203000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Makania</title></programme>
-<programme start="20260308203000 +0000" stop="20260308210000 +0000" channel="RajawaliTV.id@SD"><title lang="id">I&apos;M The Best Muslim!</title></programme>
-<programme start="20260308210000 +0000" stop="20260308220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riko The Series</title></programme>
-<programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Rainbow Ruby</title></programme>
+<programme start="20260308203000 +0000" stop="20260308213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riko The Series</title></programme>
+<programme start="20260308213000 +0000" stop="20260308220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">I&apos;M The Best Muslim!</title></programme>
+<programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Marsupilami</title></programme>
 <programme start="20260308230000 +0000" stop="20260309010000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
 <programme start="20260309010000 +0000" stop="20260309023000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Grizzy And The Lemmings</title></programme>
-<programme start="20260309023000 +0000" stop="20260309033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurfs</title></programme>
+<programme start="20260309023000 +0000" stop="20260309033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
 <programme start="20260309033000 +0000" stop="20260309043000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
 <programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Tawa Satwa</title></programme>
-<programme start="20260309050000 +0000" stop="20260309063000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
+<programme start="20260309050000 +0000" stop="20260309063000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurfs</title></programme>
 <programme start="20260309063000 +0000" stop="20260309080000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ejen Ali</title></programme>
 <programme start="20260309080000 +0000" stop="20260309093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy</title></programme>
 <programme start="20260309093000 +0000" stop="20260309110000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ibra Berkisah</title></programme>
@@ -3711,8 +3662,8 @@
 <programme start="20260308190000 +0000" stop="20260308230800 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 NASCAR Cup Series: Strait Talk Wireless 500</title></programme>
 <programme start="20260308230800 +0000" stop="20260309020000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 World Baseball Classic: Pool A: Panama vs Canada</title></programme>
 <programme start="20260309020000 +0000" stop="20260309040000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 20: Sydney FC vs Melbourne Victory</title></programme>
-<programme start="20260309040000 +0000" stop="20260309090000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 LET: Australian Women&apos;s Classic: Day 2</title></programme>
-<programme start="20260309090000 +0000" stop="20260309100800 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Supercars: Dunlop Sydney 500: Highlights 1</title></programme>
+<programme start="20260309040000 +0000" stop="20260309093500 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 LET: Australian Women&apos;s Classic: Day 2</title></programme>
+<programme start="20260309093500 +0000" stop="20260309100800 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Supercars: Dunlop Sydney 500: Highlights 1</title></programme>
 <programme start="20260309100800 +0000" stop="20260309130000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 World Baseball Classic: Pool C: Korea vs Australia</title></programme>
 <programme start="20260309130000 +0000" stop="20260309140000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Supercars: Dunlop Sydney 500: Highlights 2</title></programme>
 <programme start="20260309140000 +0000" stop="20260309170000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 World Baseball Classic: Pool A: Cuba vs Panama</title></programme>
