@@ -66,5 +66,10 @@
   <channel site="indihometv.com" site_id="bioskopindonesia" lang="id" xmltv_id="BioskopIndonesia.id@SD">Bioskop Indonesia</channel>
   <channel site="indihometv.com" site_id="tvri" lang="id" xmltv_id="TVRI.id@SD">TVRI Nasional</channel>
   <channel site="indihometv.com" site_id="tvriworld" lang="id" xmltv_id="TVRIWorld.id@SD">TVRI World</channel>
+  <channel site="allente.no" site_id="no#0299" lang="no" xmltv_id="">V film action HD (T)</channel>
+  <channel site="allente.no" site_id="no#0308" lang="no" xmltv_id="">V film family (T)</channel>
+  <channel site="allente.no" site_id="no#0322" lang="no" xmltv_id="">V film hits HD (T)</channel>
+  <channel site="allente.no" site_id="no#0321" lang="no" xmltv_id="">V film premiere HD (T)</channel>
+  <channel site="allente.no" site_id="no#0320" lang="no" xmltv_id="">V series HD (T)</channel>
 </channels>
   
