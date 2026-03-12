@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260312">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
-<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn@SD"><display-name>Zhejiang</display-name><icon src="https://i.imgur.com/NFFQNhq.png"/><url>https://indihometv.com</url></channel>
@@ -122,9 +122,9 @@
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260311174500 +0000" stop="20260311180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Media Watch</title></programme>
 <programme start="20260311180000 +0000" stop="20260311190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World</title></programme>
 <programme start="20260311190000 +0000" stop="20260311200000 +0000" channel="ABCAustralia.au@SD"><title lang="id">News Breakfast</title></programme>
@@ -3447,6 +3447,23 @@
 <programme start="20260312153000 +0000" stop="20260312160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Lensa Indonesia Malam</title></programme>
 <programme start="20260312160000 +0000" stop="20260312163000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ijin, Ndan !</title></programme>
 <programme start="20260312163000 +0000" stop="20260312170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">STB (Sangat Tidak Biasa)</title></programme>
+<programme start="20260311170000 +0000" stop="20260311190000 +0000" channel="RCTI.id@SD"><title lang="id">Preman Pensiun X</title></programme>
+<programme start="20260311190000 +0000" stop="20260311204500 +0000" channel="RCTI.id@SD"><title lang="id">Preman Pensiun X</title></programme>
+<programme start="20260311204500 +0000" stop="20260311223000 +0000" channel="RCTI.id@SD"><title lang="id">Banyak Jalan Menuju Surga</title></programme>
+<programme start="20260311223000 +0000" stop="20260311233000 +0000" channel="RCTI.id@SD"><title lang="id">Penyejuk Hati</title></programme>
+<programme start="20260311233000 +0000" stop="20260312000000 +0000" channel="RCTI.id@SD"><title lang="id">Go Spot</title></programme>
+<programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="RCTI.id@SD"><title lang="id">Upin Ipin</title></programme>
+<programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="RCTI.id@SD"><title lang="id">Entong</title></programme>
+<programme start="20260312020000 +0000" stop="20260312033000 +0000" channel="RCTI.id@SD"><title lang="id">Ninja Hattori</title></programme>
+<programme start="20260312033000 +0000" stop="20260312043000 +0000" channel="RCTI.id@SD"><title lang="id">Silet</title></programme>
+<programme start="20260312043000 +0000" stop="20260312050000 +0000" channel="RCTI.id@SD"><title lang="id">Seputar iNews Siang</title></programme>
+<programme start="20260312050000 +0000" stop="20260312063000 +0000" channel="RCTI.id@SD"><title lang="id">Entong</title></programme>
+<programme start="20260312063000 +0000" stop="20260312083000 +0000" channel="RCTI.id@SD"><title lang="id">Hafiz Indonesia 2026</title></programme>
+<programme start="20260312083000 +0000" stop="20260312100000 +0000" channel="RCTI.id@SD"><title lang="id">Banyak Jalan Menuju Surga</title></programme>
+<programme start="20260312100000 +0000" stop="20260312113000 +0000" channel="RCTI.id@SD"><title lang="id">Amanah Wali S8</title></programme>
+<programme start="20260312113000 +0000" stop="20260312130000 +0000" channel="RCTI.id@SD"><title lang="id">99 Nama Cinta</title></programme>
+<programme start="20260312130000 +0000" stop="20260312150000 +0000" channel="RCTI.id@SD"><title lang="id">Mencintai Ipar Sendiri</title></programme>
+<programme start="20260312150000 +0000" stop="20260312170000 +0000" channel="RCTI.id@SD"><title lang="id">Teror Mia</title></programme>
 <programme start="20260311173000 +0000" stop="20260311183000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">DOC - In Your Hands S3 - Eps. 8</title></programme>
 <programme start="20260311183000 +0000" stop="20260311193000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">DOC - In Your Hands S3 - Eps. 9</title></programme>
 <programme start="20260311193000 +0000" stop="20260311202500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Good Fight S6 - Eps. 5</title></programme>
