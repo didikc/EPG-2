@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260316">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
 <channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
@@ -50,9 +49,10 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260315170000 +0000" stop="20260315180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -274,6 +274,34 @@
 <programme start="20260316122900 +0000" stop="20260316151400 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
 <programme start="20260316151400 +0000" stop="20260316165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
 <programme start="20260316165950 +0000" stop="20260316165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
+<programme start="20260316170000 +0000" stop="20260316180900 +0000" channel="143"><title lang="id">Sarah Vaughan The Divine One</title><desc lang="id">Documentary on the divine Sarah Vaughan: three-octave voice and five decades of unforgettable jazz.</desc></programme>
+<programme start="20260316180900 +0000" stop="20260316192500 +0000" channel="143"><title lang="id">Hugo Lippi Olha Maria</title><desc lang="id">The French guitarist blends covers and original compositions in lively jazz, accompanied by special guests.</desc></programme>
+<programme start="20260316192500 +0000" stop="20260316202300 +0000" channel="143"><title lang="id">AdÃ¨le Charvet</title><desc lang="id">The young mezzo pays tribute to the Black Venus and her whimsical jazz from the 1920s-30s.</desc></programme>
+<programme start="20260316202300 +0000" stop="20260316230000 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title><desc lang="id">Enjoy our chillin playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260316230000 +0000" stop="20260317000900 +0000" channel="143"><title lang="id">Sarah Vaughan The Divine One</title><desc lang="id">Documentary on the divine Sarah Vaughan: three-octave voice and five decades of unforgettable jazz.</desc></programme>
+<programme start="20260317000900 +0000" stop="20260317012500 +0000" channel="143"><title lang="id">Hugo Lippi Olha Maria</title><desc lang="id">The French guitarist blends covers and original compositions in lively jazz, accompanied by special guests.</desc></programme>
+<programme start="20260317012500 +0000" stop="20260317022300 +0000" channel="143"><title lang="id">AdÃ¨le Charvet</title><desc lang="id">The young mezzo pays tribute to the Black Venus and her whimsical jazz from the 1920s-30s.</desc></programme>
+<programme start="20260317022300 +0000" stop="20260317040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title><desc lang="id">This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music - Quincy Jones</desc></programme>
+<programme start="20260317040000 +0000" stop="20260317064800 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title><desc lang="id">Enjoy our chillin playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260317064800 +0000" stop="20260317093300 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
+<programme start="20260317093300 +0000" stop="20260317122400 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title><desc lang="id">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!</desc></programme>
+<programme start="20260317122400 +0000" stop="20260317151400 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: From Bebop to Doo-Wop to Hip Hop as Quincy Jones loves to say!</desc></programme>
+<programme start="20260317151400 +0000" stop="20260317165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonights concert on Qwest TV!</desc></programme>
+<programme start="20260317165950 +0000" stop="20260317165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonights concert on Qwest TV!</desc></programme>
+<programme start="20260317170000 +0000" stop="20260317190200 +0000" channel="143"><title lang="id">Andrea Motis Quintet - Moods</title><desc lang="id">Brought on stage by Quincy Jones, trumpet player, singer and composer demonstrates her elegance and simplicity</desc></programme>
+<programme start="20260317190200 +0000" stop="20260317200800 +0000" channel="143"><title lang="id">Dee Dee Bridgewater</title><desc lang="id">The Grammy-winning artist ignites the stage with her all-female band and socially conscious jazz.</desc></programme>
+<programme start="20260317200800 +0000" stop="20260317212000 +0000" channel="143"><title lang="id">Talmage Farlow</title><desc lang="id">Legendary modern jazz guitarist, â€œThe Octopusâ€ blends subtle virtuosity with emotional finesse.</desc></programme>
+<programme start="20260317212000 +0000" stop="20260317230000 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title><desc lang="id">Enjoy our chillin playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260317230000 +0000" stop="20260318010200 +0000" channel="143"><title lang="id">Andrea Motis Quintet - Moods</title><desc lang="id">Brought on stage by Quincy Jones, trumpet player, singer and composer demonstrates her elegance and simplicity</desc></programme>
+<programme start="20260318010200 +0000" stop="20260318020800 +0000" channel="143"><title lang="id">Dee Dee Bridgewater</title><desc lang="id">The Grammy-winning artist ignites the stage with her all-female band and socially conscious jazz.</desc></programme>
+<programme start="20260318020800 +0000" stop="20260318032000 +0000" channel="143"><title lang="id">Talmage Farlow</title><desc lang="id">Legendary modern jazz guitarist, â€œThe Octopusâ€ blends subtle virtuosity with emotional finesse.</desc></programme>
+<programme start="20260318032000 +0000" stop="20260318040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title><desc lang="id">This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music - Quincy Jones</desc></programme>
+<programme start="20260318040000 +0000" stop="20260318064200 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title><desc lang="id">Enjoy our chillin playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
+<programme start="20260318064200 +0000" stop="20260318092900 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
+<programme start="20260318092900 +0000" stop="20260318120900 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title><desc lang="id">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!</desc></programme>
+<programme start="20260318120900 +0000" stop="20260318144800 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title><desc lang="id">Discover new tracks and timeless standards: From Bebop to Doo-Wop to Hip Hop as Quincy Jones loves to say!</desc></programme>
+<programme start="20260318144800 +0000" stop="20260318165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonights concert on Qwest TV!</desc></programme>
+<programme start="20260318165950 +0000" stop="20260318165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title><desc lang="id">This is your front-row seat for tonights concert on Qwest TV!</desc></programme>
 <programme start="20260315170000 +0000" stop="20260315173000 +0000" channel="144"><title lang="id">Headline News</title></programme>
 <programme start="20260315173000 +0000" stop="20260315180000 +0000" channel="144"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
 <programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="144"><title lang="id">Headline News</title></programme>
@@ -751,43 +779,122 @@
 <programme start="20260318150000 +0000" stop="20260318160000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260318160000 +0000" stop="20260318165950 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260318165950 +0000" stop="20260318165959 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315170000 +0000" stop="20260315180000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315180000 +0000" stop="20260315180300 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315180300 +0000" stop="20260315193000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315193000 +0000" stop="20260315210000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315210000 +0000" stop="20260315213000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315213000 +0000" stop="20260315214200 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315214200 +0000" stop="20260315214600 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315214600 +0000" stop="20260315230000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315230000 +0000" stop="20260315230300 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260315230300 +0000" stop="20260316003000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316003000 +0000" stop="20260316010000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316010000 +0000" stop="20260316010500 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316010500 +0000" stop="20260316011500 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316011500 +0000" stop="20260316014500 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316014500 +0000" stop="20260316020000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316020000 +0000" stop="20260316020500 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316020500 +0000" stop="20260316023000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316023000 +0000" stop="20260316033000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316033000 +0000" stop="20260316040000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316040000 +0000" stop="20260316060000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316060000 +0000" stop="20260316070000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316070000 +0000" stop="20260316073000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316073000 +0000" stop="20260316080000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316080000 +0000" stop="20260316083000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316083000 +0000" stop="20260316090000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316090000 +0000" stop="20260316100400 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316100400 +0000" stop="20260316110400 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316110400 +0000" stop="20260316111100 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316111100 +0000" stop="20260316111600 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316111600 +0000" stop="20260316112100 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316112100 +0000" stop="20260316112600 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316112600 +0000" stop="20260316130000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316130000 +0000" stop="20260316140000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316140000 +0000" stop="20260316150000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316150000 +0000" stop="20260316160000 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316160000 +0000" stop="20260316165950 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260316165950 +0000" stop="20260316165959 +0000" channel="BTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260315173000 +0000" stop="20260315180000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260315180000 +0000" stop="20260315180300 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
+<programme start="20260315180300 +0000" stop="20260315193000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260315193000 +0000" stop="20260315210000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260315210000 +0000" stop="20260315213000 +0000" channel="BTV.id@SD"><title lang="id">Sejarah Islam</title></programme>
+<programme start="20260315213000 +0000" stop="20260315214200 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260315214200 +0000" stop="20260315214600 +0000" channel="BTV.id@SD"><title lang="id">Adzan Subuh Jakarta</title></programme>
+<programme start="20260315214600 +0000" stop="20260315230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260315230000 +0000" stop="20260315230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20260315230300 +0000" stop="20260316003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260316003000 +0000" stop="20260316010000 +0000" channel="BTV.id@SD"><title lang="id">Info Seleb</title></programme>
+<programme start="20260316010000 +0000" stop="20260316010500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260316010500 +0000" stop="20260316011500 +0000" channel="BTV.id@SD"><title lang="id">Info Seleb</title></programme>
+<programme start="20260316011500 +0000" stop="20260316014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
+<programme start="20260316014500 +0000" stop="20260316020000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260316020000 +0000" stop="20260316020500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260316020500 +0000" stop="20260316023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260316023000 +0000" stop="20260316033000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
+<programme start="20260316033000 +0000" stop="20260316040000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260316040000 +0000" stop="20260316060000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260316060000 +0000" stop="20260316070000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260316070000 +0000" stop="20260316073000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Nusantara: Jawa Barat</title></programme>
+<programme start="20260316073000 +0000" stop="20260316080000 +0000" channel="BTV.id@SD"><title lang="id">Dikit-Dikit Damkar</title></programme>
+<programme start="20260316080000 +0000" stop="20260316083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Merah Putih</title></programme>
+<programme start="20260316083000 +0000" stop="20260316090000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260316090000 +0000" stop="20260316100000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260316100000 +0000" stop="20260316105300 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260316105300 +0000" stop="20260316110200 +0000" channel="BTV.id@SD"><title lang="id">Kultum</title></programme>
+<programme start="20260316110200 +0000" stop="20260316110700 +0000" channel="BTV.id@SD"><title lang="id">Menantikan Azan Magrib</title></programme>
+<programme start="20260316110700 +0000" stop="20260316111100 +0000" channel="BTV.id@SD"><title lang="id">Azan Magrib</title></programme>
+<programme start="20260316111100 +0000" stop="20260316111600 +0000" channel="BTV.id@SD"><title lang="id">Selamat Berbuka Puasa</title></programme>
+<programme start="20260316111600 +0000" stop="20260316130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260316130000 +0000" stop="20260316140000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260316140000 +0000" stop="20260316150000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260316150000 +0000" stop="20260316160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260316160000 +0000" stop="20260316163000 +0000" channel="BTV.id@SD"><title lang="id">Sirkuit Nasional Padel 2026</title></programme>
+<programme start="20260316163000 +0000" stop="20260316165950 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260316165950 +0000" stop="20260316165959 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260316170000 +0000" stop="20260316173000 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260316173000 +0000" stop="20260316180000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260316180000 +0000" stop="20260316180300 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
+<programme start="20260316180300 +0000" stop="20260316193000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260316193000 +0000" stop="20260316210000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260316210000 +0000" stop="20260316213000 +0000" channel="BTV.id@SD"><title lang="id">Sejarah Islam</title></programme>
+<programme start="20260316213000 +0000" stop="20260316214200 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260316214200 +0000" stop="20260316214600 +0000" channel="BTV.id@SD"><title lang="id">Adzan Subuh Jakarta</title></programme>
+<programme start="20260316214600 +0000" stop="20260316230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260316230000 +0000" stop="20260316230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20260316230300 +0000" stop="20260317003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260317003000 +0000" stop="20260317010000 +0000" channel="BTV.id@SD"><title lang="id">Info Seleb</title></programme>
+<programme start="20260317010000 +0000" stop="20260317010500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260317010500 +0000" stop="20260317011500 +0000" channel="BTV.id@SD"><title lang="id">Info Seleb</title></programme>
+<programme start="20260317011500 +0000" stop="20260317014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
+<programme start="20260317014500 +0000" stop="20260317020000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260317020000 +0000" stop="20260317020500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260317020500 +0000" stop="20260317023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260317023000 +0000" stop="20260317033000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
+<programme start="20260317033000 +0000" stop="20260317040000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260317040000 +0000" stop="20260317060000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260317060000 +0000" stop="20260317070000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260317070000 +0000" stop="20260317073000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Nusantara: Jawa Barat</title></programme>
+<programme start="20260317073000 +0000" stop="20260317080000 +0000" channel="BTV.id@SD"><title lang="id">Dikit-Dikit Damkar</title></programme>
+<programme start="20260317080000 +0000" stop="20260317083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Merah Putih</title></programme>
+<programme start="20260317083000 +0000" stop="20260317090000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260317090000 +0000" stop="20260317100000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260317100000 +0000" stop="20260317105300 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260317105300 +0000" stop="20260317110200 +0000" channel="BTV.id@SD"><title lang="id">Kultum</title></programme>
+<programme start="20260317110200 +0000" stop="20260317110700 +0000" channel="BTV.id@SD"><title lang="id">Menantikan Azan Magrib</title></programme>
+<programme start="20260317110700 +0000" stop="20260317111100 +0000" channel="BTV.id@SD"><title lang="id">Azan Magrib</title></programme>
+<programme start="20260317111100 +0000" stop="20260317111600 +0000" channel="BTV.id@SD"><title lang="id">Selamat Berbuka Puasa</title></programme>
+<programme start="20260317111600 +0000" stop="20260317130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260317130000 +0000" stop="20260317140000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260317140000 +0000" stop="20260317150000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260317150000 +0000" stop="20260317160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260317160000 +0000" stop="20260317163000 +0000" channel="BTV.id@SD"><title lang="id">Sirkuit Nasional Padel 2026</title></programme>
+<programme start="20260317163000 +0000" stop="20260317165950 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260317165950 +0000" stop="20260317165959 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260317170000 +0000" stop="20260317173000 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260317173000 +0000" stop="20260317180000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260317180000 +0000" stop="20260317180300 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
+<programme start="20260317180300 +0000" stop="20260317193000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260317193000 +0000" stop="20260317210000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260317210000 +0000" stop="20260317213000 +0000" channel="BTV.id@SD"><title lang="id">Sejarah Islam</title></programme>
+<programme start="20260317213000 +0000" stop="20260317214200 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260317214200 +0000" stop="20260317214600 +0000" channel="BTV.id@SD"><title lang="id">Adzan Subuh Jakarta</title></programme>
+<programme start="20260317214600 +0000" stop="20260317230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260317230000 +0000" stop="20260317230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20260317230300 +0000" stop="20260318003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260318003000 +0000" stop="20260318010000 +0000" channel="BTV.id@SD"><title lang="id">Info Seleb</title></programme>
+<programme start="20260318010000 +0000" stop="20260318010500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260318010500 +0000" stop="20260318011500 +0000" channel="BTV.id@SD"><title lang="id">Info Seleb</title></programme>
+<programme start="20260318011500 +0000" stop="20260318014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
+<programme start="20260318014500 +0000" stop="20260318020000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260318020000 +0000" stop="20260318020500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260318020500 +0000" stop="20260318023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260318023000 +0000" stop="20260318033000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
+<programme start="20260318033000 +0000" stop="20260318040000 +0000" channel="BTV.id@SD"><title lang="id">IDN Update Cerita Jakarta</title></programme>
+<programme start="20260318040000 +0000" stop="20260318060000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260318060000 +0000" stop="20260318070000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260318070000 +0000" stop="20260318073000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Nusantara: Jawa Barat</title></programme>
+<programme start="20260318073000 +0000" stop="20260318080000 +0000" channel="BTV.id@SD"><title lang="id">Dikit-Dikit Damkar</title></programme>
+<programme start="20260318080000 +0000" stop="20260318083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Merah Putih</title></programme>
+<programme start="20260318083000 +0000" stop="20260318090000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260318090000 +0000" stop="20260318100000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260318100000 +0000" stop="20260318105500 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260318105500 +0000" stop="20260318110200 +0000" channel="BTV.id@SD"><title lang="id">Kultum</title></programme>
+<programme start="20260318110200 +0000" stop="20260318110700 +0000" channel="BTV.id@SD"><title lang="id">Menantikan Azan Magrib</title></programme>
+<programme start="20260318110700 +0000" stop="20260318111100 +0000" channel="BTV.id@SD"><title lang="id">Azan Magrib</title></programme>
+<programme start="20260318111100 +0000" stop="20260318111600 +0000" channel="BTV.id@SD"><title lang="id">Selamat Berbuka Puasa</title></programme>
+<programme start="20260318111600 +0000" stop="20260318130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260318130000 +0000" stop="20260318140000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260318140000 +0000" stop="20260318150000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260318150000 +0000" stop="20260318160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260318160000 +0000" stop="20260318163000 +0000" channel="BTV.id@SD"><title lang="id">Sirkuit Nasional Padel 2026</title></programme>
+<programme start="20260318163000 +0000" stop="20260318165950 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260318165950 +0000" stop="20260318165959 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
 <programme start="20260315170000 +0000" stop="20260315180000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2237,6 +2344,84 @@
 <programme start="20260316153000 +0000" stop="20260316160000 +0000" channel="JakTV.id@SD"><title lang="id">My Health My Choice</title></programme>
 <programme start="20260316160000 +0000" stop="20260316165950 +0000" channel="JakTV.id@SD"><title lang="id">Duoluo Continent</title></programme>
 <programme start="20260316165950 +0000" stop="20260316165959 +0000" channel="JakTV.id@SD"><title lang="id">Duoluo Continent</title></programme>
+<programme start="20260316170000 +0000" stop="20260316173000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260316173000 +0000" stop="20260316180000 +0000" channel="JakTV.id@SD"><title lang="id">Dunia Kita</title></programme>
+<programme start="20260316180000 +0000" stop="20260316183000 +0000" channel="JakTV.id@SD"><title lang="id">Oooppss</title></programme>
+<programme start="20260316183000 +0000" stop="20260316190000 +0000" channel="JakTV.id@SD"><title lang="id">Mirror Story</title></programme>
+<programme start="20260316190000 +0000" stop="20260316193000 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri Alkisah</title></programme>
+<programme start="20260316193000 +0000" stop="20260316200000 +0000" channel="JakTV.id@SD"><title lang="id">Senyum Quran</title></programme>
+<programme start="20260316200000 +0000" stop="20260316203000 +0000" channel="JakTV.id@SD"><title lang="id">Kubah Borneo</title></programme>
+<programme start="20260316203000 +0000" stop="20260316213000 +0000" channel="JakTV.id@SD"><title lang="id">Sahur Time</title></programme>
+<programme start="20260316213000 +0000" stop="20260316220000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260316220000 +0000" stop="20260316223000 +0000" channel="JakTV.id@SD"><title lang="id">Take Me To Sarawak</title></programme>
+<programme start="20260316223000 +0000" stop="20260316230000 +0000" channel="JakTV.id@SD"><title lang="id">Chess Player</title></programme>
+<programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="JakTV.id@SD"><title lang="id">Cona Blue</title></programme>
+<programme start="20260316233000 +0000" stop="20260317000000 +0000" channel="JakTV.id@SD"><title lang="id">Inovator</title></programme>
+<programme start="20260317000000 +0000" stop="20260317003000 +0000" channel="JakTV.id@SD"><title lang="id">Agritek</title></programme>
+<programme start="20260317003000 +0000" stop="20260317010000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260317010000 +0000" stop="20260317020000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260317020000 +0000" stop="20260317030000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260317030000 +0000" stop="20260317033000 +0000" channel="JakTV.id@SD"><title lang="id">Everyday Chinese</title></programme>
+<programme start="20260317033000 +0000" stop="20260317040000 +0000" channel="JakTV.id@SD"><title lang="id">Animal Action</title></programme>
+<programme start="20260317040000 +0000" stop="20260317043000 +0000" channel="JakTV.id@SD"><title lang="id">Above And Beyond</title></programme>
+<programme start="20260317043000 +0000" stop="20260317050000 +0000" channel="JakTV.id@SD"><title lang="id">Ninjao</title></programme>
+<programme start="20260317050000 +0000" stop="20260317060000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260317060000 +0000" stop="20260317063000 +0000" channel="JakTV.id@SD"><title lang="id">Kiddies World</title></programme>
+<programme start="20260317063000 +0000" stop="20260317070000 +0000" channel="JakTV.id@SD"><title lang="id">Pintar Ngaji</title></programme>
+<programme start="20260317070000 +0000" stop="20260317080000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260317080000 +0000" stop="20260317090000 +0000" channel="JakTV.id@SD"><title lang="id">Berkah Shop</title></programme>
+<programme start="20260317090000 +0000" stop="20260317100000 +0000" channel="JakTV.id@SD"><title lang="id">The Youth Doctor</title></programme>
+<programme start="20260317100000 +0000" stop="20260317103000 +0000" channel="JakTV.id@SD"><title lang="id">Cooking Time</title></programme>
+<programme start="20260317103000 +0000" stop="20260317110000 +0000" channel="JakTV.id@SD"><title lang="id">Kubah Borneo</title></programme>
+<programme start="20260317110000 +0000" stop="20260317113000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260317113000 +0000" stop="20260317120000 +0000" channel="JakTV.id@SD"><title lang="id">The Cloth Story</title></programme>
+<programme start="20260317120000 +0000" stop="20260317123000 +0000" channel="JakTV.id@SD"><title lang="id">Headgear Hunting</title></programme>
+<programme start="20260317123000 +0000" stop="20260317130000 +0000" channel="JakTV.id@SD"><title lang="id">Dunia Kita</title></programme>
+<programme start="20260317130000 +0000" stop="20260317140000 +0000" channel="JakTV.id@SD"><title lang="id">Three Queens</title></programme>
+<programme start="20260317140000 +0000" stop="20260317150000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260317150000 +0000" stop="20260317153000 +0000" channel="JakTV.id@SD"><title lang="id">Inovator</title></programme>
+<programme start="20260317153000 +0000" stop="20260317160000 +0000" channel="JakTV.id@SD"><title lang="id">My Health My Choice</title></programme>
+<programme start="20260317160000 +0000" stop="20260317165950 +0000" channel="JakTV.id@SD"><title lang="id">Duoluo Continent</title></programme>
+<programme start="20260317165950 +0000" stop="20260317165959 +0000" channel="JakTV.id@SD"><title lang="id">Duoluo Continent</title></programme>
+<programme start="20260317170000 +0000" stop="20260317173000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260317173000 +0000" stop="20260317180000 +0000" channel="JakTV.id@SD"><title lang="id">Dunia Kita</title></programme>
+<programme start="20260317180000 +0000" stop="20260317183000 +0000" channel="JakTV.id@SD"><title lang="id">Oooppss</title></programme>
+<programme start="20260317183000 +0000" stop="20260317190000 +0000" channel="JakTV.id@SD"><title lang="id">Mirror Story</title></programme>
+<programme start="20260317190000 +0000" stop="20260317193000 +0000" channel="JakTV.id@SD"><title lang="id">Kabar Misteri Alkisah</title></programme>
+<programme start="20260317193000 +0000" stop="20260317200000 +0000" channel="JakTV.id@SD"><title lang="id">Senyum Quran</title></programme>
+<programme start="20260317200000 +0000" stop="20260317203000 +0000" channel="JakTV.id@SD"><title lang="id">Kubah Borneo</title></programme>
+<programme start="20260317203000 +0000" stop="20260317213000 +0000" channel="JakTV.id@SD"><title lang="id">Sahur Time</title></programme>
+<programme start="20260317213000 +0000" stop="20260317220000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260317220000 +0000" stop="20260317223000 +0000" channel="JakTV.id@SD"><title lang="id">Take Me To Sarawak</title></programme>
+<programme start="20260317223000 +0000" stop="20260317230000 +0000" channel="JakTV.id@SD"><title lang="id">Chess Player</title></programme>
+<programme start="20260317230000 +0000" stop="20260317233000 +0000" channel="JakTV.id@SD"><title lang="id">Cona Blue</title></programme>
+<programme start="20260317233000 +0000" stop="20260318000000 +0000" channel="JakTV.id@SD"><title lang="id">Inovator</title></programme>
+<programme start="20260318000000 +0000" stop="20260318003000 +0000" channel="JakTV.id@SD"><title lang="id">Agritek</title></programme>
+<programme start="20260318003000 +0000" stop="20260318010000 +0000" channel="JakTV.id@SD"><title lang="id">Creative Talk</title></programme>
+<programme start="20260318010000 +0000" stop="20260318020000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260318020000 +0000" stop="20260318030000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260318030000 +0000" stop="20260318033000 +0000" channel="JakTV.id@SD"><title lang="id">Everyday Chinese</title></programme>
+<programme start="20260318033000 +0000" stop="20260318040000 +0000" channel="JakTV.id@SD"><title lang="id">Animal Action</title></programme>
+<programme start="20260318040000 +0000" stop="20260318043000 +0000" channel="JakTV.id@SD"><title lang="id">Above And Beyond</title></programme>
+<programme start="20260318043000 +0000" stop="20260318050000 +0000" channel="JakTV.id@SD"><title lang="id">Ninjao</title></programme>
+<programme start="20260318050000 +0000" stop="20260318060000 +0000" channel="JakTV.id@SD"><title lang="id">Lejel</title></programme>
+<programme start="20260318060000 +0000" stop="20260318063000 +0000" channel="JakTV.id@SD"><title lang="id">Kiddies World</title></programme>
+<programme start="20260318063000 +0000" stop="20260318070000 +0000" channel="JakTV.id@SD"><title lang="id">Pintar Ngaji</title></programme>
+<programme start="20260318070000 +0000" stop="20260318080000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260318080000 +0000" stop="20260318090000 +0000" channel="JakTV.id@SD"><title lang="id">Berkah Shop</title></programme>
+<programme start="20260318090000 +0000" stop="20260318100000 +0000" channel="JakTV.id@SD"><title lang="id">The Youth Doctor</title></programme>
+<programme start="20260318100000 +0000" stop="20260318103000 +0000" channel="JakTV.id@SD"><title lang="id">Cooking Time</title></programme>
+<programme start="20260318103000 +0000" stop="20260318110000 +0000" channel="JakTV.id@SD"><title lang="id">Kubah Borneo</title></programme>
+<programme start="20260318110000 +0000" stop="20260318113000 +0000" channel="JakTV.id@SD"><title lang="id">Muslimpedia</title></programme>
+<programme start="20260318113000 +0000" stop="20260318120000 +0000" channel="JakTV.id@SD"><title lang="id">The Cloth Story</title></programme>
+<programme start="20260318120000 +0000" stop="20260318123000 +0000" channel="JakTV.id@SD"><title lang="id">Headgear Hunting</title></programme>
+<programme start="20260318123000 +0000" stop="20260318130000 +0000" channel="JakTV.id@SD"><title lang="id">Dunia Kita</title></programme>
+<programme start="20260318130000 +0000" stop="20260318140000 +0000" channel="JakTV.id@SD"><title lang="id">Three Queens</title></programme>
+<programme start="20260318140000 +0000" stop="20260318150000 +0000" channel="JakTV.id@SD"><title lang="id">Medika Natura</title></programme>
+<programme start="20260318150000 +0000" stop="20260318153000 +0000" channel="JakTV.id@SD"><title lang="id">Inovator</title></programme>
+<programme start="20260318153000 +0000" stop="20260318160000 +0000" channel="JakTV.id@SD"><title lang="id">My Health My Choice</title></programme>
+<programme start="20260318160000 +0000" stop="20260318165950 +0000" channel="JakTV.id@SD"><title lang="id">Duoluo Continent</title></programme>
+<programme start="20260318165950 +0000" stop="20260318165959 +0000" channel="JakTV.id@SD"><title lang="id">Duoluo Continent</title></programme>
 <programme start="20260315170000 +0000" stop="20260315180000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2706,6 +2891,66 @@
 <programme start="20260316160000 +0000" stop="20260316163000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV HEADLINES</title></programme>
 <programme start="20260316163000 +0000" stop="20260316165950 +0000" channel="NusantaraTV.id@SD"><title lang="id">CHECKPOINT</title></programme>
 <programme start="20260316165950 +0000" stop="20260316165959 +0000" channel="NusantaraTV.id@SD"><title lang="id">CHECKPOINT</title></programme>
+<programme start="20260316173000 +0000" stop="20260316200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">TADARUS DARI MAKKAH</title></programme>
+<programme start="20260316200000 +0000" stop="20260316210000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20260316210000 +0000" stop="20260316211500 +0000" channel="NusantaraTV.id@SD"><title lang="id">100 % RECOMMENDED SPESIAL RAMADAN</title></programme>
+<programme start="20260316211500 +0000" stop="20260316220000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE SENANDUNG RAMADAN</title></programme>
+<programme start="20260316220000 +0000" stop="20260316223000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA ECONOMIC UPDATES</title></programme>
+<programme start="20260316223000 +0000" stop="20260316230000 +0000" channel="NusantaraTV.id@SD"><title lang="id">LOL</title></programme>
+<programme start="20260316230000 +0000" stop="20260317003000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV MORNING</title></programme>
+<programme start="20260317003000 +0000" stop="20260317013000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20260317013000 +0000" stop="20260317020000 +0000" channel="NusantaraTV.id@SD"><title lang="id">LOL</title></programme>
+<programme start="20260317020000 +0000" stop="20260317023000 +0000" channel="NusantaraTV.id@SD"><title lang="id">OOH I SEE</title></programme>
+<programme start="20260317023000 +0000" stop="20260317033000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA ECONOMIC UPDATES</title></programme>
+<programme start="20260317033000 +0000" stop="20260317040000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20260317040000 +0000" stop="20260317050000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TODAY</title></programme>
+<programme start="20260317050000 +0000" stop="20260317053000 +0000" channel="NusantaraTV.id@SD"><title lang="id">ASTA CITA</title></programme>
+<programme start="20260317053000 +0000" stop="20260317063000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20260317063000 +0000" stop="20260317073000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20260317073000 +0000" stop="20260317080000 +0000" channel="NusantaraTV.id@SD"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20260317080000 +0000" stop="20260317083000 +0000" channel="NusantaraTV.id@SD"><title lang="id">LOL</title></programme>
+<programme start="20260317083000 +0000" stop="20260317093000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA BUSINESS HOUR</title></programme>
+<programme start="20260317093000 +0000" stop="20260317104500 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
+<programme start="20260317104500 +0000" stop="20260317110000 +0000" channel="NusantaraTV.id@SD"><title lang="id">100 % RECOMMENDED SPESIAL RAMADAN</title></programme>
+<programme start="20260317110000 +0000" stop="20260317120000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE SENANDUNG RAMADAN</title></programme>
+<programme start="20260317120000 +0000" stop="20260317130000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20260317130000 +0000" stop="20260317140000 +0000" channel="NusantaraTV.id@SD"><title lang="id">KASIPAHAM</title></programme>
+<programme start="20260317140000 +0000" stop="20260317150000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV SPORT</title></programme>
+<programme start="20260317150000 +0000" stop="20260317160000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20260317160000 +0000" stop="20260317163000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV HEADLINES</title></programme>
+<programme start="20260317163000 +0000" stop="20260317165950 +0000" channel="NusantaraTV.id@SD"><title lang="id">CHECKPOINT</title></programme>
+<programme start="20260317165950 +0000" stop="20260317165959 +0000" channel="NusantaraTV.id@SD"><title lang="id">CHECKPOINT</title></programme>
+<programme start="20260317170000 +0000" stop="20260317173000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20260317173000 +0000" stop="20260317200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">TADARUS DARI MAKKAH</title></programme>
+<programme start="20260317200000 +0000" stop="20260317210000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20260317210000 +0000" stop="20260317211500 +0000" channel="NusantaraTV.id@SD"><title lang="id">100 % RECOMMENDED SPESIAL RAMADAN</title></programme>
+<programme start="20260317211500 +0000" stop="20260317220000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE SENANDUNG RAMADAN</title></programme>
+<programme start="20260317220000 +0000" stop="20260317223000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA ECONOMIC UPDATES</title></programme>
+<programme start="20260317223000 +0000" stop="20260317230000 +0000" channel="NusantaraTV.id@SD"><title lang="id">LOL</title></programme>
+<programme start="20260317230000 +0000" stop="20260318003000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV MORNING</title></programme>
+<programme start="20260318003000 +0000" stop="20260318013000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20260318013000 +0000" stop="20260318020000 +0000" channel="NusantaraTV.id@SD"><title lang="id">LOL</title></programme>
+<programme start="20260318020000 +0000" stop="20260318023000 +0000" channel="NusantaraTV.id@SD"><title lang="id">OOH I SEE</title></programme>
+<programme start="20260318023000 +0000" stop="20260318033000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA ECONOMIC UPDATES</title></programme>
+<programme start="20260318033000 +0000" stop="20260318040000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV CRIME</title></programme>
+<programme start="20260318040000 +0000" stop="20260318050000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TODAY</title></programme>
+<programme start="20260318050000 +0000" stop="20260318053000 +0000" channel="NusantaraTV.id@SD"><title lang="id">ASTA CITA</title></programme>
+<programme start="20260318053000 +0000" stop="20260318063000 +0000" channel="NusantaraTV.id@SD"><title lang="id">CELEBRITY FRESH</title></programme>
+<programme start="20260318063000 +0000" stop="20260318073000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
+<programme start="20260318073000 +0000" stop="20260318080000 +0000" channel="NusantaraTV.id@SD"><title lang="id">KOK BISA VIRAL</title></programme>
+<programme start="20260318080000 +0000" stop="20260318083000 +0000" channel="NusantaraTV.id@SD"><title lang="id">OOH I SEE</title></programme>
+<programme start="20260318083000 +0000" stop="20260318090000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NUSANTARA BUSINESS HOUR</title></programme>
+<programme start="20260318090000 +0000" stop="20260318093000 +0000" channel="NusantaraTV.id@SD"><title lang="id">LOL</title></programme>
+<programme start="20260318093000 +0000" stop="20260318104500 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
+<programme start="20260318104500 +0000" stop="20260318110000 +0000" channel="NusantaraTV.id@SD"><title lang="id">100 % RECOMMENDED SPESIAL RAMADAN</title></programme>
+<programme start="20260318110000 +0000" stop="20260318120000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE SENANDUNG RAMADAN</title></programme>
+<programme start="20260318120000 +0000" stop="20260318130000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TOPLINES</title></programme>
+<programme start="20260318130000 +0000" stop="20260318140000 +0000" channel="NusantaraTV.id@SD"><title lang="id">MERAH PUTIH</title></programme>
+<programme start="20260318140000 +0000" stop="20260318150000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV SPORT</title></programme>
+<programme start="20260318150000 +0000" stop="20260318160000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV TONIGHT</title></programme>
+<programme start="20260318160000 +0000" stop="20260318163000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV HEADLINES</title></programme>
+<programme start="20260318163000 +0000" stop="20260318165950 +0000" channel="NusantaraTV.id@SD"><title lang="id">CHECKPOINT</title></programme>
+<programme start="20260318165950 +0000" stop="20260318165959 +0000" channel="NusantaraTV.id@SD"><title lang="id">CHECKPOINT</title></programme>
 <programme start="20260315170000 +0000" stop="20260315180000 +0000" channel="RajawaliTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="RajawaliTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
