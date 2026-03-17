@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260317">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
+<channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
 <channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
 <channel id="131"><display-name>Berita Satu</display-name><url>https://dens.tv</url></channel>
@@ -48,11 +47,12 @@
 <channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://dens.tv</url></channel>
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
-<channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
+<channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260316170000 +0000" stop="20260316180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260316180000 +0000" stop="20260316183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260316183000 +0000" stop="20260316190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2360,6 +2360,84 @@
 <programme start="20260319100500 +0000" stop="20260319114000 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">Horses</title><desc lang="id">Vinicio Marchioni, Michele Alhaique, Giulia Michelini</desc></programme>
 <programme start="20260319114000 +0000" stop="20260319132000 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">The Door</title><desc lang="id">Helen Mirren, Martina Gedeck, KÃ¡roly Eperjes</desc></programme>
 <programme start="20260319165950 +0000" stop="20260319165959 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">Ashes</title><desc lang="id">Rupert Procter, Graeme Rooney, Mark Wood</desc></programme>
+<programme start="20260316170000 +0000" stop="20260316183000 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260316183000 +0000" stop="20260316194500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!!</title></programme>
+<programme start="20260316194500 +0000" stop="20260316204000 +0000" channel="NET.id@SD"><title lang="id">KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260316204000 +0000" stop="20260316213000 +0000" channel="NET.id@SD"><title lang="id">DUNIA TANPA TUHAN</title></programme>
+<programme start="20260316213000 +0000" stop="20260316221500 +0000" channel="NET.id@SD"><title lang="id">MUSLIM TRAVELERS</title></programme>
+<programme start="20260316221500 +0000" stop="20260316235000 +0000" channel="NET.id@SD"><title lang="id">JEJAK PERISTIWA</title></programme>
+<programme start="20260316235000 +0000" stop="20260317010500 +0000" channel="NET.id@SD"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
+<programme start="20260317010500 +0000" stop="20260317015500 +0000" channel="NET.id@SD"><title lang="id">FAKTA +62</title></programme>
+<programme start="20260317015500 +0000" stop="20260317025000 +0000" channel="NET.id@SD"><title lang="id">SENSASIHOT</title></programme>
+<programme start="20260317025000 +0000" stop="20260317034000 +0000" channel="NET.id@SD"><title lang="id">MARIA CINTA YANG HILANG</title></programme>
+<programme start="20260317034000 +0000" stop="20260317045000 +0000" channel="NET.id@SD"><title lang="id">MD CERITA NYATA</title></programme>
+<programme start="20260317045000 +0000" stop="20260317063000 +0000" channel="NET.id@SD"><title lang="id">CINTA FITRI S6</title></programme>
+<programme start="20260317063000 +0000" stop="20260317080500 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK SPESIAL RAMADAN</title></programme>
+<programme start="20260317080500 +0000" stop="20260317092500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!! SPESIAL RAMADAN</title></programme>
+<programme start="20260317092500 +0000" stop="20260317095500 +0000" channel="NET.id@SD"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20260317095500 +0000" stop="20260317105000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: AMIGOS X SIEMPRE</title></programme>
+<programme start="20260317105000 +0000" stop="20260317105900 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260317105900 +0000" stop="20260317110900 +0000" channel="NET.id@SD"><title lang="id">NGABUBURITNYA ADIT SOPO JARWO</title></programme>
+<programme start="20260317110900 +0000" stop="20260317120000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260317120000 +0000" stop="20260317125500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260317125500 +0000" stop="20260317134500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: DUNIA TANPA TUHAN</title></programme>
+<programme start="20260317134500 +0000" stop="20260317143500 +0000" channel="NET.id@SD"><title lang="id">MD C-DRAMA: THE RETURN OF THE CONDOR HEROES</title></programme>
+<programme start="20260317143500 +0000" stop="20260317160000 +0000" channel="NET.id@SD"><title lang="id">JATANRAS</title></programme>
+<programme start="20260317160000 +0000" stop="20260317165000 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260317165000 +0000" stop="20260317165950 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260317165950 +0000" stop="20260317165959 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260317170000 +0000" stop="20260317183000 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260317183000 +0000" stop="20260317194500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!!</title></programme>
+<programme start="20260317194500 +0000" stop="20260317204000 +0000" channel="NET.id@SD"><title lang="id">KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260317204000 +0000" stop="20260317213000 +0000" channel="NET.id@SD"><title lang="id">DUNIA TANPA TUHAN</title></programme>
+<programme start="20260317213000 +0000" stop="20260317221500 +0000" channel="NET.id@SD"><title lang="id">MUSLIM TRAVELERS</title></programme>
+<programme start="20260317221500 +0000" stop="20260317235000 +0000" channel="NET.id@SD"><title lang="id">JEJAK PERISTIWA</title></programme>
+<programme start="20260317235000 +0000" stop="20260318010500 +0000" channel="NET.id@SD"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
+<programme start="20260318010500 +0000" stop="20260318015500 +0000" channel="NET.id@SD"><title lang="id">FAKTA +62</title></programme>
+<programme start="20260318015500 +0000" stop="20260318025000 +0000" channel="NET.id@SD"><title lang="id">SENSASIHOT</title></programme>
+<programme start="20260318025000 +0000" stop="20260318034000 +0000" channel="NET.id@SD"><title lang="id">MARIA CINTA YANG HILANG</title></programme>
+<programme start="20260318034000 +0000" stop="20260318045000 +0000" channel="NET.id@SD"><title lang="id">MD CERITA NYATA</title></programme>
+<programme start="20260318045000 +0000" stop="20260318063000 +0000" channel="NET.id@SD"><title lang="id">CINTA FITRI S6</title></programme>
+<programme start="20260318063000 +0000" stop="20260318080500 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK SPESIAL RAMADAN</title></programme>
+<programme start="20260318080500 +0000" stop="20260318092500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!! SPESIAL RAMADAN</title></programme>
+<programme start="20260318092500 +0000" stop="20260318095500 +0000" channel="NET.id@SD"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20260318095500 +0000" stop="20260318105000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: AMIGOS X SIEMPRE</title></programme>
+<programme start="20260318105000 +0000" stop="20260318105900 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260318105900 +0000" stop="20260318110900 +0000" channel="NET.id@SD"><title lang="id">NGABUBURITNYA ADIT SOPO JARWO</title></programme>
+<programme start="20260318110900 +0000" stop="20260318120000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260318120000 +0000" stop="20260318125500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260318125500 +0000" stop="20260318134500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: DUNIA TANPA TUHAN</title></programme>
+<programme start="20260318134500 +0000" stop="20260318143500 +0000" channel="NET.id@SD"><title lang="id">MD C-DRAMA: THE RETURN OF THE CONDOR HEROES</title></programme>
+<programme start="20260318143500 +0000" stop="20260318160000 +0000" channel="NET.id@SD"><title lang="id">JATANRAS</title></programme>
+<programme start="20260318160000 +0000" stop="20260318165000 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260318165000 +0000" stop="20260318165950 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260318165950 +0000" stop="20260318165959 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260318170000 +0000" stop="20260318183000 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260318183000 +0000" stop="20260318194500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!!</title></programme>
+<programme start="20260318194500 +0000" stop="20260318204000 +0000" channel="NET.id@SD"><title lang="id">KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260318204000 +0000" stop="20260318213000 +0000" channel="NET.id@SD"><title lang="id">DUNIA TANPA TUHAN</title></programme>
+<programme start="20260318213000 +0000" stop="20260318221500 +0000" channel="NET.id@SD"><title lang="id">MUSLIM TRAVELERS</title></programme>
+<programme start="20260318221500 +0000" stop="20260318235000 +0000" channel="NET.id@SD"><title lang="id">JEJAK PERISTIWA</title></programme>
+<programme start="20260318235000 +0000" stop="20260319010500 +0000" channel="NET.id@SD"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
+<programme start="20260319010500 +0000" stop="20260319015500 +0000" channel="NET.id@SD"><title lang="id">FAKTA +62</title></programme>
+<programme start="20260319015500 +0000" stop="20260319025000 +0000" channel="NET.id@SD"><title lang="id">SENSASIHOT</title></programme>
+<programme start="20260319025000 +0000" stop="20260319034000 +0000" channel="NET.id@SD"><title lang="id">MARIA CINTA YANG HILANG</title></programme>
+<programme start="20260319034000 +0000" stop="20260319045000 +0000" channel="NET.id@SD"><title lang="id">MD CERITA NYATA</title></programme>
+<programme start="20260319045000 +0000" stop="20260319063000 +0000" channel="NET.id@SD"><title lang="id">CINTA FITRI S6</title></programme>
+<programme start="20260319063000 +0000" stop="20260319080500 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK SPESIAL RAMADAN</title></programme>
+<programme start="20260319080500 +0000" stop="20260319091500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!! SPESIAL RAMADAN</title></programme>
+<programme start="20260319091500 +0000" stop="20260319094500 +0000" channel="NET.id@SD"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20260319094500 +0000" stop="20260319104000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: AMIGOS X SIEMPRE</title></programme>
+<programme start="20260319104000 +0000" stop="20260319105800 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260319105800 +0000" stop="20260319110800 +0000" channel="NET.id@SD"><title lang="id">NGABUBURITNYA ADIT SOPO JARWO</title></programme>
+<programme start="20260319110800 +0000" stop="20260319113000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260319113000 +0000" stop="20260319123500 +0000" channel="NET.id@SD"><title lang="id">FAKTA SIDANG ISBAT</title></programme>
+<programme start="20260319123500 +0000" stop="20260319133500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260319133500 +0000" stop="20260319143500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: DUNIA TANPA TUHAN</title></programme>
+<programme start="20260319143500 +0000" stop="20260319153000 +0000" channel="NET.id@SD"><title lang="id">MD C-DRAMA: THE RETURN OF THE CONDOR HEROES</title></programme>
+<programme start="20260319153000 +0000" stop="20260319162000 +0000" channel="NET.id@SD"><title lang="id">JATANRAS</title></programme>
+<programme start="20260319162000 +0000" stop="20260319165950 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260319165950 +0000" stop="20260319165959 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
 <programme start="20260316170000 +0000" stop="20260316173000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
 <programme start="20260316173000 +0000" stop="20260316174500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Activate Your Japanese!</title></programme>
 <programme start="20260316174500 +0000" stop="20260316175500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Culture Crossroads</title></programme>
