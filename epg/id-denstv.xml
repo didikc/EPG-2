@@ -2735,6 +2735,32 @@
 <programme start="20260321150000 +0000" stop="20260321160000 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260321160000 +0000" stop="20260321165950 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260321165950 +0000" stop="20260321165959 +0000" channel="MagnaChannel.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318170000 +0000" stop="20260318180000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318180000 +0000" stop="20260318183000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318183000 +0000" stop="20260318190000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318190000 +0000" stop="20260318200000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318200000 +0000" stop="20260318213000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318213000 +0000" stop="20260318223000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318223000 +0000" stop="20260318230000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318230000 +0000" stop="20260318233000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319010000 +0000" stop="20260319023000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319023000 +0000" stop="20260319030000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319030000 +0000" stop="20260319040000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319040000 +0000" stop="20260319043000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319043000 +0000" stop="20260319070000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319070000 +0000" stop="20260319080000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319090000 +0000" stop="20260319100000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319120000 +0000" stop="20260319140000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319140000 +0000" stop="20260319150000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319150000 +0000" stop="20260319160000 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319160000 +0000" stop="20260319165950 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260319165950 +0000" stop="20260319165959 +0000" channel="MetroTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260318170000 +0000" stop="20260318170500 +0000" channel="Motorvision.de@SD"><title lang="id">Ferrari Challenge North America 2025 Miami Speedway, Florida</title></programme>
 <programme start="20260318170500 +0000" stop="20260318175000 +0000" channel="Motorvision.de@SD"><title lang="id">Australian Boat Racing 2025 Episode 15</title><episode-num system="xmltv_ns">0.14.0/1</episode-num><episode-num system="onscreen">S01E15</episode-num></programme>
 <programme start="20260318175000 +0000" stop="20260318181500 +0000" channel="Motorvision.de@SD"><title lang="id">UIM Aquabike World Championship 2025 GP of Italy, Ski Division, Olbia</title></programme>
@@ -2905,32 +2931,33 @@
 <programme start="20260321144000 +0000" stop="20260321160000 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">The Restoration</title><desc lang="id">Lana Aubrey, Ben Temple, Jack Forsyth-Noble</desc></programme>
 <programme start="20260321160000 +0000" stop="20260321165950 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">The O&apos;Briens</title><desc lang="id">Liam McMahon, Tommy O&apos;Neill, Lochlainn O&apos;Mearain, Slaine Kelly</desc></programme>
 <programme start="20260321165950 +0000" stop="20260321165959 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">The O&apos;Briens</title><desc lang="id">Liam McMahon, Tommy O&apos;Neill, Lochlainn O&apos;Mearain, Slaine Kelly</desc></programme>
-<programme start="20260318170000 +0000" stop="20260318183000 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260318170000 +0000" stop="20260318183000 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
 <programme start="20260318183000 +0000" stop="20260318194500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!!</title></programme>
 <programme start="20260318194500 +0000" stop="20260318204000 +0000" channel="NET.id@SD"><title lang="id">KELUARGA YANG TAK DIRINDUKAN</title></programme>
 <programme start="20260318204000 +0000" stop="20260318213000 +0000" channel="NET.id@SD"><title lang="id">DUNIA TANPA TUHAN</title></programme>
 <programme start="20260318213000 +0000" stop="20260318221500 +0000" channel="NET.id@SD"><title lang="id">MUSLIM TRAVELERS</title></programme>
-<programme start="20260318221500 +0000" stop="20260318235000 +0000" channel="NET.id@SD"><title lang="id">JEJAK PERISTIWA</title></programme>
+<programme start="20260318221500 +0000" stop="20260318235000 +0000" channel="NET.id@SD"><title lang="id">MENJEMPUT BERKAH</title></programme>
 <programme start="20260318235000 +0000" stop="20260319010500 +0000" channel="NET.id@SD"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
 <programme start="20260319010500 +0000" stop="20260319015500 +0000" channel="NET.id@SD"><title lang="id">FAKTA +62</title></programme>
 <programme start="20260319015500 +0000" stop="20260319025000 +0000" channel="NET.id@SD"><title lang="id">SENSASIHOT</title></programme>
 <programme start="20260319025000 +0000" stop="20260319034000 +0000" channel="NET.id@SD"><title lang="id">MARIA CINTA YANG HILANG</title></programme>
-<programme start="20260319034000 +0000" stop="20260319045000 +0000" channel="NET.id@SD"><title lang="id">MD CERITA NYATA</title></programme>
-<programme start="20260319045000 +0000" stop="20260319063000 +0000" channel="NET.id@SD"><title lang="id">CINTA FITRI S6</title></programme>
-<programme start="20260319063000 +0000" stop="20260319080500 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK SPESIAL RAMADAN</title></programme>
-<programme start="20260319080500 +0000" stop="20260319091500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!! SPESIAL RAMADAN</title></programme>
-<programme start="20260319091500 +0000" stop="20260319094500 +0000" channel="NET.id@SD"><title lang="id">ADIT SOPO JARWO</title></programme>
-<programme start="20260319094500 +0000" stop="20260319104000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: AMIGOS X SIEMPRE</title></programme>
-<programme start="20260319104000 +0000" stop="20260319105800 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260319034000 +0000" stop="20260319051500 +0000" channel="NET.id@SD"><title lang="id">CINTA FITRI S6</title></programme>
+<programme start="20260319051500 +0000" stop="20260319063500 +0000" channel="NET.id@SD"><title lang="id">MAKANDUNIA</title></programme>
+<programme start="20260319063500 +0000" stop="20260319080500 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK SPESIAL RAMADAN</title></programme>
+<programme start="20260319080500 +0000" stop="20260319092500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!! SPESIAL RAMADAN</title></programme>
+<programme start="20260319092500 +0000" stop="20260319095500 +0000" channel="NET.id@SD"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20260319095500 +0000" stop="20260319105000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: AMIGOS X SIEMPRE</title></programme>
+<programme start="20260319105000 +0000" stop="20260319105800 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
 <programme start="20260319105800 +0000" stop="20260319110800 +0000" channel="NET.id@SD"><title lang="id">NGABUBURITNYA ADIT SOPO JARWO</title></programme>
 <programme start="20260319110800 +0000" stop="20260319113000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
-<programme start="20260319113000 +0000" stop="20260319123500 +0000" channel="NET.id@SD"><title lang="id">FAKTA SIDANG ISBAT</title></programme>
-<programme start="20260319123500 +0000" stop="20260319133500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: KELUARGA YANG TAK DIRINDUKAN</title></programme>
-<programme start="20260319133500 +0000" stop="20260319143500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: DUNIA TANPA TUHAN</title></programme>
-<programme start="20260319143500 +0000" stop="20260319153000 +0000" channel="NET.id@SD"><title lang="id">MD C-DRAMA: THE RETURN OF THE CONDOR HEROES</title></programme>
-<programme start="20260319153000 +0000" stop="20260319162000 +0000" channel="NET.id@SD"><title lang="id">JATANRAS</title></programme>
-<programme start="20260319162000 +0000" stop="20260319165950 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260319113000 +0000" stop="20260319125000 +0000" channel="NET.id@SD"><title lang="id">FAKTA SIDANG ISBAT</title></programme>
+<programme start="20260319125000 +0000" stop="20260319135000 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260319135000 +0000" stop="20260319144000 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: DUNIA TANPA TUHAN</title></programme>
+<programme start="20260319144000 +0000" stop="20260319153000 +0000" channel="NET.id@SD"><title lang="id">MD C-DRAMA: THE RETURN OF THE CONDOR HEROES</title></programme>
+<programme start="20260319153000 +0000" stop="20260319163500 +0000" channel="NET.id@SD"><title lang="id">JATANRAS</title></programme>
+<programme start="20260319163500 +0000" stop="20260319165950 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
 <programme start="20260319165950 +0000" stop="20260319165959 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260319165959 +0000" stop="20260318185959 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
 <programme start="20260319170000 +0000" stop="20260319171000 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
 <programme start="20260319171000 +0000" stop="20260319184500 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
 <programme start="20260319184500 +0000" stop="20260319194000 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!!</title></programme>
