@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260325">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260326">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
-<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
-<channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
+<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
+<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
+<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
 <channel id="321"><display-name>Champions TV 1 HD</display-name><url>https://firstmedia.com</url></channel>
 <channel id="Eurosport.fr@AsiaHD"><display-name>Eurosport HD</display-name><icon src="https://i.imgur.com/s4jDnJh.png"/><url>https://firstmedia.com</url></channel>
 <channel id="WarnerTVAsia.us@SD"><display-name>Warner TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png"/><url>https://firstmedia.com</url></channel>
@@ -110,11 +111,10 @@
 <channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
-<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
-<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
-<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
+<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
+<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
 <programme start="20260325170000 +0000" stop="20260325180000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260325180000 +0000" stop="20260325190000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260325190000 +0000" stop="20260325200000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
@@ -696,36 +696,35 @@
 <programme start="20260325180000 +0000" stop="20260325190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
 <programme start="20260325190000 +0000" stop="20260325200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
 <programme start="20260325200000 +0000" stop="20260325210000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sore</title></programme>
-<programme start="20260325210000 +0000" stop="20260325220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260325220000 +0000" stop="20260325223000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Ayat-Ayat Langit</title></programme>
-<programme start="20260325223000 +0000" stop="20260325233000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20260325233000 +0000" stop="20260326003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
+<programme start="20260325210000 +0000" stop="20260325220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
+<programme start="20260325220000 +0000" stop="20260325230000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
+<programme start="20260325230000 +0000" stop="20260326000000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
+<programme start="20260326000000 +0000" stop="20260326003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
 <programme start="20260326003000 +0000" stop="20260326020000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
 <programme start="20260326020000 +0000" stop="20260326030000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
-<programme start="20260326030000 +0000" stop="20260326033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Autotech</title></programme>
+<programme start="20260326030000 +0000" stop="20260326033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport Pagi</title></programme>
 <programme start="20260326033000 +0000" stop="20260326050000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Siang</title></programme>
-<programme start="20260326050000 +0000" stop="20260326053000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Food Diary</title></programme>
-<programme start="20260326053000 +0000" stop="20260326060000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">I Love Indonesia</title></programme>
-<programme start="20260326060000 +0000" stop="20260326073000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
-<programme start="20260326073000 +0000" stop="20260326083000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Siang</title></programme>
-<programme start="20260326083000 +0000" stop="20260326093000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
+<programme start="20260326050000 +0000" stop="20260326053000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Siang</title></programme>
+<programme start="20260326053000 +0000" stop="20260326063000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
+<programme start="20260326063000 +0000" stop="20260326070000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Seputar iNews Siang</title></programme>
+<programme start="20260326070000 +0000" stop="20260326083000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Siang</title></programme>
+<programme start="20260326083000 +0000" stop="20260326093000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260326093000 +0000" stop="20260326110000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
-<programme start="20260326110000 +0000" stop="20260326120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
-<programme start="20260326120000 +0000" stop="20260326130000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
-<programme start="20260326130000 +0000" stop="20260326133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260326110000 +0000" stop="20260326120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
+<programme start="20260326120000 +0000" stop="20260326133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260326133000 +0000" stop="20260326143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260326143000 +0000" stop="20260326153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Room Weekend</title></programme>
-<programme start="20260326153000 +0000" stop="20260326163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
-<programme start="20260326163000 +0000" stop="20260326170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260326143000 +0000" stop="20260326153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">One On One</title></programme>
+<programme start="20260326153000 +0000" stop="20260326163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
+<programme start="20260326163000 +0000" stop="20260326170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260326170000 +0000" stop="20260326173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
 <programme start="20260326173000 +0000" stop="20260326180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
 <programme start="20260326180000 +0000" stop="20260326190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
-<programme start="20260326190000 +0000" stop="20260326200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files Weekend</title></programme>
+<programme start="20260326190000 +0000" stop="20260326200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260326200000 +0000" stop="20260326210000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sore</title></programme>
 <programme start="20260326210000 +0000" stop="20260326220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
 <programme start="20260326220000 +0000" stop="20260326230000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
 <programme start="20260326230000 +0000" stop="20260327000000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20260327000000 +0000" stop="20260327003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Files</title></programme>
+<programme start="20260327000000 +0000" stop="20260327003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
 <programme start="20260327003000 +0000" stop="20260327020000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
 <programme start="20260327020000 +0000" stop="20260327030000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
 <programme start="20260327030000 +0000" stop="20260327033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport Pagi</title></programme>
@@ -739,9 +738,9 @@
 <programme start="20260327110000 +0000" stop="20260327120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260327120000 +0000" stop="20260327133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260327133000 +0000" stop="20260327143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260327143000 +0000" stop="20260327153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">One On One</title></programme>
-<programme start="20260327153000 +0000" stop="20260327163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Top Issue</title></programme>
-<programme start="20260327163000 +0000" stop="20260327170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
+<programme start="20260327143000 +0000" stop="20260327153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
+<programme start="20260327153000 +0000" stop="20260327163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
+<programme start="20260327163000 +0000" stop="20260327170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
 <programme start="20260327170000 +0000" stop="20260327173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
 <programme start="20260327173000 +0000" stop="20260327180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
 <programme start="20260327180000 +0000" stop="20260327190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
@@ -763,8 +762,7 @@
 <programme start="20260328093000 +0000" stop="20260328110000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
 <programme start="20260328110000 +0000" stop="20260328120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260328120000 +0000" stop="20260328133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
-<programme start="20260328133000 +0000" stop="20260328143000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260328143000 +0000" stop="20260328153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Inside Story</title></programme>
+<programme start="20260328133000 +0000" stop="20260328153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Rakyat Bersuara</title></programme>
 <programme start="20260328153000 +0000" stop="20260328163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260328163000 +0000" stop="20260328170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
 <programme start="20260325170000 +0000" stop="20260325180000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
