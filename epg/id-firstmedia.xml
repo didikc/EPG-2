@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260328">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260329">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
 <channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
@@ -713,7 +713,7 @@
 <programme start="20260329110000 +0000" stop="20260329120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
 <programme start="20260329120000 +0000" stop="20260329133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
 <programme start="20260329133000 +0000" stop="20260329153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Rakyat Bersuara</title></programme>
-<programme start="20260329153000 +0000" stop="20260329163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
+<programme start="20260329153000 +0000" stop="20260329163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
 <programme start="20260329163000 +0000" stop="20260329170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
 <programme start="20260329170000 +0000" stop="20260329173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
 <programme start="20260329173000 +0000" stop="20260329180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
