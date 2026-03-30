@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260330">
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
-<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
-<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
+<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
+<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
+<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
 <channel id="322"><display-name>Champions TV 2 HD</display-name><url>https://firstmedia.com</url></channel>
 <channel id="321"><display-name>Champions TV 1 HD</display-name><url>https://firstmedia.com</url></channel>
 <channel id="Eurosport.fr@AsiaHD"><display-name>Eurosport HD</display-name><icon src="https://i.imgur.com/s4jDnJh.png"/><url>https://firstmedia.com</url></channel>
@@ -111,34 +112,9 @@
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png"/><url>https://firstmedia.com</url></channel>
 <channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://firstmedia.com</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://firstmedia.com</url></channel>
-<channel id="NET.id@SD"><display-name>NET.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://firstmedia.com</url></channel>
-<channel id="3"><display-name>First Llifestyle</display-name><url>https://firstmedia.com</url></channel>
-<channel id="2"><display-name>Investor Daily</display-name><url>https://firstmedia.com</url></channel>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<channel id="HITS.sg@SD"><display-name>HITS HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/><url>https://firstmedia.com</url></channel>
+<channel id="HITSMovies.sg@SD"><display-name>Hits Movies HD</display-name><icon src="https://i.imgur.com/kyE3vXf.png"/><url>https://firstmedia.com</url></channel>
+<channel id="324"><display-name>HITS Now HD</display-name><url>https://firstmedia.com</url></channel>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
@@ -163,32 +139,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="301"><title lang="en">Content Highlight</title></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
@@ -213,32 +189,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="AlSunnahAlNabawiyahTV.sa@SD"><title lang="en">Live from Madinah</title><desc lang="en">Live from Madinah</desc></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
@@ -263,32 +239,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="AnhuiTV.cn@SD"><title lang="en">Anhui TV</title></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
@@ -313,25 +289,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="GTV.id@SD"><title lang="en">Naik Enak Turun Ogah</title></programme>
-<programme start="20260329200000 +0000" stop="20260329220000 +0000" channel="GTV.id@SD"><title lang="en">Awas Ada Sule</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="GTV.id@SD"><title lang="en">Ragam Pagi</title></programme>
-<programme start="20260329230000 +0000" stop="20260330010000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebriti</title></programme>
-<programme start="20260330020000 +0000" stop="20260330023000 +0000" channel="GTV.id@SD"><title lang="en">Buletin iNews Pagi</title></programme>
-<programme start="20260330023000 +0000" stop="20260330030000 +0000" channel="GTV.id@SD"><title lang="en">CoComelon Dan Sahabat</title></programme>
-<programme start="20260330030000 +0000" stop="20260330050000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260330050000 +0000" stop="20260330073000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260330073000 +0000" stop="20260330093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260330093000 +0000" stop="20260330110000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
-<programme start="20260330110000 +0000" stop="20260330123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
-<programme start="20260330123000 +0000" stop="20260330143000 +0000" channel="GTV.id@SD"><title lang="en">Shark Zone</title></programme>
-<programme start="20260330143000 +0000" stop="20260330153000 +0000" channel="GTV.id@SD"><title lang="en">Untold Story</title></programme>
-<programme start="20260330153000 +0000" stop="20260330170000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="DragonTV.cn@SD"><title lang="en">Dragon TV</title></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="GTV.id@SD"><title lang="en">Naik Enak Turun Ogah</title></programme>
@@ -346,7 +329,7 @@
 <programme start="20260331073000 +0000" stop="20260331093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260331093000 +0000" stop="20260331110000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260331110000 +0000" stop="20260331123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
-<programme start="20260331123000 +0000" stop="20260331143000 +0000" channel="GTV.id@SD"><title lang="en">Shark In Venice</title></programme>
+<programme start="20260331123000 +0000" stop="20260331143000 +0000" channel="GTV.id@SD"><title lang="en">Shark Zone</title></programme>
 <programme start="20260331143000 +0000" stop="20260331153000 +0000" channel="GTV.id@SD"><title lang="en">Untold Story</title></programme>
 <programme start="20260331153000 +0000" stop="20260331170000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
 <programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
@@ -363,33 +346,26 @@
 <programme start="20260401073000 +0000" stop="20260401093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260401093000 +0000" stop="20260401110000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
 <programme start="20260401110000 +0000" stop="20260401123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
-<programme start="20260401123000 +0000" stop="20260401150000 +0000" channel="GTV.id@SD"><title lang="en">Alien Invasion</title></programme>
-<programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="GTV.id@SD"><title lang="en">Radio</title></programme>
-<programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401123000 +0000" stop="20260401143000 +0000" channel="GTV.id@SD"><title lang="en">Shark In Venice</title></programme>
+<programme start="20260401143000 +0000" stop="20260401153000 +0000" channel="GTV.id@SD"><title lang="en">Untold Story</title></programme>
+<programme start="20260401153000 +0000" stop="20260401170000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
+<programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="GTV.id@SD"><title lang="en">Jelajah Mitos</title></programme>
+<programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="GTV.id@SD"><title lang="en">Crime KV</title></programme>
+<programme start="20260401190000 +0000" stop="20260401200000 +0000" channel="GTV.id@SD"><title lang="en">Naik Enak Turun Ogah</title></programme>
+<programme start="20260401200000 +0000" stop="20260401220000 +0000" channel="GTV.id@SD"><title lang="en">Awas Ada Sule</title></programme>
+<programme start="20260401220000 +0000" stop="20260401230000 +0000" channel="GTV.id@SD"><title lang="en">Ragam Pagi</title></programme>
+<programme start="20260401230000 +0000" stop="20260402010000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260402010000 +0000" stop="20260402020000 +0000" channel="GTV.id@SD"><title lang="en">Obrolan Seputar Selebriti</title></programme>
+<programme start="20260402020000 +0000" stop="20260402023000 +0000" channel="GTV.id@SD"><title lang="en">Buletin iNews Pagi</title></programme>
+<programme start="20260402023000 +0000" stop="20260402030000 +0000" channel="GTV.id@SD"><title lang="en">CoComelon Dan Sahabat</title></programme>
+<programme start="20260402030000 +0000" stop="20260402050000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260402050000 +0000" stop="20260402073000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260402073000 +0000" stop="20260402093000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260402093000 +0000" stop="20260402110000 +0000" channel="GTV.id@SD"><title lang="en">SpongeBob SquarePants</title></programme>
+<programme start="20260402110000 +0000" stop="20260402123000 +0000" channel="GTV.id@SD"><title lang="en">New Family 100</title></programme>
+<programme start="20260402123000 +0000" stop="20260402150000 +0000" channel="GTV.id@SD"><title lang="en">Alien Invasion</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="GTV.id@SD"><title lang="en">Radio</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="GTV.id@SD"><title lang="en">Kisah Viral</title></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
@@ -414,32 +390,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="HunanTV.cn@SD"><title lang="en">Hunan TV</title></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
@@ -464,32 +440,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="JiangsuTV.cn@SD"><title lang="en">Jiangsu TV</title></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
@@ -514,32 +490,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="QuranTV.sa@SD"><title lang="en">Live from Mecca</title><desc lang="en">Live from Mecca</desc></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
@@ -564,32 +540,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
-<programme start="20260329170000 +0000" stop="20260329173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
-<programme start="20260329173000 +0000" stop="20260329180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sore</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
-<programme start="20260330000000 +0000" stop="20260330003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
-<programme start="20260330003000 +0000" stop="20260330020000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
-<programme start="20260330030000 +0000" stop="20260330033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport Pagi</title></programme>
-<programme start="20260330033000 +0000" stop="20260330050000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Siang</title></programme>
-<programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Siang</title></programme>
-<programme start="20260330053000 +0000" stop="20260330063000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
-<programme start="20260330063000 +0000" stop="20260330070000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Seputar iNews Siang</title></programme>
-<programme start="20260330070000 +0000" stop="20260330083000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Siang</title></programme>
-<programme start="20260330083000 +0000" stop="20260330093000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
-<programme start="20260330093000 +0000" stop="20260330110000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
-<programme start="20260330120000 +0000" stop="20260330133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
-<programme start="20260330133000 +0000" stop="20260330153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Rakyat Bersuara</title></programme>
-<programme start="20260330153000 +0000" stop="20260330163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
-<programme start="20260330163000 +0000" stop="20260330170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="ShenzhenTV.cn@SD"><title lang="en">Shenzen TV</title></programme>
 <programme start="20260330170000 +0000" stop="20260330173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
 <programme start="20260330173000 +0000" stop="20260330180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
@@ -614,105 +590,106 @@
 <programme start="20260331133000 +0000" stop="20260331153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Rakyat Bersuara</title></programme>
 <programme start="20260331153000 +0000" stop="20260331163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
 <programme start="20260331163000 +0000" stop="20260331170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260331170000 +0000" stop="20260331173000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport</title></programme>
+<programme start="20260331173000 +0000" stop="20260331180000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">New Top Files</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Malam</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sore</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Pagi</title></programme>
+<programme start="20260401000000 +0000" stop="20260401003000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
+<programme start="20260401003000 +0000" stop="20260401020000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Today</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
+<programme start="20260401030000 +0000" stop="20260401033000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Sport Pagi</title></programme>
+<programme start="20260401033000 +0000" stop="20260401050000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Siang</title></programme>
+<programme start="20260401050000 +0000" stop="20260401053000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Lintas iNews Siang</title></programme>
+<programme start="20260401053000 +0000" stop="20260401063000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Today</title></programme>
+<programme start="20260401063000 +0000" stop="20260401070000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Seputar iNews Siang</title></programme>
+<programme start="20260401070000 +0000" stop="20260401083000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">iNews Siang</title></programme>
+<programme start="20260401083000 +0000" stop="20260401093000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Special Report</title></programme>
+<programme start="20260401093000 +0000" stop="20260401110000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Sore</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Files</title></programme>
+<programme start="20260401120000 +0000" stop="20260401133000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Prime</title></programme>
+<programme start="20260401133000 +0000" stop="20260401153000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">Rakyat Bersuara</title></programme>
 <programme start="20260401153000 +0000" stop="20260401163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
 <programme start="20260401163000 +0000" stop="20260401170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
-<programme start="20260329180000 +0000" stop="20260329191500 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Moto2 Race</desc></programme>
-<programme start="20260329191500 +0000" stop="20260329213000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">MotoGP Race</desc></programme>
-<programme start="20260329213000 +0000" stop="20260329223000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 LET: Australian WPGA Championship</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260329223000 +0000" stop="20260330014500 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Free Practice 2/Qualifying</desc></programme>
-<programme start="20260330014500 +0000" stop="20260330050000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Qualifying/Sprint</desc></programme>
-<programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="SPOTV2.id@SD"><title lang="en">WTT Champions Chongqing 2026</title><desc lang="en">Review Show</desc></programme>
-<programme start="20260330053000 +0000" stop="20260330073000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 22</title><desc lang="en">Perth Glory vs Melbourne City FC</desc></programme>
-<programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="SPOTV2.id@SD"><title lang="en">World Baseball Classic -2013 Recap</title></programme>
-<programme start="20260330083000 +0000" stop="20260330110000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic: Pool B</title><desc lang="en">Great Britain vs USA</desc></programme>
-<programme start="20260330110000 +0000" stop="20260330133000 +0000" channel="SPOTV2.id@SD"><title lang="en">27/3 2026 MLB Regular Season</title><desc lang="en">Cincinnati Reds vs Boston Red Sox</desc></programme>
-<programme start="20260330133000 +0000" stop="20260330140000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 22</title><desc lang="en">Auckland FC vs Macarthur FC</desc></programme>
-<programme start="20260330140000 +0000" stop="20260330170000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 King&apos;s Cup Semi Final</title><desc lang="en">Al Kholood vs Al Ittihad</desc></programme>
-<programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Harley-Davidson Bagger World Cup Rd 1 USA</title><desc lang="en">Race 1</desc></programme>
-<programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 22</title><desc lang="en">Melbourne Victory vs Central Coast Mariners FC</desc></programme>
-<programme start="20260330183000 +0000" stop="20260330210000 +0000" channel="SPOTV2.id@SD"><title lang="en">27/3 2026 MLB Regular Season</title><desc lang="en">Los Angeles Dodgers vs Arizona Diamondbacks</desc></programme>
-<programme start="20260330210000 +0000" stop="20260331013000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Race</desc></programme>
-<programme start="20260331013000 +0000" stop="20260331053000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 NASCAR Cup Series</title><desc lang="en">Cook Out 400</desc></programme>
-<programme start="20260331053000 +0000" stop="20260331080000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic: Pool C</title><desc lang="en">Australia vs Japan</desc></programme>
-<programme start="20260331080000 +0000" stop="20260331103000 +0000" channel="SPOTV2.id@SD"><title lang="en">27/3 2026 MLB Regular Season</title><desc lang="en">Los Angeles Dodgers vs Arizona Diamondbacks</desc></programme>
-<programme start="20260331103000 +0000" stop="20260331110000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 22</title><desc lang="en">Brisbane Roar FC vs Wellington Phoenix</desc></programme>
-<programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Rolex Spirit of Yachting</title><desc lang="en">Rolex China Sea Race</desc></programme>
-<programme start="20260331113000 +0000" stop="20260331160000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Race</desc></programme>
-<programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Harley-Davidson Bagger World Cup Rd 1 USA</title><desc lang="en">Race 2</desc></programme>
-<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260331180000 +0000" stop="20260331203000 +0000" channel="SPOTV2.id@SD"><title lang="en">29/3 2026 MLB Regular Season</title><desc lang="en">San Francisco Giants vs New York Yankees</desc></programme>
-<programme start="20260331203000 +0000" stop="20260331210000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 22</title><desc lang="en">Brisbane Roar FC vs Wellington Phoenix</desc></programme>
-<programme start="20260331210000 +0000" stop="20260331233000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic: Pool C</title><desc lang="en">Chinese Taipei vs Korea</desc></programme>
-<programme start="20260331233000 +0000" stop="20260401013000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 22</title><desc lang="en">Perth Glory vs Melbourne City FC</desc></programme>
-<programme start="20260401013000 +0000" stop="20260401020000 +0000" channel="SPOTV2.id@SD"><title lang="en">WTT Champions Chongqing 2026</title><desc lang="en">Review Show</desc></programme>
-<programme start="20260401020000 +0000" stop="20260401060000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 NASCAR Cup Series</title><desc lang="en">Cook Out 400</desc></programme>
-<programme start="20260401060000 +0000" stop="20260401080000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 22</title><desc lang="en">Western Sydney Wanderers FC vs Adelaide United</desc></programme>
-<programme start="20260401080000 +0000" stop="20260401103000 +0000" channel="SPOTV2.id@SD"><title lang="en">29/3 2026 MLB Regular Season</title><desc lang="en">San Francisco Giants vs New York Yankees</desc></programme>
-<programme start="20260401103000 +0000" stop="20260401113000 +0000" channel="SPOTV2.id@SD"><title lang="en">World Baseball Classic -2013 Recap</title></programme>
-<programme start="20260401113000 +0000" stop="20260401140000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic: Pool C</title><desc lang="en">Chinese Taipei vs Korea</desc></programme>
-<programme start="20260401140000 +0000" stop="20260401160000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 22</title><desc lang="en">Perth Glory vs Melbourne City FC</desc></programme>
+<programme start="20260402153000 +0000" stop="20260402163000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">SINDO Malam</title></programme>
+<programme start="20260402163000 +0000" stop="20260402170000 +0000" channel="SindoNewsTV.id@SD"><title lang="en">OMG</title></programme>
+<programme start="20260330180000 +0000" stop="20260330191500 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Moto2 Race</desc></programme>
+<programme start="20260330191500 +0000" stop="20260330213000 +0000" channel="SPOTV2.id@SD"><title lang="en">(Live)2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">MotoGP Race</desc></programme>
+<programme start="20260330213000 +0000" stop="20260330223000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 LET: Australian WPGA Championship</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260330223000 +0000" stop="20260331014500 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Free Practice 2/Qualifying</desc></programme>
+<programme start="20260331014500 +0000" stop="20260331050000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Qualifying/Sprint</desc></programme>
+<programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="SPOTV2.id@SD"><title lang="en">WTT Champions Chongqing 2026</title><desc lang="en">Review Show</desc></programme>
+<programme start="20260331053000 +0000" stop="20260331073000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 22</title><desc lang="en">Perth Glory vs Melbourne City FC</desc></programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="SPOTV2.id@SD"><title lang="en">World Baseball Classic -2013 Recap</title></programme>
+<programme start="20260331083000 +0000" stop="20260331110000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic: Pool B</title><desc lang="en">Great Britain vs USA</desc></programme>
+<programme start="20260331110000 +0000" stop="20260331133000 +0000" channel="SPOTV2.id@SD"><title lang="en">27/3 2026 MLB Regular Season</title><desc lang="en">Cincinnati Reds vs Boston Red Sox</desc></programme>
+<programme start="20260331133000 +0000" stop="20260331140000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 22</title><desc lang="en">Auckland FC vs Macarthur FC</desc></programme>
+<programme start="20260331140000 +0000" stop="20260331170000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 King&apos;s Cup Semi Final</title><desc lang="en">Al Kholood vs Al Ittihad</desc></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Harley-Davidson Bagger World Cup Rd 1 USA</title><desc lang="en">Race 1</desc></programme>
+<programme start="20260331180000 +0000" stop="20260331183000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 22</title><desc lang="en">Melbourne Victory vs Central Coast Mariners FC</desc></programme>
+<programme start="20260331183000 +0000" stop="20260331210000 +0000" channel="SPOTV2.id@SD"><title lang="en">27/3 2026 MLB Regular Season</title><desc lang="en">Los Angeles Dodgers vs Arizona Diamondbacks</desc></programme>
+<programme start="20260331210000 +0000" stop="20260401013000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Race</desc></programme>
+<programme start="20260401013000 +0000" stop="20260401053000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 NASCAR Cup Series</title><desc lang="en">Cook Out 400</desc></programme>
+<programme start="20260401053000 +0000" stop="20260401080000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic: Pool C</title><desc lang="en">Australia vs Japan</desc></programme>
+<programme start="20260401080000 +0000" stop="20260401103000 +0000" channel="SPOTV2.id@SD"><title lang="en">27/3 2026 MLB Regular Season</title><desc lang="en">Los Angeles Dodgers vs Arizona Diamondbacks</desc></programme>
+<programme start="20260401103000 +0000" stop="20260401110000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 22</title><desc lang="en">Brisbane Roar FC vs Wellington Phoenix</desc></programme>
+<programme start="20260401110000 +0000" stop="20260401113000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Rolex Spirit of Yachting</title><desc lang="en">Rolex China Sea Race</desc></programme>
+<programme start="20260401113000 +0000" stop="20260401160000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Race</desc></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Harley-Davidson Bagger World Cup Rd 1 USA</title><desc lang="en">Race 2</desc></programme>
-<programme start="20260329180000 +0000" stop="20260329204000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 1 Australian Round</title><desc lang="en">Race 1</desc></programme>
-<programme start="20260329204000 +0000" stop="20260329232500 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 1 Australian Round</title><desc lang="en">Race 2</desc></programme>
-<programme start="20260329232500 +0000" stop="20260330010500 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LIV Golf League, South Africa</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260330010500 +0000" stop="20260330073000 +0000" channel="SPOTV.id@SD"><title lang="en">Dubai World Cup 2026</title></programme>
-<programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK FP1</desc></programme>
-<programme start="20260330083000 +0000" stop="20260330113000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB Superpole/SBK FP2/SSP Superpole</desc></programme>
-<programme start="20260330113000 +0000" stop="20260330123000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK FP3</desc></programme>
-<programme start="20260330123000 +0000" stop="20260330133000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK Tissot Superpole</desc></programme>
-<programme start="20260330133000 +0000" stop="20260330170000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB/SSP/SBK Race 1</desc></programme>
-<programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK Tissot Superpole Race</desc></programme>
-<programme start="20260330180000 +0000" stop="20260330213000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB/SSP/SBK Race 2</desc></programme>
-<programme start="20260330213000 +0000" stop="20260331030000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LET: Australian WPGA Championship</title><desc lang="en">Day 1</desc></programme>
-<programme start="20260331030000 +0000" stop="20260331033000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldWCR: Rd 1 Pirelli Portuguese Round</title><desc lang="en">Tissot Superpole</desc></programme>
-<programme start="20260331033000 +0000" stop="20260331043000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldWCR: Rd 1 Pirelli Portuguese Round</title><desc lang="en">Race 1</desc></programme>
-<programme start="20260331043000 +0000" stop="20260331053000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldWCR: Rd 1 Pirelli Portuguese Round</title><desc lang="en">Race 2</desc></programme>
-<programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="SPOTV.id@SD"><title lang="en">Ras Al-Khaimah Half Marathon 2026</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260331060000 +0000" stop="20260331085000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 King&apos;s Cup Semi Final</title><desc lang="en">Al Ahli vs Al Hilal</desc></programme>
-<programme start="20260331085000 +0000" stop="20260331092000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 Gold Coast T100</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260331092000 +0000" stop="20260331115000 +0000" channel="SPOTV.id@SD"><title lang="en">Snow League 25/26: Laax, Switzerland</title><desc lang="en">Freeski Finals</desc></programme>
-<programme start="20260331115000 +0000" stop="20260331130500 +0000" channel="SPOTV.id@SD"><title lang="en">Snow League 25/26: Laax, Switzerland</title><desc lang="en">Snowboard Finals</desc></programme>
-<programme start="20260331130500 +0000" stop="20260331140500 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 Asian Le Mans Series</title><desc lang="en">Year End Review</desc></programme>
-<programme start="20260331140500 +0000" stop="20260331160500 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Championship Round 26</title><desc lang="en">Partick Thistle vs St Johnstone</desc></programme>
-<programme start="20260331160500 +0000" stop="20260331180000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LIV Golf League, South Africa</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260331180000 +0000" stop="20260331231500 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LET: Australian WPGA Championship</title><desc lang="en">Day 2</desc></programme>
-<programme start="20260331231500 +0000" stop="20260401014500 +0000" channel="SPOTV.id@SD"><title lang="en">Snow League 25/26: Laax, Switzerland</title><desc lang="en">Freeski Finals</desc></programme>
-<programme start="20260401014500 +0000" stop="20260401030000 +0000" channel="SPOTV.id@SD"><title lang="en">Snow League 25/26: Laax, Switzerland</title><desc lang="en">Snowboard Finals</desc></programme>
-<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK FP1</desc></programme>
-<programme start="20260401040000 +0000" stop="20260401070000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB Superpole/SBK FP2/SSP Superpole</desc></programme>
-<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK FP3</desc></programme>
-<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK Tissot Superpole</desc></programme>
-<programme start="20260401090000 +0000" stop="20260401123000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB/SSP/SBK Race 1</desc></programme>
-<programme start="20260401123000 +0000" stop="20260401160000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB/SSP/SBK Race 2</desc></programme>
-<programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">Highlights</desc></programme>
-<programme start="20260329180000 +0000" stop="20260329183000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
-<programme start="20260329183000 +0000" stop="20260329190000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
-<programme start="20260329210000 +0000" stop="20260329213000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20260329213000 +0000" stop="20260329230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi</title></programme>
-<programme start="20260329230000 +0000" stop="20260329233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20260329233000 +0000" stop="20260330013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
-<programme start="20260330013000 +0000" stop="20260330020000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat</title></programme>
-<programme start="20260330020000 +0000" stop="20260330023000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi</title></programme>
-<programme start="20260330023000 +0000" stop="20260330033000 +0000" channel="tvOne.id@SD"><title lang="id">Pagi - Pagi Seru</title></programme>
-<programme start="20260330033000 +0000" stop="20260330040000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan</title></programme>
-<programme start="20260330040000 +0000" stop="20260330060000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang</title></programme>
-<programme start="20260330060000 +0000" stop="20260330073000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
-<programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih</title></programme>
-<programme start="20260330083000 +0000" stop="20260330090000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
-<programme start="20260330090000 +0000" stop="20260330110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
-<programme start="20260330110000 +0000" stop="20260330130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="tvOne.id@SD"><title lang="id">Fakta</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam</title></programme>
-<programme start="20260330163000 +0000" stop="20260330180000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260401180000 +0000" stop="20260401203000 +0000" channel="SPOTV2.id@SD"><title lang="en">29/3 2026 MLB Regular Season</title><desc lang="en">San Francisco Giants vs New York Yankees</desc></programme>
+<programme start="20260401203000 +0000" stop="20260401210000 +0000" channel="SPOTV2.id@SD"><title lang="en">2025/26 ALM Mini Match Rd 22</title><desc lang="en">Brisbane Roar FC vs Wellington Phoenix</desc></programme>
+<programme start="20260401210000 +0000" stop="20260401233000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic: Pool C</title><desc lang="en">Chinese Taipei vs Korea</desc></programme>
+<programme start="20260401233000 +0000" stop="20260402013000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 22</title><desc lang="en">Perth Glory vs Melbourne City FC</desc></programme>
+<programme start="20260402013000 +0000" stop="20260402020000 +0000" channel="SPOTV2.id@SD"><title lang="en">WTT Champions Chongqing 2026</title><desc lang="en">Review Show</desc></programme>
+<programme start="20260402020000 +0000" stop="20260402060000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 NASCAR Cup Series</title><desc lang="en">Cook Out 400</desc></programme>
+<programme start="20260402060000 +0000" stop="20260402080000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 22</title><desc lang="en">Western Sydney Wanderers FC vs Adelaide United</desc></programme>
+<programme start="20260402080000 +0000" stop="20260402103000 +0000" channel="SPOTV2.id@SD"><title lang="en">29/3 2026 MLB Regular Season</title><desc lang="en">San Francisco Giants vs New York Yankees</desc></programme>
+<programme start="20260402103000 +0000" stop="20260402113000 +0000" channel="SPOTV2.id@SD"><title lang="en">World Baseball Classic -2013 Recap</title></programme>
+<programme start="20260402113000 +0000" stop="20260402140000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 World Baseball Classic: Pool C</title><desc lang="en">Chinese Taipei vs Korea</desc></programme>
+<programme start="20260402140000 +0000" stop="20260402160000 +0000" channel="SPOTV2.id@SD"><title lang="en">25/26 A-League Men Round 22</title><desc lang="en">Perth Glory vs Melbourne City FC</desc></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="SPOTV2.id@SD"><title lang="en">2026 Harley-Davidson Bagger World Cup Rd 1 USA</title><desc lang="en">Race 2</desc></programme>
+<programme start="20260330180000 +0000" stop="20260330204000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 1 Australian Round</title><desc lang="en">Race 1</desc></programme>
+<programme start="20260330204000 +0000" stop="20260330232500 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 1 Australian Round</title><desc lang="en">Race 2</desc></programme>
+<programme start="20260330232500 +0000" stop="20260331010500 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LIV Golf League, South Africa</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260331010500 +0000" stop="20260331073000 +0000" channel="SPOTV.id@SD"><title lang="en">Dubai World Cup 2026</title></programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK FP1</desc></programme>
+<programme start="20260331083000 +0000" stop="20260331113000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB Superpole/SBK FP2/SSP Superpole</desc></programme>
+<programme start="20260331113000 +0000" stop="20260331123000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK FP3</desc></programme>
+<programme start="20260331123000 +0000" stop="20260331133000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK Tissot Superpole</desc></programme>
+<programme start="20260331133000 +0000" stop="20260331170000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB/SSP/SBK Race 1</desc></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK Tissot Superpole Race</desc></programme>
+<programme start="20260331180000 +0000" stop="20260331213000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB/SSP/SBK Race 2</desc></programme>
+<programme start="20260331213000 +0000" stop="20260401030000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LET: Australian WPGA Championship</title><desc lang="en">Day 1</desc></programme>
+<programme start="20260401030000 +0000" stop="20260401033000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldWCR: Rd 1 Pirelli Portuguese Round</title><desc lang="en">Tissot Superpole</desc></programme>
+<programme start="20260401033000 +0000" stop="20260401043000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldWCR: Rd 1 Pirelli Portuguese Round</title><desc lang="en">Race 1</desc></programme>
+<programme start="20260401043000 +0000" stop="20260401053000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldWCR: Rd 1 Pirelli Portuguese Round</title><desc lang="en">Race 2</desc></programme>
+<programme start="20260401053000 +0000" stop="20260401060000 +0000" channel="SPOTV.id@SD"><title lang="en">Ras Al-Khaimah Half Marathon 2026</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260401060000 +0000" stop="20260401085000 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 King&apos;s Cup Semi Final</title><desc lang="en">Al Ahli vs Al Hilal</desc></programme>
+<programme start="20260401085000 +0000" stop="20260401092000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 Gold Coast T100</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260401092000 +0000" stop="20260401115000 +0000" channel="SPOTV.id@SD"><title lang="en">Snow League 25/26: Laax, Switzerland</title><desc lang="en">Freeski Finals</desc></programme>
+<programme start="20260401115000 +0000" stop="20260401130500 +0000" channel="SPOTV.id@SD"><title lang="en">Snow League 25/26: Laax, Switzerland</title><desc lang="en">Snowboard Finals</desc></programme>
+<programme start="20260401130500 +0000" stop="20260401140500 +0000" channel="SPOTV.id@SD"><title lang="en">2025/26 Asian Le Mans Series</title><desc lang="en">Year End Review</desc></programme>
+<programme start="20260401140500 +0000" stop="20260401160500 +0000" channel="SPOTV.id@SD"><title lang="en">25/26 Scottish Championship Round 26</title><desc lang="en">Partick Thistle vs St Johnstone</desc></programme>
+<programme start="20260401160500 +0000" stop="20260401180000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LIV Golf League, South Africa</title><desc lang="en">Highlights</desc></programme>
+<programme start="20260401180000 +0000" stop="20260401231500 +0000" channel="SPOTV.id@SD"><title lang="en">2026 LET: Australian WPGA Championship</title><desc lang="en">Day 2</desc></programme>
+<programme start="20260401231500 +0000" stop="20260402014500 +0000" channel="SPOTV.id@SD"><title lang="en">Snow League 25/26: Laax, Switzerland</title><desc lang="en">Freeski Finals</desc></programme>
+<programme start="20260402014500 +0000" stop="20260402030000 +0000" channel="SPOTV.id@SD"><title lang="en">Snow League 25/26: Laax, Switzerland</title><desc lang="en">Snowboard Finals</desc></programme>
+<programme start="20260402030000 +0000" stop="20260402040000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK FP1</desc></programme>
+<programme start="20260402040000 +0000" stop="20260402070000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB Superpole/SBK FP2/SSP Superpole</desc></programme>
+<programme start="20260402070000 +0000" stop="20260402080000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK FP3</desc></programme>
+<programme start="20260402080000 +0000" stop="20260402090000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SBK Tissot Superpole</desc></programme>
+<programme start="20260402090000 +0000" stop="20260402123000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB/SSP/SBK Race 1</desc></programme>
+<programme start="20260402123000 +0000" stop="20260402160000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">SPB/SSP/SBK Race 2</desc></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="SPOTV.id@SD"><title lang="en">2026 WorldSBK: Rd 2 Pirelli Portuguese Round</title><desc lang="en">Highlights</desc></programme>
 <programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
 <programme start="20260330183000 +0000" stop="20260330190000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20260330190000 +0000" stop="20260330193000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan</title></programme>
-<programme start="20260330193000 +0000" stop="20260330210000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
-<programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
+<programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
+<programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
+<programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
 <programme start="20260330213000 +0000" stop="20260330230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi</title></programme>
 <programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
 <programme start="20260330233000 +0000" stop="20260331013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
@@ -726,16 +703,16 @@
 <programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
 <programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
 <programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20260331130000 +0000" stop="20260331143000 +0000" channel="tvOne.id@SD"><title lang="id">Catatan Demokrasi</title></programme>
-<programme start="20260331143000 +0000" stop="20260331153000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
-<programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="tvOne.id@SD"><title lang="id">Fakta</title></programme>
+<programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
+<programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
 <programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam</title></programme>
 <programme start="20260331163000 +0000" stop="20260331180000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
 <programme start="20260331180000 +0000" stop="20260331183000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
 <programme start="20260331183000 +0000" stop="20260331190000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20260331190000 +0000" stop="20260331193000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
+<programme start="20260331190000 +0000" stop="20260331193000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan</title></programme>
 <programme start="20260331193000 +0000" stop="20260331210000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
-<programme start="20260331210000 +0000" stop="20260331213000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
+<programme start="20260331210000 +0000" stop="20260331213000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
 <programme start="20260331213000 +0000" stop="20260331230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi</title></programme>
 <programme start="20260331230000 +0000" stop="20260331233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
 <programme start="20260331233000 +0000" stop="20260401013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
@@ -749,35 +726,34 @@
 <programme start="20260401083000 +0000" stop="20260401090000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
 <programme start="20260401090000 +0000" stop="20260401110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
 <programme start="20260401110000 +0000" stop="20260401130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Business Forum</title></programme>
-<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
-<programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20260401130000 +0000" stop="20260401143000 +0000" channel="tvOne.id@SD"><title lang="id">Catatan Demokrasi</title></programme>
+<programme start="20260401143000 +0000" stop="20260401153000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
+<programme start="20260401153000 +0000" stop="20260401160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
 <programme start="20260401160000 +0000" stop="20260401163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam</title></programme>
 <programme start="20260401163000 +0000" stop="20260401180000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401180000 +0000" stop="20260401183000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
+<programme start="20260401183000 +0000" stop="20260401190000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20260401190000 +0000" stop="20260401193000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
+<programme start="20260401193000 +0000" stop="20260401210000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
+<programme start="20260401210000 +0000" stop="20260401213000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
+<programme start="20260401213000 +0000" stop="20260401230000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Pagi</title></programme>
+<programme start="20260401230000 +0000" stop="20260401233000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
+<programme start="20260401233000 +0000" stop="20260402013000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
+<programme start="20260402013000 +0000" stop="20260402020000 +0000" channel="tvOne.id@SD"><title lang="id">Hidup Sehat</title></programme>
+<programme start="20260402020000 +0000" stop="20260402023000 +0000" channel="tvOne.id@SD"><title lang="id">Inspirasi Pagi</title></programme>
+<programme start="20260402023000 +0000" stop="20260402033000 +0000" channel="tvOne.id@SD"><title lang="id">Pagi - Pagi Seru</title></programme>
+<programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="tvOne.id@SD"><title lang="id">Metropolitan</title></programme>
+<programme start="20260402040000 +0000" stop="20260402060000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Siang</title></programme>
+<programme start="20260402060000 +0000" stop="20260402073000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
+<programme start="20260402073000 +0000" stop="20260402083000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Merah Putih</title></programme>
+<programme start="20260402083000 +0000" stop="20260402090000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
+<programme start="20260402090000 +0000" stop="20260402110000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
+<programme start="20260402110000 +0000" stop="20260402130000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20260402130000 +0000" stop="20260402140000 +0000" channel="tvOne.id@SD"><title lang="id">Indonesia Business Forum</title></programme>
+<programme start="20260402140000 +0000" stop="20260402150000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Utama</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Malam</title></programme>
+<programme start="20260402163000 +0000" stop="20260402180000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
@@ -802,32 +778,32 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
-<programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260329230000 +0000" stop="20260330000000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
-<programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="XingKongChina.cn@SD"><title lang="en">XingKong China</title></programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
 <programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
 <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
@@ -852,6 +828,30 @@
 <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
 <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
 <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401000000 +0000" stop="20260401010000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
 <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
 <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
+<programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="ZhejiangSatelliteTV.cn@SD"><title lang="en">Zhejiang TV</title></programme>
 </tv>
