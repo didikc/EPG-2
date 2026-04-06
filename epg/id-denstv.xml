@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260406">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
 <channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
@@ -49,10 +49,10 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
 <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260405180000 +0000" stop="20260405183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260405183000 +0000" stop="20260405190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -235,21 +235,40 @@
 <programme start="20260408150000 +0000" stop="20260408160000 +0000" channel="131"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260408160000 +0000" stop="20260408165950 +0000" channel="131"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260408165950 +0000" stop="20260408165959 +0000" channel="131"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405170000 +0000" stop="20260405193000 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Originally from Soweto, BCUC</desc></programme>
-<programme start="20260405170000 +0000" stop="20260405174200 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Laurent de Wilde brings together an exceptional group composed of some of the best jazz pianists.</desc></programme>
-<programme start="20260405193000 +0000" stop="20260405203600 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">The meditative alchemy of violin, cello, and clarinet explores silence, improvisation, and global influences.</desc></programme>
-<programme start="20260405203600 +0000" stop="20260405220000 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
-<programme start="20260405220000 +0000" stop="20260405235000 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">The band sets Berlin ablaze with its fiery groove, sharp horns, and explosive funk.</desc></programme>
-<programme start="20260405235000 +0000" stop="20260406013000 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Originally from Soweto, BCUC&apos;s Afro-psychedelic trance hypnotises us with reworked traditional sounds.</desc></programme>
-<programme start="20260406013000 +0000" stop="20260406023600 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">The meditative alchemy of violin, cello, and clarinet explores silence, improvisation, and global influences.</desc></programme>
-<programme start="20260406023600 +0000" stop="20260406030000 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">&quot;This is the Qwest for the grooviest, deepest, most spine-tingling, sublime music&quot; - Quincy Jones</desc></programme>
-<programme start="20260406030000 +0000" stop="20260406054600 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Enjoy our chillin&apos; playlist cooked with love and get your day off to a good start with Qwest TV!</desc></programme>
-<programme start="20260406054600 +0000" stop="20260406083700 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Qwest TV breaks down the barriers between the worldâ€™s best, diverse sounds that will move you!</desc></programme>
-<programme start="20260406083700 +0000" stop="20260406112400 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">A curated selection of concerts from all around the globe that pushes boundaries and soothes your soul!</desc></programme>
-<programme start="20260406112400 +0000" stop="20260406140900 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Discover new tracks and timeless standards: &quot;From Bebop to Doo-Wop to Hip Hop&quot; as Quincy Jones loves to say!</desc></programme>
-<programme start="20260406140900 +0000" stop="20260406160000 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">This is your front-row seat for tonight&apos;s concert on Qwest TV!</desc></programme>
-<programme start="20260406160000 +0000" stop="20260406165950 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Laurent de Wilde brings together an exceptional group composed of some of the best jazz pianists.</desc></programme>
-<programme start="20260406165950 +0000" stop="20260406165959 +0000" channel="143"><title lang="id">The Schedule Is Not Available</title><desc lang="id">Laurent de Wilde brings together an exceptional group composed of some of the best jazz pianists.</desc></programme>
+<programme start="20260405170000 +0000" stop="20260405184000 +0000" channel="143"><title lang="id">BCUC - Live at Moods</title></programme>
+<programme start="20260405184000 +0000" stop="20260405200500 +0000" channel="143"><title lang="id">Frame by Frame</title></programme>
+<programme start="20260405200500 +0000" stop="20260405210800 +0000" channel="143"><title lang="id">Liniker E Os Caramelows</title></programme>
+<programme start="20260405210800 +0000" stop="20260405230000 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title></programme>
+<programme start="20260405230000 +0000" stop="20260406004000 +0000" channel="143"><title lang="id">BCUC - Live at Moods</title></programme>
+<programme start="20260406004000 +0000" stop="20260406020500 +0000" channel="143"><title lang="id">Frame by Frame</title></programme>
+<programme start="20260406020500 +0000" stop="20260406030800 +0000" channel="143"><title lang="id">Liniker E Os Caramelows</title></programme>
+<programme start="20260406030800 +0000" stop="20260406040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title></programme>
+<programme start="20260406040000 +0000" stop="20260406070100 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title></programme>
+<programme start="20260406070100 +0000" stop="20260406095000 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title></programme>
+<programme start="20260406095000 +0000" stop="20260406123600 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title></programme>
+<programme start="20260406123600 +0000" stop="20260406152400 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
+<programme start="20260406152400 +0000" stop="20260406165950 +0000" channel="143"><title lang="id">It s Showtime! by Qwest TV</title></programme>
+<programme start="20260406165950 +0000" stop="20260406165959 +0000" channel="143"><title lang="id">It s Showtime! by Qwest TV</title></programme>
+<programme start="20260406170000 +0000" stop="20260406175600 +0000" channel="143"><title lang="id">Ben Webster - episode 4</title></programme>
+<programme start="20260406201300 +0000" stop="20260406230000 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title></programme>
+<programme start="20260406230000 +0000" stop="20260406235600 +0000" channel="143"><title lang="id">Ben Webster - episode 4</title></programme>
+<programme start="20260407021300 +0000" stop="20260407040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title></programme>
+<programme start="20260407040000 +0000" stop="20260407064400 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title></programme>
+<programme start="20260407064400 +0000" stop="20260407092900 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title></programme>
+<programme start="20260407092900 +0000" stop="20260407122300 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title></programme>
+<programme start="20260407122300 +0000" stop="20260407151600 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
+<programme start="20260407151600 +0000" stop="20260407165950 +0000" channel="143"><title lang="id">It s Showtime! by Qwest TV</title></programme>
+<programme start="20260407165950 +0000" stop="20260407165959 +0000" channel="143"><title lang="id">It s Showtime! by Qwest TV</title></programme>
+<programme start="20260407170000 +0000" stop="20260407180800 +0000" channel="143"><title lang="id">Emile Parisien</title></programme>
+<programme start="20260407212300 +0000" stop="20260407230000 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title></programme>
+<programme start="20260407230000 +0000" stop="20260408000800 +0000" channel="143"><title lang="id">Emile Parisien</title></programme>
+<programme start="20260408032300 +0000" stop="20260408040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title></programme>
+<programme start="20260408040000 +0000" stop="20260408064700 +0000" channel="143"><title lang="id">Chillin with Qwest TV</title></programme>
+<programme start="20260408064700 +0000" stop="20260408093500 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title></programme>
+<programme start="20260408093500 +0000" stop="20260408122200 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title></programme>
+<programme start="20260408122200 +0000" stop="20260408150700 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
+<programme start="20260408150700 +0000" stop="20260408165950 +0000" channel="143"><title lang="id">It s Showtime! by Qwest TV</title></programme>
+<programme start="20260408165950 +0000" stop="20260408165959 +0000" channel="143"><title lang="id">It s Showtime! by Qwest TV</title></programme>
 <programme start="20260405170000 +0000" stop="20260405173000 +0000" channel="144"><title lang="id">Headline News</title></programme>
 <programme start="20260405173000 +0000" stop="20260405180000 +0000" channel="144"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
 <programme start="20260405180000 +0000" stop="20260405183000 +0000" channel="144"><title lang="id">Headline News</title></programme>
