@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260406">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
-<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
-<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
+<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
+<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSWorld.kr@SD"><display-name>KBS World</display-name><icon src="https://i.imgur.com/7DqgELX.png"/><url>https://dens.tv</url></channel>
 <channel id="KBSKorea.kr@SD"><display-name>KBS Korea</display-name><icon src="https://i.imgur.com/Dy1xwEd.png"/><url>https://dens.tv</url></channel>
 <channel id="DIM.ua@SD"><display-name>DIM TV</display-name><icon src="https://i.imgur.com/3cjaXIF.png"/><url>https://dens.tv</url></channel>
@@ -49,10 +49,10 @@
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://dens.tv</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>RodjaTV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://dens.tv</url></channel>
 <channel id="17"><display-name>TVRI</display-name><url>https://dens.tv</url></channel>
-<channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
-<channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
-<channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/><url>https://dens.tv</url></channel>
+<channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
+<channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260405180000 +0000" stop="20260405183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260405183000 +0000" stop="20260405190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -79,6 +79,19 @@
 <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260406160000 +0000" stop="20260406165950 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260406165950 +0000" stop="20260406165959 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260406170000 +0000" stop="20260406180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260406190000 +0000" stop="20260406200000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260406210000 +0000" stop="20260406223000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260406230000 +0000" stop="20260406233000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407010000 +0000" stop="20260407010000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407030000 +0000" stop="20260407030000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407050000 +0000" stop="20260407043000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407070000 +0000" stop="20260407080000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407090000 +0000" stop="20260407100000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407130000 +0000" stop="20260407140000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407150000 +0000" stop="20260407165950 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260407165950 +0000" stop="20260407165959 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260405180000 +0000" stop="20260405183000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260405183000 +0000" stop="20260405190000 +0000" channel="127"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -3017,32 +3030,81 @@
 <programme start="20260408134000 +0000" stop="20260408152500 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">The Job</title></programme>
 <programme start="20260408152500 +0000" stop="20260408165950 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">Swim Little Fish Swim</title></programme>
 <programme start="20260408165950 +0000" stop="20260408165959 +0000" channel="MyCinemaEurope.ch@SD"><title lang="id">Swim Little Fish Swim</title></programme>
-<programme start="20260405170000 +0000" stop="20260405171000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405171000 +0000" stop="20260405181000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405181000 +0000" stop="20260405190000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405190000 +0000" stop="20260405200000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405200000 +0000" stop="20260405210500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405210500 +0000" stop="20260405221500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405221500 +0000" stop="20260405231000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405231000 +0000" stop="20260405235500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260405235500 +0000" stop="20260406010500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406010500 +0000" stop="20260406015500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406015500 +0000" stop="20260406025000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406025000 +0000" stop="20260406034000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406034000 +0000" stop="20260406050500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406050500 +0000" stop="20260406062500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406062500 +0000" stop="20260406073000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406073000 +0000" stop="20260406083000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406083000 +0000" stop="20260406090500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406090500 +0000" stop="20260406100500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406100500 +0000" stop="20260406110500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406110500 +0000" stop="20260406120000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406130000 +0000" stop="20260406135500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406135500 +0000" stop="20260406144500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406144500 +0000" stop="20260406161500 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406161500 +0000" stop="20260406165950 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260406165950 +0000" stop="20260406165959 +0000" channel="NET.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260405170000 +0000" stop="20260405173000 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
+<programme start="20260405173000 +0000" stop="20260405190000 +0000" channel="NET.id@SD"><title lang="id">RT 5</title></programme>
+<programme start="20260405190000 +0000" stop="20260405201500 +0000" channel="NET.id@SD"><title lang="id">TAWA TAWA SANTAI</title></programme>
+<programme start="20260405201500 +0000" stop="20260405210000 +0000" channel="NET.id@SD"><title lang="id">KEAJAIBAN DUNIA</title></programme>
+<programme start="20260405210000 +0000" stop="20260405221500 +0000" channel="NET.id@SD"><title lang="id">TOP SPOT</title></programme>
+<programme start="20260405221500 +0000" stop="20260405230500 +0000" channel="NET.id@SD"><title lang="id">RISALAH</title></programme>
+<programme start="20260405230500 +0000" stop="20260405235000 +0000" channel="NET.id@SD"><title lang="id">MENJEMPUT BERKAH</title></programme>
+<programme start="20260405235000 +0000" stop="20260406010500 +0000" channel="NET.id@SD"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
+<programme start="20260406010500 +0000" stop="20260406020000 +0000" channel="NET.id@SD"><title lang="id">FAKTA +62</title></programme>
+<programme start="20260406020000 +0000" stop="20260406030000 +0000" channel="NET.id@SD"><title lang="id">SENSASIHOT</title></programme>
+<programme start="20260406030000 +0000" stop="20260406044500 +0000" channel="NET.id@SD"><title lang="id">TERLANJUR INDAH</title></programme>
+<programme start="20260406044500 +0000" stop="20260406061500 +0000" channel="NET.id@SD"><title lang="id">CINTA FITRI S7</title></programme>
+<programme start="20260406061500 +0000" stop="20260406073000 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260406073000 +0000" stop="20260406084500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!!</title></programme>
+<programme start="20260406084500 +0000" stop="20260406091500 +0000" channel="NET.id@SD"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20260406091500 +0000" stop="20260406101500 +0000" channel="NET.id@SD"><title lang="id">SENSASISELEB</title></programme>
+<programme start="20260406101500 +0000" stop="20260406111000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: AMIGOS X SIEMPRE</title></programme>
+<programme start="20260406111000 +0000" stop="20260406120000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260406120000 +0000" stop="20260406125500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260406125500 +0000" stop="20260406134500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: DUNIA TANPA TUHAN</title></programme>
+<programme start="20260406134500 +0000" stop="20260406143500 +0000" channel="NET.id@SD"><title lang="id">MD C-DRAMA: THE RETURN OF THE CONDOR HEROES</title></programme>
+<programme start="20260406143500 +0000" stop="20260406160000 +0000" channel="NET.id@SD"><title lang="id">JATANRAS</title></programme>
+<programme start="20260406160000 +0000" stop="20260406165500 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260406165500 +0000" stop="20260406165950 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
+<programme start="20260406165950 +0000" stop="20260406165959 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
+<programme start="20260406170000 +0000" stop="20260406181000 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
+<programme start="20260406181000 +0000" stop="20260406190000 +0000" channel="NET.id@SD"><title lang="id">RT 5</title></programme>
+<programme start="20260406190000 +0000" stop="20260406201500 +0000" channel="NET.id@SD"><title lang="id">TAWA TAWA SANTAI</title></programme>
+<programme start="20260406201500 +0000" stop="20260406210000 +0000" channel="NET.id@SD"><title lang="id">KEAJAIBAN DUNIA</title></programme>
+<programme start="20260406210000 +0000" stop="20260406221500 +0000" channel="NET.id@SD"><title lang="id">TOP SPOT</title></programme>
+<programme start="20260406221500 +0000" stop="20260406230500 +0000" channel="NET.id@SD"><title lang="id">RISALAH</title></programme>
+<programme start="20260406230500 +0000" stop="20260406235000 +0000" channel="NET.id@SD"><title lang="id">MENJEMPUT BERKAH</title></programme>
+<programme start="20260406235000 +0000" stop="20260407010500 +0000" channel="NET.id@SD"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
+<programme start="20260407010500 +0000" stop="20260407020000 +0000" channel="NET.id@SD"><title lang="id">FAKTA +62</title></programme>
+<programme start="20260407020000 +0000" stop="20260407030000 +0000" channel="NET.id@SD"><title lang="id">SENSASIHOT</title></programme>
+<programme start="20260407030000 +0000" stop="20260407044500 +0000" channel="NET.id@SD"><title lang="id">TERLANJUR INDAH</title></programme>
+<programme start="20260407044500 +0000" stop="20260407061500 +0000" channel="NET.id@SD"><title lang="id">CINTA FITRI S7</title></programme>
+<programme start="20260407061500 +0000" stop="20260407073000 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260407073000 +0000" stop="20260407084500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!!</title></programme>
+<programme start="20260407084500 +0000" stop="20260407091500 +0000" channel="NET.id@SD"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20260407091500 +0000" stop="20260407101500 +0000" channel="NET.id@SD"><title lang="id">SENSASISELEB</title></programme>
+<programme start="20260407101500 +0000" stop="20260407111000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: AMIGOS X SIEMPRE</title></programme>
+<programme start="20260407111000 +0000" stop="20260407120000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260407120000 +0000" stop="20260407125500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: KELUARGA YANG TAK DIRINDUKAN</title></programme>
+<programme start="20260407125500 +0000" stop="20260407134500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: DUNIA TANPA TUHAN</title></programme>
+<programme start="20260407134500 +0000" stop="20260407143500 +0000" channel="NET.id@SD"><title lang="id">MD C-DRAMA: THE RETURN OF THE CONDOR HEROES</title></programme>
+<programme start="20260407143500 +0000" stop="20260407160000 +0000" channel="NET.id@SD"><title lang="id">JATANRAS</title></programme>
+<programme start="20260407160000 +0000" stop="20260407165500 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260407165500 +0000" stop="20260407165950 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
+<programme start="20260407165950 +0000" stop="20260407165959 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
+<programme start="20260407170000 +0000" stop="20260407181000 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
+<programme start="20260407181000 +0000" stop="20260407190000 +0000" channel="NET.id@SD"><title lang="id">RT 5</title></programme>
+<programme start="20260407190000 +0000" stop="20260407201500 +0000" channel="NET.id@SD"><title lang="id">TAWA TAWA SANTAI</title></programme>
+<programme start="20260407201500 +0000" stop="20260407210000 +0000" channel="NET.id@SD"><title lang="id">KEAJAIBAN DUNIA</title></programme>
+<programme start="20260407210000 +0000" stop="20260407221500 +0000" channel="NET.id@SD"><title lang="id">TOP SPOT</title></programme>
+<programme start="20260407221500 +0000" stop="20260407230500 +0000" channel="NET.id@SD"><title lang="id">RISALAH</title></programme>
+<programme start="20260407230500 +0000" stop="20260407235000 +0000" channel="NET.id@SD"><title lang="id">MENJEMPUT BERKAH</title></programme>
+<programme start="20260407235000 +0000" stop="20260408010500 +0000" channel="NET.id@SD"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
+<programme start="20260408010500 +0000" stop="20260408020000 +0000" channel="NET.id@SD"><title lang="id">FAKTA +62</title></programme>
+<programme start="20260408020000 +0000" stop="20260408030000 +0000" channel="NET.id@SD"><title lang="id">SENSASIHOT</title></programme>
+<programme start="20260408030000 +0000" stop="20260408044500 +0000" channel="NET.id@SD"><title lang="id">TERLANJUR INDAH</title></programme>
+<programme start="20260408044500 +0000" stop="20260408061500 +0000" channel="NET.id@SD"><title lang="id">CINTA FITRI S7</title></programme>
+<programme start="20260408061500 +0000" stop="20260408073000 +0000" channel="NET.id@SD"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20260408073000 +0000" stop="20260408084500 +0000" channel="NET.id@SD"><title lang="id">MASAK GESSS!!!</title></programme>
+<programme start="20260408084500 +0000" stop="20260408091500 +0000" channel="NET.id@SD"><title lang="id">ADIT SOPO JARWO</title></programme>
+<programme start="20260408091500 +0000" stop="20260408101500 +0000" channel="NET.id@SD"><title lang="id">SENSASISELEB</title></programme>
+<programme start="20260408101500 +0000" stop="20260408111000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: AMIGOS X SIEMPRE</title></programme>
+<programme start="20260408111000 +0000" stop="20260408120000 +0000" channel="NET.id@SD"><title lang="id">MD TELEDRAMA: ESMERALDA</title></programme>
+<programme start="20260408120000 +0000" stop="20260408125500 +0000" channel="NET.id@SD"><title lang="id">MD DRAMA: CINTA FITRI</title></programme>
+<programme start="20260408125500 +0000" stop="20260408134500 +0000" channel="NET.id@SD"><title lang="id">MD SERIES: DUNIA TANPA TUHAN</title></programme>
+<programme start="20260408134500 +0000" stop="20260408143500 +0000" channel="NET.id@SD"><title lang="id">MD C-DRAMA: THE RETURN OF THE CONDOR HEROES</title></programme>
+<programme start="20260408143500 +0000" stop="20260408160000 +0000" channel="NET.id@SD"><title lang="id">JATANRAS</title></programme>
+<programme start="20260408160000 +0000" stop="20260408165500 +0000" channel="NET.id@SD"><title lang="id">86</title></programme>
+<programme start="20260408165500 +0000" stop="20260408165950 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
+<programme start="20260408165950 +0000" stop="20260408165959 +0000" channel="NET.id@SD"><title lang="id">MALAM MALAM</title></programme>
 <programme start="20260405170000 +0000" stop="20260405171000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
 <programme start="20260405171000 +0000" stop="20260405172500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ekiben Japan</title></programme>
 <programme start="20260405172500 +0000" stop="20260405173000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Core Kyoto</title></programme>
