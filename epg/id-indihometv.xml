@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260407">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="BBCNews.uk@AsiaPacific"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
 <channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
 <channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
@@ -124,9 +123,10 @@
 <channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="BBCNews.uk@AsiaPacific"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260406170000 +0000" stop="20260406173000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Foreign Correspondent - Celtic Waves - Ireland</title></programme>
 <programme start="20260406173000 +0000" stop="20260406180000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Planet America - Eps. 10</title></programme>
 <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Roads Unknown India - Eps. 2</title></programme>
@@ -1239,9 +1239,10 @@
 <programme start="20260406211500 +0000" stop="20260406220000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Akhir Pekan</title></programme>
 <programme start="20260406220000 +0000" stop="20260406223000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Gapai Kemuliaan</title></programme>
 <programme start="20260406223000 +0000" stop="20260406233000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20260406233000 +0000" stop="20260407003000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20260406233000 +0000" stop="20260407000000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20260407000000 +0000" stop="20260407003000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Insiders - Avesta</title></programme>
 <programme start="20260407003000 +0000" stop="20260407013000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Good Morning</title></programme>
-<programme start="20260407013000 +0000" stop="20260407020000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Blocking Program Gogomall</title></programme>
+<programme start="20260407013000 +0000" stop="20260407020000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Sssst Check It Out! with Alvin Adam</title></programme>
 <programme start="20260407020000 +0000" stop="20260407023000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Lacak Kriminal</title></programme>
 <programme start="20260407023000 +0000" stop="20260407030000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Today</title></programme>
 <programme start="20260407030000 +0000" stop="20260407040000 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Business</title></programme>
@@ -2375,7 +2376,7 @@
 <programme start="20260407145400 +0000" stop="20260407152700 +0000" channel="HorizonSports.us@SD"><title lang="id">Raid Gallaecia 2025</title></programme>
 <programme start="20260407152700 +0000" stop="20260407155600 +0000" channel="HorizonSports.us@SD"><title lang="id">Trans Sahara Marathon 2025</title></programme>
 <programme start="20260407155600 +0000" stop="20260407162800 +0000" channel="HorizonSports.us@SD"><title lang="id">Challenge Family 2025 - Season Wrap Up Eng</title></programme>
-<programme start="20260407162800 +0000" stop="20260407180000 +0000" channel="HorizonSports.us@SD"><title lang="id">The High</title></programme>
+<programme start="20260407162800 +0000" stop="20260407180300 +0000" channel="HorizonSports.us@SD"><title lang="id">The High</title></programme>
 <programme start="20260406173000 +0000" stop="20260406183000 +0000" channel="IDXChannel.id@SD"><title lang="id">Prime Market Highlight</title></programme>
 <programme start="20260406183000 +0000" stop="20260406193000 +0000" channel="IDXChannel.id@SD"><title lang="id">Market Review</title></programme>
 <programme start="20260406193000 +0000" stop="20260406203000 +0000" channel="IDXChannel.id@SD"><title lang="id">Market Headlines</title></programme>
@@ -2436,15 +2437,13 @@
 <programme start="20260407120000 +0000" stop="20260407160000 +0000" channel="Indosiar.id@SD"><title lang="id">D&apos; Academy 7</title></programme>
 <programme start="20260407160000 +0000" stop="20260407180000 +0000" channel="Indosiar.id@SD"><title lang="id">Mega Film Asia</title></programme>
 <programme start="20260406170000 +0000" stop="20260406173000 +0000" channel="iNews.id@SD"><title lang="id">iNews Sport</title></programme>
-<programme start="20260406173000 +0000" stop="20260406193000 +0000" channel="iNews.id@SD"><title lang="id">Breaking News</title></programme>
-<programme start="20260406193000 +0000" stop="20260406201500 +0000" channel="iNews.id@SD"><title lang="id">iNews Sore</title></programme>
-<programme start="20260406201500 +0000" stop="20260406211500 +0000" channel="iNews.id@SD"><title lang="id">Special Report</title></programme>
+<programme start="20260406173000 +0000" stop="20260406211500 +0000" channel="iNews.id@SD"><title lang="id">Breaking News</title></programme>
 <programme start="20260406211500 +0000" stop="20260406225500 +0000" channel="iNews.id@SD"><title lang="id">iNews Pagi</title></programme>
 <programme start="20260406225500 +0000" stop="20260406233000 +0000" channel="iNews.id@SD"><title lang="id">iNews Sport Pagi</title></programme>
 <programme start="20260406233000 +0000" stop="20260407000000 +0000" channel="iNews.id@SD"><title lang="id">Special Report</title></programme>
 <programme start="20260407000000 +0000" stop="20260407010000 +0000" channel="iNews.id@SD"><title lang="id">Morning Update</title></programme>
-<programme start="20260407010000 +0000" stop="20260407021500 +0000" channel="iNews.id@SD"><title lang="id">Lapor Polisi</title></programme>
-<programme start="20260407021500 +0000" stop="20260407040000 +0000" channel="iNews.id@SD"><title lang="id">iNews Today</title></programme>
+<programme start="20260407010000 +0000" stop="20260407030000 +0000" channel="iNews.id@SD"><title lang="id">Breaking News</title></programme>
+<programme start="20260407030000 +0000" stop="20260407040000 +0000" channel="iNews.id@SD"><title lang="id">iNews Today</title></programme>
 <programme start="20260407040000 +0000" stop="20260407060000 +0000" channel="iNews.id@SD"><title lang="id">iNews Siang</title></programme>
 <programme start="20260407060000 +0000" stop="20260407080000 +0000" channel="iNews.id@SD"><title lang="id">Breaking News</title></programme>
 <programme start="20260407080000 +0000" stop="20260407093000 +0000" channel="iNews.id@SD"><title lang="id">Realita</title></programme>
@@ -2452,8 +2451,7 @@
 <programme start="20260407120000 +0000" stop="20260407140000 +0000" channel="iNews.id@SD"><title lang="id">Rakyat Bersuara</title></programme>
 <programme start="20260407140000 +0000" stop="20260407150000 +0000" channel="iNews.id@SD"><title lang="id">iNews Prime</title></programme>
 <programme start="20260407150000 +0000" stop="20260407160000 +0000" channel="iNews.id@SD"><title lang="id">Breaking News</title></programme>
-<programme start="20260407160000 +0000" stop="20260407163000 +0000" channel="iNews.id@SD"><title lang="id">iNews Malam</title></programme>
-<programme start="20260407163000 +0000" stop="20260407170000 +0000" channel="iNews.id@SD"><title lang="id">Highlight Formula E 2026 - Madrid</title></programme>
+<programme start="20260407160000 +0000" stop="20260407170000 +0000" channel="iNews.id@SD"><title lang="id">iNews Malam</title></programme>
 <programme start="20260406220000 +0000" stop="20260406223000 +0000" channel="JakTV.id@SD"><title lang="id">Senyum Quran</title></programme>
 <programme start="20260406223000 +0000" stop="20260406230000 +0000" channel="JakTV.id@SD"><title lang="id">Chess Player</title></programme>
 <programme start="20260406230000 +0000" stop="20260406233000 +0000" channel="JakTV.id@SD"><title lang="id">Kara Dan Mayi</title></programme>
@@ -2761,25 +2759,28 @@
 <programme start="20260406203000 +0000" stop="20260406210000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
 <programme start="20260406210000 +0000" stop="20260406210500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260406210500 +0000" stop="20260406213000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
-<programme start="20260406213000 +0000" stop="20260406215500 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
-<programme start="20260406215500 +0000" stop="20260406220000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
+<programme start="20260406213000 +0000" stop="20260406220000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
 <programme start="20260406220000 +0000" stop="20260406220500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
-<programme start="20260406220500 +0000" stop="20260406233000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Pagi Primetime</title></programme>
+<programme start="20260406220500 +0000" stop="20260406223000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Pagi Primetime</title></programme>
+<programme start="20260406223000 +0000" stop="20260406230000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Pagi Primetime</title></programme>
+<programme start="20260406230000 +0000" stop="20260406233000 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260406233000 +0000" stop="20260407000000 +0000" channel="MetroTV.id@SD"><title lang="id">Go Healthy</title></programme>
 <programme start="20260407000000 +0000" stop="20260407000500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260407000500 +0000" stop="20260407003000 +0000" channel="MetroTV.id@SD"><title lang="id">Editorial Media Indonesia</title></programme>
 <programme start="20260407003000 +0000" stop="20260407010000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Sport</title></programme>
 <programme start="20260407010000 +0000" stop="20260407010500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
-<programme start="20260407010500 +0000" stop="20260407020000 +0000" channel="MetroTV.id@SD"><title lang="id">Selamat Pagi Indonesia</title></programme>
+<programme start="20260407010500 +0000" stop="20260407013000 +0000" channel="MetroTV.id@SD"><title lang="id">Selamat Pagi Indonesia</title></programme>
+<programme start="20260407013000 +0000" stop="20260407020000 +0000" channel="MetroTV.id@SD"><title lang="id">Selamat Pagi Indonesia</title></programme>
 <programme start="20260407020000 +0000" stop="20260407020500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260407020500 +0000" stop="20260407023000 +0000" channel="MetroTV.id@SD"><title lang="id">Selamat Pagi Indonesia</title></programme>
-<programme start="20260407023000 +0000" stop="20260407030000 +0000" channel="MetroTV.id@SD"><title lang="id">Zona Bisnis</title></programme>
+<programme start="20260407023000 +0000" stop="20260407030000 +0000" channel="MetroTV.id@SD"><title lang="id">Zona Bisnis (Inc. Corporate Update On Friday)</title></programme>
 <programme start="20260407030000 +0000" stop="20260407030500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
-<programme start="20260407030500 +0000" stop="20260407033000 +0000" channel="MetroTV.id@SD"><title lang="id">Zona Bisnis</title></programme>
+<programme start="20260407030500 +0000" stop="20260407033000 +0000" channel="MetroTV.id@SD"><title lang="id">Zona Bisnis (Inc. Corporate Update On Friday)</title></programme>
 <programme start="20260407033000 +0000" stop="20260407040000 +0000" channel="MetroTV.id@SD"><title lang="id">Go Healthy</title></programme>
 <programme start="20260407040000 +0000" stop="20260407040500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260407040500 +0000" stop="20260407043000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Sport</title></programme>
-<programme start="20260407043000 +0000" stop="20260407053000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Siang</title></programme>
+<programme start="20260407043000 +0000" stop="20260407050000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Siang</title></programme>
+<programme start="20260407050000 +0000" stop="20260407053000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Siang</title></programme>
 <programme start="20260407053000 +0000" stop="20260407060000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Siang</title></programme>
 <programme start="20260407060000 +0000" stop="20260407063000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Siang</title></programme>
 <programme start="20260407063000 +0000" stop="20260407070000 +0000" channel="MetroTV.id@SD"><title lang="id">Prioritas Indonesia</title></programme>
@@ -2787,28 +2788,25 @@
 <programme start="20260407070500 +0000" stop="20260407073000 +0000" channel="MetroTV.id@SD"><title lang="id">Newsline</title></programme>
 <programme start="20260407073000 +0000" stop="20260407080000 +0000" channel="MetroTV.id@SD"><title lang="id">Newsline</title></programme>
 <programme start="20260407080000 +0000" stop="20260407080500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
-<programme start="20260407080500 +0000" stop="20260407082000 +0000" channel="MetroTV.id@SD"><title lang="id">Newsline</title></programme>
-<programme start="20260407082000 +0000" stop="20260407083000 +0000" channel="MetroTV.id@SD"><title lang="id">Newsline</title></programme>
-<programme start="20260407083000 +0000" stop="20260407085000 +0000" channel="MetroTV.id@SD"><title lang="id">Newsline</title></programme>
-<programme start="20260407085000 +0000" stop="20260407090000 +0000" channel="MetroTV.id@SD"><title lang="id">Newsline</title></programme>
+<programme start="20260407080500 +0000" stop="20260407083000 +0000" channel="MetroTV.id@SD"><title lang="id">Newsline</title></programme>
+<programme start="20260407083000 +0000" stop="20260407090000 +0000" channel="MetroTV.id@SD"><title lang="id">Newsline</title></programme>
 <programme start="20260407090000 +0000" stop="20260407090500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260407090500 +0000" stop="20260407093000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Hari Ini</title></programme>
 <programme start="20260407093000 +0000" stop="20260407100000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Hari Ini</title></programme>
 <programme start="20260407100000 +0000" stop="20260407103000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Hari Ini</title></programme>
 <programme start="20260407103000 +0000" stop="20260407110000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
 <programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
-<programme start="20260407113000 +0000" stop="20260407115000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
-<programme start="20260407115000 +0000" stop="20260407120000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
+<programme start="20260407113000 +0000" stop="20260407120000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
 <programme start="20260407120000 +0000" stop="20260407120500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
-<programme start="20260407120500 +0000" stop="20260407122000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
-<programme start="20260407122000 +0000" stop="20260407125000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
-<programme start="20260407125000 +0000" stop="20260407130000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
+<programme start="20260407120500 +0000" stop="20260407123000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
+<programme start="20260407123000 +0000" stop="20260407124500 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
+<programme start="20260407124500 +0000" stop="20260407130000 +0000" channel="MetroTV.id@SD"><title lang="id">Primetime News</title></programme>
 <programme start="20260407130000 +0000" stop="20260407130500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260407130500 +0000" stop="20260407133000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
-<programme start="20260407133000 +0000" stop="20260407135000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
-<programme start="20260407135000 +0000" stop="20260407140000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
+<programme start="20260407133000 +0000" stop="20260407140000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
 <programme start="20260407140000 +0000" stop="20260407140500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
-<programme start="20260407140500 +0000" stop="20260407150000 +0000" channel="MetroTV.id@SD"><title lang="id">Top Economy Spec. Islamic Economy</title></programme>
+<programme start="20260407140500 +0000" stop="20260407143000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
+<programme start="20260407143000 +0000" stop="20260407150000 +0000" channel="MetroTV.id@SD"><title lang="id">Top News</title></programme>
 <programme start="20260407150000 +0000" stop="20260407150500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260407150500 +0000" stop="20260407153000 +0000" channel="MetroTV.id@SD"><title lang="id">Metro Xinwen</title></programme>
 <programme start="20260407153000 +0000" stop="20260407160000 +0000" channel="MetroTV.id@SD"><title lang="id">Meet Nite Live</title></programme>
@@ -3789,17 +3787,20 @@
 <programme start="20260407143000 +0000" stop="20260407153000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">Sindo Malam</title></programme>
 <programme start="20260407153000 +0000" stop="20260407163000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">Sindo Files</title></programme>
 <programme start="20260407163000 +0000" stop="20260407170000 +0000" channel="SindoNewsTV.id@SD"><title lang="id">OMG</title></programme>
-<programme start="20260406170000 +0000" stop="20260406180000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Harley-Davidson Bagger World Cup Rd 1 USA - Race 1</title></programme>
-<programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 22 - Melbourne Victory vs Central Coast Mariners FC</title></programme>
-<programme start="20260406183000 +0000" stop="20260406210000 +0000" channel="SPOTV2.id@SD"><title lang="id">27-3 2026 MLB Regular Season - Los Angeles Dodgers vs Arizona Diamondbacks</title></programme>
-<programme start="20260406210000 +0000" stop="20260407013000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S - Race</title></programme>
-<programme start="20260407013000 +0000" stop="20260407053000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 NASCAR Cup Series - Cook Out 400</title></programme>
-<programme start="20260407053000 +0000" stop="20260407080000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 World Baseball Classic: Pool C - Australia vs Japan</title></programme>
-<programme start="20260407080000 +0000" stop="20260407103000 +0000" channel="SPOTV2.id@SD"><title lang="id">27-3 2026 MLB Regular Season - Los Angeles Dodgers vs Arizona Diamondbacks</title></programme>
-<programme start="20260407103000 +0000" stop="20260407110000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 22 - Brisbane Roar FC vs Wellington Phoenix</title></programme>
-<programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Rolex Spirit of Yachting - Rolex China Sea Race</title></programme>
-<programme start="20260407113000 +0000" stop="20260407161000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 MotoGP Rd 3 Red Bull Grand Prix of The U.S - Race</title></programme>
-<programme start="20260407161000 +0000" stop="20260407170000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Harley-Davidson Bagger World Cup Rd 1 USA - Race 2</title></programme>
+<programme start="20260406180000 +0000" stop="20260406201500 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 World Baseball Classic: Pool D - Netherlands vs Dominican Republic</title></programme>
+<programme start="20260406201500 +0000" stop="20260406230000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 World Baseball Classic: Pool B - Mexico vs USA</title></programme>
+<programme start="20260406230000 +0000" stop="20260407005500 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 23 - Central Coast Mariners FC vs Perth Glory</title></programme>
+<programme start="20260407005500 +0000" stop="20260407023000 +0000" channel="SPOTV2.id@SD"><title lang="id">SailGP S6: KPMG Sydney Sail Grand Prix - Day 1 Race</title></programme>
+<programme start="20260407023000 +0000" stop="20260407030000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 22 - Western Sydney Wanderers FC vs Adelaide United</title></programme>
+<programme start="20260407030000 +0000" stop="20260407040000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Harley-Davidson Bagger World Cup Rd 1 USA - Race 1</title></programme>
+<programme start="20260407040000 +0000" stop="20260407060000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 23 - Macarthur FC vs Newcastle Jets FC</title></programme>
+<programme start="20260407060000 +0000" stop="20260407083000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 World Baseball Classic: Pool A - Cuba vs Puerto Rico</title></programme>
+<programme start="20260407083000 +0000" stop="20260407090000 +0000" channel="SPOTV2.id@SD"><title lang="id">WTT Singapore Smash 2026 - Review Show</title></programme>
+<programme start="20260407090000 +0000" stop="20260407110000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 23 - Melbourne City FC vs Western Sydney Wanderers FC</title></programme>
+<programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="SPOTV2.id@SD"><title lang="id">MotoGP Inside Ducati Lenovo Team - Ep1</title></programme>
+<programme start="20260407113000 +0000" stop="20260407140000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 MLB Regular Season - Washington Nationals vs Los Angeles Dodgers</title></programme>
+<programme start="20260407140000 +0000" stop="20260407160000 +0000" channel="SPOTV2.id@SD"><title lang="id">2025-2026 A-League Men Round 23 - Central Coast Mariners FC vs Perth Glory</title></programme>
+<programme start="20260407160000 +0000" stop="20260407170000 +0000" channel="SPOTV2.id@SD"><title lang="id">2026 Harley-Davidson Bagger World Cup Rd 1 USA - Race 1</title></programme>
 <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 23: Brisbane Roar FC vs Sydney FC</title></programme>
 <programme start="20260406183000 +0000" stop="20260406190000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 ALM Mini Match Rd 23: Central Coast Mariners FC vs Perth Glory</title></programme>
 <programme start="20260406190000 +0000" stop="20260406210000 +0000" channel="SPOTV.id@SD"><title lang="id">2025-2026 ROSHN Saudi League MW 27: Al Nassr vs Al Najmah</title></programme>
@@ -3947,11 +3948,11 @@
 <programme start="20260407143000 +0000" stop="20260407154500 +0000" channel="Trans7.id@SD"><title lang="id">Lapor Pak!</title></programme>
 <programme start="20260407154500 +0000" stop="20260407163000 +0000" channel="Trans7.id@SD"><title lang="id">The Police</title></programme>
 <programme start="20260407163000 +0000" stop="20260407171500 +0000" channel="Trans7.id@SD"><title lang="id">Newstaintment</title></programme>
-<programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20260406183000 +0000" stop="20260406194000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20260406194000 +0000" stop="20260406202000 +0000" channel="TransTV.id@SD"><title lang="id">Klinik Tendean</title></programme>
-<programme start="20260406202000 +0000" stop="20260406214000 +0000" channel="TransTV.id@SD"><title lang="id">Angry Boss</title></programme>
-<programme start="20260406214000 +0000" stop="20260406220000 +0000" channel="TransTV.id@SD"><title lang="id">Cerita Di Balik Hijab</title></programme>
+<programme start="20260406180000 +0000" stop="20260406190000 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20260406190000 +0000" stop="20260406203000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
+<programme start="20260406203000 +0000" stop="20260406210000 +0000" channel="TransTV.id@SD"><title lang="id">The Transmart</title></programme>
+<programme start="20260406210000 +0000" stop="20260406214000 +0000" channel="TransTV.id@SD"><title lang="id">Kontrakan 3 Pintu</title></programme>
+<programme start="20260406214000 +0000" stop="20260406220000 +0000" channel="TransTV.id@SD"><title lang="id">Keluarga Sonfai</title></programme>
 <programme start="20260406220000 +0000" stop="20260406233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
 <programme start="20260406233000 +0000" stop="20260407003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi</title></programme>
 <programme start="20260407003000 +0000" stop="20260407013000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Good Morning</title></programme>
@@ -3965,8 +3966,8 @@
 <programme start="20260407103000 +0000" stop="20260407114500 +0000" channel="TransTV.id@SD"><title lang="id">Bikin Laper</title></programme>
 <programme start="20260407114500 +0000" stop="20260407130000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Story</title></programme>
 <programme start="20260407130000 +0000" stop="20260407140000 +0000" channel="TransTV.id@SD"><title lang="id">Dunia Punya Cerita</title></programme>
-<programme start="20260407140000 +0000" stop="20260407160000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - The Ambush</title></programme>
-<programme start="20260407160000 +0000" stop="20260407180000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - Mosul</title></programme>
+<programme start="20260407140000 +0000" stop="20260407160000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - The Commuter</title></programme>
+<programme start="20260407160000 +0000" stop="20260407180000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - Cold Pursuit</title></programme>
 <programme start="20260406170300 +0000" stop="20260406172400 +0000" channel="TV5MondeAsia.fr@SD"><title lang="id">Six Degres</title></programme>
 <programme start="20260406172400 +0000" stop="20260406174600 +0000" channel="TV5MondeAsia.fr@SD"><title lang="id">Six Degres</title></programme>
 <programme start="20260406174600 +0000" stop="20260406180700 +0000" channel="TV5MondeAsia.fr@SD"><title lang="id">Six Degres</title></programme>
