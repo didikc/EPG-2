@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260408">
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/><url>https://indihometv.com</url></channel>
-<channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="BBCNews.uk@AsiaPacific"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
+<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="RT.ru@SD"><display-name>RT</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
 <channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://indihometv.com</url></channel>
@@ -123,10 +124,9 @@
 <channel id="AntaraTV.id@SD"><display-name>Antara</display-name><icon src="https://thumbor.prod.vidiocdn.com/GZLOFeCtplhuW5-hl6yePAuO5G8=/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/909905/antaratv-90a879.jpg"/><url>https://indihometv.com</url></channel>
 <channel id="AniplusAsia.sg@SD"><display-name>Aniplus</display-name><icon src="https://i.imgur.com/Im3MePy.png"/><url>https://indihometv.com</url></channel>
 <channel id="AnimaxAsia.sg@SD"><display-name>Animax</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/><url>https://indihometv.com</url></channel>
-<channel id="AnimalPlanetSoutheastAsia.sg@SD"><display-name>Animal Planet</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="QuranTV.sa@SD"><display-name>AlQuran Kareem</display-name><icon src="https://i.imgur.com/OKpxQef.jpg"/><url>https://indihometv.com</url></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Aljazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="AsianFoodNetwork.sg@SD"><display-name>Asian Food Network</display-name><icon src="https://i.imgur.com/pux6WN8.png"/><url>https://indihometv.com</url></channel>
+<channel id="CBeebiesAsia.uk@SD"><display-name>CBeebies</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="BBCNews.uk@AsiaPacific"><display-name>BBC World News</display-name><icon src="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260407170000 +0000" stop="20260407173000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Australian Story - The Leyland Brother - Mal Leyland</title></programme>
 <programme start="20260407173000 +0000" stop="20260407183000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Gardening Australia - Autumn: Cottage Gardening &amp; Custard Apples</title></programme>
 <programme start="20260407183000 +0000" stop="20260407190000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Dr Karl&apos;s How Things Work - Aussie Rules Football</title></programme>
@@ -3615,15 +3615,15 @@
 <programme start="20260407194000 +0000" stop="20260407203000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">NCIS S21 - Eps. 3</title></programme>
 <programme start="20260407203000 +0000" stop="20260407211500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">NCIS S21 - Eps. 4</title></programme>
 <programme start="20260407211500 +0000" stop="20260407220000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">NCIS S21 - Eps. 5</title></programme>
-<programme start="20260407220000 +0000" stop="20260407224500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Late Night With Seth Meyers S13 - Eps. 90</title></programme>
-<programme start="20260407224500 +0000" stop="20260407233000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Tonight Show Starring Jimmy Fallon S13 - Eps. 91</title></programme>
+<programme start="20260407220000 +0000" stop="20260407224500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Late Night With Seth Meyers S13 - Eps. 78</title></programme>
+<programme start="20260407224500 +0000" stop="20260407233000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Tonight Show Starring Jimmy Fallon S13 - Eps. 83</title></programme>
 <programme start="20260407233000 +0000" stop="20260408003000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Wheel Of Time - Eps. 5</title></programme>
 <programme start="20260408003000 +0000" stop="20260408013000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Wheel Of Time - Eps. 6</title></programme>
 <programme start="20260408013000 +0000" stop="20260408023000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Wheel Of Time - Eps. 5</title></programme>
 <programme start="20260408023000 +0000" stop="20260408033000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Wheel Of Time - Eps. 6</title></programme>
 <programme start="20260408033000 +0000" stop="20260408041500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Below Deck Mediterranean S10 - Eps. 14</title></programme>
-<programme start="20260408041500 +0000" stop="20260408050000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Tonight Show Starring Jimmy Fallon S13 - Eps. 91</title></programme>
-<programme start="20260408050000 +0000" stop="20260408054500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Late Night With Seth Meyers S13 - Eps. 90</title></programme>
+<programme start="20260408041500 +0000" stop="20260408050000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Tonight Show Starring Jimmy Fallon S13 - Eps. 83</title></programme>
+<programme start="20260408050000 +0000" stop="20260408054500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Late Night With Seth Meyers S13 - Eps. 78</title></programme>
 <programme start="20260408054500 +0000" stop="20260408065000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Wheel Of Time - Eps. 5</title></programme>
 <programme start="20260408065000 +0000" stop="20260408073500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">NCIS S21 - Eps. 5</title></programme>
 <programme start="20260408073500 +0000" stop="20260408082000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">NCIS S21 - Eps. 6</title></programme>
@@ -3634,8 +3634,8 @@
 <programme start="20260408123500 +0000" stop="20260408133000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">DOC - In Your Hands S3 - Eps. 12</title></programme>
 <programme start="20260408133000 +0000" stop="20260408143000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">DOC - In Your Hands S3 - Eps. 13</title></programme>
 <programme start="20260408143000 +0000" stop="20260408151500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Buried In The Backyard S6 - Eps. 4</title></programme>
-<programme start="20260408151500 +0000" stop="20260408160000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Tonight Show Starring Jimmy Fallon S13 - Eps. 92</title></programme>
-<programme start="20260408160000 +0000" stop="20260408164500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Late Night With Seth Meyers S13 - Eps. 91</title></programme>
+<programme start="20260408151500 +0000" stop="20260408160000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">The Tonight Show Starring Jimmy Fallon S13 - Eps. 84</title></programme>
+<programme start="20260408160000 +0000" stop="20260408164500 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Late Night With Seth Meyers S13 - Eps. 79</title></programme>
 <programme start="20260408164500 +0000" stop="20260408173000 +0000" channel="ROCKEntertainment.sg@SD"><title lang="id">Buried In The Backyard S6 - Eps. 4</title></programme>
 <programme start="20260407181000 +0000" stop="20260407195500 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">Doomsday</title></programme>
 <programme start="20260407195500 +0000" stop="20260407222000 +0000" channel="ROCKExtreme.sg@SD"><title lang="id">The Hunger Games</title></programme>
