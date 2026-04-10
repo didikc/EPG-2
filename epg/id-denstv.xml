@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260410">
 <channel id="DensLearningKnowledge.id@SD"><display-name>DensKnowledge</display-name><url>https://dens.tv</url></channel>
-<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <channel id="144"><display-name>Russia Today (RT)</display-name><url>https://dens.tv</url></channel>
 <channel id="143"><display-name>Qwest TV</display-name><url>https://dens.tv</url></channel>
 <channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://dens.tv</url></channel>
@@ -53,6 +52,7 @@
 <channel id="CGTN.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/><url>https://dens.tv</url></channel>
 <channel id="NET.id@SD"><display-name>MDTV</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://dens.tv</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://dens.tv</url></channel>
+<channel id="3"><display-name>Live Streaming 1</display-name><url>https://dens.tv</url></channel>
 <programme start="20260409170000 +0000" stop="20260409180000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260409180000 +0000" stop="20260409183000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260409183000 +0000" stop="20260409190000 +0000" channel="17"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -315,6 +315,20 @@
 <programme start="20260411122900 +0000" stop="20260411151700 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
 <programme start="20260411151700 +0000" stop="20260411165950 +0000" channel="143"><title lang="id">It s Showtime! by Qwest TV</title></programme>
 <programme start="20260411165950 +0000" stop="20260411165959 +0000" channel="143"><title lang="id">It s Showtime! by Qwest TV</title></programme>
+<programme start="20260411170000 +0000" stop="20260411184300 +0000" channel="143"><title lang="id">Karriem Riggins &amp; J. Rocc</title></programme>
+<programme start="20260411184300 +0000" stop="20260411191000 +0000" channel="143"><title lang="id">Sound System Sanskriti</title></programme>
+<programme start="20260411191000 +0000" stop="20260411202200 +0000" channel="143"><title lang="id">Paul Lay&apos;s Trio - Deep Rivers</title></programme>
+<programme start="20260411202200 +0000" stop="20260411230000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title></programme>
+<programme start="20260411230000 +0000" stop="20260412004300 +0000" channel="143"><title lang="id">Karriem Riggins &amp; J. Rocc</title></programme>
+<programme start="20260412004300 +0000" stop="20260412011000 +0000" channel="143"><title lang="id">Sound System Sanskriti</title></programme>
+<programme start="20260412011000 +0000" stop="20260412022200 +0000" channel="143"><title lang="id">Paul Lay&apos;s Trio - Deep Rivers</title></programme>
+<programme start="20260412022200 +0000" stop="20260412040000 +0000" channel="143"><title lang="id">Late Night Sounds by Qwest TV</title></programme>
+<programme start="20260412040000 +0000" stop="20260412065000 +0000" channel="143"><title lang="id">Chillin&apos; with Qwest TV</title></programme>
+<programme start="20260412065000 +0000" stop="20260412093900 +0000" channel="143"><title lang="id">Diverse, Beautiful Music by Qwest TV</title></programme>
+<programme start="20260412093900 +0000" stop="20260412122900 +0000" channel="143"><title lang="id">Where Great Music Meets by Qwest TV</title></programme>
+<programme start="20260412122900 +0000" stop="20260412151700 +0000" channel="143"><title lang="id">From Be Bop to Hip Hop by Qwest TV</title></programme>
+<programme start="20260412151700 +0000" stop="20260412165950 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title></programme>
+<programme start="20260412165950 +0000" stop="20260412165959 +0000" channel="143"><title lang="id">Itâ€™s Showtime! by Qwest TV</title></programme>
 <programme start="20260409170000 +0000" stop="20260409173000 +0000" channel="144"><title lang="id">Headline News</title></programme>
 <programme start="20260409173000 +0000" stop="20260409180000 +0000" channel="144"><title lang="id">Documentary</title></programme>
 <programme start="20260409180000 +0000" stop="20260409183000 +0000" channel="144"><title lang="id">Headline News</title></programme>
