@@ -4,27 +4,27 @@ cd /home/runner/work/EPG-2/EPG-2/iptv-org-epg && npm install
 
 # Indihome TV EPG
 
-npm run grab -- --site=indihometv.com --output=../epg/id-indihometv.xml --days=3
+npm run grab -- site=maxstream.tv --output=../epg/id-maxstreamtv.xml --days=3
 
 # Cubmu EPG
 
-npm run grab -- --site=cubmu.com --lang=id --output=../epg/id-cubmu.xml --days=3
+npm run grab -- site=cubmu.com --lang=id --output=../epg/id-cubmu.xml --days=3
 
 # Dens TV EPG
 
-npm run grab -- --site=dens.tv --output=../epg/id-denstv.xml --days=3
+npm run grab -- site=dens.tv --output=../epg/id-denstv.xml --days=3
 
 # Vision Plus EPG
 
-npm run grab -- --site=visionplus.id --output=../epg/id-visionplus.xml --days=3
+npm run grab -- site=visionplus.id --output=../epg/id-visionplus.xml --days=3
 
 # Vidio EPG
 
-npm run grab -- --site=vidio.com --output=../epg/id-vidio.xml --days=3
+npm run grab -- site=vidio.com --output=../epg/id-vidio.xml --days=3
 
 # Firstmedia EPG
 
-npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
+npm run grab -- site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
 
 # Pix EPG
 
