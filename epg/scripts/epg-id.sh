@@ -1,29 +1,33 @@
 #!/bin/bash
 
-set -e
-
 cd /home/runner/work/EPG-2/EPG-2/iptv-org-epg && npm install
 
-run_if_exists () {
-  SITE=$1
-  OUTPUT=$2
+# Maxtream TV EPG
 
-  if [ -f "sites/$SITE/channels.xml" ]; then
-    echo "✅ Running $SITE"
-    npm run grab -- --channels=sites/$SITE/channels.xml --output=$OUTPUT --days=3
-  else
-    echo "⚠️ Skipping $SITE (not found)"
-  fi
-}
+npm run grab -- --site=maxstream.tv --output=../epg/id-maxstreamtv.xml --days=3
 
-run_if_exists "maxstream.tv" "../epg/id-maxstreamtv.xml"
-run_if_exists "vidio.com" "../epg/id-vidio.xml"
-run_if_exists "visionplus.id" "../epg/id-visionplus.xml"
-run_if_exists "dens.tv" "../epg/id-denstv.xml"
-run_if_exists "mncvision.id" "../epg/id-mncvision.xml"
-run_if_exists "useetv.com" "../epg/id-useetv.xml"
+# Cubmu EPG
 
-# Custom PIX
+npm run grab -- --site=cubmu.com --lang=id --output=../epg/id-cubmu.xml --days=3
+
+# Dens TV EPG
+
+npm run grab -- --site=dens.tv --output=../epg/id-denstv.xml --days=3
+
+# Vision Plus EPG
+
+npm run grab -- --site=visionplus.id --output=../epg/id-visionplus.xml --days=3
+
+# Vidio EPG
+
+npm run grab -- --site=vidio.com --output=../epg/id-vidio.xml --days=3
+
+# Firstmedia EPG
+
+npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
+
+# Pix EPG
+
 npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3
 
 # Compress EPG xml files
