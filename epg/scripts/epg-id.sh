@@ -4,31 +4,31 @@ cd /home/runner/work/EPG-2/EPG-2/iptv-org-epg && npm install
 
 # Maxtream TV EPG
 
-npm run grab -- --site=maxstream.tv --output=../epg/id-maxstreamtv.xml --days=3
+npm run grab --- --sites=maxstream.tv --output=../epg/id-maxstreamtv.xml --days=3
 
 # Cubmu EPG
 
-npm run grab -- --site=cubmu.com --lang=id --output=../epg/id-cubmu.xml --days=3
+npm run grab --- --sites=cubmu.com --lang=id --output=../epg/id-cubmu.xml --days=3
 
 # Dens TV EPG
 
-npm run grab -- --site=dens.tv --output=../epg/id-denstv.xml --days=3
+npm run grab --- --sites=dens.tv --output=../epg/id-denstv.xml --days=3
 
 # Vision Plus EPG
 
-npm run grab -- --site=visionplus.id --output=../epg/id-visionplus.xml --days=3
+npm run grab --- --sites=visionplus.id --output=../epg/id-visionplus.xml --days=3
 
 # Vidio EPG
 
-npm run grab -- --site=vidio.com --output=../epg/id-vidio.xml --days=3
+npm run grab --- --sites=vidio.com --output=../epg/id-vidio.xml --days=3
 
 # Firstmedia EPG
 
-npm run grab -- --site=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
+npm run grab --- --sites=firstmedia.com --output=../epg/id-firstmedia.xml --days=3
 
 # Pix EPG
 
-npm run grab -- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3
+npm run grab --- --channels=../epg/scripts/pix.xml --output=../epg/pix.xml --days=3
 
 # Compress EPG xml files
 cd ../epg/
