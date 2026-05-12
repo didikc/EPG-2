@@ -79,5 +79,9 @@
   <channel site="maxstream.tv" site_id="0_1u20u1ok" lang="id" xmltv_id="MAXSports.id@SD">MAXSports</channel>
   <channel site="maxstream.tv" site_id="0_720wy4x6" lang="id" xmltv_id="MAXStreak.id@SD">MAXStreak</channel>
   <channel site="maxstream.tv" site_id="0_ixad1kw8" lang="id" xmltv_id="MAXStream.id@SD">MAXStream TV</channel>
+  <channel site="dishtv.in" site_id="143548" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
+  <channel site="dishtv.in" site_id="143549" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
+  <channel site="dishtv.in" site_id="143554" lang="en" xmltv_id="MoviesNow.in@SD">Movies Now</channel>
+  <channel site="dishtv.in" site_id="143729" lang="en" xmltv_id="RomedyNow.in@SD">Romedy Now</channel> 
 </channels>
   
