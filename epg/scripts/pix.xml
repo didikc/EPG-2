@@ -4,17 +4,17 @@
   <channel site="dens.tv" site_id="82" lang="id" xmltv_id="AlQuranAlKareemTV.sa@SD">Quran TV</channel>
   <channel site="cubmu.com" site_id="4028c68574f658b101750641670b540e" lang="id" xmltv_id="QuranTV.sa@SD">Al Quran Al Kareem</channel>
   <channel site="dens.tv" site_id="88" lang="id" xmltv_id="AlSunnahAlNabawiyahTV.sa@SD">Sunna TV</channel>
-  <channel site="indihometv.com" site_id="rodjatv" lang="id" xmltv_id="RodjaTV.id@SD">Rodja TV</channel>
+  <channel site="maxstream.tv" site_id="0_9km1pl2v" lang="id" xmltv_id="RodjaTV.id@SD">Rodja TV</channel>
   <channel site="cubmu.com" site_id="4028c68574537fcd0174be56c7d858fd" lang="id" xmltv_id="BTV.id@SD">BTV</channel>
   <channel site="cubmu.com" site_id="4028c68574537fcd0174be4997e958db" lang="id" xmltv_id="CNNIndonesia.id@SD">CNN Indonesia</channel>
   <channel site="cubmu.com" site_id="4028c6858f902547018fccae36ec12b0" lang="id" xmltv_id="DensFoodChannel.id@SD">DENS Food Channel</channel>
   <channel site="cubmu.com" site_id="4028c68574537fcd0174be4f342858e9" lang="id" xmltv_id="Indosiar.id@SD">Indosiar</channel>
   <channel site="cubmu.com" site_id="4028c68574537fcd0174be58644c5901" lang="id" xmltv_id="KompasTV.id@SD">Kompas TV</channel>
-  <channel site="indihometv.com" site_id="tvone" lang="id" xmltv_id="tvOne.id@SD">TV One</channel>
+  <channel site="maxstream.tv" site_id="0_qy8d9ng1" lang="id" xmltv_id="tvOne.id@SD">TV One</channel>
   <channel site="cubmu.com" site_id="4028c68574537fcd0174be4783ff58da" lang="id" xmltv_id="MetroTV.id@SD">MetroTV</channel>
-  <channel site="indihometv.com" site_id="net" lang="id" xmltv_id="MDTV.id@SD">MDTV</channel>
+  <channel site="maxstream.tv" site_id="0_keojjla6" lang="id" xmltv_id="MDTV.id@HD">MDTV</channel>
   <channel site="cubmu.com" site_id="4028c685758bcfff01776c4ea3520a72" lang="id" xmltv_id="NET.id@SD">MDTV</channel>
-  <channel site="indihometv.com" site_id="nusantaratv" lang="id" xmltv_id="NusantaraTV.id@SD">Nusantara TV</channel>
+  <channel site="maxstream.tv" site_id="0_cbqtpojf" lang="id" xmltv_id="TV9Nusantara.id@SD">TV9</channel>
   <channel site="cubmu.com" site_id="4028c68574537fcd0174be5cd0b15903" lang="id" xmltv_id="RajawaliTV.id@SD">rtv</channel>
   <channel site="cubmu.com" site_id="4028c68574537fcd0174be4d55ce58dd" lang="id" xmltv_id="SCTV.id@SD">SCTV</channel>
   <channel site="cubmu.com" site_id="4028c68574537fcd0174be43042758d8" lang="id" xmltv_id="TransTV.id@SD">Trans TV</channel>
@@ -29,7 +29,7 @@
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec">Miramax Movie Channel</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#645e7828e1979c00087b75b4">MovieSphere by Lionsgate</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/gb#6401d85a49839300087b116c">MovieSphere by Lionsgate</channel>
-  <channel site="indihometv.com" site_id="horizonsport" lang="id" xmltv_id="HorizonSports.us@SD">Horizon Sports</channel>
+  <channel site="maxstream.tv" site_id="0_1plxq8l8" lang="id" xmltv_id="HorizonSports.us@SD">Horizon Sports</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#636adc255bcf470007d6e0e2">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#638e10220aa6a6000726979f">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="FifthGear.uk" site_id="PlutoTV/gb#5ca1de9208ee5378be82db3b">Fifth Gear</channel>
@@ -46,34 +46,40 @@
   <channel site="freeview.co.uk" site_id="64257#8384" lang="en" xmltv_id="Channel4.uk@UK">Channel 4</channel>
   <channel site="freeview.co.uk" site_id="64257#8500" lang="en" xmltv_id="Channel5.uk@SD">5</channel>
   <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us@East">Disney Junior</channel>
-  <channel site="indihometv.com" site_id="cdrama" lang="id" xmltv_id="CitraDrama.id@SD">Citra Drama</channel>
-  <channel site="indihometv.com" site_id="imc" lang="id" xmltv_id="IMC.id@SD">IMC</channel>
-  <channel site="indihometv.com" site_id="flik" lang="id" xmltv_id="Flik.id@SD">Flik</channel>
+  <channel site="maxstream.tv" site_id="0_k0hnuzu4" lang="id" xmltv_id="CitraDrama.id@SD">Citra Drama</channel>
+  <channel site="maxstream.tv" site_id="0_blvd5qf0" lang="id" xmltv_id="IMC.id@SD">IMC</channel>
+  <channel site="maxstream.tv" site_id="0_y6gkb9ud" lang="id" xmltv_id="Flik.id@SD">Flik</channel>
   <channel site="singtel.com" site_id="6420" lang="en" xmltv_id="HBOAsia.sg@Vietnam">HBO HD</channel>
   <channel site="singtel.com" site_id="6421" lang="en" xmltv_id="HBOSignatureAsia.sg@SD">HBO Signature (HD)</channel>
   <channel site="singtel.com" site_id="6422" lang="en" xmltv_id="HBOFamilyAsia.sg@SD">HBO Family (HD)</channel>
   <channel site="singtel.com" site_id="6423" lang="en" xmltv_id="HBOHitsAsia.sg@SD">HBO Hits (HD)</channel>
   <channel site="singtel.com" site_id="6424" lang="en" xmltv_id="CinemaxAsia.sg@SD">CINEMAX (HD)</channel>
-  <channel site="indihometv.com" site_id="galaxy" lang="id" xmltv_id="Galaxy.id@SD">Galaxy</channel>
-  <channel site="indihometv.com" site_id="galaxypremium" lang="id" xmltv_id="GalaxyPremium.id@SD">Galaxy Premium</channel>
-  <channel site="indihometv.com" site_id="studiouniversal" lang="id" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
+  <channel site="maxstream.tv" site_id="0_anqaquwl" lang="id" xmltv_id="Galaxy.id@SD">Galaxy</channel>
+  <channel site="maxstream.tv" site_id="0_menqjsva" lang="id" xmltv_id="GalaxyPremium.id@SD">Galaxy Premium</channel>
+  <channel site="maxstream.tv" site_id="0_jhb1o6kj" lang="id" xmltv_id="StudioUniversalLatinAmerica.us@Brazil">Studio Universal</channel>
   <channel site="visionplus.id" site_id="00000000000000000044" lang="id" xmltv_id="CelestialMoviesIndonesia.id@SD">Celestial Movies</channel>
   <channel site="visionplus.id" site_id="00000000000000000046" lang="id" xmltv_id="tvNMoviesAsia.hk@SD">TVN Movies</channel>
   <channel site="visionplus.id" site_id="00000000000000000041" lang="id" xmltv_id="Thrill.hk@SD">Thrill</channel>
   <channel site="visionplus.id" site_id="00000000000000000053" lang="id" xmltv_id="MyCinemaAsia.id@SD">My Cinema Asia</channel>
   <channel site="visionplus.id" site_id="00000000000000000045" lang="id" xmltv_id="CelestialClassicMovies.id@SD">CCM</channel>
   <channel site="visionplus.id" site_id="00000000000000000047" lang="id" xmltv_id="ZeeBioskop.id@SD">Zee Bioskop</channel>
-  <channel site="indihometv.com" site_id="bioskopindonesia" lang="id" xmltv_id="BioskopIndonesia.id@SD">Bioskop Indonesia</channel>
-  <channel site="indihometv.com" site_id="tvri" lang="id" xmltv_id="TVRI.id@SD">TVRI Nasional</channel>
-  <channel site="indihometv.com" site_id="tvriworld" lang="id" xmltv_id="TVRIWorld.id@SD">TVRI World</channel>
+  <channel site="maxstream.tv" site_id="0_urq0w0mp" lang="id" xmltv_id="BioskopIndonesia.id@SD">Bioskop Indonesia</channel>
+  <channel site="maxstream.tv" site_id="0_vu7lebet" lang="id" xmltv_id="TVRI.id@SD">TVRI</channel>
+  <channel site="maxstream.tv" site_id="0_iu9ah7cu" lang="id" xmltv_id="TVRIWorld.id@SD">TVRI World</channel>
   <channel site="allente.no" site_id="no#0299" lang="no" xmltv_id="">V film action HD (T)</channel>
   <channel site="allente.no" site_id="no#0308" lang="no" xmltv_id="">V film family (T)</channel>
   <channel site="allente.no" site_id="no#0322" lang="no" xmltv_id="">V film hits HD (T)</channel>
   <channel site="allente.no" site_id="no#0321" lang="no" xmltv_id="">V film premiere HD (T)</channel>
   <channel site="allente.no" site_id="no#0320" lang="no" xmltv_id="">V series HD (T)</channel>
   <channel site="programacion-tv.elpais.com" site_id="512" lang="es" xmltv_id="AXNWhite.us@SD">AXN Movies</channel>
-  <channel site="indihometv.com" site_id="mentaritv" lang="id" xmltv_id="MentariTV.id@SD">Mentari TV</channel>
-  <channel site="indihometv.com" site_id="duniaanak" lang="id" xmltv_id="DuniaAnak.id@SD">Dunia anak</channel>
-  <channel site="indihometv.com" site_id="horee" lang="id" xmltv_id="Horee.id@SD">Horee</channel>
+  <channel site="maxstream.tv" site_id="0_0hjh536t" lang="id" xmltv_id="MentariTV.id@SD">Mentari TV</channel>
+  <channel site="maxstream.tv" site_id="0_3wiy77wh" lang="id" xmltv_id="DuniaAnak.id@SD">Dunia Anak</channel>
+  <channel site="maxstream.tv" site_id="0_h0tqx9o4" lang="id" xmltv_id="Horee.id@SD">Horee</channel>
+  <channel site="maxstream.tv" site_id="0_z7t4c568" lang="id" xmltv_id="MAXEats.id@SD">MAXEats</channel>
+  <channel site="maxstream.tv" site_id="0_ynh2anw4" lang="id" xmltv_id="MAXKids.id@SD">MAXKids</channel>
+  <channel site="maxstream.tv" site_id="0_psqdb637" lang="id" xmltv_id="MAXReels.id@SD">MAXReels</channel>
+  <channel site="maxstream.tv" site_id="0_1u20u1ok" lang="id" xmltv_id="MAXSports.id@SD">MAXSports</channel>
+  <channel site="maxstream.tv" site_id="0_720wy4x6" lang="id" xmltv_id="MAXStreak.id@SD">MAXStreak</channel>
+  <channel site="maxstream.tv" site_id="0_ixad1kw8" lang="id" xmltv_id="MAXStream.id@SD">MAXStream TV</channel>
 </channels>
   
