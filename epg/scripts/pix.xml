@@ -87,5 +87,25 @@
   <channel site="sky.com" site_id="3663" lang="en" xmltv_id="TNTSports2.uk@SD">TNT Sports 2</channel>
   <channel site="sky.com" site_id="5032" lang="en" xmltv_id="TNTSports3.uk@SD">TNT Sports 3</channel>
   <channel site="sky.com" site_id="3141" lang="en" xmltv_id="TNTSports4.uk@SD">TNT Sports 4</channel>
+  <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
+  <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
+  <channel site="sporttv.pt" site_id="727" lang="pt" xmltv_id="SportTV1.pt@SD">Sport TV 1</channel>
+  <channel site="sporttv.pt" site_id="728" lang="pt" xmltv_id="SportTV2.pt@SD">Sport TV 2</channel>
+  <channel site="sporttv.pt" site_id="729" lang="pt" xmltv_id="SportTV3.pt@SD">Sport TV 3</channel>
+  <channel site="sky.de" site_id="1000" lang="de" xmltv_id="SkySportPremierLeague.de@HD">Sky Sport Premier League HD</channel>
+  <channel site="allente.no" site_id="no#0255" lang="no" xmltv_id="">V sport live 1 (T)</channel>
+  <channel site="allente.no" site_id="no#0256" lang="no" xmltv_id="">V sport live 2 (T)</channel>
+  <channel site="allente.no" site_id="no#0257" lang="no" xmltv_id="">V sport live 3 (T)</channel>
+  <channel site="allente.no" site_id="no#0271" lang="no" xmltv_id="">V sport+ HD (N) (T)</channel>
+  <channel site="allente.no" site_id="dk#1015" lang="da" xmltv_id="">Sport Live (D) (T)</channel>
+  <channel site="allente.no" site_id="dk#454" lang="da" xmltv_id="">TV 2 Sport HD (D) (T)</channel>
+  <channel site="allente.no" site_id="dk#718" lang="da" xmltv_id="">TV 2 Sport X HD (D) (T)</channel>
+  <channel site="allente.no" site_id="no#0199" lang="no" xmltv_id="">TV 2 Sport 1 HD (N) (T)</channel>
+  <channel site="allente.no" site_id="no#0406" lang="no" xmltv_id="">TV 2 Sport 2 HD (N) (T)</channel>
+  <channel site="allente.no" site_id="no#0197" lang="no" xmltv_id="">TV 2 Sport Premium HD (N) (T)</channel>
+  <channel site="allente.no" site_id="no#0198" lang="no" xmltv_id="">TV 2 Sport Premium 2 HD (N) (T)</channel>
+  <channel site="allente.no" site_id="no#0298" lang="no" xmltv_id="">TV3 HD (N) (T)</channel>
+  <channel site="sky.com" site_id="1289" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
+  <channel site="sky.com" site_id="1290" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
 </channels>
   
