@@ -83,5 +83,9 @@
   <channel site="dishtv.in" site_id="143549" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
   <channel site="dishtv.in" site_id="143554" lang="en" xmltv_id="MoviesNow.in@SD">Movies Now</channel>
   <channel site="dishtv.in" site_id="143729" lang="en" xmltv_id="RomedyNow.in@SD">Romedy Now</channel> 
+  <channel site="sky.com" site_id="3661" lang="en" xmltv_id="TNTSports1.uk@SD">TNT Sports 1</channel>
+  <channel site="sky.com" site_id="3663" lang="en" xmltv_id="TNTSports2.uk@SD">TNT Sports 2</channel>
+  <channel site="sky.com" site_id="5032" lang="en" xmltv_id="TNTSports3.uk@SD">TNT Sports 3</channel>
+  <channel site="sky.com" site_id="3141" lang="en" xmltv_id="TNTSports4.uk@SD">TNT Sports 4</channel>
 </channels>
   
