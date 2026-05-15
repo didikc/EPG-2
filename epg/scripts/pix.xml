@@ -105,6 +105,10 @@
   <channel site="allente.no" site_id="no#0197" lang="no" xmltv_id="">TV 2 Sport Premium HD (N) (T)</channel>
   <channel site="allente.no" site_id="no#0198" lang="no" xmltv_id="">TV 2 Sport Premium 2 HD (N) (T)</channel>
   <channel site="allente.no" site_id="no#0298" lang="no" xmltv_id="">TV3 HD (N) (T)</channel>
+  <channel site="rikstv.no" site_id="361" lang="no" xmltv_id="">V Sport +</channel>
+  <channel site="rikstv.no" site_id="362" lang="no" xmltv_id="">V Sport 1</channel>
+  <channel site="rikstv.no" site_id="363" lang="no" xmltv_id="">V Sport 2</channel>
+  <channel site="rikstv.no" site_id="364" lang="no" xmltv_id="">V Sport 3</channel>
   <channel site="sky.com" site_id="1289" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
   <channel site="sky.com" site_id="1290" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
   <channel site="sky.de" site_id="1032" lang="de" xmltv_id="SportdigitalFUSSBALL.de">SPORTDIGITAL FUSSBALL</channel>
