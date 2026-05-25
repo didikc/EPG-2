@@ -513,7 +513,6 @@
 <programme start="20260525233000 +0000" stop="20260526000000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526000000 +0000" stop="20260526010000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526010000 +0000" stop="20260526023000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260526023000 +0000" stop="20260526030000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526030000 +0000" stop="20260526040000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526040000 +0000" stop="20260526043000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526043000 +0000" stop="20260526070000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -524,10 +523,6 @@
 <programme start="20260526110000 +0000" stop="20260526113000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526113000 +0000" stop="20260526120000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526120000 +0000" stop="20260526140000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260526160000 +0000" stop="20260526165950 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260526165950 +0000" stop="20260526165959 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526170000 +0000" stop="20260526180000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526180000 +0000" stop="20260526183000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260526183000 +0000" stop="20260526190000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -539,8 +534,6 @@
 <programme start="20260526233000 +0000" stop="20260527000000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260527000000 +0000" stop="20260527010000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260527010000 +0000" stop="20260527023000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260527023000 +0000" stop="20260527030000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260527040000 +0000" stop="20260527043000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260527043000 +0000" stop="20260527070000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260527070000 +0000" stop="20260527080000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -550,10 +543,6 @@
 <programme start="20260527110000 +0000" stop="20260527113000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260527113000 +0000" stop="20260527120000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260527120000 +0000" stop="20260527140000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260527140000 +0000" stop="20260527150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260527150000 +0000" stop="20260527160000 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260527160000 +0000" stop="20260527165950 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260527165950 +0000" stop="20260527165959 +0000" channel="BeritaSatu.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260524170000 +0000" stop="20260524173000 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship</title></programme>
 <programme start="20260524173000 +0000" stop="20260524182700 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
 <programme start="20260524182700 +0000" stop="20260524183000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
@@ -595,6 +584,73 @@
 <programme start="20260525150000 +0000" stop="20260525160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20260525160000 +0000" stop="20260525165950 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
 <programme start="20260525165950 +0000" stop="20260525165959 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20260525170000 +0000" stop="20260525182700 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260525182700 +0000" stop="20260525183000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
+<programme start="20260525183000 +0000" stop="20260525193000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260525193000 +0000" stop="20260525203000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260525203000 +0000" stop="20260525210000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260525210000 +0000" stop="20260525213000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260525213000 +0000" stop="20260525220000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260525220000 +0000" stop="20260525230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260525230000 +0000" stop="20260525230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20260525230300 +0000" stop="20260526003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260526003000 +0000" stop="20260526010000 +0000" channel="BTV.id@SD"><title lang="id">FYI</title></programme>
+<programme start="20260526010000 +0000" stop="20260526010500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260526010500 +0000" stop="20260526011500 +0000" channel="BTV.id@SD"><title lang="id">FYI</title></programme>
+<programme start="20260526011500 +0000" stop="20260526014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
+<programme start="20260526014500 +0000" stop="20260526020000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260526020000 +0000" stop="20260526020500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260526020500 +0000" stop="20260526023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260526023000 +0000" stop="20260526030000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
+<programme start="20260526030000 +0000" stop="20260526033000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Nusantara</title></programme>
+<programme start="20260526033000 +0000" stop="20260526040000 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Update Cerita IDN</title></programme>
+<programme start="20260526040000 +0000" stop="20260526050000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260526050000 +0000" stop="20260526050500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260526050500 +0000" stop="20260526053000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260526053000 +0000" stop="20260526063000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260526063000 +0000" stop="20260526070000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Nusantara: Jawa Barat</title></programme>
+<programme start="20260526070000 +0000" stop="20260526073000 +0000" channel="BTV.id@SD"><title lang="id">Asal Usul</title></programme>
+<programme start="20260526073000 +0000" stop="20260526100000 +0000" channel="BTV.id@SD"><title lang="id">Breaking News</title></programme>
+<programme start="20260526100000 +0000" stop="20260526103000 +0000" channel="BTV.id@SD"><title lang="id">Berita Merah Putih</title></programme>
+<programme start="20260526103000 +0000" stop="20260526120000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260526120000 +0000" stop="20260526130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260526130000 +0000" stop="20260526140000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Dunia</title></programme>
+<programme start="20260526140000 +0000" stop="20260526150000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260526150000 +0000" stop="20260526160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260526160000 +0000" stop="20260526165950 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20260526165950 +0000" stop="20260526165959 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20260526170000 +0000" stop="20260526182700 +0000" channel="BTV.id@SD"><title lang="id">ONE Vault</title></programme>
+<programme start="20260526182700 +0000" stop="20260526183000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
+<programme start="20260526183000 +0000" stop="20260526193000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260526193000 +0000" stop="20260526203000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260526203000 +0000" stop="20260526210000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260526210000 +0000" stop="20260526213000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260526213000 +0000" stop="20260526220000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260526220000 +0000" stop="20260526230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20260526230000 +0000" stop="20260526230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20260526230300 +0000" stop="20260527010000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Spesial</title></programme>
+<programme start="20260527010000 +0000" stop="20260527020000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260527020000 +0000" stop="20260527020500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260527020500 +0000" stop="20260527023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260527023000 +0000" stop="20260527030000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
+<programme start="20260527030000 +0000" stop="20260527040000 +0000" channel="BTV.id@SD"><title lang="id">Ketulusan Hati</title></programme>
+<programme start="20260527040000 +0000" stop="20260527053000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20260527053000 +0000" stop="20260527063000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260527063000 +0000" stop="20260527070000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Nusantara: Jawa Barat</title></programme>
+<programme start="20260527070000 +0000" stop="20260527073000 +0000" channel="BTV.id@SD"><title lang="id">Asal Usul</title></programme>
+<programme start="20260527073000 +0000" stop="20260527080000 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Update Dari Nol</title></programme>
+<programme start="20260527080000 +0000" stop="20260527083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
+<programme start="20260527083000 +0000" stop="20260527090000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260527090000 +0000" stop="20260527090500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260527090500 +0000" stop="20260527100000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260527100000 +0000" stop="20260527103000 +0000" channel="BTV.id@SD"><title lang="id">Berita Merah Putih</title></programme>
+<programme start="20260527103000 +0000" stop="20260527120000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260527120000 +0000" stop="20260527130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260527130000 +0000" stop="20260527140000 +0000" channel="BTV.id@SD"><title lang="id">Jendela Dunia</title></programme>
+<programme start="20260527140000 +0000" stop="20260527150000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20260527150000 +0000" stop="20260527160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20260527160000 +0000" stop="20260527165950 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20260527165950 +0000" stop="20260527165959 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
 <programme start="20260524170000 +0000" stop="20260524180000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260524180000 +0000" stop="20260524183000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260524183000 +0000" stop="20260524190000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">The Schedule Is Not Available</title></programme>
