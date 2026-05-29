@@ -91,6 +91,7 @@
   <channel site="maxstream.tv" site_id="0_1u20u1ok" lang="id" xmltv_id="MAXSports.id@SD">MAXSports</channel>
   <channel site="maxstream.tv" site_id="0_720wy4x6" lang="id" xmltv_id="MAXStreak.id@SD">MAXStreak</channel>
   <channel site="maxstream.tv" site_id="0_ixad1kw8" lang="id" xmltv_id="MAXStream.id@SD">MAXStream TV</channel>
+  <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us@SD">DreamWorks</channel>
   <channel site="dishtv.in" site_id="143548" lang="en" xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
   <channel site="dishtv.in" site_id="143549" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
   <channel site="dishtv.in" site_id="143554" lang="en" xmltv_id="MoviesNow.in@SD">Movies Now</channel>
@@ -128,6 +129,7 @@
   <channel site="mi.tv" site_id="mx#espn-2" lang="es" xmltv_id="">ESPN 2</channel>
   <channel site="mi.tv" site_id="mx#espn-3" lang="es" xmltv_id="">ESPN 3</channel>
   <channel site="mi.tv" site_id="mx#espn-plus-hd" lang="es" xmltv_id="">ESPN+ HD</channel>
+  <channel site="mi.tv" site_id="mx#warner" lang="es" xmltv_id="WarnerChannel.us@Mexico">Warner Channel</channel>
   <channel site="webtv.sk" site_id="sport_1" lang="sk" xmltv_id="">Sport 1</channel>
   <channel site="webtv.sk" site_id="sport_2" lang="sk" xmltv_id="">Sport 2</channel>
   <channel site="webtv.sk" site_id="nova_sport_1_hd" lang="sk" xmltv_id="">Nova Sport 1</channel>
@@ -162,5 +164,6 @@
   <channel site="beinsports.com" site_id="76D2430C-8BCB-41BD-A1DE-FBA0D58C5E8A" lang="fr" xmltv_id="beINSportsMax8.qa@France">beIN SPORTS MAX 8</channel>
   <channel site="beinsports.com" site_id="FB208953-1C70-4D1E-B918-103AB02AB181" lang="fr" xmltv_id="beINSportsMax9.qa@France">beIN SPORTS MAX 9</channel>
   <channel site="beinsports.com" site_id="6F425028-14F0-4E38-B776-71A9DB3F3493" lang="fr" xmltv_id="beINSportsMax10.qa@France">beIN SPORTS MAX 10</channel>
+  <channel site="mysky.com.ph" site_id="55" lang="en" xmltv_id="TAPMovies.ph@SD">TAP MOVIES</channel>
 </channels>
   
