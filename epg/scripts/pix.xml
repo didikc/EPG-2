@@ -165,5 +165,10 @@
   <channel site="beinsports.com" site_id="FB208953-1C70-4D1E-B918-103AB02AB181" lang="fr" xmltv_id="beINSportsMax9.qa@France">beIN SPORTS MAX 9</channel>
   <channel site="beinsports.com" site_id="6F425028-14F0-4E38-B776-71A9DB3F3493" lang="fr" xmltv_id="beINSportsMax10.qa@France">beIN SPORTS MAX 10</channel>
   <channel site="mysky.com.ph" site_id="55" lang="en" xmltv_id="TAPMovies.ph@SD">TAP MOVIES</channel>
+  <channel site="mysky.com.ph" site_id="140" lang="en" xmltv_id="PremierSports.ph@SD">PREMIER SPORTS</channel>
+  <channel site="mysky.com.ph" site_id="326" lang="en" xmltv_id="PremierSports2.ph@SD">PREMIER SPORTS 2 HD</channel>
+  <channel site="mysky.com.ph" site_id="78" lang="en" xmltv_id="TAPActionFlix.ph@SD">TapAction Flix</channel>
+  <channel site="mysky.com.ph" site_id="309" lang="en" xmltv_id="OneSports.ph@SD">ONE SPORTS</channel>
+  <channel site="mysky.com.ph" site_id="318" lang="en" xmltv_id="TAPSports.ph@SD">TAP SPORTS HD</channel>  
 </channels>
   
