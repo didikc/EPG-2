@@ -991,6 +991,29 @@
 <programme start="20260609160000 +0000" stop="20260609160300 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260609160300 +0000" stop="20260609165950 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20260609165950 +0000" stop="20260609165959 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260609170000 +0000" stop="20260609180000 +0000" channel="CNA.sg@SD"><title lang="id">Inside Unit 731, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260609180000 +0000" stop="20260609190000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260609190000 +0000" stop="20260609200000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Hour</title></programme>
+<programme start="20260609200000 +0000" stop="20260609210000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260609210000 +0000" stop="20260609220000 +0000" channel="CNA.sg@SD"><title lang="id">The Future Proofers, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260609220000 +0000" stop="20260609230000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260609230000 +0000" stop="20260610020000 +0000" channel="CNA.sg@SD"><title lang="id">Asia First</title></programme>
+<programme start="20260610020000 +0000" stop="20260610030000 +0000" channel="CNA.sg@SD"><title lang="id">The Future Proofers, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260610030000 +0000" stop="20260610050000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260610050000 +0000" stop="20260610060000 +0000" channel="CNA.sg@SD"><title lang="id">Lasak</title></programme>
+<programme start="20260610060000 +0000" stop="20260610080000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Now</title></programme>
+<programme start="20260610080000 +0000" stop="20260610090000 +0000" channel="CNA.sg@SD"><title lang="id">Insight, Ep 32</title><episode-num system="xmltv_ns">0.31.0/1</episode-num><episode-num system="onscreen">S01E32</episode-num></programme>
+<programme start="20260610090000 +0000" stop="20260610090200 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610090200 +0000" stop="20260610100000 +0000" channel="CNA.sg@SD"><title lang="id">Inside Unit 731, Ep 1</title><episode-num system="xmltv_ns">0.0.0/1</episode-num><episode-num system="onscreen">S01E01</episode-num></programme>
+<programme start="20260610100000 +0000" stop="20260610110000 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260610110000 +0000" stop="20260610120000 +0000" channel="CNA.sg@SD"><title lang="id">Inside Unit 731, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260610120000 +0000" stop="20260610130000 +0000" channel="CNA.sg@SD"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260610130000 +0000" stop="20260610140000 +0000" channel="CNA.sg@SD"><title lang="id">Extraordinary People S2, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260610140000 +0000" stop="20260610150000 +0000" channel="CNA.sg@SD"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260610150000 +0000" stop="20260610160000 +0000" channel="CNA.sg@SD"><title lang="id">The Future Proofers, Ep 2</title><episode-num system="xmltv_ns">0.1.0/1</episode-num><episode-num system="onscreen">S01E02</episode-num></programme>
+<programme start="20260610160000 +0000" stop="20260610160300 +0000" channel="CNA.sg@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610160300 +0000" stop="20260610165950 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260610165950 +0000" stop="20260610165959 +0000" channel="CNA.sg@SD"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20260607170000 +0000" stop="20260607180000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260607180000 +0000" stop="20260607183000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260607183000 +0000" stop="20260607190000 +0000" channel="DAAITV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -1623,6 +1646,81 @@
 <programme start="20260609160000 +0000" stop="20260609163000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
 <programme start="20260609163000 +0000" stop="20260609165950 +0000" channel="DW.de@English"><title lang="id">Global Us: What Connects Us All</title></programme>
 <programme start="20260609165950 +0000" stop="20260609165959 +0000" channel="DW.de@English"><title lang="id">Global Us: What Connects Us All</title></programme>
+<programme start="20260609170000 +0000" stop="20260609171500 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260609171500 +0000" stop="20260609173000 +0000" channel="DW.de@English"><title lang="id">Travel: Gaud &apos;s Sagrada Familia</title></programme>
+<programme start="20260609173000 +0000" stop="20260609180000 +0000" channel="DW.de@English"><title lang="id">REV: Electric Vehicles</title></programme>
+<programme start="20260609180000 +0000" stop="20260609183000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260609183000 +0000" stop="20260609190000 +0000" channel="DW.de@English"><title lang="id">Eco Africa: Afrobeats...</title></programme>
+<programme start="20260609190000 +0000" stop="20260609190200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260609190200 +0000" stop="20260609191500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260609191500 +0000" stop="20260609193000 +0000" channel="DW.de@English"><title lang="id">Travel: Gaud &apos;s Sagrada Familia</title></programme>
+<programme start="20260609193000 +0000" stop="20260609200000 +0000" channel="DW.de@English"><title lang="id">Tomorrow Today: X-Ray</title></programme>
+<programme start="20260609200000 +0000" stop="20260609203000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260609203000 +0000" stop="20260609210000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260609210000 +0000" stop="20260609210200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260609210200 +0000" stop="20260609211500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260609211500 +0000" stop="20260609214500 +0000" channel="DW.de@English"><title lang="id">Close Up: Home And Hate</title></programme>
+<programme start="20260609214500 +0000" stop="20260609220000 +0000" channel="DW.de@English"><title lang="id">Shift: History Goes Interactive</title></programme>
+<programme start="20260609220000 +0000" stop="20260609220200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260609220200 +0000" stop="20260609223000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260609223000 +0000" stop="20260609230000 +0000" channel="DW.de@English"><title lang="id">77 Percent: Afrobeats Culture</title></programme>
+<programme start="20260609230000 +0000" stop="20260609230200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260609230200 +0000" stop="20260609231500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260609231500 +0000" stop="20260609233000 +0000" channel="DW.de@English"><title lang="id">Travel: Gaud &apos;s Sagrada Familia</title></programme>
+<programme start="20260609233000 +0000" stop="20260610000000 +0000" channel="DW.de@English"><title lang="id">Global Us: Bears</title></programme>
+<programme start="20260610000000 +0000" stop="20260610000200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610000200 +0000" stop="20260610003000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260610003000 +0000" stop="20260610010000 +0000" channel="DW.de@English"><title lang="id">Made In Germany</title></programme>
+<programme start="20260610010000 +0000" stop="20260610010200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610010200 +0000" stop="20260610011500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260610011500 +0000" stop="20260610020000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260610020000 +0000" stop="20260610020200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610020200 +0000" stop="20260610023000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260610023000 +0000" stop="20260610030000 +0000" channel="DW.de@English"><title lang="id">Global Us: Bears</title></programme>
+<programme start="20260610030000 +0000" stop="20260610030200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610030200 +0000" stop="20260610031500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260610031500 +0000" stop="20260610033000 +0000" channel="DW.de@English"><title lang="id">Travel: Gaud &apos;s Sagrada Familia</title></programme>
+<programme start="20260610033000 +0000" stop="20260610040000 +0000" channel="DW.de@English"><title lang="id">Eco Africa: Afrobeats...</title></programme>
+<programme start="20260610040000 +0000" stop="20260610040200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610040200 +0000" stop="20260610041500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260610041500 +0000" stop="20260610050000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260610050000 +0000" stop="20260610050200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610050200 +0000" stop="20260610053000 +0000" channel="DW.de@English"><title lang="id">The Day: News In Review</title></programme>
+<programme start="20260610053000 +0000" stop="20260610060000 +0000" channel="DW.de@English"><title lang="id">Made In Germany</title></programme>
+<programme start="20260610060000 +0000" stop="20260610060200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610060200 +0000" stop="20260610061500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260610061500 +0000" stop="20260610063000 +0000" channel="DW.de@English"><title lang="id">Travel: Gaud &apos;s Sagrada Familia</title></programme>
+<programme start="20260610063000 +0000" stop="20260610070000 +0000" channel="DW.de@English"><title lang="id">In Good Shape</title></programme>
+<programme start="20260610070000 +0000" stop="20260610070200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610070200 +0000" stop="20260610071500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260610071500 +0000" stop="20260610074500 +0000" channel="DW.de@English"><title lang="id">Close Up: Home And Hate</title></programme>
+<programme start="20260610074500 +0000" stop="20260610080000 +0000" channel="DW.de@English"><title lang="id">Shift: History Goes Interactive</title></programme>
+<programme start="20260610080000 +0000" stop="20260610080200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610080200 +0000" stop="20260610083000 +0000" channel="DW.de@English"><title lang="id">77 Percent: Afrobeats Culture</title></programme>
+<programme start="20260610083000 +0000" stop="20260610090000 +0000" channel="DW.de@English"><title lang="id">Eco India: Learning Lessons</title></programme>
+<programme start="20260610090000 +0000" stop="20260610090300 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610090300 +0000" stop="20260610100000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260610100000 +0000" stop="20260610100200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610100200 +0000" stop="20260610101500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260610101500 +0000" stop="20260610104500 +0000" channel="DW.de@English"><title lang="id">Close Up: Home And Hate</title></programme>
+<programme start="20260610104500 +0000" stop="20260610110000 +0000" channel="DW.de@English"><title lang="id">Shift: History Goes Interactive</title></programme>
+<programme start="20260610110000 +0000" stop="20260610110200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610110200 +0000" stop="20260610113000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260610113000 +0000" stop="20260610120000 +0000" channel="DW.de@English"><title lang="id">Made In Germany</title></programme>
+<programme start="20260610120000 +0000" stop="20260610120200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610120200 +0000" stop="20260610121500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260610121500 +0000" stop="20260610130000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260610130000 +0000" stop="20260610130200 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610130200 +0000" stop="20260610131500 +0000" channel="DW.de@English"><title lang="id">DW News Focus: News</title></programme>
+<programme start="20260610131500 +0000" stop="20260610133000 +0000" channel="DW.de@English"><title lang="id">Interview: Theresa Lazaro</title></programme>
+<programme start="20260610133000 +0000" stop="20260610140000 +0000" channel="DW.de@English"><title lang="id">Eco Africa: Afrobeats...</title></programme>
+<programme start="20260610140000 +0000" stop="20260610140300 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610140300 +0000" stop="20260610150000 +0000" channel="DW.de@English"><title lang="id">DocFilm</title></programme>
+<programme start="20260610150000 +0000" stop="20260610153000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610153000 +0000" stop="20260610160000 +0000" channel="DW.de@English"><title lang="id">Eco India: Learning Lessons</title></programme>
+<programme start="20260610160000 +0000" stop="20260610163000 +0000" channel="DW.de@English"><title lang="id">DW News</title></programme>
+<programme start="20260610163000 +0000" stop="20260610165950 +0000" channel="DW.de@English"><title lang="id">Made In Germany</title></programme>
+<programme start="20260610165950 +0000" stop="20260610165959 +0000" channel="DW.de@English"><title lang="id">Made In Germany</title></programme>
 <programme start="20260607170000 +0000" stop="20260607180000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260607180000 +0000" stop="20260607183000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260607183000 +0000" stop="20260607190000 +0000" channel="ElshintaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
@@ -2744,6 +2842,66 @@
 <programme start="20260609164500 +0000" stop="20260609165500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dig More Japan</title></programme>
 <programme start="20260609165500 +0000" stop="20260609165950 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dining With The Chef</title></programme>
 <programme start="20260609165950 +0000" stop="20260609165959 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dining With The Chef</title></programme>
+<programme start="20260609170000 +0000" stop="20260609173000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260609173000 +0000" stop="20260609180000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dining With The Chef</title></programme>
+<programme start="20260609180000 +0000" stop="20260609182800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
+<programme start="20260609182800 +0000" stop="20260609184300 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
+<programme start="20260609184300 +0000" stop="20260609185500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Trails To Oishii Tokyo</title></programme>
+<programme start="20260609185500 +0000" stop="20260609190000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ukiyoe Edo-Life: Riverside</title></programme>
+<programme start="20260609190000 +0000" stop="20260609193000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Today&apos;s Close-Up</title></programme>
+<programme start="20260609193000 +0000" stop="20260609200000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Document 72 Hours</title></programme>
+<programme start="20260609200000 +0000" stop="20260609203000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260609203000 +0000" stop="20260609210000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Science View</title></programme>
+<programme start="20260609210000 +0000" stop="20260609213000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260609213000 +0000" stop="20260609220000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Journeys In Japan</title></programme>
+<programme start="20260609220000 +0000" stop="20260609223000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260609223000 +0000" stop="20260609230000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dining With The Chef</title></programme>
+<programme start="20260609230000 +0000" stop="20260609233000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260609233000 +0000" stop="20260609234500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Activate Your Japanese!</title></programme>
+<programme start="20260609234500 +0000" stop="20260609235500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dig More Japan</title></programme>
+<programme start="20260609235500 +0000" stop="20260610000000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dining With The Chef</title></programme>
+<programme start="20260610000000 +0000" stop="20260610003000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610003000 +0000" stop="20260610010000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dive In Tokyo</title></programme>
+<programme start="20260610010000 +0000" stop="20260610013000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610013000 +0000" stop="20260610014500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
+<programme start="20260610014500 +0000" stop="20260610020000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Japan&apos;s Top Inventions</title></programme>
+<programme start="20260610020000 +0000" stop="20260610023000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610023000 +0000" stop="20260610030000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Frontrunners</title></programme>
+<programme start="20260610030000 +0000" stop="20260610033000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610033000 +0000" stop="20260610040000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Science View</title></programme>
+<programme start="20260610040000 +0000" stop="20260610043000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610043000 +0000" stop="20260610050000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Tiny Desk Concerts Japan</title></programme>
+<programme start="20260610050000 +0000" stop="20260610053000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610053000 +0000" stop="20260610060000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dive In Tokyo</title></programme>
+<programme start="20260610060000 +0000" stop="20260610063000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsline Asia 24</title></programme>
+<programme start="20260610063000 +0000" stop="20260610064500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
+<programme start="20260610064500 +0000" stop="20260610070000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Japan&apos;s Top Inventions</title></programme>
+<programme start="20260610070000 +0000" stop="20260610073000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsline Asia 24</title></programme>
+<programme start="20260610073000 +0000" stop="20260610080000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Frontrunners</title></programme>
+<programme start="20260610080000 +0000" stop="20260610083000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610083000 +0000" stop="20260610090000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Tiny Desk Concerts Japan</title></programme>
+<programme start="20260610090000 +0000" stop="20260610093000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610093000 +0000" stop="20260610100000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Science View</title></programme>
+<programme start="20260610100000 +0000" stop="20260610103000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK News 7</title></programme>
+<programme start="20260610103000 +0000" stop="20260610104500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">BOSAI: Linear Rainbands</title></programme>
+<programme start="20260610104500 +0000" stop="20260610105500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Impacts: Climates Change...</title></programme>
+<programme start="20260610105500 +0000" stop="20260610110000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Time-Lapse Japan</title></programme>
+<programme start="20260610110000 +0000" stop="20260610112800 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
+<programme start="20260610112800 +0000" stop="20260610114300 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
+<programme start="20260610114300 +0000" stop="20260610115500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Trails To Oishii Tokyo</title></programme>
+<programme start="20260610115500 +0000" stop="20260610120000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Ukiyoe Edo-Life: Riverside</title></programme>
+<programme start="20260610120000 +0000" stop="20260610123000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Newsroom Tokyo</title></programme>
+<programme start="20260610123000 +0000" stop="20260610124500 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Direct Talk</title></programme>
+<programme start="20260610124500 +0000" stop="20260610130000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Japan&apos;s Top Inventions</title></programme>
+<programme start="20260610130000 +0000" stop="20260610133000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610133000 +0000" stop="20260610140000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Frontrunners</title></programme>
+<programme start="20260610140000 +0000" stop="20260610143000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610143000 +0000" stop="20260610150000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Trails To Oishii Tokyo</title></programme>
+<programme start="20260610150000 +0000" stop="20260610153000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610153000 +0000" stop="20260610160000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Dive In Tokyo</title></programme>
+<programme start="20260610160000 +0000" stop="20260610163000 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">NHK Newsline</title></programme>
+<programme start="20260610163000 +0000" stop="20260610165950 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Tiny Desk Concerts Japan</title></programme>
+<programme start="20260610165950 +0000" stop="20260610165959 +0000" channel="NHKWorldJapan.jp@SD"><title lang="id">Tiny Desk Concerts Japan</title></programme>
 <programme start="20260607170000 +0000" stop="20260607210000 +0000" channel="NusantaraTV.id@SD"><title lang="id">SOUNDCORE DANGDUT</title></programme>
 <programme start="20260607210000 +0000" stop="20260607230000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV PRIME</title></programme>
 <programme start="20260607230000 +0000" stop="20260608003000 +0000" channel="NusantaraTV.id@SD"><title lang="id">NTV MORNING</title></programme>
@@ -3044,32 +3202,154 @@
 <programme start="20260610150000 +0000" stop="20260610160000 +0000" channel="RodjaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260610160000 +0000" stop="20260610165950 +0000" channel="RodjaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
 <programme start="20260610165950 +0000" stop="20260610165959 +0000" channel="RodjaTV.id@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607170000 +0000" stop="20260607180000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607180000 +0000" stop="20260607183000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607183000 +0000" stop="20260607190000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607190000 +0000" stop="20260607200000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607200000 +0000" stop="20260607213000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607213000 +0000" stop="20260607223000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607223000 +0000" stop="20260607230000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607230000 +0000" stop="20260607233000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260607233000 +0000" stop="20260608000000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608000000 +0000" stop="20260608010000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608010000 +0000" stop="20260608023000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608023000 +0000" stop="20260608030000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608030000 +0000" stop="20260608040000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608040000 +0000" stop="20260608043000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608043000 +0000" stop="20260608070000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608070000 +0000" stop="20260608080000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608080000 +0000" stop="20260608090000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608090000 +0000" stop="20260608100000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608100000 +0000" stop="20260608110000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608110000 +0000" stop="20260608113000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608113000 +0000" stop="20260608120000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608120000 +0000" stop="20260608140000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608140000 +0000" stop="20260608150000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608150000 +0000" stop="20260608160000 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608160000 +0000" stop="20260608165950 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
-<programme start="20260608165950 +0000" stop="20260608165959 +0000" channel="RT.ru@SD"><title lang="id">The Schedule Is Not Available</title></programme>
+<programme start="20260607170000 +0000" stop="20260607173000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260607173000 +0000" stop="20260607180000 +0000" channel="RT.ru@SD"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20260607180000 +0000" stop="20260607183000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260607183000 +0000" stop="20260607190000 +0000" channel="RT.ru@SD"><title lang="id">New Order</title></programme>
+<programme start="20260607190000 +0000" stop="20260607193000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260607193000 +0000" stop="20260607200000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260607200000 +0000" stop="20260607203000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260607203000 +0000" stop="20260607210000 +0000" channel="RT.ru@SD"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20260607210000 +0000" stop="20260607213000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260607213000 +0000" stop="20260607220000 +0000" channel="RT.ru@SD"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20260607220000 +0000" stop="20260607223000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260607223000 +0000" stop="20260607230000 +0000" channel="RT.ru@SD"><title lang="id">New Order</title></programme>
+<programme start="20260607230000 +0000" stop="20260607233000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260607233000 +0000" stop="20260608000000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608000000 +0000" stop="20260608003000 +0000" channel="RT.ru@SD"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20260608003000 +0000" stop="20260607233000 +0000" channel="RT.ru@SD"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20260608003000 +0000" stop="20260608010000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608010000 +0000" stop="20260608013000 +0000" channel="RT.ru@SD"><title lang="id">New Order</title></programme>
+<programme start="20260608013000 +0000" stop="20260608020000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608020000 +0000" stop="20260608023000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608023000 +0000" stop="20260608030000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608030000 +0000" stop="20260608033000 +0000" channel="RT.ru@SD"><title lang="id">Worlds Apart with Oksana Boyko</title></programme>
+<programme start="20260608033000 +0000" stop="20260608040000 +0000" channel="RT.ru@SD"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20260608040000 +0000" stop="20260608043000 +0000" channel="RT.ru@SD"><title lang="id">Going Underground</title></programme>
+<programme start="20260608043000 +0000" stop="20260608050000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260608050000 +0000" stop="20260608053000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608053000 +0000" stop="20260608060000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608060000 +0000" stop="20260608063000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608063000 +0000" stop="20260608070000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608070000 +0000" stop="20260608073000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608073000 +0000" stop="20260608080000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608080000 +0000" stop="20260608083000 +0000" channel="RT.ru@SD"><title lang="id">Going Underground</title></programme>
+<programme start="20260608083000 +0000" stop="20260608090000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608090000 +0000" stop="20260608093000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260608093000 +0000" stop="20260608100000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608100000 +0000" stop="20260608103000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608103000 +0000" stop="20260608110000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608110000 +0000" stop="20260608113000 +0000" channel="RT.ru@SD"><title lang="id">Moscow Mules with Chay Bowes</title></programme>
+<programme start="20260608113000 +0000" stop="20260608120000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608120000 +0000" stop="20260608123000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608123000 +0000" stop="20260608130000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608130000 +0000" stop="20260608133000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260608133000 +0000" stop="20260608140000 +0000" channel="RT.ru@SD"><title lang="id">New Order</title></programme>
+<programme start="20260608140000 +0000" stop="20260608143000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260608143000 +0000" stop="20260608150000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608150000 +0000" stop="20260608153000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260608153000 +0000" stop="20260608160000 +0000" channel="RT.ru@SD"><title lang="id">New Order</title></programme>
+<programme start="20260608160000 +0000" stop="20260608163000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260608163000 +0000" stop="20260608165950 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608165950 +0000" stop="20260608165959 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608170000 +0000" stop="20260608173000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608173000 +0000" stop="20260608180000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608180000 +0000" stop="20260608183000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260608183000 +0000" stop="20260608190000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608190000 +0000" stop="20260608193000 +0000" channel="RT.ru@SD"><title lang="id">Going Underground</title></programme>
+<programme start="20260608193000 +0000" stop="20260608200000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608200000 +0000" stop="20260608203000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608203000 +0000" stop="20260608210000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608210000 +0000" stop="20260608213000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260608213000 +0000" stop="20260608220000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608220000 +0000" stop="20260608223000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260608223000 +0000" stop="20260608230000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260608230000 +0000" stop="20260608233000 +0000" channel="RT.ru@SD"><title lang="id">Going Underground</title></programme>
+<programme start="20260608233000 +0000" stop="20260609000000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609000000 +0000" stop="20260609003000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609003000 +0000" stop="20260609010000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609010000 +0000" stop="20260609013000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609013000 +0000" stop="20260609020000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609020000 +0000" stop="20260609023000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260609023000 +0000" stop="20260609030000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609030000 +0000" stop="20260609033000 +0000" channel="RT.ru@SD"><title lang="id">Going Underground</title></programme>
+<programme start="20260609033000 +0000" stop="20260609040000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609040000 +0000" stop="20260609043000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609043000 +0000" stop="20260609050000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260609050000 +0000" stop="20260609053000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609053000 +0000" stop="20260609060000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609060000 +0000" stop="20260609063000 +0000" channel="RT.ru@SD"><title lang="id">Going Underground</title></programme>
+<programme start="20260609063000 +0000" stop="20260609070000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609070000 +0000" stop="20260609073000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609073000 +0000" stop="20260609080000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609080000 +0000" stop="20260609083000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260609083000 +0000" stop="20260609090000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609090000 +0000" stop="20260609093000 +0000" channel="RT.ru@SD"><title lang="id">Going Underground</title></programme>
+<programme start="20260609093000 +0000" stop="20260609100000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609100000 +0000" stop="20260609103000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609103000 +0000" stop="20260609110000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609110000 +0000" stop="20260609113000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609113000 +0000" stop="20260609120000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609120000 +0000" stop="20260609123000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609123000 +0000" stop="20260609130000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609130000 +0000" stop="20260609133000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260609133000 +0000" stop="20260609140000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid New</title></programme>
+<programme start="20260609140000 +0000" stop="20260609143000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260609143000 +0000" stop="20260609150000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609150000 +0000" stop="20260609153000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260609153000 +0000" stop="20260609160000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid</title></programme>
+<programme start="20260609160000 +0000" stop="20260609163000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260609163000 +0000" stop="20260609165950 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609165950 +0000" stop="20260609165959 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609170000 +0000" stop="20260609173000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609173000 +0000" stop="20260609180000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609180000 +0000" stop="20260609183000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid</title></programme>
+<programme start="20260609183000 +0000" stop="20260609190000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609190000 +0000" stop="20260609193000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609193000 +0000" stop="20260609200000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609200000 +0000" stop="20260609203000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609203000 +0000" stop="20260609210000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609210000 +0000" stop="20260609213000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609213000 +0000" stop="20260609220000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609220000 +0000" stop="20260609223000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid</title></programme>
+<programme start="20260609223000 +0000" stop="20260609230000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260609230000 +0000" stop="20260609233000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260609233000 +0000" stop="20260610000000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610000000 +0000" stop="20260610003000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260610003000 +0000" stop="20260610010000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610010000 +0000" stop="20260610013000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260610013000 +0000" stop="20260610020000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610020000 +0000" stop="20260610023000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid</title></programme>
+<programme start="20260610023000 +0000" stop="20260610030000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610030000 +0000" stop="20260610033000 +0000" channel="RT.ru@SD"><title lang="id">America First New</title></programme>
+<programme start="20260610033000 +0000" stop="20260610040000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260610040000 +0000" stop="20260610043000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260610043000 +0000" stop="20260610050000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260610050000 +0000" stop="20260610053000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260610053000 +0000" stop="20260610060000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260610060000 +0000" stop="20260610063000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid</title></programme>
+<programme start="20260610063000 +0000" stop="20260610070000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260610070000 +0000" stop="20260610073000 +0000" channel="RT.ru@SD"><title lang="id">America First</title></programme>
+<programme start="20260610073000 +0000" stop="20260610080000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610080000 +0000" stop="20260610083000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260610083000 +0000" stop="20260610090000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610090000 +0000" stop="20260610093000 +0000" channel="RT.ru@SD"><title lang="id">Documentary</title></programme>
+<programme start="20260610093000 +0000" stop="20260610100000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610100000 +0000" stop="20260610103000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid</title></programme>
+<programme start="20260610103000 +0000" stop="20260610110000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610110000 +0000" stop="20260610113000 +0000" channel="RT.ru@SD"><title lang="id">America First</title></programme>
+<programme start="20260610113000 +0000" stop="20260610120000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610120000 +0000" stop="20260610123000 +0000" channel="RT.ru@SD"><title lang="id">Cross Talk</title></programme>
+<programme start="20260610123000 +0000" stop="20260610130000 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610130000 +0000" stop="20260610133000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260610133000 +0000" stop="20260610140000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid</title></programme>
+<programme start="20260610140000 +0000" stop="20260610143000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260610143000 +0000" stop="20260610150000 +0000" channel="RT.ru@SD"><title lang="id">America First</title></programme>
+<programme start="20260610150000 +0000" stop="20260610153000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260610153000 +0000" stop="20260610160000 +0000" channel="RT.ru@SD"><title lang="id">In Conversation with Salman Khurshid</title></programme>
+<programme start="20260610160000 +0000" stop="20260610163000 +0000" channel="RT.ru@SD"><title lang="id">News-Ind</title></programme>
+<programme start="20260610163000 +0000" stop="20260610165950 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
+<programme start="20260610165950 +0000" stop="20260610165959 +0000" channel="RT.ru@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260607170000 +0000" stop="20260607171200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Verdi - La forza del destino</title></programme>
 <programme start="20260607171200 +0000" stop="20260607183400 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Brahms - The 3 Violin Sonatas, Op. 78, 100 &amp; 108</title></programme>
 <programme start="20260607183400 +0000" stop="20260607185200 +0000" channel="StingrayClassica.ca@SD"><title lang="id">Stravinsky - Le Sacre - II: Le Sacrifice</title></programme>
