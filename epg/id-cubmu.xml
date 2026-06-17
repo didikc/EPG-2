@@ -2489,7 +2489,7 @@
 <programme start="20260617220000 +0000" stop="20260617230000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
 <programme start="20260617230000 +0000" stop="20260617230300 +0000" channel="BeritaSatu.id@SD"><title lang="id">Indonesia Raya</title></programme>
 <programme start="20260617230300 +0000" stop="20260618003000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20260618003000 +0000" stop="20260618010000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Anak Hebat</title></programme>
+<programme start="20260618003000 +0000" stop="20260618010000 +0000" channel="BeritaSatu.id@SD"><title lang="id">30 Minutes With</title></programme>
 <programme start="20260618010000 +0000" stop="20260618010500 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
 <programme start="20260618010500 +0000" stop="20260618011500 +0000" channel="BeritaSatu.id@SD"><title lang="id">Anak Hebat</title></programme>
 <programme start="20260618011500 +0000" stop="20260618014500 +0000" channel="BeritaSatu.id@SD"><title lang="id">Kuyliner</title></programme>
@@ -2610,7 +2610,7 @@
 <programme start="20260617220000 +0000" stop="20260617230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
 <programme start="20260617230000 +0000" stop="20260617230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
 <programme start="20260617230300 +0000" stop="20260618003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20260618003000 +0000" stop="20260618010000 +0000" channel="BTV.id@SD"><title lang="id">Anak Hebat</title></programme>
+<programme start="20260618003000 +0000" stop="20260618010000 +0000" channel="BTV.id@SD"><title lang="id">30 Minutes With</title></programme>
 <programme start="20260618010000 +0000" stop="20260618010500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
 <programme start="20260618010500 +0000" stop="20260618011500 +0000" channel="BTV.id@SD"><title lang="id">Anak Hebat</title></programme>
 <programme start="20260618011500 +0000" stop="20260618014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
@@ -3378,6 +3378,7 @@
 <programme start="20260616180000 +0000" stop="20260616183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260616183000 +0000" stop="20260616190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260616190000 +0000" stop="20260616200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">A Minute Insight</title></programme>
+<programme start="20260616193000 +0000" stop="20260616200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
 <programme start="20260616200000 +0000" stop="20260616203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260616203000 +0000" stop="20260616210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260616210000 +0000" stop="20260616213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
@@ -3389,8 +3390,18 @@
 <programme start="20260617000000 +0000" stop="20260617003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260617003000 +0000" stop="20260617010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260617010000 +0000" stop="20260617030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
+<programme start="20260617013000 +0000" stop="20260617020000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box Asia</title></programme>
+<programme start="20260617020000 +0000" stop="20260617023000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">The China Connection</title></programme>
+<programme start="20260617023000 +0000" stop="20260617030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">The China Connection</title></programme>
 <programme start="20260617030000 +0000" stop="20260617045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20260617033000 +0000" stop="20260617040000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Inside India</title></programme>
+<programme start="20260617040000 +0000" stop="20260617043000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Access Middle East</title></programme>
+<programme start="20260617043000 +0000" stop="20260617050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Access Middle East</title></programme>
 <programme start="20260617045500 +0000" stop="20260617070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20260617050000 +0000" stop="20260617053000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Europe Early Edition</title></programme>
+<programme start="20260617053000 +0000" stop="20260617060000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Europe Early Edition</title></programme>
+<programme start="20260617060000 +0000" stop="20260617063000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box Europe</title></programme>
+<programme start="20260617063000 +0000" stop="20260617070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box Europe</title></programme>
 <programme start="20260617070000 +0000" stop="20260617073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260617073000 +0000" stop="20260617080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260617080000 +0000" stop="20260617100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
@@ -6160,7 +6171,7 @@
 <programme start="20260617092500 +0000" stop="20260617095500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Whiz-Kids TV grow</title></programme>
 <programme start="20260617095500 +0000" stop="20260617100000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260617100000 +0000" stop="20260617103000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">NHK News 7</title></programme>
-<programme start="20260617103000 +0000" stop="20260617105700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">TBA</title></programme>
+<programme start="20260617103000 +0000" stop="20260617105700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">JAPAN DELISH</title></programme>
 <programme start="20260617105700 +0000" stop="20260617114300 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Rokkaku Seiji&apos;s Nomitetsu Railroad Trip: Gono Line Part 2</title></programme>
 <programme start="20260617114300 +0000" stop="20260617114500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260617114500 +0000" stop="20260617120000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">NHK News 845</title></programme>
@@ -6183,7 +6194,8 @@
 <programme start="20260617180000 +0000" stop="20260617182500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">With Mother</title></programme>
 <programme start="20260617182500 +0000" stop="20260617183000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
 <programme start="20260617183000 +0000" stop="20260617184500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
-<programme start="20260617184500 +0000" stop="20260617191200 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">TBA</title></programme>
+<programme start="20260617184500 +0000" stop="20260617191000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Kyoto&apos;s Finest Goods Travelogue</title></programme>
+<programme start="20260617191000 +0000" stop="20260617191200 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
 <programme start="20260617191200 +0000" stop="20260617191500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260617191500 +0000" stop="20260617200000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Rokkaku Seiji&apos;s Nomitetsu Railroad Trip: Gono Line Part 2</title></programme>
 <programme start="20260617200000 +0000" stop="20260617201000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">TV Exercise</title></programme>
@@ -6199,8 +6211,7 @@
 <programme start="20260618005500 +0000" stop="20260618010000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Exercise for Everyone</title></programme>
 <programme start="20260618010000 +0000" stop="20260618010500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
 <programme start="20260618010500 +0000" stop="20260618015000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Rokkaku Seiji&apos;s Nomitetsu Railroad Trip: Gono Line Part 2</title></programme>
-<programme start="20260618015000 +0000" stop="20260618021700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">TBA</title></programme>
-<programme start="20260618021700 +0000" stop="20260618022000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
+<programme start="20260618015000 +0000" stop="20260618022000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">The Great Nature &apos;Himalayas&apos;</title></programme>
 <programme start="20260618022000 +0000" stop="20260618025000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Sleepless Night Talk with the Singer AI</title></programme>
 <programme start="20260618025000 +0000" stop="20260618025500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Songs for Everyone</title></programme>
 <programme start="20260618025500 +0000" stop="20260618030000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
