@@ -2407,11 +2407,9 @@
 <programme start="20260621130000 +0000" stop="20260621133000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection</title></programme>
 <programme start="20260621133000 +0000" stop="20260621140000 +0000" channel="ArirangTV.kr@SD"><title lang="id">The Art Of Pairing</title></programme>
 <programme start="20260621140000 +0000" stop="20260621150000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Gugak The Music Of Korea</title></programme>
-<programme start="20260621150000 +0000" stop="20260621153000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Diplomat&apos;s Archive: Hidden Stories</title></programme>
-<programme start="20260621153000 +0000" stop="20260621160000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Vibe In Action: K-Initiative</title></programme>
-<programme start="20260621160000 +0000" stop="20260621163000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Rewind It: I&apos;m Live</title></programme>
-<programme start="20260621163000 +0000" stop="20260621165000 +0000" channel="ArirangTV.kr@SD"><title lang="id">The Grand Heritage: Gyeongju</title></programme>
-<programme start="20260621165000 +0000" stop="20260621170000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Fishing In The Museum</title></programme>
+<programme start="20260621150000 +0000" stop="20260621153000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Premium Collection</title></programme>
+<programme start="20260621153000 +0000" stop="20260621160000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Diplomat&apos;s Archive: Hidden Stories</title></programme>
+<programme start="20260621160000 +0000" stop="20260621170000 +0000" channel="ArirangTV.kr@SD"><title lang="id">Gugak The Music Of Korea</title></programme>
 <programme start="20260618170000 +0000" stop="20260618182700 +0000" channel="BeritaSatu.id@SD"><title lang="id">One Vault</title></programme>
 <programme start="20260618182700 +0000" stop="20260618183000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Tanah Airku</title></programme>
 <programme start="20260618183000 +0000" stop="20260618193000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
@@ -2449,8 +2447,7 @@
 <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jendela Dunia</title></programme>
 <programme start="20260619140000 +0000" stop="20260619150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Utama</title></programme>
 <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
-<programme start="20260619170000 +0000" stop="20260619182700 +0000" channel="BeritaSatu.id@SD"><title lang="id">One Vault</title></programme>
+<programme start="20260619160000 +0000" stop="20260619182700 +0000" channel="BeritaSatu.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
 <programme start="20260619182700 +0000" stop="20260619183000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Tanah Airku</title></programme>
 <programme start="20260619183000 +0000" stop="20260619193000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
 <programme start="20260619193000 +0000" stop="20260619203000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
@@ -2473,7 +2470,7 @@
 <programme start="20260620040000 +0000" stop="20260620053000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Siang</title></programme>
 <programme start="20260620053000 +0000" stop="20260620063000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah</title></programme>
 <programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Monster Jam</title></programme>
-<programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Anak Hebat</title></programme>
+<programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Pecah Telur</title></programme>
 <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Meja Redaksi</title></programme>
 <programme start="20260620080000 +0000" stop="20260620083000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Kriminal</title></programme>
 <programme start="20260620083000 +0000" stop="20260620100000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
@@ -2481,15 +2478,16 @@
 <programme start="20260620104500 +0000" stop="20260620113000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Dunia Alam</title></programme>
 <programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Persona</title></programme>
 <programme start="20260620120000 +0000" stop="20260620130000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260620130000 +0000" stop="20260620143000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Viral</title></programme>
-<programme start="20260620143000 +0000" stop="20260620150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260620130000 +0000" stop="20260620140000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260620140000 +0000" stop="20260620150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260620150000 +0000" stop="20260620160000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Dari Nol</title></programme>
 <programme start="20260620163000 +0000" stop="20260620173000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Supercar Championship</title></programme>
 <programme start="20260620173000 +0000" stop="20260620182700 +0000" channel="BeritaSatu.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
 <programme start="20260620182700 +0000" stop="20260620183000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Tanah Airku</title></programme>
 <programme start="20260620183000 +0000" stop="20260620193000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20260620193000 +0000" stop="20260620203000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Monster Jam</title></programme>
+<programme start="20260620193000 +0000" stop="20260620200000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Monster Jam</title></programme>
+<programme start="20260620200000 +0000" stop="20260620203000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Inside Sailing</title></programme>
 <programme start="20260620203000 +0000" stop="20260620210000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260620210000 +0000" stop="20260620213000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Kriminal</title></programme>
 <programme start="20260620213000 +0000" stop="20260620220000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Utama</title></programme>
@@ -2510,7 +2508,7 @@
 <programme start="20260621040000 +0000" stop="20260621053000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Siang</title></programme>
 <programme start="20260621053000 +0000" stop="20260621063000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah</title></programme>
 <programme start="20260621063000 +0000" stop="20260621070000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Monster Jam</title></programme>
-<programme start="20260621070000 +0000" stop="20260621073000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Anak Hebat</title></programme>
+<programme start="20260621070000 +0000" stop="20260621073000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Pecah Telur</title></programme>
 <programme start="20260621073000 +0000" stop="20260621080000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Meja Redaksi</title></programme>
 <programme start="20260621080000 +0000" stop="20260621083000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Kriminal</title></programme>
 <programme start="20260621083000 +0000" stop="20260621100000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
@@ -2518,8 +2516,8 @@
 <programme start="20260621104500 +0000" stop="20260621113000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Dunia Alam</title></programme>
 <programme start="20260621113000 +0000" stop="20260621120000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Persona</title></programme>
 <programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260621130000 +0000" stop="20260621143000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Viral</title></programme>
-<programme start="20260621143000 +0000" stop="20260621150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260621130000 +0000" stop="20260621140000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260621140000 +0000" stop="20260621150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260621150000 +0000" stop="20260621160000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20260621160000 +0000" stop="20260621163000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Ekspos</title></programme>
 <programme start="20260621163000 +0000" stop="20260621173000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Supercar Championship</title></programme>
@@ -2584,7 +2582,7 @@
 <programme start="20260620040000 +0000" stop="20260620053000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
 <programme start="20260620053000 +0000" stop="20260620063000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
 <programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="BTV.id@SD"><title lang="id">Monster Jam</title></programme>
-<programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="BTV.id@SD"><title lang="id">Anak Hebat</title></programme>
+<programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="BTV.id@SD"><title lang="id">Pecah Telur</title></programme>
 <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="BTV.id@SD"><title lang="id">Meja Redaksi</title></programme>
 <programme start="20260620080000 +0000" stop="20260620083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
 <programme start="20260620083000 +0000" stop="20260620100000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
@@ -2592,15 +2590,16 @@
 <programme start="20260620104500 +0000" stop="20260620113000 +0000" channel="BTV.id@SD"><title lang="id">Dunia Alam</title></programme>
 <programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="BTV.id@SD"><title lang="id">Persona</title></programme>
 <programme start="20260620120000 +0000" stop="20260620130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260620130000 +0000" stop="20260620143000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
-<programme start="20260620143000 +0000" stop="20260620150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260620130000 +0000" stop="20260620140000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260620140000 +0000" stop="20260620150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260620150000 +0000" stop="20260620160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="BTV.id@SD"><title lang="id">Dari Nol</title></programme>
 <programme start="20260620163000 +0000" stop="20260620173000 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship</title></programme>
 <programme start="20260620173000 +0000" stop="20260620182700 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
 <programme start="20260620182700 +0000" stop="20260620183000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
 <programme start="20260620183000 +0000" stop="20260620193000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20260620193000 +0000" stop="20260620203000 +0000" channel="BTV.id@SD"><title lang="id">Monster Jam</title></programme>
+<programme start="20260620193000 +0000" stop="20260620200000 +0000" channel="BTV.id@SD"><title lang="id">Monster Jam</title></programme>
+<programme start="20260620200000 +0000" stop="20260620203000 +0000" channel="BTV.id@SD"><title lang="id">Inside Sailing</title></programme>
 <programme start="20260620203000 +0000" stop="20260620210000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260620210000 +0000" stop="20260620213000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
 <programme start="20260620213000 +0000" stop="20260620220000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
@@ -2621,7 +2620,7 @@
 <programme start="20260621040000 +0000" stop="20260621053000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
 <programme start="20260621053000 +0000" stop="20260621063000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
 <programme start="20260621063000 +0000" stop="20260621070000 +0000" channel="BTV.id@SD"><title lang="id">Monster Jam</title></programme>
-<programme start="20260621070000 +0000" stop="20260621073000 +0000" channel="BTV.id@SD"><title lang="id">Anak Hebat</title></programme>
+<programme start="20260621070000 +0000" stop="20260621073000 +0000" channel="BTV.id@SD"><title lang="id">Pecah Telur</title></programme>
 <programme start="20260621073000 +0000" stop="20260621080000 +0000" channel="BTV.id@SD"><title lang="id">Meja Redaksi</title></programme>
 <programme start="20260621080000 +0000" stop="20260621083000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
 <programme start="20260621083000 +0000" stop="20260621100000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
@@ -2629,8 +2628,8 @@
 <programme start="20260621104500 +0000" stop="20260621113000 +0000" channel="BTV.id@SD"><title lang="id">Dunia Alam</title></programme>
 <programme start="20260621113000 +0000" stop="20260621120000 +0000" channel="BTV.id@SD"><title lang="id">Persona</title></programme>
 <programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260621130000 +0000" stop="20260621143000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
-<programme start="20260621143000 +0000" stop="20260621150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
+<programme start="20260621130000 +0000" stop="20260621140000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
+<programme start="20260621140000 +0000" stop="20260621150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260621150000 +0000" stop="20260621160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20260621160000 +0000" stop="20260621163000 +0000" channel="BTV.id@SD"><title lang="id">Ekspos</title></programme>
 <programme start="20260621163000 +0000" stop="20260621173000 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship</title></programme>
@@ -5601,52 +5600,57 @@
 <programme start="20260619163000 +0000" stop="20260619170000 +0000" channel="KompasTV.id@SD"><title lang="id">Kilas Kompas</title></programme>
 <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
 <programme start="20260619180000 +0000" stop="20260619193000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Petang</title></programme>
-<programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="KompasTV.id@SD"><title lang="id">Indonesia Update</title></programme>
-<programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="KompasTV.id@SD"><title lang="id">Kalam Hati</title></programme>
+<programme start="20260619193000 +0000" stop="20260619203000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Malam</title></programme>
+<programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="KompasTV.id@SD"><title lang="id">Kalam Hati</title></programme>
 <programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="KompasTV.id@SD"><title lang="id">Borgol</title></programme>
-<programme start="20260619213000 +0000" stop="20260619233000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Pagi</title></programme>
+<programme start="20260619213000 +0000" stop="20260619233000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Pagi Akhir Pekan</title></programme>
 <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="KompasTV.id@SD"><title lang="id">Jurnal Nusantara</title></programme>
-<programme start="20260620000000 +0000" stop="20260620023000 +0000" channel="KompasTV.id@SD"><title lang="id">Sapa Indonesia Pagi</title></programme>
-<programme start="20260620023000 +0000" stop="20260620033000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
-<programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="KompasTV.id@SD"><title lang="id">Borgol</title></programme>
-<programme start="20260620040000 +0000" stop="20260620060000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Siang</title></programme>
-<programme start="20260620060000 +0000" stop="20260620070000 +0000" channel="KompasTV.id@SD"><title lang="id">Sapa Indonesia Siang</title></programme>
-<programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Sport</title></programme>
-<programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="KompasTV.id@SD"><title lang="id">Jurnal Merah Putih</title></programme>
-<programme start="20260620080000 +0000" stop="20260620083000 +0000" channel="KompasTV.id@SD"><title lang="id">Indonesia Update</title></programme>
-<programme start="20260620083000 +0000" stop="20260620090000 +0000" channel="KompasTV.id@SD"><title lang="id">Borgol</title></programme>
-<programme start="20260620090000 +0000" stop="20260620103000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Petang</title></programme>
-<programme start="20260620103000 +0000" stop="20260620123000 +0000" channel="KompasTV.id@SD"><title lang="id">Sapa Indonesia Malam</title></programme>
-<programme start="20260620123000 +0000" stop="20260620133000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
-<programme start="20260620133000 +0000" stop="20260620150000 +0000" channel="KompasTV.id@SD"><title lang="id">Bola Liar</title></programme>
-<programme start="20260620150000 +0000" stop="20260620160000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Malam</title></programme>
-<programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Sport</title></programme>
+<programme start="20260620000000 +0000" stop="20260620013000 +0000" channel="KompasTV.id@SD"><title lang="id">Sapa Indonesia Pagi</title></programme>
+<programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="KompasTV.id@SD"><title lang="id">Bincang Kita</title></programme>
+<programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="KompasTV.id@SD"><title lang="id">Sustenesia</title></programme>
+<programme start="20260620023000 +0000" stop="20260620030000 +0000" channel="KompasTV.id@SD"><title lang="id">Pop News</title></programme>
+<programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
+<programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="KompasTV.id@SD"><title lang="id">Cerita Rasa</title></programme>
+<programme start="20260620040000 +0000" stop="20260620050000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Siang</title></programme>
+<programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="KompasTV.id@SD"><title lang="id">Borgol</title></programme>
+<programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="KompasTV.id@SD"><title lang="id">News Or Hoax</title></programme>
+<programme start="20260620060000 +0000" stop="20260620070000 +0000" channel="KompasTV.id@SD"><title lang="id">Dipo Investigasi</title></programme>
+<programme start="20260620070000 +0000" stop="20260620080000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
+<programme start="20260620080000 +0000" stop="20260620090000 +0000" channel="KompasTV.id@SD"><title lang="id">Cerita Militer On Sail</title></programme>
+<programme start="20260620090000 +0000" stop="20260620110000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Petang</title></programme>
+<programme start="20260620110000 +0000" stop="20260620113000 +0000" channel="KompasTV.id@SD"><title lang="id">Pop News</title></programme>
+<programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="KompasTV.id@SD"><title lang="id">Borgol</title></programme>
+<programme start="20260620120000 +0000" stop="20260620130000 +0000" channel="KompasTV.id@SD"><title lang="id">Sapa Indonesia Malam</title></programme>
+<programme start="20260620130000 +0000" stop="20260620140000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
+<programme start="20260620140000 +0000" stop="20260620143000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Malam</title></programme>
+<programme start="20260620143000 +0000" stop="20260620160000 +0000" channel="KompasTV.id@SD"><title lang="id">Rosi</title></programme>
+<programme start="20260620160000 +0000" stop="20260620163000 +0000" channel="KompasTV.id@SD"><title lang="id">News Or Hoax</title></programme>
 <programme start="20260620163000 +0000" stop="20260620170000 +0000" channel="KompasTV.id@SD"><title lang="id">Kilas Kompas</title></programme>
-<programme start="20260620170000 +0000" stop="20260620190000 +0000" channel="KompasTV.id@SD"><title lang="id">Breaking News</title></programme>
-<programme start="20260620190000 +0000" stop="20260620193000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
-<programme start="20260620193000 +0000" stop="20260620203000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Malam</title></programme>
-<programme start="20260620203000 +0000" stop="20260620210000 +0000" channel="KompasTV.id@SD"><title lang="id">Kalam Hati</title></programme>
+<programme start="20260620170000 +0000" stop="20260620190000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Petang</title></programme>
+<programme start="20260620190000 +0000" stop="20260620200000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
+<programme start="20260620200000 +0000" stop="20260620210000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Malam</title></programme>
 <programme start="20260620210000 +0000" stop="20260620213000 +0000" channel="KompasTV.id@SD"><title lang="id">Borgol</title></programme>
 <programme start="20260620213000 +0000" stop="20260620233000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Pagi Akhir Pekan</title></programme>
 <programme start="20260620233000 +0000" stop="20260621000000 +0000" channel="KompasTV.id@SD"><title lang="id">Jurnal Nusantara</title></programme>
 <programme start="20260621000000 +0000" stop="20260621013000 +0000" channel="KompasTV.id@SD"><title lang="id">Sapa Indonesia Pagi</title></programme>
-<programme start="20260621013000 +0000" stop="20260621020000 +0000" channel="KompasTV.id@SD"><title lang="id">Bincang Kita</title></programme>
-<programme start="20260621020000 +0000" stop="20260621023000 +0000" channel="KompasTV.id@SD"><title lang="id">Sustenesia</title></programme>
+<programme start="20260621013000 +0000" stop="20260621023000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
 <programme start="20260621023000 +0000" stop="20260621030000 +0000" channel="KompasTV.id@SD"><title lang="id">Pop News</title></programme>
-<programme start="20260621030000 +0000" stop="20260621033000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Sepekan</title></programme>
-<programme start="20260621033000 +0000" stop="20260621040000 +0000" channel="KompasTV.id@SD"><title lang="id">Cerita Rasa</title></programme>
+<programme start="20260621030000 +0000" stop="20260621033000 +0000" channel="KompasTV.id@SD"><title lang="id">Cerita Rasa</title></programme>
+<programme start="20260621033000 +0000" stop="20260621040000 +0000" channel="KompasTV.id@SD"><title lang="id">Jalan - Jalan</title></programme>
 <programme start="20260621040000 +0000" stop="20260621050000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Siang</title></programme>
 <programme start="20260621050000 +0000" stop="20260621053000 +0000" channel="KompasTV.id@SD"><title lang="id">Borgol</title></programme>
 <programme start="20260621053000 +0000" stop="20260621060000 +0000" channel="KompasTV.id@SD"><title lang="id">News Or Hoax</title></programme>
-<programme start="20260621060000 +0000" stop="20260621070000 +0000" channel="KompasTV.id@SD"><title lang="id">Dipo Investigasi</title></programme>
-<programme start="20260621070000 +0000" stop="20260621080000 +0000" channel="KompasTV.id@SD"><title lang="id">Breaking News</title></programme>
-<programme start="20260621080000 +0000" stop="20260621090000 +0000" channel="KompasTV.id@SD"><title lang="id">Cerita Militer</title></programme>
-<programme start="20260621090000 +0000" stop="20260621110000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Petang</title></programme>
-<programme start="20260621110000 +0000" stop="20260621113000 +0000" channel="KompasTV.id@SD"><title lang="id">Presisi Melayani</title></programme>
-<programme start="20260621113000 +0000" stop="20260621123000 +0000" channel="KompasTV.id@SD"><title lang="id">Sapa Indonesia Malam</title></programme>
-<programme start="20260621123000 +0000" stop="20260621133000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
-<programme start="20260621133000 +0000" stop="20260621143000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Malam</title></programme>
-<programme start="20260621143000 +0000" stop="20260621163000 +0000" channel="KompasTV.id@SD"><title lang="id">Suci 12</title></programme>
+<programme start="20260621060000 +0000" stop="20260621070000 +0000" channel="KompasTV.id@SD"><title lang="id">Breaking News</title></programme>
+<programme start="20260621070000 +0000" stop="20260621080000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
+<programme start="20260621080000 +0000" stop="20260621083000 +0000" channel="KompasTV.id@SD"><title lang="id">Pop News</title></programme>
+<programme start="20260621083000 +0000" stop="20260621090000 +0000" channel="KompasTV.id@SD"><title lang="id">Borgol</title></programme>
+<programme start="20260621090000 +0000" stop="20260621103000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Petang</title></programme>
+<programme start="20260621103000 +0000" stop="20260621110000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Sepekan</title></programme>
+<programme start="20260621110000 +0000" stop="20260621120000 +0000" channel="KompasTV.id@SD"><title lang="id">60 Menit Spesial Report</title></programme>
+<programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="KompasTV.id@SD"><title lang="id">Sapa Indonesia Malam</title></programme>
+<programme start="20260621130000 +0000" stop="20260621140000 +0000" channel="KompasTV.id@SD"><title lang="id">Berita Utama</title></programme>
+<programme start="20260621140000 +0000" stop="20260621150000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Malam</title></programme>
+<programme start="20260621150000 +0000" stop="20260621163000 +0000" channel="KompasTV.id@SD"><title lang="id">Bola Liar</title></programme>
 <programme start="20260621163000 +0000" stop="20260621170000 +0000" channel="KompasTV.id@SD"><title lang="id">Kilas Kompas</title></programme>
 <programme start="20260618174000 +0000" stop="20260618181000 +0000" channel="MDTV.id@HD"><title lang="id">86</title></programme>
 <programme start="20260618181000 +0000" stop="20260618190000 +0000" channel="MDTV.id@HD"><title lang="id">The Best Of Ini Talkshow</title></programme>
@@ -6934,19 +6938,22 @@
 <programme start="20260618230000 +0000" stop="20260619000000 +0000" channel="SCTV.id@SD"><title lang="id">Halo Selebriti</title></programme>
 <programme start="20260619000000 +0000" stop="20260619010000 +0000" channel="SCTV.id@SD"><title lang="id">Tiba Tiba Kuis</title></programme>
 <programme start="20260619010000 +0000" stop="20260619030000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi Spesial</title></programme>
-<programme start="20260619030000 +0000" stop="20260619050000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi</title></programme>
+<programme start="20260619030000 +0000" stop="20260619044800 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi</title></programme>
+<programme start="20260619044800 +0000" stop="20260619052100 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Siang</title></programme>
 <programme start="20260619050000 +0000" stop="20260619053000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Siang</title></programme>
+<programme start="20260619052100 +0000" stop="20260619065400 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
 <programme start="20260619053000 +0000" stop="20260619070000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
+<programme start="20260619065400 +0000" stop="20260619082700 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
 <programme start="20260619070000 +0000" stop="20260619083000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
-<programme start="20260619083000 +0000" stop="20260619100000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
-<programme start="20260619100000 +0000" stop="20260619111500 +0000" channel="SCTV.id@SD"><title lang="id">Asmara Gen Z</title></programme>
-<programme start="20260619111500 +0000" stop="20260619130000 +0000" channel="SCTV.id@SD"><title lang="id">Istiqomah Cinta</title></programme>
-<programme start="20260619130000 +0000" stop="20260619143000 +0000" channel="SCTV.id@SD"><title lang="id">Beri Cinta Waktu</title></programme>
-<programme start="20260619143000 +0000" stop="20260619160000 +0000" channel="SCTV.id@SD"><title lang="id">Jejak Duka Diandra</title></programme>
-<programme start="20260619160000 +0000" stop="20260619173000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Primetime</title></programme>
-<programme start="20260619173000 +0000" stop="20260619184500 +0000" channel="SCTV.id@SD"><title lang="id">FTV Utama</title></programme>
-<programme start="20260619184500 +0000" stop="20260619200000 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Malam</title></programme>
-<programme start="20260619200000 +0000" stop="20260619210600 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Dini Hari</title></programme>
+<programme start="20260619082700 +0000" stop="20260619100000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
+<programme start="20260619100000 +0000" stop="20260619113200 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Asmara Gen Z</title></programme>
+<programme start="20260619113200 +0000" stop="20260619130900 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Istiqomah Cinta</title></programme>
+<programme start="20260619130900 +0000" stop="20260619143600 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Beri Cinta Waktu</title></programme>
+<programme start="20260619143600 +0000" stop="20260619160700 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Jejak Duka Diandra</title></programme>
+<programme start="20260619160700 +0000" stop="20260619175100 +0000" channel="SCTV.id@SD"><title lang="id">FTV Primetime</title></programme>
+<programme start="20260619175100 +0000" stop="20260619190500 +0000" channel="SCTV.id@SD"><title lang="id">FTV Utama</title></programme>
+<programme start="20260619190500 +0000" stop="20260619200500 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Malam</title></programme>
+<programme start="20260619200500 +0000" stop="20260619210600 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Dini Hari</title></programme>
 <programme start="20260619210600 +0000" stop="20260619213000 +0000" channel="SCTV.id@SD"><title lang="id">Barakallah</title></programme>
 <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="SCTV.id@SD"><title lang="id">Buser</title></programme>
 <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Pagi</title></programme>
@@ -6958,10 +6965,10 @@
 <programme start="20260620053000 +0000" stop="20260620070000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
 <programme start="20260620070000 +0000" stop="20260620083000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
 <programme start="20260620083000 +0000" stop="20260620100000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
-<programme start="20260620100000 +0000" stop="20260620111500 +0000" channel="SCTV.id@SD"><title lang="id">Asmara Gen Z</title></programme>
-<programme start="20260620111500 +0000" stop="20260620130000 +0000" channel="SCTV.id@SD"><title lang="id">Istiqomah Cinta</title></programme>
-<programme start="20260620130000 +0000" stop="20260620143000 +0000" channel="SCTV.id@SD"><title lang="id">Beri Cinta Waktu</title></programme>
-<programme start="20260620143000 +0000" stop="20260620160000 +0000" channel="SCTV.id@SD"><title lang="id">Jejak Duka Diandra</title></programme>
+<programme start="20260620100000 +0000" stop="20260620111500 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Asmara Gen Z</title></programme>
+<programme start="20260620111500 +0000" stop="20260620130000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Istiqomah Cinta</title></programme>
+<programme start="20260620130000 +0000" stop="20260620143000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Beri Cinta Waktu</title></programme>
+<programme start="20260620143000 +0000" stop="20260620160000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Jejak Duka Diandra</title></programme>
 <programme start="20260620160000 +0000" stop="20260620184500 +0000" channel="SCTV.id@SD"><title lang="id">Film Layar Lebar</title></programme>
 <programme start="20260620184500 +0000" stop="20260620200000 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Malam</title></programme>
 <programme start="20260620200000 +0000" stop="20260620210600 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Dini Hari</title></programme>
@@ -6975,11 +6982,11 @@
 <programme start="20260621030000 +0000" stop="20260621050000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi</title></programme>
 <programme start="20260621050000 +0000" stop="20260621053000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Siang</title></programme>
 <programme start="20260621053000 +0000" stop="20260621073000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
-<programme start="20260621073000 +0000" stop="20260621100000 +0000" channel="SCTV.id@SD"><title lang="id">Beri Cinta Waktu Love Fest Love Fest</title></programme>
-<programme start="20260621100000 +0000" stop="20260621111500 +0000" channel="SCTV.id@SD"><title lang="id">Asmara Gen Z</title></programme>
-<programme start="20260621111500 +0000" stop="20260621130000 +0000" channel="SCTV.id@SD"><title lang="id">Istiqomah Cinta</title></programme>
-<programme start="20260621130000 +0000" stop="20260621143000 +0000" channel="SCTV.id@SD"><title lang="id">Beri Cinta Waktu</title></programme>
-<programme start="20260621143000 +0000" stop="20260621160000 +0000" channel="SCTV.id@SD"><title lang="id">Jejak Duka Diandra</title></programme>
+<programme start="20260621073000 +0000" stop="20260621100000 +0000" channel="SCTV.id@SD"><title lang="id">Beri Cinta Waktu Love Fest</title></programme>
+<programme start="20260621100000 +0000" stop="20260621111500 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Asmara Gen Z</title></programme>
+<programme start="20260621111500 +0000" stop="20260621130000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Istiqomah Cinta</title></programme>
+<programme start="20260621130000 +0000" stop="20260621143000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Beri Cinta Waktu</title></programme>
+<programme start="20260621143000 +0000" stop="20260621160000 +0000" channel="SCTV.id@SD"><title lang="id">Sinetron Jejak Duka Diandra</title></programme>
 <programme start="20260621160000 +0000" stop="20260621173000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Primetime</title></programme>
 <programme start="20260618170300 +0000" stop="20260618171800 +0000" channel="SuperyachtTV.mc@SD"><title lang="id">The Yachts</title></programme>
 <programme start="20260618171800 +0000" stop="20260618173100 +0000" channel="SuperyachtTV.mc@SD"><title lang="id">The Yachts</title></programme>
