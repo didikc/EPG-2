@@ -1790,9 +1790,9 @@
 <programme start="20260701020000 +0000" stop="20260701023000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC News At Noon</title></programme>
 <programme start="20260701023000 +0000" stop="20260701030000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Landline</title></programme>
 <programme start="20260701030000 +0000" stop="20260701034500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Four Corners</title></programme>
-<programme start="20260701034500 +0000" stop="20260701040000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Media Watch</title></programme>
-<programme start="20260701040000 +0000" stop="20260701043000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Dr Karl&apos;s How Things Work</title></programme>
-<programme start="20260701043000 +0000" stop="20260701053000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Grand Designs Australia</title></programme>
+<programme start="20260701034500 +0000" stop="20260701040500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Media Watch</title></programme>
+<programme start="20260701040500 +0000" stop="20260701043500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Dr Karl&apos;s How Things Work</title></programme>
+<programme start="20260701043500 +0000" stop="20260701053000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Grand Designs Australia</title></programme>
 <programme start="20260701053000 +0000" stop="20260701060000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Movin&apos; To The Country</title></programme>
 <programme start="20260701060000 +0000" stop="20260701070000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Magic and the Brain: The Science of Illusion - A Catalyst Special</title></programme>
 <programme start="20260701070000 +0000" stop="20260701080000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC News with Joe O&apos;Brien</title></programme>
@@ -1827,7 +1827,8 @@
 <programme start="20260702053500 +0000" stop="20260702055500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Media Watch</title></programme>
 <programme start="20260702055500 +0000" stop="20260702070000 +0000" channel="ABCAustralia.au@SD"><title lang="id">National Press Club Address</title></programme>
 <programme start="20260702070000 +0000" stop="20260702080000 +0000" channel="ABCAustralia.au@SD"><title lang="id">ABC News with Joe O&apos;Brien</title></programme>
-<programme start="20260702080000 +0000" stop="20260702085000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw</title></programme>
+<programme start="20260702080000 +0000" stop="20260702082500 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Cook Up With Adam Liaw</title></programme>
+<programme start="20260702082500 +0000" stop="20260702085000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Chef&apos;s Garden</title></programme>
 <programme start="20260702085000 +0000" stop="20260702091500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Bondi Rescue</title></programme>
 <programme start="20260702091500 +0000" stop="20260702121500 +0000" channel="ABCAustralia.au@SD"><title lang="id">AFL Premiership Season</title></programme>
 <programme start="20260702121500 +0000" stop="20260702130500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Judgment: Cases That Changed Australia</title></programme>
@@ -2427,15 +2428,8 @@
 <programme start="20260630213000 +0000" stop="20260630220000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Utama</title></programme>
 <programme start="20260630220000 +0000" stop="20260630230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
 <programme start="20260630230000 +0000" stop="20260630230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
-<programme start="20260630230300 +0000" stop="20260701003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20260701003000 +0000" stop="20260701010000 +0000" channel="BTV.id@SD"><title lang="id">Anak Hebat</title></programme>
-<programme start="20260701010000 +0000" stop="20260701010500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20260701010500 +0000" stop="20260701011500 +0000" channel="BTV.id@SD"><title lang="id">Anak Hebat</title></programme>
-<programme start="20260701011500 +0000" stop="20260701014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
-<programme start="20260701014500 +0000" stop="20260701020000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
-<programme start="20260701020000 +0000" stop="20260701020500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20260701020500 +0000" stop="20260701023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
-<programme start="20260701023000 +0000" stop="20260701030000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
+<programme start="20260630230300 +0000" stop="20260701000000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20260701000000 +0000" stop="20260701030000 +0000" channel="BTV.id@SD"><title lang="id">Breaking News</title></programme>
 <programme start="20260701030000 +0000" stop="20260701033000 +0000" channel="BTV.id@SD"><title lang="id">Vacation List</title></programme>
 <programme start="20260701033000 +0000" stop="20260701040000 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Update &apos;Dari Nol&apos;</title></programme>
 <programme start="20260701040000 +0000" stop="20260701050000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
@@ -3119,10 +3113,26 @@
 <programme start="20260630190000 +0000" stop="20260630200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
 <programme start="20260630200000 +0000" stop="20260630203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260630203000 +0000" stop="20260630210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260630210000 +0000" stop="20260701165959 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
-<programme start="20260701170000 +0000" stop="20260701190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
-<programme start="20260701190000 +0000" stop="20260701210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
-<programme start="20260701210000 +0000" stop="20260701213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260630210000 +0000" stop="20260630230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
+<programme start="20260630230000 +0000" stop="20260701003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
+<programme start="20260701003000 +0000" stop="20260701010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260701010000 +0000" stop="20260701030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
+<programme start="20260701030000 +0000" stop="20260701045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20260701045500 +0000" stop="20260701070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20260701070000 +0000" stop="20260701073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
+<programme start="20260701073000 +0000" stop="20260701080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260701080000 +0000" stop="20260701100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
+<programme start="20260701100000 +0000" stop="20260701113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20260701113000 +0000" stop="20260701120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260701120000 +0000" stop="20260701140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
+<programme start="20260701140000 +0000" stop="20260701160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260701160000 +0000" stop="20260701180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
+<programme start="20260701180000 +0000" stop="20260701183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
+<programme start="20260701183000 +0000" stop="20260701190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260701190000 +0000" stop="20260701200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">A Minute Insight</title></programme>
+<programme start="20260701200000 +0000" stop="20260701203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260701203000 +0000" stop="20260701210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260701210000 +0000" stop="20260701213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
 <programme start="20260701213000 +0000" stop="20260701220000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20260701220000 +0000" stop="20260701223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20260701223000 +0000" stop="20260701230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
@@ -5984,7 +5994,8 @@
 <programme start="20260702153000 +0000" stop="20260702155400 +0000" channel="OneTV.in@SD"><title lang="id">Jump on Board - Turkey</title></programme>
 <programme start="20260702155400 +0000" stop="20260702170000 +0000" channel="OneTV.in@SD"><title lang="id">Everyday Tips - Health</title></programme>
 <programme start="20260630160000 +0000" stop="20260630170000 +0000" channel="PijarTV.id@SD"><title lang="id">Titik Koma</title></programme>
-<programme start="20260630170000 +0000" stop="20260630190000 +0000" channel="PijarTV.id@SD"><title lang="id">Program Pijar</title></programme>
+<programme start="20260630170000 +0000" stop="20260630183000 +0000" channel="PijarTV.id@SD"><title lang="id">Film: Show Me Your Glory</title></programme>
+<programme start="20260630183000 +0000" stop="20260630190000 +0000" channel="PijarTV.id@SD"><title lang="id">Panorama</title></programme>
 <programme start="20260630190000 +0000" stop="20260630200000 +0000" channel="PijarTV.id@SD"><title lang="id">Third Millennium Ministries</title></programme>
 <programme start="20260630200000 +0000" stop="20260630220000 +0000" channel="PijarTV.id@SD"><title lang="id">Jesus Film</title></programme>
 <programme start="20260630220000 +0000" stop="20260630230000 +0000" channel="PijarTV.id@SD"><title lang="id">The Chosen</title></programme>
@@ -5997,7 +6008,8 @@
 <programme start="20260701043000 +0000" stop="20260701050000 +0000" channel="PijarTV.id@SD"><title lang="id">John Bevere</title></programme>
 <programme start="20260701050000 +0000" stop="20260701053000 +0000" channel="PijarTV.id@SD"><title lang="id">Semua Kitab Suci</title></programme>
 <programme start="20260701053000 +0000" stop="20260701060000 +0000" channel="PijarTV.id@SD"><title lang="id">Inspirasi</title></programme>
-<programme start="20260701060000 +0000" stop="20260701080000 +0000" channel="PijarTV.id@SD"><title lang="id">Jesus Film-LUMO</title></programme>
+<programme start="20260701060000 +0000" stop="20260701070000 +0000" channel="PijarTV.id@SD"><title lang="id">Raihlah Hidup</title></programme>
+<programme start="20260701070000 +0000" stop="20260701080000 +0000" channel="PijarTV.id@SD"><title lang="id">Raihlah Hidup</title></programme>
 <programme start="20260701080000 +0000" stop="20260701090000 +0000" channel="PijarTV.id@SD"><title lang="id">ASHA</title></programme>
 <programme start="20260701090000 +0000" stop="20260701093000 +0000" channel="PijarTV.id@SD"><title lang="id">Panorama</title></programme>
 <programme start="20260701093000 +0000" stop="20260701100000 +0000" channel="PijarTV.id@SD"><title lang="id">Jesus Is The Answer</title></programme>
@@ -6009,8 +6021,10 @@
 <programme start="20260701143000 +0000" stop="20260701150000 +0000" channel="PijarTV.id@SD"><title lang="id">Inspirasi</title></programme>
 <programme start="20260701150000 +0000" stop="20260701153000 +0000" channel="PijarTV.id@SD"><title lang="id">Semua Kitab Suci</title></programme>
 <programme start="20260701153000 +0000" stop="20260701163000 +0000" channel="PijarTV.id@SD"><title lang="id">Kerinduanku Church</title></programme>
-<programme start="20260701163000 +0000" stop="20260701170000 +0000" channel="PijarTV.id@SD"><title lang="id">Panorama</title></programme>
-<programme start="20260701170000 +0000" stop="20260701190000 +0000" channel="PijarTV.id@SD"><title lang="id">Program Pijar</title></programme>
+<programme start="20260701163000 +0000" stop="20260701170000 +0000" channel="PijarTV.id@SD"><title lang="id">Penolong Yang Sepadan</title></programme>
+<programme start="20260701170000 +0000" stop="20260701173000 +0000" channel="PijarTV.id@SD"><title lang="id">Joyce Meyer Ministries</title></programme>
+<programme start="20260701173000 +0000" stop="20260701183000 +0000" channel="PijarTV.id@SD"><title lang="id">ASHA</title></programme>
+<programme start="20260701183000 +0000" stop="20260701190000 +0000" channel="PijarTV.id@SD"><title lang="id">Panorama</title></programme>
 <programme start="20260701190000 +0000" stop="20260701200000 +0000" channel="PijarTV.id@SD"><title lang="id">Third Millennium Ministries</title></programme>
 <programme start="20260701200000 +0000" stop="20260701220000 +0000" channel="PijarTV.id@SD"><title lang="id">Jesus Film</title></programme>
 <programme start="20260701220000 +0000" stop="20260701230000 +0000" channel="PijarTV.id@SD"><title lang="id">The Chosen</title></programme>
@@ -6019,23 +6033,25 @@
 <programme start="20260702013000 +0000" stop="20260702020000 +0000" channel="PijarTV.id@SD"><title lang="id">Nilai Kehidupan</title></programme>
 <programme start="20260702020000 +0000" stop="20260702030000 +0000" channel="PijarTV.id@SD"><title lang="id">The Chosen</title></programme>
 <programme start="20260702030000 +0000" stop="20260702033000 +0000" channel="PijarTV.id@SD"><title lang="id">When The Music Fades</title></programme>
-<programme start="20260702033000 +0000" stop="20260702043000 +0000" channel="PijarTV.id@SD"><title lang="id">Kerinduanku Church</title></programme>
+<programme start="20260702033000 +0000" stop="20260702043000 +0000" channel="PijarTV.id@SD"><title lang="id">Bukan Untuk Orang Sempurna</title></programme>
 <programme start="20260702043000 +0000" stop="20260702050000 +0000" channel="PijarTV.id@SD"><title lang="id">John Bevere</title></programme>
 <programme start="20260702050000 +0000" stop="20260702053000 +0000" channel="PijarTV.id@SD"><title lang="id">Semua Kitab Suci</title></programme>
 <programme start="20260702053000 +0000" stop="20260702060000 +0000" channel="PijarTV.id@SD"><title lang="id">Inspirasi</title></programme>
-<programme start="20260702060000 +0000" stop="20260702080000 +0000" channel="PijarTV.id@SD"><title lang="id">Jesus Film-LUMO</title></programme>
+<programme start="20260702060000 +0000" stop="20260702070000 +0000" channel="PijarTV.id@SD"><title lang="id">Raihlah Hidup</title></programme>
+<programme start="20260702070000 +0000" stop="20260702080000 +0000" channel="PijarTV.id@SD"><title lang="id">Raihlah Hidup</title></programme>
 <programme start="20260702080000 +0000" stop="20260702090000 +0000" channel="PijarTV.id@SD"><title lang="id">ASHA</title></programme>
 <programme start="20260702090000 +0000" stop="20260702093000 +0000" channel="PijarTV.id@SD"><title lang="id">Panorama</title></programme>
 <programme start="20260702093000 +0000" stop="20260702100000 +0000" channel="PijarTV.id@SD"><title lang="id">Jesus Is The Answer</title></programme>
-<programme start="20260702100000 +0000" stop="20260702113000 +0000" channel="PijarTV.id@SD"><title lang="id">Kutahu yang Kupercaya</title></programme>
-<programme start="20260702113000 +0000" stop="20260702130000 +0000" channel="PijarTV.id@SD"><title lang="id">Selasa Berbagi</title></programme>
+<programme start="20260702100000 +0000" stop="20260702120000 +0000" channel="PijarTV.id@SD"><title lang="id">Kutahu yang Kupercaya</title></programme>
+<programme start="20260702120000 +0000" stop="20260702130000 +0000" channel="PijarTV.id@SD"><title lang="id">Pijar News</title></programme>
 <programme start="20260702130000 +0000" stop="20260702133000 +0000" channel="PijarTV.id@SD"><title lang="id">ASHA</title></programme>
 <programme start="20260702133000 +0000" stop="20260702140000 +0000" channel="PijarTV.id@SD"><title lang="id">John Bevere</title></programme>
 <programme start="20260702140000 +0000" stop="20260702143000 +0000" channel="PijarTV.id@SD"><title lang="id">Joyce Meyer Ministries</title></programme>
 <programme start="20260702143000 +0000" stop="20260702150000 +0000" channel="PijarTV.id@SD"><title lang="id">Inspirasi</title></programme>
 <programme start="20260702150000 +0000" stop="20260702153000 +0000" channel="PijarTV.id@SD"><title lang="id">Semua Kitab Suci</title></programme>
-<programme start="20260702153000 +0000" stop="20260702163000 +0000" channel="PijarTV.id@SD"><title lang="id">Kerinduanku Church</title></programme>
-<programme start="20260702163000 +0000" stop="20260702170000 +0000" channel="PijarTV.id@SD"><title lang="id">Panorama</title></programme>
+<programme start="20260702153000 +0000" stop="20260702160000 +0000" channel="PijarTV.id@SD"><title lang="id">Fillers</title></programme>
+<programme start="20260702160000 +0000" stop="20260702163000 +0000" channel="PijarTV.id@SD"><title lang="id">Musik</title></programme>
+<programme start="20260702163000 +0000" stop="20260702170000 +0000" channel="PijarTV.id@SD"><title lang="id">Penolong Yang Sepadan</title></programme>
 <programme start="20260629170000 +0000" stop="20260629180000 +0000" channel="PSJTV.id@SD"><title lang="id">Music Box</title></programme>
 <programme start="20260629180000 +0000" stop="20260629190000 +0000" channel="PSJTV.id@SD"><title lang="id">Djanda Depan Warung</title></programme>
 <programme start="20260629190000 +0000" stop="20260629193000 +0000" channel="PSJTV.id@SD"><title lang="id">Jamgossip</title></programme>
