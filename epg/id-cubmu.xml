@@ -2046,7 +2046,7 @@
 <programme start="20260703150000 +0000" stop="20260703153000 +0000" channel="ABCAustralia.au@SD"><title lang="id">The World</title></programme>
 <programme start="20260703153000 +0000" stop="20260703162500 +0000" channel="ABCAustralia.au@SD"><title lang="id">The Great Australian Bake Off</title></programme>
 <programme start="20260703162500 +0000" stop="20260703165500 +0000" channel="ABCAustralia.au@SD"><title lang="id">Audra&apos;s Eat, Roam, Relish</title></programme>
-<programme start="20260703165500 +0000" stop="20260703173000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Field To Feast</title></programme>
+<programme start="20260703165500 +0000" stop="20260703172000 +0000" channel="ABCAustralia.au@SD"><title lang="id">Field To Feast</title></programme>
 <programme start="20260630170000 +0000" stop="20260630173000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">News Live</title></programme>
 <programme start="20260630173000 +0000" stop="20260630180000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Inside Story</title></programme>
 <programme start="20260630180000 +0000" stop="20260630190000 +0000" channel="AlJazeera.qa@Arabic"><title lang="id">Newshour</title></programme>
@@ -3458,6 +3458,7 @@
 <programme start="20260702130000 +0000" stop="20260702150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
 <programme start="20260702150000 +0000" stop="20260702170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
 <programme start="20260702170000 +0000" stop="20260702193000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Health Insurance Ecosystem Forum 2026</title></programme>
+<programme start="20260702180000 +0000" stop="20260703183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
 <programme start="20260702193000 +0000" stop="20260702200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
 <programme start="20260702200000 +0000" stop="20260702203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260702203000 +0000" stop="20260702210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
@@ -3470,15 +3471,14 @@
 <programme start="20260703010000 +0000" stop="20260703030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
 <programme start="20260703030000 +0000" stop="20260703045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
 <programme start="20260703045500 +0000" stop="20260703070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20260703070000 +0000" stop="20260703073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260703073000 +0000" stop="20260703080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260703070000 +0000" stop="20260703073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
+<programme start="20260703073000 +0000" stop="20260703080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260703080000 +0000" stop="20260703100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
 <programme start="20260703100000 +0000" stop="20260703113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
-<programme start="20260703113000 +0000" stop="20260703120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260703120000 +0000" stop="20260703123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260703123000 +0000" stop="20260703130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260703130000 +0000" stop="20260703150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20260703150000 +0000" stop="20260703170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260703113000 +0000" stop="20260703120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260703120000 +0000" stop="20260703140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
+<programme start="20260703140000 +0000" stop="20260703160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260703160000 +0000" stop="20260703180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
 <programme start="20260630171500 +0000" stop="20260630174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20260630174500 +0000" stop="20260630181500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi</title></programme>
 <programme start="20260630181500 +0000" stop="20260630184500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia News Update</title></programme>
@@ -6119,8 +6119,11 @@
 <programme start="20260630180000 +0000" stop="20260630182500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">With Mother</title></programme>
 <programme start="20260630182500 +0000" stop="20260630183000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
 <programme start="20260630183000 +0000" stop="20260630184500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
-<programme start="20260630184500 +0000" stop="20260630191200 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Today&apos;s Close-up</title></programme>
+<programme start="20260630184500 +0000" stop="20260630191500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Kids&apos; Emergency Rescue Team</title></programme>
 <programme start="20260630191200 +0000" stop="20260630200000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
+<programme start="20260630191500 +0000" stop="20260630194500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Win the Regular Program Slot &apos;Discover Hidden Scenic Views!&apos;</title></programme>
+<programme start="20260630194500 +0000" stop="20260630195000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">We Love Fluffy Animals Mini</title></programme>
+<programme start="20260630195000 +0000" stop="20260630200000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">100 Beautiful Mountains of Japan Mini</title></programme>
 <programme start="20260630200000 +0000" stop="20260630201000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">TV Exercise</title></programme>
 <programme start="20260630201000 +0000" stop="20260630202500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Health for Today</title></programme>
 <programme start="20260630202500 +0000" stop="20260630205500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Ready-to-Use Tips and Tricks</title></programme>
@@ -6128,12 +6131,17 @@
 <programme start="20260630210000 +0000" stop="20260630220000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News: Good Morning, Japan</title></programme>
 <programme start="20260630220000 +0000" stop="20260630230000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News: Good Morning, Japan</title></programme>
 <programme start="20260630230000 +0000" stop="20260630231500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
-<programme start="20260630231500 +0000" stop="20260701005400 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">asaichi</title></programme>
+<programme start="20260630231500 +0000" stop="20260701004000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">asaichi</title></programme>
+<programme start="20260701004000 +0000" stop="20260701004500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
+<programme start="20260701004500 +0000" stop="20260701005400 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Train Driver&apos;s Cab View Mini</title></programme>
 <programme start="20260701005400 +0000" stop="20260701005500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260701005500 +0000" stop="20260701010000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Exercise for Everyone</title></programme>
-<programme start="20260701010000 +0000" stop="20260701015000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
+<programme start="20260701010000 +0000" stop="20260701010500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
+<programme start="20260701010500 +0000" stop="20260701013500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Today&apos;s Close-up</title></programme>
+<programme start="20260701013500 +0000" stop="20260701022000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
 <programme start="20260701015000 +0000" stop="20260701021700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Today&apos;s Close-up</title></programme>
 <programme start="20260701021700 +0000" stop="20260701025000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
+<programme start="20260701022000 +0000" stop="20260701025000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Songs for Everyone</title></programme>
 <programme start="20260701025000 +0000" stop="20260701025500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Songs for Everyone</title></programme>
 <programme start="20260701025500 +0000" stop="20260701030000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260701030000 +0000" stop="20260701032000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News</title></programme>
@@ -6142,7 +6150,9 @@
 <programme start="20260701033000 +0000" stop="20260701034500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;Massan&apos; Encore</title></programme>
 <programme start="20260701034500 +0000" stop="20260701040000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
 <programme start="20260701040000 +0000" stop="20260701040500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News</title></programme>
-<programme start="20260701040500 +0000" stop="20260701055000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Around Japan</title></programme>
+<programme start="20260701040500 +0000" stop="20260701045000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Around Japan</title></programme>
+<programme start="20260701045000 +0000" stop="20260701045500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World&apos;s Magnificent Sight Journey</title></programme>
+<programme start="20260701045500 +0000" stop="20260701055000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Around Japan</title></programme>
 <programme start="20260701055000 +0000" stop="20260701055500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260701055500 +0000" stop="20260701060000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Music Album</title></programme>
 <programme start="20260701060000 +0000" stop="20260701061000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
@@ -6159,10 +6169,14 @@
 <programme start="20260701092500 +0000" stop="20260701095500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Whiz-Kids TV grow</title></programme>
 <programme start="20260701095500 +0000" stop="20260701100000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260701100000 +0000" stop="20260701103000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">NHK News 7</title></programme>
-<programme start="20260701103000 +0000" stop="20260701114300 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Today&apos;s Close-up</title></programme>
+<programme start="20260701103000 +0000" stop="20260701105700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Today&apos;s Close-up</title></programme>
+<programme start="20260701105700 +0000" stop="20260701114300 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Document 72 Hours Special Edition</title></programme>
 <programme start="20260701114300 +0000" stop="20260701114500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260701114500 +0000" stop="20260701120000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">NHK News 845</title></programme>
-<programme start="20260701120000 +0000" stop="20260701134500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Watch 9</title></programme>
+<programme start="20260701120000 +0000" stop="20260701130000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Watch 9</title></programme>
+<programme start="20260701130000 +0000" stop="20260701132700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Tochi Spe</title></programme>
+<programme start="20260701132700 +0000" stop="20260701133000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
+<programme start="20260701133000 +0000" stop="20260701134500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Magnificent Sight!--Mountain Lodges in Europe</title></programme>
 <programme start="20260701134500 +0000" stop="20260701140000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Night Drama Serial &apos;Midnight Taxi&apos;</title></programme>
 <programme start="20260701140000 +0000" stop="20260701143000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Sleepless Night Talk with the Singer AI</title></programme>
 <programme start="20260701143000 +0000" stop="20260701144000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Commentary</title></programme>
@@ -6181,16 +6195,23 @@
 <programme start="20260701182500 +0000" stop="20260701183000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
 <programme start="20260701183000 +0000" stop="20260701184500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
 <programme start="20260701184500 +0000" stop="20260701191200 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Today&apos;s Close-up</title></programme>
-<programme start="20260701191200 +0000" stop="20260701200000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
+<programme start="20260701191200 +0000" stop="20260701191500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
+<programme start="20260701191500 +0000" stop="20260701200000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Document 72 Hours Special Edition</title></programme>
 <programme start="20260701200000 +0000" stop="20260701201000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">TV Exercise</title></programme>
-<programme start="20260701201000 +0000" stop="20260701205500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Health for Today</title></programme>
-<programme start="20260701205500 +0000" stop="20260701220000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
+<programme start="20260701201000 +0000" stop="20260701202500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Health for Today</title></programme>
+<programme start="20260701202500 +0000" stop="20260701205000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Kagoshima Special</title></programme>
+<programme start="20260701205000 +0000" stop="20260701205500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
+<programme start="20260701205500 +0000" stop="20260701210000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
+<programme start="20260701210000 +0000" stop="20260701220000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News: Good Morning, Japan</title></programme>
 <programme start="20260701220000 +0000" stop="20260701230000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News: Good Morning, Japan</title></programme>
-<programme start="20260701230000 +0000" stop="20260701231500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
-<programme start="20260701231500 +0000" stop="20260702005400 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">asaichi</title></programme>
-<programme start="20260702005400 +0000" stop="20260702005500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
-<programme start="20260702005500 +0000" stop="20260702010000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Exercise for Everyone</title></programme>
-<programme start="20260702010000 +0000" stop="20260702015000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
+<programme start="20260701230000 +0000" stop="20260701231500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 69</title></programme>
+<programme start="20260701231500 +0000" stop="20260701234500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">asaichi</title></programme>
+<programme start="20260701234500 +0000" stop="20260701235000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
+<programme start="20260701235000 +0000" stop="20260702003000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">The Best Things to Do in Tokyo Metropolitan Area!</title></programme>
+<programme start="20260702003000 +0000" stop="20260702005800 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Tochi Spe</title></programme>
+<programme start="20260702005800 +0000" stop="20260702010000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
+<programme start="20260702010000 +0000" stop="20260702010500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Exercise for Everyone</title></programme>
+<programme start="20260702010500 +0000" stop="20260702015000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Document 72 Hours Special Edition</title></programme>
 <programme start="20260702015000 +0000" stop="20260702021700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Today&apos;s Close-up</title></programme>
 <programme start="20260702021700 +0000" stop="20260702022000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
 <programme start="20260702022000 +0000" stop="20260702025000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Sleepless Night Talk with the Singer AI</title></programme>
@@ -6202,7 +6223,9 @@
 <programme start="20260702033000 +0000" stop="20260702034500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;Massan&apos; Encore</title></programme>
 <programme start="20260702034500 +0000" stop="20260702040000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
 <programme start="20260702040000 +0000" stop="20260702040500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News</title></programme>
-<programme start="20260702040500 +0000" stop="20260702055000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Around Japan</title></programme>
+<programme start="20260702040500 +0000" stop="20260702045000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Around Japan</title></programme>
+<programme start="20260702045000 +0000" stop="20260702050000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">100 Beautiful Mountains of Japan Mini</title></programme>
+<programme start="20260702050000 +0000" stop="20260702055000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Around Japan</title></programme>
 <programme start="20260702055000 +0000" stop="20260702055500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260702055500 +0000" stop="20260702060000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Music Album</title></programme>
 <programme start="20260702060000 +0000" stop="20260702061000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
@@ -6221,10 +6244,14 @@
 <programme start="20260702092500 +0000" stop="20260702095500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Whiz-Kids TV grow</title></programme>
 <programme start="20260702095500 +0000" stop="20260702100000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260702100000 +0000" stop="20260702103000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">NHK News 7</title></programme>
-<programme start="20260702103000 +0000" stop="20260702114300 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">The &apos;Instruction Manual&apos; Show</title></programme>
+<programme start="20260702103000 +0000" stop="20260702111500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">The &apos;Instruction Manual&apos; Show</title></programme>
+<programme start="20260702111500 +0000" stop="20260702114300 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">The Business Keyhole &apos;Supermarket&apos;</title></programme>
 <programme start="20260702114300 +0000" stop="20260702114500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260702114500 +0000" stop="20260702120000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">NHK News 845</title></programme>
-<programme start="20260702120000 +0000" stop="20260702134500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Watch 9</title></programme>
+<programme start="20260702120000 +0000" stop="20260702130000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Watch 9</title></programme>
+<programme start="20260702130000 +0000" stop="20260702132700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Omi Special: Biographies of Sengoku Warlords</title></programme>
+<programme start="20260702132700 +0000" stop="20260702133500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Train Driver&apos;s Cab View Mini</title></programme>
+<programme start="20260702133500 +0000" stop="20260702134500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Darwin&apos;s Amazing Animals 10min.</title></programme>
 <programme start="20260702134500 +0000" stop="20260702140000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Night Drama Serial &apos;Midnight Taxi&apos;</title></programme>
 <programme start="20260702140000 +0000" stop="20260702143000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Tokoro-san&apos;s Pursuit of Truth</title></programme>
 <programme start="20260702143000 +0000" stop="20260702144000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Commentary</title></programme>
@@ -6243,7 +6270,8 @@
 <programme start="20260702180000 +0000" stop="20260702182500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">With Mother</title></programme>
 <programme start="20260702182500 +0000" stop="20260702183000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Hello! NHK WORLD-JAPAN</title></programme>
 <programme start="20260702183000 +0000" stop="20260702184500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
-<programme start="20260702184500 +0000" stop="20260702195800 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">The &apos;Instruction Manual&apos; Show</title></programme>
+<programme start="20260702184500 +0000" stop="20260702193000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">The &apos;Instruction Manual&apos; Show</title></programme>
+<programme start="20260702193000 +0000" stop="20260702195800 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">The Business Keyhole &apos;Supermarket&apos;</title></programme>
 <programme start="20260702195800 +0000" stop="20260702200000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260702200000 +0000" stop="20260702201000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">TV Exercise</title></programme>
 <programme start="20260702201000 +0000" stop="20260702202500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Health for Today</title></programme>
@@ -6256,18 +6284,20 @@
 <programme start="20260703005400 +0000" stop="20260703005500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260703005500 +0000" stop="20260703010000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Exercise for Everyone</title></programme>
 <programme start="20260703010000 +0000" stop="20260703010500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
-<programme start="20260703010500 +0000" stop="20260703015500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Saturday Drama &apos;The Three Stars of Mushoran&apos;</title></programme>
+<programme start="20260703010500 +0000" stop="20260703015000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Saturday Drama &apos;The Three Stars of Mushoran&apos;</title></programme>
+<programme start="20260703015000 +0000" stop="20260703015500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
 <programme start="20260703015500 +0000" stop="20260703024500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">NHK Special</title></programme>
 <programme start="20260703024500 +0000" stop="20260703025000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">no art, no life</title></programme>
 <programme start="20260703025000 +0000" stop="20260703025500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Songs for Everyone</title></programme>
 <programme start="20260703025500 +0000" stop="20260703030000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260703030000 +0000" stop="20260703032000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News</title></programme>
 <programme start="20260703032000 +0000" stop="20260703032500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Hello! NHK WORLD-JAPAN</title></programme>
-<programme start="20260703032500 +0000" stop="20260703033000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
+<programme start="20260703032500 +0000" stop="20260703033000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">This World is Filled with Wants 5min.</title></programme>
 <programme start="20260703033000 +0000" stop="20260703034500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;Massan&apos; Encore</title></programme>
 <programme start="20260703034500 +0000" stop="20260703040000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title></programme>
 <programme start="20260703040000 +0000" stop="20260703040500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News</title></programme>
-<programme start="20260703040500 +0000" stop="20260703055000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Around Japan</title></programme>
+<programme start="20260703040500 +0000" stop="20260703050000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">TBA</title></programme>
+<programme start="20260703050000 +0000" stop="20260703055000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Around Japan</title></programme>
 <programme start="20260703055000 +0000" stop="20260703055500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260703055500 +0000" stop="20260703060000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Music Album</title></programme>
 <programme start="20260703060000 +0000" stop="20260703061000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
@@ -6290,8 +6320,10 @@
 <programme start="20260703105700 +0000" stop="20260703114300 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Trivia Quizzes--You&apos;ll Get Scolded by Chiko-chan!</title></programme>
 <programme start="20260703114300 +0000" stop="20260703114500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">World Weather</title></programme>
 <programme start="20260703114500 +0000" stop="20260703120000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">NHK News 845</title></programme>
-<programme start="20260703120000 +0000" stop="20260703133000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Watch 9</title></programme>
-<programme start="20260703133000 +0000" stop="20260703143000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Somewhere Street</title></programme>
+<programme start="20260703120000 +0000" stop="20260703130000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Watch 9</title></programme>
+<programme start="20260703130000 +0000" stop="20260703132700 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">＃Friday Yamanashi</title></programme>
+<programme start="20260703132700 +0000" stop="20260703133000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Mini Program</title></programme>
+<programme start="20260703133000 +0000" stop="20260703143000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">Curious World Traveler &apos;Seoul, South Korea&apos;</title></programme>
 <programme start="20260703143000 +0000" stop="20260703144000 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News Commentary</title></programme>
 <programme start="20260703144000 +0000" stop="20260703144500 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">News &amp; Weather</title></programme>
 <programme start="20260703144500 +0000" stop="20260703152900 +0000" channel="NHKWorldPremium.jp@SD"><title lang="id">International News Report 2026</title></programme>
