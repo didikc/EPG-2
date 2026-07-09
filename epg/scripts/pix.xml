@@ -25,9 +25,9 @@
   <channel site="freeview.co.uk" lang="en" xmltv_id="BBCNews.uk" site_id="64257#4352">BBC NEWS</channel>
   <channel site="player.ee.co.uk" lang="en" xmltv_id="SkyNews.uk" site_id="dvb://233a..5640">Sky News</channel>
   <channel site="dens.tv" site_id="81" lang="id" xmltv_id="DW.de@English">DW-TV</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec">Miramax Movie Channel</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#645e7828e1979c00087b75b4">MovieSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/gb#6401d85a49839300087b116c">MovieSphere by Lionsgate</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-661fca34414d94009d1206ec" lang="en" xmltv_id="">Miramax Movie Channel</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#645e7828e1979c00087b75b4" lang="en" xmltv_id="">MovieSphere by Lionsgate</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/gb#6401d85a49839300087b116c" lang="en" xmltv_id="MovieSphere.us@SD">Moviesphere</channel>
   <channel site="maxstream.tv" site_id="0_1plxq8l8" lang="id" xmltv_id="HorizonSports.us@SD">Horizon Sports</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/us#636adc255bcf470007d6e0e2">Top Gear</channel>
   <channel site="i.mjh.nz" lang="en" xmltv_id="" site_id="PlutoTV/ca#638e10220aa6a6000726979f">Top Gear</channel>
