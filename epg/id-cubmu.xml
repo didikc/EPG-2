@@ -2478,7 +2478,7 @@
 <programme start="20260802130000 +0000" stop="20260802140000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
 <programme start="20260802140000 +0000" stop="20260802150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260802150000 +0000" stop="20260802161500 +0000" channel="BTV.id@SD"><title lang="id">UIPM 2026 - Pentathlon Junior World Championships</title></programme>
-<programme start="20260802161500 +0000" stop="20260802170000 +0000" channel="BTV.id@SD"><title lang="id">UIPM 2026 - Pentathlon Junior World Championships</title></programme>
+<programme start="20260802161500 +0000" stop="20260802173000 +0000" channel="BTV.id@SD"><title lang="id">UIPM 2026 - Pentathlon Junior World Championships</title></programme>
 <programme start="20260731140000 +0000" stop="20260731143000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">Talk with LuJian</title></programme>
 <programme start="20260731143000 +0000" stop="20260731150000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">Network News</title></programme>
 <programme start="20260731150000 +0000" stop="20260731155000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">TV Drama</title></programme>
@@ -3099,36 +3099,59 @@
 <programme start="20260731210000 +0000" stop="20260731230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
 <programme start="20260731230000 +0000" stop="20260801003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20260801003000 +0000" stop="20260801010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260801010000 +0000" stop="20260801030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20260801030000 +0000" stop="20260801045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
-<programme start="20260801045500 +0000" stop="20260801070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20260801070000 +0000" stop="20260801073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
-<programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20260801080000 +0000" stop="20260801100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
-<programme start="20260801100000 +0000" stop="20260801113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20260801010000 +0000" stop="20260801040000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
+<programme start="20260801040000 +0000" stop="20260801050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260801050000 +0000" stop="20260801070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
+<programme start="20260801070000 +0000" stop="20260801073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Financial Talks 2026</title></programme>
+<programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260801080000 +0000" stop="20260801100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
+<programme start="20260801100000 +0000" stop="20260801113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20260801113000 +0000" stop="20260801120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260801120000 +0000" stop="20260801140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20260801140000 +0000" stop="20260801160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
-<programme start="20260801160000 +0000" stop="20260801180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
-<programme start="20260801180000 +0000" stop="20260801183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
-<programme start="20260801183000 +0000" stop="20260801190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
-<programme start="20260801190000 +0000" stop="20260801200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">A Minute Insight</title></programme>
-<programme start="20260801200000 +0000" stop="20260801203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260801203000 +0000" stop="20260801210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260801210000 +0000" stop="20260801230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
-<programme start="20260801230000 +0000" stop="20260802003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
+<programme start="20260801120000 +0000" stop="20260801123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260801123000 +0000" stop="20260801130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260801130000 +0000" stop="20260801140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260801140000 +0000" stop="20260801143000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260801143000 +0000" stop="20260801150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260801150000 +0000" stop="20260801153000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260801153000 +0000" stop="20260801160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260801160000 +0000" stop="20260801170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260801170000 +0000" stop="20260801173000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Financial Talks 2026</title></programme>
+<programme start="20260801173000 +0000" stop="20260801180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260801180000 +0000" stop="20260801183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260801183000 +0000" stop="20260801190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260801190000 +0000" stop="20260801200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260801200000 +0000" stop="20260801203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260801203000 +0000" stop="20260801213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">A Minute Insight</title></programme>
+<programme start="20260801213000 +0000" stop="20260801220000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260801220000 +0000" stop="20260801223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260801223000 +0000" stop="20260801230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260801230000 +0000" stop="20260802000000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">A Minute Insight</title></programme>
+<programme start="20260802000000 +0000" stop="20260802003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260802003000 +0000" stop="20260802010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260802010000 +0000" stop="20260802030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20260802030000 +0000" stop="20260802050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
-<programme start="20260802050000 +0000" stop="20260802070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
+<programme start="20260802010000 +0000" stop="20260802020000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260802020000 +0000" stop="20260802023000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
+<programme start="20260802023000 +0000" stop="20260802030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
+<programme start="20260802030000 +0000" stop="20260802033000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260802033000 +0000" stop="20260802040000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260802040000 +0000" stop="20260802043000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260802043000 +0000" stop="20260802050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260802050000 +0000" stop="20260802053000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260802053000 +0000" stop="20260802060000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
+<programme start="20260802060000 +0000" stop="20260802063000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
+<programme start="20260802063000 +0000" stop="20260802070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
 <programme start="20260802070000 +0000" stop="20260802073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
 <programme start="20260802073000 +0000" stop="20260802080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
 <programme start="20260802080000 +0000" stop="20260802083000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
-<programme start="20260802083000 +0000" stop="20260802103000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
-<programme start="20260802103000 +0000" stop="20260802120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
+<programme start="20260802083000 +0000" stop="20260802090000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
+<programme start="20260802090000 +0000" stop="20260802093000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
+<programme start="20260802093000 +0000" stop="20260802100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Mining Zone</title></programme>
+<programme start="20260802100000 +0000" stop="20260802103000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260802103000 +0000" stop="20260802113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260802113000 +0000" stop="20260802120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260802120000 +0000" stop="20260802123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260802123000 +0000" stop="20260802130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260802130000 +0000" stop="20260802140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
+<programme start="20260802130000 +0000" stop="20260802133000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260802133000 +0000" stop="20260802140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260802140000 +0000" stop="20260802143000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260802143000 +0000" stop="20260802150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260802150000 +0000" stop="20260802153000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
@@ -5149,17 +5172,17 @@
 <programme start="20260731234500 +0000" stop="20260801010000 +0000" channel="MDTV.id@HD"><title lang="id">AADD - Ada Apa Dengan Dunia</title></programme>
 <programme start="20260801010000 +0000" stop="20260801015500 +0000" channel="MDTV.id@HD"><title lang="id">Fakta +62 Weekend</title></programme>
 <programme start="20260801015500 +0000" stop="20260801030000 +0000" channel="MDTV.id@HD"><title lang="id">Sensasihot</title></programme>
-<programme start="20260801030000 +0000" stop="20260801035000 +0000" channel="MDTV.id@HD"><title lang="id">Main Drama Casting</title></programme>
-<programme start="20260801035000 +0000" stop="20260801050000 +0000" channel="MDTV.id@HD"><title lang="id">Suci</title></programme>
+<programme start="20260801030000 +0000" stop="20260801040000 +0000" channel="MDTV.id@HD"><title lang="id">Main Drama Casting</title></programme>
+<programme start="20260801040000 +0000" stop="20260801050000 +0000" channel="MDTV.id@HD"><title lang="id">Suci</title></programme>
 <programme start="20260801050000 +0000" stop="20260801060000 +0000" channel="MDTV.id@HD"><title lang="id">Resep Chef Devina</title></programme>
 <programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="MDTV.id@HD"><title lang="id">Makan Enak Lagiii</title></programme>
 <programme start="20260801073000 +0000" stop="20260801090000 +0000" channel="MDTV.id@HD"><title lang="id">Laper Mata</title></programme>
 <programme start="20260801090000 +0000" stop="20260801100000 +0000" channel="MDTV.id@HD"><title lang="id">Masak Gesss!!!</title></programme>
-<programme start="20260801100000 +0000" stop="20260801103000 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
-<programme start="20260801103000 +0000" stop="20260801123000 +0000" channel="MDTV.id@HD"><title lang="id">MD Teledrama: Carita De Angel</title></programme>
-<programme start="20260801123000 +0000" stop="20260801133000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Ipar adalah Maut the Series</title></programme>
-<programme start="20260801133000 +0000" stop="20260801143000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Kupu Malam</title></programme>
-<programme start="20260801143000 +0000" stop="20260801153000 +0000" channel="MDTV.id@HD"><title lang="id">Main Drama Casting</title></programme>
+<programme start="20260801100000 +0000" stop="20260801103500 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
+<programme start="20260801103500 +0000" stop="20260801122500 +0000" channel="MDTV.id@HD"><title lang="id">MD Teledrama: Carita De Angel</title></programme>
+<programme start="20260801122500 +0000" stop="20260801133000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Ipar adalah Maut the Series</title></programme>
+<programme start="20260801133000 +0000" stop="20260801143500 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Kupu Malam</title></programme>
+<programme start="20260801143500 +0000" stop="20260801153000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Dunia Tanpa Tuhan</title></programme>
 <programme start="20260801153000 +0000" stop="20260801163500 +0000" channel="MDTV.id@HD"><title lang="id">Jatanras</title></programme>
 <programme start="20260801163500 +0000" stop="20260801172500 +0000" channel="MDTV.id@HD"><title lang="id">Customs Protection</title></programme>
 <programme start="20260801172500 +0000" stop="20260801175500 +0000" channel="MDTV.id@HD"><title lang="id">86</title></programme>
@@ -5171,17 +5194,17 @@
 <programme start="20260801234500 +0000" stop="20260802010000 +0000" channel="MDTV.id@HD"><title lang="id">AADD - Ada Apa Dengan Dunia</title></programme>
 <programme start="20260802010000 +0000" stop="20260802015500 +0000" channel="MDTV.id@HD"><title lang="id">Fakta +62 Weekend</title></programme>
 <programme start="20260802015500 +0000" stop="20260802030000 +0000" channel="MDTV.id@HD"><title lang="id">Sensasihot</title></programme>
-<programme start="20260802030000 +0000" stop="20260802035000 +0000" channel="MDTV.id@HD"><title lang="id">Main Drama Casting</title></programme>
-<programme start="20260802035000 +0000" stop="20260802050000 +0000" channel="MDTV.id@HD"><title lang="id">Suci</title></programme>
+<programme start="20260802030000 +0000" stop="20260802040000 +0000" channel="MDTV.id@HD"><title lang="id">Main Drama Casting</title></programme>
+<programme start="20260802040000 +0000" stop="20260802050000 +0000" channel="MDTV.id@HD"><title lang="id">Suci</title></programme>
 <programme start="20260802050000 +0000" stop="20260802060000 +0000" channel="MDTV.id@HD"><title lang="id">Resep Chef Devina</title></programme>
 <programme start="20260802060000 +0000" stop="20260802073000 +0000" channel="MDTV.id@HD"><title lang="id">Makan Enak Lagiii</title></programme>
 <programme start="20260802073000 +0000" stop="20260802090000 +0000" channel="MDTV.id@HD"><title lang="id">Laper Mata</title></programme>
 <programme start="20260802090000 +0000" stop="20260802100000 +0000" channel="MDTV.id@HD"><title lang="id">Masak Gesss!!!</title></programme>
-<programme start="20260802100000 +0000" stop="20260802103000 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
-<programme start="20260802103000 +0000" stop="20260802123000 +0000" channel="MDTV.id@HD"><title lang="id">MD Teledrama: Carita De Angel</title></programme>
-<programme start="20260802123000 +0000" stop="20260802133000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Ipar adalah Maut the Series</title></programme>
-<programme start="20260802133000 +0000" stop="20260802143000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Kupu Malam</title></programme>
-<programme start="20260802143000 +0000" stop="20260802153000 +0000" channel="MDTV.id@HD"><title lang="id">Main Drama Casting</title></programme>
+<programme start="20260802100000 +0000" stop="20260802103500 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
+<programme start="20260802103500 +0000" stop="20260802122500 +0000" channel="MDTV.id@HD"><title lang="id">MD Teledrama: Carita De Angel</title></programme>
+<programme start="20260802122500 +0000" stop="20260802133000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Ipar adalah Maut the Series</title></programme>
+<programme start="20260802133000 +0000" stop="20260802143500 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Kupu Malam</title></programme>
+<programme start="20260802143500 +0000" stop="20260802153000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Dunia Tanpa Tuhan</title></programme>
 <programme start="20260802153000 +0000" stop="20260802163500 +0000" channel="MDTV.id@HD"><title lang="id">Jatanras</title></programme>
 <programme start="20260802163500 +0000" stop="20260802172500 +0000" channel="MDTV.id@HD"><title lang="id">Customs Protection</title></programme>
 <programme start="20260730170000 +0000" stop="20260730170500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
