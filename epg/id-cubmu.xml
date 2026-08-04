@@ -3503,16 +3503,16 @@
 <programme start="20260805003000 +0000" stop="20260805010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260805010000 +0000" stop="20260805030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
 <programme start="20260805030000 +0000" stop="20260805045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
-<programme start="20260805045500 +0000" stop="20260805070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
+<programme start="20260805045500 +0000" stop="20260805053000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20260805053000 +0000" stop="20260805073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Regional Bank Summit 2026 - Live</title></programme>
 <programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260805080000 +0000" stop="20260805100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
 <programme start="20260805100000 +0000" stop="20260805113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
 <programme start="20260805113000 +0000" stop="20260805120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260805120000 +0000" stop="20260805140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
 <programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
-<programme start="20260805160000 +0000" stop="20260805180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
-<programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Economic Update 2026</title></programme>
+<programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
+<programme start="20260805163000 +0000" stop="20260805183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Regional Bank Summit 2026</title></programme>
 <programme start="20260805183000 +0000" stop="20260805190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260805190000 +0000" stop="20260805193000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
 <programme start="20260805193000 +0000" stop="20260805200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
@@ -5933,47 +5933,55 @@
 <programme start="20260803190000 +0000" stop="20260803220000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
 <programme start="20260803220000 +0000" stop="20260803230000 +0000" channel="MNCTV.id@SD"><title lang="id">Siraman Qolbu</title></programme>
 <programme start="20260803230000 +0000" stop="20260803231500 +0000" channel="MNCTV.id@SD"><title lang="id">CoComelon</title></programme>
-<programme start="20260803231500 +0000" stop="20260804000000 +0000" channel="MNCTV.id@SD"><title lang="id">Kiko</title></programme>
-<programme start="20260804000000 +0000" stop="20260804004500 +0000" channel="MNCTV.id@SD"><title lang="id">Dora &amp; Sahabat</title></programme>
+<programme start="20260803231500 +0000" stop="20260804000000 +0000" channel="MNCTV.id@SD"><title lang="id">Dora &amp; Sahabat</title></programme>
+<programme start="20260804000000 +0000" stop="20260804003000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260804003000 +0000" stop="20260804010000 +0000" channel="MNCTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
 <programme start="20260804004500 +0000" stop="20260804010000 +0000" channel="MNCTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
 <programme start="20260804010000 +0000" stop="20260804041500 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
-<programme start="20260804041500 +0000" stop="20260804044500 +0000" channel="MNCTV.id@SD"><title lang="id">Lintas iNews Siang</title></programme>
+<programme start="20260804041500 +0000" stop="20260804050000 +0000" channel="MNCTV.id@SD"><title lang="id">Kiko</title></programme>
 <programme start="20260804044500 +0000" stop="20260804051500 +0000" channel="MNCTV.id@SD"><title lang="id">Seleb On News</title></programme>
+<programme start="20260804050000 +0000" stop="20260804053000 +0000" channel="MNCTV.id@SD"><title lang="id">Lintas iNews Siang</title></programme>
 <programme start="20260804051500 +0000" stop="20260804070000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260804053000 +0000" stop="20260804060000 +0000" channel="MNCTV.id@SD"><title lang="id">Seleb On News</title></programme>
+<programme start="20260804060000 +0000" stop="20260804073000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260804070000 +0000" stop="20260804090000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260804073000 +0000" stop="20260804090000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260804090000 +0000" stop="20260804110000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260804110000 +0000" stop="20260804120000 +0000" channel="MNCTV.id@SD"><title lang="id">Entong</title></programme>
 <programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260804130000 +0000" stop="20260804160000 +0000" channel="MNCTV.id@SD"><title lang="id">DMD Panggung Rezeki</title></programme>
-<programme start="20260804160000 +0000" stop="20260804170000 +0000" channel="MNCTV.id@SD"><title lang="id">Montir Cantik</title></programme>
+<programme start="20260804160000 +0000" stop="20260804170000 +0000" channel="MNCTV.id@SD"><title lang="id">Disconnected</title></programme>
 <programme start="20260804170000 +0000" stop="20260804190000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
 <programme start="20260804190000 +0000" stop="20260804220000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
 <programme start="20260804220000 +0000" stop="20260804230000 +0000" channel="MNCTV.id@SD"><title lang="id">Siraman Qolbu</title></programme>
 <programme start="20260804230000 +0000" stop="20260804231500 +0000" channel="MNCTV.id@SD"><title lang="id">CoComelon</title></programme>
-<programme start="20260804231500 +0000" stop="20260805000000 +0000" channel="MNCTV.id@SD"><title lang="id">Kiko</title></programme>
-<programme start="20260805000000 +0000" stop="20260805004500 +0000" channel="MNCTV.id@SD"><title lang="id">Dora &amp; Sahabat</title></programme>
-<programme start="20260805004500 +0000" stop="20260805010000 +0000" channel="MNCTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
+<programme start="20260804231500 +0000" stop="20260805000000 +0000" channel="MNCTV.id@SD"><title lang="id">Dora &amp; Sahabat</title></programme>
+<programme start="20260805000000 +0000" stop="20260805003000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260805003000 +0000" stop="20260805010000 +0000" channel="MNCTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
 <programme start="20260805010000 +0000" stop="20260805041500 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
-<programme start="20260805041500 +0000" stop="20260805044500 +0000" channel="MNCTV.id@SD"><title lang="id">Lintas iNews Siang</title></programme>
-<programme start="20260805044500 +0000" stop="20260805051500 +0000" channel="MNCTV.id@SD"><title lang="id">Seleb On News</title></programme>
-<programme start="20260805051500 +0000" stop="20260805070000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
-<programme start="20260805070000 +0000" stop="20260805090000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260805041500 +0000" stop="20260805050000 +0000" channel="MNCTV.id@SD"><title lang="id">Kiko</title></programme>
+<programme start="20260805050000 +0000" stop="20260805053000 +0000" channel="MNCTV.id@SD"><title lang="id">Lintas iNews Siang</title></programme>
+<programme start="20260805053000 +0000" stop="20260805060000 +0000" channel="MNCTV.id@SD"><title lang="id">Seleb On News</title></programme>
+<programme start="20260805060000 +0000" stop="20260805073000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260805073000 +0000" stop="20260805090000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260805090000 +0000" stop="20260805110000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260805110000 +0000" stop="20260805120000 +0000" channel="MNCTV.id@SD"><title lang="id">Entong</title></programme>
 <programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260805130000 +0000" stop="20260805160000 +0000" channel="MNCTV.id@SD"><title lang="id">DMD Panggung Rezeki</title></programme>
-<programme start="20260805160000 +0000" stop="20260805190000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
+<programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
+<programme start="20260805170000 +0000" stop="20260805190000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
 <programme start="20260805190000 +0000" stop="20260805220000 +0000" channel="MNCTV.id@SD"><title lang="id">Suparman Reborn</title></programme>
 <programme start="20260805220000 +0000" stop="20260805230000 +0000" channel="MNCTV.id@SD"><title lang="id">Siraman Qolbu</title></programme>
 <programme start="20260805230000 +0000" stop="20260805231500 +0000" channel="MNCTV.id@SD"><title lang="id">CoComelon</title></programme>
-<programme start="20260805231500 +0000" stop="20260806000000 +0000" channel="MNCTV.id@SD"><title lang="id">Kiko</title></programme>
-<programme start="20260806000000 +0000" stop="20260806004500 +0000" channel="MNCTV.id@SD"><title lang="id">Dora &amp; Sahabat</title></programme>
-<programme start="20260806004500 +0000" stop="20260806010000 +0000" channel="MNCTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
+<programme start="20260805231500 +0000" stop="20260806000000 +0000" channel="MNCTV.id@SD"><title lang="id">Dora &amp; Sahabat</title></programme>
+<programme start="20260806000000 +0000" stop="20260806003000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260806003000 +0000" stop="20260806010000 +0000" channel="MNCTV.id@SD"><title lang="id">Pada Zaman Dahulu</title></programme>
 <programme start="20260806010000 +0000" stop="20260806041500 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
-<programme start="20260806041500 +0000" stop="20260806044500 +0000" channel="MNCTV.id@SD"><title lang="id">Lintas iNews Siang</title></programme>
-<programme start="20260806044500 +0000" stop="20260806051500 +0000" channel="MNCTV.id@SD"><title lang="id">Seleb On News</title></programme>
-<programme start="20260806051500 +0000" stop="20260806070000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
-<programme start="20260806070000 +0000" stop="20260806090000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260806041500 +0000" stop="20260806050000 +0000" channel="MNCTV.id@SD"><title lang="id">Kiko</title></programme>
+<programme start="20260806050000 +0000" stop="20260806053000 +0000" channel="MNCTV.id@SD"><title lang="id">Lintas iNews Siang</title></programme>
+<programme start="20260806053000 +0000" stop="20260806060000 +0000" channel="MNCTV.id@SD"><title lang="id">Seleb On News</title></programme>
+<programme start="20260806060000 +0000" stop="20260806073000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
+<programme start="20260806073000 +0000" stop="20260806090000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260806090000 +0000" stop="20260806110000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
 <programme start="20260806110000 +0000" stop="20260806120000 +0000" channel="MNCTV.id@SD"><title lang="id">Entong</title></programme>
 <programme start="20260806120000 +0000" stop="20260806130000 +0000" channel="MNCTV.id@SD"><title lang="id">Upin &amp; Ipin</title></programme>
@@ -7855,25 +7863,24 @@
 <programme start="20260805105000 +0000" stop="20260805120500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Mr. Eo&apos;s Food World Tour</title></programme>
 <programme start="20260805120500 +0000" stop="20260805131500 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
 <programme start="20260805131500 +0000" stop="20260805143000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
-<programme start="20260805143000 +0000" stop="20260805162000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Fresh Off the Sea 3</title></programme>
-<programme start="20260805162000 +0000" stop="20260805173500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Filing for Love</title></programme>
-<programme start="20260805173500 +0000" stop="20260805185000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Filing for Love</title></programme>
-<programme start="20260805185000 +0000" stop="20260805190000 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook With Sam Kim</title></programme>
-<programme start="20260805190000 +0000" stop="20260805201000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
-<programme start="20260805201000 +0000" stop="20260805220000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Fresh Off the Sea 3</title></programme>
+<programme start="20260805143000 +0000" stop="20260805163000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Fresh Off the Sea 3</title></programme>
+<programme start="20260805163000 +0000" stop="20260805174000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Filing for Love</title></programme>
+<programme start="20260805174000 +0000" stop="20260805185000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Filing for Love</title></programme>
+<programme start="20260805185000 +0000" stop="20260805200000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
+<programme start="20260805200000 +0000" stop="20260805220000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Fresh Off the Sea 3</title></programme>
 <programme start="20260805220000 +0000" stop="20260805231500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Go Go With Mr. Paik</title></programme>
 <programme start="20260805231500 +0000" stop="20260806003500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Go Go With Mr. Paik</title></programme>
 <programme start="20260806003500 +0000" stop="20260806030000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Undercover Chef - Korea</title></programme>
 <programme start="20260806030000 +0000" stop="20260806041000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
 <programme start="20260806041000 +0000" stop="20260806053000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Mr. Eo&apos;s Food World Tour</title></programme>
 <programme start="20260806053000 +0000" stop="20260806073000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: City Tour</title></programme>
-<programme start="20260806073000 +0000" stop="20260806094000 +0000" channel="tvNAsia.hk@SD"><title lang="id">KILL IT: Style Creator Showdown</title></programme>
-<programme start="20260806094000 +0000" stop="20260806095000 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook With Sam Kim</title></programme>
-<programme start="20260806095000 +0000" stop="20260806112000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Guardian 10th Anniversary</title></programme>
-<programme start="20260806112000 +0000" stop="20260806131000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Fresh Off the Sea 3</title></programme>
+<programme start="20260806073000 +0000" stop="20260806092000 +0000" channel="tvNAsia.hk@SD"><title lang="id">KILL IT: Style Creator Showdown</title></programme>
+<programme start="20260806092000 +0000" stop="20260806094000 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook With Sam Kim</title></programme>
+<programme start="20260806094000 +0000" stop="20260806111000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Guardian 10th Anniversary</title></programme>
+<programme start="20260806111000 +0000" stop="20260806131000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Fresh Off the Sea 3</title></programme>
 <programme start="20260806131000 +0000" stop="20260806143000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Filing for Love</title></programme>
-<programme start="20260806143000 +0000" stop="20260806162000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
-<programme start="20260806162000 +0000" stop="20260806173000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
+<programme start="20260806143000 +0000" stop="20260806160000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
+<programme start="20260806160000 +0000" stop="20260806171000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
 <programme start="20260803173000 +0000" stop="20260803191500 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Cafe Midnight</title></programme>
 <programme start="20260803191500 +0000" stop="20260803211000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Only God Knows Everything</title></programme>
 <programme start="20260803211000 +0000" stop="20260803230000 +0000" channel="tvNMoviesAsia.hk@SD"><title lang="id">Firefighters</title></programme>
