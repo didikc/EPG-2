@@ -22,7 +22,7 @@
 <channel id="BioskopIndonesia.id@SD"><display-name>Bioskop Indonesia</display-name><icon src="https://i.imgur.com/8gdyddg.png"/></channel>
 <channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/></channel>
 <channel id="CCTV4Asia.cn@SD"><display-name>CCTV4</display-name><icon src="https://i.imgur.com/tWt4Wou.png"/></channel>
-<channel id="CelestialMoviesIndonesia.id@SD"><display-name>Celestial Movies</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/></channel>
+<channel id="CelestialMoviesIndonesia.id@SD"><display-name>Celestial Movies</display-name></channel>
 <channel id="CGTN.cn@SD"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/></channel>
 <channel id="CGTNDocumentary.cn@SD"><display-name>CGTN Documentary</display-name><icon src="https://i.imgur.com/JHv0WxM.png"/></channel>
 <channel id="ChannelJowo.id@SD"><display-name>Channel Jowo</display-name><icon src="https://i.imgur.com/13wWdvd.png"/></channel>
@@ -7443,31 +7443,31 @@
 <programme start="20260807220000 +0000" stop="20260807233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
 <programme start="20260807233000 +0000" stop="20260808003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi</title></programme>
 <programme start="20260808003000 +0000" stop="20260808020000 +0000" channel="TransTV.id@SD"><title lang="id">Kajian Hati</title></programme>
-<programme start="20260808020000 +0000" stop="20260808033000 +0000" channel="TransTV.id@SD"><title lang="id">Ambyar In Weekend</title></programme>
-<programme start="20260808033000 +0000" stop="20260808043000 +0000" channel="TransTV.id@SD"><title lang="id">Insert</title></programme>
-<programme start="20260808043000 +0000" stop="20260808053000 +0000" channel="TransTV.id@SD"><title lang="id">Spill DD Tea</title></programme>
+<programme start="20260808020000 +0000" stop="20260808030000 +0000" channel="TransTV.id@SD"><title lang="id">Arjuna Mencari Cinta</title></programme>
+<programme start="20260808030000 +0000" stop="20260808043000 +0000" channel="TransTV.id@SD"><title lang="id">Ambyar In Weekend</title></programme>
+<programme start="20260808043000 +0000" stop="20260808053000 +0000" channel="TransTV.id@SD"><title lang="id">Insert</title></programme>
 <programme start="20260808053000 +0000" stop="20260808063000 +0000" channel="TransTV.id@SD"><title lang="id">Brownis On The Weekend</title></programme>
 <programme start="20260808063000 +0000" stop="20260808070000 +0000" channel="TransTV.id@SD"><title lang="id">Masak Anti Ribet</title></programme>
 <programme start="20260808070000 +0000" stop="20260808080000 +0000" channel="TransTV.id@SD"><title lang="id">Rumpi Hot Of The Week</title></programme>
 <programme start="20260808080000 +0000" stop="20260808090000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Investigasi</title></programme>
-<programme start="20260808090000 +0000" stop="20260808100000 +0000" channel="TransTV.id@SD"><title lang="id">Sehari Jadi Ratu</title></programme>
+<programme start="20260808090000 +0000" stop="20260808100000 +0000" channel="TransTV.id@SD"><title lang="id">Spill DD Tea</title></programme>
 <programme start="20260808100000 +0000" stop="20260808110000 +0000" channel="TransTV.id@SD"><title lang="id">Bikin Laper</title></programme>
 <programme start="20260808110000 +0000" stop="20260808121500 +0000" channel="TransTV.id@SD"><title lang="id">Insert Story</title></programme>
 <programme start="20260808121500 +0000" stop="20260808131500 +0000" channel="TransTV.id@SD"><title lang="id">Monitor Ketua</title></programme>
 <programme start="20260808131500 +0000" stop="20260808151500 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV</title></programme>
 <programme start="20260808151500 +0000" stop="20260808171500 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV</title></programme>
-<programme start="20260808171500 +0000" stop="20260808174500 +0000" channel="TransTV.id@SD"><title lang="id">Gempita Bola 2026</title></programme>
-<programme start="20260808174500 +0000" stop="20260808181500 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20260808181500 +0000" stop="20260808193000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20260808193000 +0000" stop="20260808205000 +0000" channel="TransTV.id@SD"><title lang="id">The Transmart</title></programme>
-<programme start="20260808205000 +0000" stop="20260808213000 +0000" channel="TransTV.id@SD"><title lang="id">Klinik Tendean</title></programme>
-<programme start="20260808213000 +0000" stop="20260808220000 +0000" channel="TransTV.id@SD"><title lang="id">Adam And Inul Love Story</title></programme>
+<programme start="20260808171500 +0000" stop="20260808174500 +0000" channel="TransTV.id@SD"><title lang="id">CNN Sport</title></programme>
+<programme start="20260808174500 +0000" stop="20260808183000 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20260808183000 +0000" stop="20260808193000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
+<programme start="20260808193000 +0000" stop="20260808203000 +0000" channel="TransTV.id@SD"><title lang="id">Berchandya</title></programme>
+<programme start="20260808203000 +0000" stop="20260808212000 +0000" channel="TransTV.id@SD"><title lang="id">Bro &amp; Bray</title></programme>
+<programme start="20260808212000 +0000" stop="20260808220000 +0000" channel="TransTV.id@SD"><title lang="id">Mozaik Islam</title></programme>
 <programme start="20260808220000 +0000" stop="20260808233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
 <programme start="20260808233000 +0000" stop="20260809003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi</title></programme>
 <programme start="20260809003000 +0000" stop="20260809020000 +0000" channel="TransTV.id@SD"><title lang="id">Kajian Hati</title></programme>
-<programme start="20260809020000 +0000" stop="20260809033000 +0000" channel="TransTV.id@SD"><title lang="id">Ambyar In Weekend</title></programme>
-<programme start="20260809033000 +0000" stop="20260809043000 +0000" channel="TransTV.id@SD"><title lang="id">Insert</title></programme>
-<programme start="20260809043000 +0000" stop="20260809053000 +0000" channel="TransTV.id@SD"><title lang="id">Spill DD Tea</title></programme>
+<programme start="20260809020000 +0000" stop="20260809030000 +0000" channel="TransTV.id@SD"><title lang="id">Arjuna Mencari Cinta</title></programme>
+<programme start="20260809030000 +0000" stop="20260809043000 +0000" channel="TransTV.id@SD"><title lang="id">Ambyar In Weekend</title></programme>
+<programme start="20260809043000 +0000" stop="20260809053000 +0000" channel="TransTV.id@SD"><title lang="id">Insert</title></programme>
 <programme start="20260809053000 +0000" stop="20260809063000 +0000" channel="TransTV.id@SD"><title lang="id">Brownis On The Weekend</title></programme>
 <programme start="20260809063000 +0000" stop="20260809070000 +0000" channel="TransTV.id@SD"><title lang="id">Masak Anti Ribet</title></programme>
 <programme start="20260809070000 +0000" stop="20260809080000 +0000" channel="TransTV.id@SD"><title lang="id">Rumpi Hot Of The Week</title></programme>
