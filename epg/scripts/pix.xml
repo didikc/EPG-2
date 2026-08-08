@@ -36,8 +36,8 @@
   <channel site="pluto.tv" site_id="65c69ee3d77d450008c80438" lang="en" xmltv_id="">Formula 1 Channel</channel>
   <channel site="freeview.co.uk" site_id="64257#8385" lang="en" xmltv_id="Film4.uk@SD">Film4</channel>
   <channel site="freeview.co.uk" site_id="64257#8442" lang="en" xmltv_id="More4.uk@SD">More 4</channel>
-  <channel site="sky.com" site_id="1628" lang="en" xmltv_id="E4.uk@SD">E4</channel>
-  <channel site="sky.com" site_id="3150" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
+  <channel site="sky.com" site_id="GB#1628" lang="en" xmltv_id="E4.uk@SD">E4</channel>
+  <channel site="sky.com" site_id="GB#3150" lang="en" xmltv_id="4seven.uk@SD">4seven</channel>
   <channel site="freeview.co.uk" site_id="64257#17604" lang="en" xmltv_id="ITV1.uk@HD">ITV1 HD</channel>
   <channel site="freeview.co.uk" site_id="64257#8325" lang="en" xmltv_id="ITV2.uk@SD">ITV2</channel>
   <channel site="freeview.co.uk" site_id="64257#8294" lang="en" xmltv_id="ITV3.uk@SD">ITV3</channel>
@@ -96,10 +96,10 @@
   <channel site="dishtv.in" site_id="143549" lang="en" xmltv_id="MNX.in@SD">MNX</channel>
   <channel site="dishtv.in" site_id="143554" lang="en" xmltv_id="MoviesNow.in@SD">Movies Now</channel>
   <channel site="dishtv.in" site_id="143729" lang="en" xmltv_id="RomedyNow.in@SD">Romedy Now</channel> 
-  <channel site="sky.com" site_id="3661" lang="en" xmltv_id="TNTSports1.uk@SD">TNT Sports 1</channel>
-  <channel site="sky.com" site_id="3663" lang="en" xmltv_id="TNTSports2.uk@SD">TNT Sports 2</channel>
-  <channel site="sky.com" site_id="5032" lang="en" xmltv_id="TNTSports3.uk@SD">TNT Sports 3</channel>
-  <channel site="sky.com" site_id="3141" lang="en" xmltv_id="TNTSports4.uk@SD">TNT Sports 4</channel>
+  <channel site="sky.com" site_id="GB#1120" lang="en" xmltv_id="TNTSports1.uk@HD">TNTSports1 HD</channel>
+  <channel site="sky.com" site_id="GB#3627" lang="en" xmltv_id="TNTSports2.uk@HD">TNTSports2 HD</channel>
+  <channel site="sky.com" site_id="GB#3629" lang="en" xmltv_id="TNTSports3.uk@HD">TNTSports3 HD</channel>
+  <channel site="sky.com" site_id="GB#4040" lang="en" xmltv_id="TNTSports4.uk@HD">TNTSports4 HD</channel>
   <channel site="movistarplus.es" site_id="M1SD" lang="es" xmltv_id="">DAZN 1</channel>
   <channel site="movistarplus.es" site_id="M2SD" lang="es" xmltv_id="">DAZN 2</channel>
   <channel site="vodafone.pt" site_id="2687" lang="pt" xmltv_id="SportTV1.pt@SD">SportTV1</channel>
@@ -121,8 +121,8 @@
   <channel site="rikstv.no" site_id="362" lang="no" xmltv_id="">V Sport 1</channel>
   <channel site="rikstv.no" site_id="363" lang="no" xmltv_id="">V Sport 2</channel>
   <channel site="rikstv.no" site_id="364" lang="no" xmltv_id="">V Sport 3</channel>
-  <channel site="sky.com" site_id="1289" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
-  <channel site="sky.com" site_id="1290" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
+  <channel site="sky.com" site_id="GB#1192" lang="en" xmltv_id="PremierSports1.ie@HD">Premier 1 HD</channel>
+  <channel site="sky.com" site_id="GB#1193" lang="en" xmltv_id="PremierSports2.ie@HD">Premier 2 HD</channel>
   <channel site="mi.tv" site_id="mx#espn" lang="es" xmltv_id="">ESPN</channel>
   <channel site="mi.tv" site_id="mx#espn-2" lang="es" xmltv_id="">ESPN 2</channel>
   <channel site="mi.tv" site_id="mx#espn-3" lang="es" xmltv_id="">ESPN 3</channel>
@@ -149,7 +149,7 @@
   <channel site="mi.tv" site_id="mx#fox-sports-2" lang="es" xmltv_id="">FOX Sports 2</channel>
   <channel site="mi.tv" site_id="mx#fox-sports-3" lang="es" xmltv_id="">FOX Sports 3</channel>
   <channel site="tv.movistar.com.pe" site_id="lch2294" lang="es" xmltv_id="">FOX SPORTS PREMIUM</channel>
-  <channel site="sky.com" site_id="1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
+  <channel site="sky.com" site_id="GB#1003" lang="en" xmltv_id="MUTV.uk@SD">MUTV HD</channel>
   <channel site="gatotv.com" site_id="barca_tv" lang="es" xmltv_id="">Canal Barça TV</channel>
   <channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it@SD">Inter TV</channel>
   <channel site="freeview.co.uk" site_id="64257#34496" lang="en" xmltv_id="">wedotv Movies UK</channel>
