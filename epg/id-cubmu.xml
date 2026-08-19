@@ -2237,11 +2237,11 @@
 <programme start="20260819073000 +0000" stop="20260819093000 +0000" channel="ANTV.id@SD"><title lang="id">Sayali</title></programme>
 <programme start="20260819093000 +0000" stop="20260819113000 +0000" channel="ANTV.id@SD"><title lang="id">Jaane Anjaane</title></programme>
 <programme start="20260819113000 +0000" stop="20260819140000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial Dangdut Royal</title></programme>
-<programme start="20260819140000 +0000" stop="20260819160000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial Horor</title></programme>
-<programme start="20260819160000 +0000" stop="20260819180000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Laga Klasik</title></programme>
-<programme start="20260819180000 +0000" stop="20260819190000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia</title></programme>
-<programme start="20260819190000 +0000" stop="20260819203000 +0000" channel="ANTV.id@SD"><title lang="id">Karma Baik</title></programme>
-<programme start="20260819203000 +0000" stop="20260819213000 +0000" channel="ANTV.id@SD"><title lang="id">Karma Baik</title></programme>
+<programme start="20260819140000 +0000" stop="20260819163000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial Horor</title></programme>
+<programme start="20260819163000 +0000" stop="20260819181500 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Laga Klasik</title></programme>
+<programme start="20260819181500 +0000" stop="20260819190000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia</title></programme>
+<programme start="20260819190000 +0000" stop="20260819200000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia</title></programme>
+<programme start="20260819200000 +0000" stop="20260819213000 +0000" channel="ANTV.id@SD"><title lang="id">Karma Baik</title></programme>
 <programme start="20260819213000 +0000" stop="20260819230000 +0000" channel="ANTV.id@SD"><title lang="id">Hati Ke Hati Bersama Mamah Dedeh</title></programme>
 <programme start="20260819230000 +0000" stop="20260820023000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood Pagi</title></programme>
 <programme start="20260820023000 +0000" stop="20260820060000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood</title></programme>
@@ -2464,8 +2464,7 @@
 <programme start="20260819090500 +0000" stop="20260819100000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Sore</title></programme>
 <programme start="20260819100000 +0000" stop="20260819103000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Merah Putih</title></programme>
 <programme start="20260819103000 +0000" stop="20260819120000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Utama</title></programme>
-<programme start="20260819120000 +0000" stop="20260819123000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260819123000 +0000" stop="20260819130000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Spesial</title></programme>
+<programme start="20260819120000 +0000" stop="20260819130000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20260819130000 +0000" stop="20260819140000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jendela Dunia</title></programme>
 <programme start="20260819140000 +0000" stop="20260819150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Utama</title></programme>
 <programme start="20260819150000 +0000" stop="20260819160000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
@@ -2495,8 +2494,7 @@
 <programme start="20260820033000 +0000" stop="20260820040000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Indonesia Update &apos;Ototekno&apos;</title></programme>
 <programme start="20260820040000 +0000" stop="20260820050000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Siang</title></programme>
 <programme start="20260820050000 +0000" stop="20260820050500 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20260820050500 +0000" stop="20260820053000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Siang</title></programme>
-<programme start="20260820053000 +0000" stop="20260820060000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Spesial</title></programme>
+<programme start="20260820050500 +0000" stop="20260820060000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Siang</title></programme>
 <programme start="20260820060000 +0000" stop="20260820063000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jalan Dakwah</title></programme>
 <programme start="20260820063000 +0000" stop="20260820073000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Pecah Telur</title></programme>
 <programme start="20260820073000 +0000" stop="20260820080000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Jendela Dunia</title></programme>
@@ -6875,17 +6873,16 @@
 <programme start="20260819023000 +0000" stop="20260819043000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi</title></programme>
 <programme start="20260819043000 +0000" stop="20260819050000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Siang</title></programme>
 <programme start="20260819050000 +0000" stop="20260819063000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
-<programme start="20260819063000 +0000" stop="20260819074500 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
-<programme start="20260819074500 +0000" stop="20260819090000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
-<programme start="20260819090000 +0000" stop="20260819100000 +0000" channel="SCTV.id@SD"><title lang="id">Tiba Tiba Kuis</title></programme>
-<programme start="20260819100000 +0000" stop="20260819114500 +0000" channel="SCTV.id@SD"><title lang="id">Asmara Gen Z New Era</title></programme>
-<programme start="20260819114500 +0000" stop="20260819131500 +0000" channel="SCTV.id@SD"><title lang="id">Seindah Masa Remaja</title></programme>
-<programme start="20260819131500 +0000" stop="20260819144500 +0000" channel="SCTV.id@SD"><title lang="id">Wajah Cinta Yang Lain</title></programme>
-<programme start="20260819144500 +0000" stop="20260819160000 +0000" channel="SCTV.id@SD"><title lang="id">Biarkan Hati Bicara</title></programme>
-<programme start="20260819160000 +0000" stop="20260819170000 +0000" channel="SCTV.id@SD"><title lang="id">Vidio Original Series</title></programme>
-<programme start="20260819170000 +0000" stop="20260819183000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Primetime</title></programme>
-<programme start="20260819183000 +0000" stop="20260819200000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Utama</title></programme>
-<programme start="20260819200000 +0000" stop="20260819210000 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Dini Hari</title></programme>
+<programme start="20260819063000 +0000" stop="20260819082300 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
+<programme start="20260819082300 +0000" stop="20260819100000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
+<programme start="20260819100000 +0000" stop="20260819113000 +0000" channel="SCTV.id@SD"><title lang="id">Asmara Gen Z New Era</title></programme>
+<programme start="20260819113000 +0000" stop="20260819125400 +0000" channel="SCTV.id@SD"><title lang="id">Seindah Masa Remaja</title></programme>
+<programme start="20260819125400 +0000" stop="20260819142100 +0000" channel="SCTV.id@SD"><title lang="id">Wajah Cinta Yang Lain</title></programme>
+<programme start="20260819142100 +0000" stop="20260819155800 +0000" channel="SCTV.id@SD"><title lang="id">Biarkan Hati Bicara</title></programme>
+<programme start="20260819155800 +0000" stop="20260819164800 +0000" channel="SCTV.id@SD"><title lang="id">Vidio Original Series</title></programme>
+<programme start="20260819164800 +0000" stop="20260819181500 +0000" channel="SCTV.id@SD"><title lang="id">FTV Primetime</title></programme>
+<programme start="20260819181500 +0000" stop="20260819193400 +0000" channel="SCTV.id@SD"><title lang="id">FTV Utama</title></programme>
+<programme start="20260819193400 +0000" stop="20260819210000 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Dini Hari</title></programme>
 <programme start="20260819210000 +0000" stop="20260819213000 +0000" channel="SCTV.id@SD"><title lang="id">Barakallah</title></programme>
 <programme start="20260819213000 +0000" stop="20260819214500 +0000" channel="SCTV.id@SD"><title lang="id">Buser</title></programme>
 <programme start="20260819214500 +0000" stop="20260819230000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Pagi</title></programme>
@@ -6894,10 +6891,9 @@
 <programme start="20260820013000 +0000" stop="20260820023000 +0000" channel="SCTV.id@SD"><title lang="id">Tiba Tiba Kuis</title></programme>
 <programme start="20260820023000 +0000" stop="20260820043000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi</title></programme>
 <programme start="20260820043000 +0000" stop="20260820050000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Siang</title></programme>
-<programme start="20260820050000 +0000" stop="20260820063000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
-<programme start="20260820063000 +0000" stop="20260820074500 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
-<programme start="20260820074500 +0000" stop="20260820090000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
-<programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="SCTV.id@SD"><title lang="id">Tiba Tiba Kuis</title></programme>
+<programme start="20260820050000 +0000" stop="20260820064500 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
+<programme start="20260820064500 +0000" stop="20260820082200 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
+<programme start="20260820082200 +0000" stop="20260820100000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
 <programme start="20260820100000 +0000" stop="20260820114500 +0000" channel="SCTV.id@SD"><title lang="id">Asmara Gen Z New Era</title></programme>
 <programme start="20260820114500 +0000" stop="20260820131500 +0000" channel="SCTV.id@SD"><title lang="id">Seindah Masa Remaja</title></programme>
 <programme start="20260820131500 +0000" stop="20260820144500 +0000" channel="SCTV.id@SD"><title lang="id">Wajah Cinta Yang Lain</title></programme>
@@ -6914,9 +6910,8 @@
 <programme start="20260821023000 +0000" stop="20260821043000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Pagi</title></programme>
 <programme start="20260821043000 +0000" stop="20260821050000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Siang</title></programme>
 <programme start="20260821050000 +0000" stop="20260821063000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
-<programme start="20260821063000 +0000" stop="20260821074500 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
-<programme start="20260821074500 +0000" stop="20260821090000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
-<programme start="20260821090000 +0000" stop="20260821100000 +0000" channel="SCTV.id@SD"><title lang="id">Tiba Tiba Kuis</title></programme>
+<programme start="20260821063000 +0000" stop="20260821082200 +0000" channel="SCTV.id@SD"><title lang="id">FTV Siang</title></programme>
+<programme start="20260821082200 +0000" stop="20260821100000 +0000" channel="SCTV.id@SD"><title lang="id">FTV Sore</title></programme>
 <programme start="20260821100000 +0000" stop="20260821114500 +0000" channel="SCTV.id@SD"><title lang="id">Asmara Gen Z New Era</title></programme>
 <programme start="20260821114500 +0000" stop="20260821131500 +0000" channel="SCTV.id@SD"><title lang="id">Seindah Masa Remaja</title></programme>
 <programme start="20260821131500 +0000" stop="20260821144500 +0000" channel="SCTV.id@SD"><title lang="id">Wajah Cinta Yang Lain</title></programme>
@@ -7774,12 +7769,13 @@
 <programme start="20260820094500 +0000" stop="20260820110500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Go Go With Mr. Paik</title></programme>
 <programme start="20260820110500 +0000" stop="20260820131500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Fresh Off the Sea 3</title></programme>
 <programme start="20260820131500 +0000" stop="20260820143000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Dear X</title></programme>
-<programme start="20260820143000 +0000" stop="20260820162000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
-<programme start="20260820162000 +0000" stop="20260820172500 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
-<programme start="20260820172500 +0000" stop="20260820183000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
-<programme start="20260820183000 +0000" stop="20260820190000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Chansung&apos;s Cooking</title></programme>
-<programme start="20260820190000 +0000" stop="20260820201000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Dear X</title></programme>
-<programme start="20260820201000 +0000" stop="20260820220000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
+<programme start="20260820143000 +0000" stop="20260820160000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
+<programme start="20260820160000 +0000" stop="20260820170500 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
+<programme start="20260820170500 +0000" stop="20260820181000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
+<programme start="20260820181000 +0000" stop="20260820191000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Walking Through The Village</title></programme>
+<programme start="20260820191000 +0000" stop="20260820192500 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook With Sam Kim</title></programme>
+<programme start="20260820192500 +0000" stop="20260820203500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Dear X</title></programme>
+<programme start="20260820203500 +0000" stop="20260820220000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
 <programme start="20260820220000 +0000" stop="20260820231000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Go Go With Mr. Paik</title></programme>
 <programme start="20260820231000 +0000" stop="20260821003000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Go Go With Mr. Paik</title></programme>
 <programme start="20260821003000 +0000" stop="20260821023000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Sixth Sense: City Tour</title></programme>
@@ -7787,8 +7783,9 @@
 <programme start="20260821042000 +0000" stop="20260821052000 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
 <programme start="20260821052000 +0000" stop="20260821062500 +0000" channel="tvNAsia.hk@SD"><title lang="id">The Legend of Kitchen Soldier</title></programme>
 <programme start="20260821062500 +0000" stop="20260821083500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Fresh Off the Sea 3</title></programme>
-<programme start="20260821083500 +0000" stop="20260821102000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
-<programme start="20260821102000 +0000" stop="20260821121000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
+<programme start="20260821083500 +0000" stop="20260821085500 +0000" channel="tvNAsia.hk@SD"><title lang="id">You Can Cook With Sam Kim</title></programme>
+<programme start="20260821085500 +0000" stop="20260821104000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
+<programme start="20260821104000 +0000" stop="20260821121000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Space Rice Cake</title></programme>
 <programme start="20260821121000 +0000" stop="20260821131500 +0000" channel="tvNAsia.hk@SD"><title lang="id">Dear X</title></programme>
 <programme start="20260821131500 +0000" stop="20260821143000 +0000" channel="tvNAsia.hk@SD"><title lang="id">Dear X</title></programme>
 <programme start="20260821143000 +0000" stop="20260821162000 +0000" channel="tvNAsia.hk@SD"><title lang="id">KILL IT: Style Creator Showdown</title></programme>
