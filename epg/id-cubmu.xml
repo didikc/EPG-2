@@ -2515,7 +2515,7 @@
 <programme start="20260823140000 +0000" stop="20260823150000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Monster Jam</title></programme>
 <programme start="20260823150000 +0000" stop="20260823160000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20260823160000 +0000" stop="20260823163000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
-<programme start="20260823163000 +0000" stop="20260823170000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Supercar Championship</title></programme>
+<programme start="20260823163000 +0000" stop="20260823173000 +0000" channel="BeritaSatu.id@SD"><title lang="id">Supercar Championship</title></programme>
 <programme start="20260820170000 +0000" stop="20260820183000 +0000" channel="BioskopIndonesia.id@SD"><title lang="id">The Power Of Emak-Emak</title></programme>
 <programme start="20260820183000 +0000" stop="20260820200000 +0000" channel="BioskopIndonesia.id@SD"><title lang="id">7 Hari Kemudian</title></programme>
 <programme start="20260820200000 +0000" stop="20260820213000 +0000" channel="BioskopIndonesia.id@SD"><title lang="id">Saka Si Manusia Ikan</title></programme>
@@ -2679,7 +2679,7 @@
 <programme start="20260823140000 +0000" stop="20260823150000 +0000" channel="BTV.id@SD"><title lang="id">Monster Jam</title></programme>
 <programme start="20260823150000 +0000" stop="20260823160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
 <programme start="20260823160000 +0000" stop="20260823163000 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
-<programme start="20260823163000 +0000" stop="20260823170000 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship</title></programme>
+<programme start="20260823163000 +0000" stop="20260823173000 +0000" channel="BTV.id@SD"><title lang="id">Supercar Championship</title></programme>
 <programme start="20260820174000 +0000" stop="20260820183000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">TV Drama</title></programme>
 <programme start="20260820183000 +0000" stop="20260820190000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">China Showbiz</title></programme>
 <programme start="20260820190000 +0000" stop="20260820193000 +0000" channel="CCTV4Asia.cn@SD"><title lang="id">Network News</title></programme>
@@ -3406,40 +3406,62 @@
 <programme start="20260821210000 +0000" stop="20260821230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
 <programme start="20260821230000 +0000" stop="20260822003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20260822003000 +0000" stop="20260822010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260822010000 +0000" stop="20260822030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20260822030000 +0000" stop="20260822045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
-<programme start="20260822045500 +0000" stop="20260822070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20260822070000 +0000" stop="20260822073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
-<programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Mining Zone</title></programme>
-<programme start="20260822080000 +0000" stop="20260822100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
-<programme start="20260822100000 +0000" stop="20260822113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20260822010000 +0000" stop="20260822040000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
+<programme start="20260822040000 +0000" stop="20260822050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260822050000 +0000" stop="20260822070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
+<programme start="20260822070000 +0000" stop="20260822080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260822080000 +0000" stop="20260822100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
+<programme start="20260822100000 +0000" stop="20260822113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20260822113000 +0000" stop="20260822120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260822120000 +0000" stop="20260822140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20260822140000 +0000" stop="20260822160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
-<programme start="20260822160000 +0000" stop="20260822180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
-<programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
-<programme start="20260822183000 +0000" stop="20260822190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Mining Zone</title></programme>
-<programme start="20260822190000 +0000" stop="20260822193000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
-<programme start="20260822193000 +0000" stop="20260822200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
-<programme start="20260822200000 +0000" stop="20260822203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260822203000 +0000" stop="20260822210000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260822210000 +0000" stop="20260822230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
-<programme start="20260822230000 +0000" stop="20260822233000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra</title></programme>
-<programme start="20260822233000 +0000" stop="20260823000000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz</title></programme>
-<programme start="20260823000000 +0000" stop="20260823003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260823003000 +0000" stop="20260823010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260823010000 +0000" stop="20260823030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20260823030000 +0000" stop="20260823045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
-<programme start="20260823045500 +0000" stop="20260823070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20260823070000 +0000" stop="20260823073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260823073000 +0000" stop="20260823080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260823080000 +0000" stop="20260823100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
-<programme start="20260823100000 +0000" stop="20260823110500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
-<programme start="20260823110500 +0000" stop="20260823120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Manufacture Check - Live</title></programme>
-<programme start="20260823120000 +0000" stop="20260823123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260823123000 +0000" stop="20260823130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20260823130000 +0000" stop="20260823150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20260823150000 +0000" stop="20260823170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260822120000 +0000" stop="20260822123000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260822123000 +0000" stop="20260822130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260822130000 +0000" stop="20260822140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260822140000 +0000" stop="20260822143000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260822143000 +0000" stop="20260822150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260822160000 +0000" stop="20260822170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260822170000 +0000" stop="20260822173000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260822183000 +0000" stop="20260822190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260822190000 +0000" stop="20260822200000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260822200000 +0000" stop="20260822203000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260822203000 +0000" stop="20260822213000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">A Minute Insight</title></programme>
+<programme start="20260822213000 +0000" stop="20260822220000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260822220000 +0000" stop="20260822223000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260822223000 +0000" stop="20260822230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260822230000 +0000" stop="20260823000000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823000000 +0000" stop="20260823010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260823010000 +0000" stop="20260823013000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260823013000 +0000" stop="20260823020000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260823020000 +0000" stop="20260823023000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Foodagri Insight</title></programme>
+<programme start="20260823023000 +0000" stop="20260823030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Tech A Look</title></programme>
+<programme start="20260823030000 +0000" stop="20260823033000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823033000 +0000" stop="20260823040000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260823040000 +0000" stop="20260823043000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260823043000 +0000" stop="20260823050000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260823050000 +0000" stop="20260823053000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
+<programme start="20260823053000 +0000" stop="20260823060000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
+<programme start="20260823060000 +0000" stop="20260823063000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Energy Corner</title></programme>
+<programme start="20260823063000 +0000" stop="20260823070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
+<programme start="20260823070000 +0000" stop="20260823073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
+<programme start="20260823073000 +0000" stop="20260823080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Money Talks</title></programme>
+<programme start="20260823080000 +0000" stop="20260823083000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823083000 +0000" stop="20260823090000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823090000 +0000" stop="20260823093000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823093000 +0000" stop="20260823100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823100000 +0000" stop="20260823103000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823103000 +0000" stop="20260823110000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260823110000 +0000" stop="20260823113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
+<programme start="20260823113000 +0000" stop="20260823130000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260823130000 +0000" stop="20260823133000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823133000 +0000" stop="20260823140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260823140000 +0000" stop="20260823143000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20260823143000 +0000" stop="20260823150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260823150000 +0000" stop="20260823153000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260823153000 +0000" stop="20260823160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260823160000 +0000" stop="20260823170000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260820171500 +0000" stop="20260820174500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20260820174500 +0000" stop="20260820191500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">CNN Indonesia Newsroom</title></programme>
 <programme start="20260820191500 +0000" stop="20260820194500 +0000" channel="CNNIndonesia.id@SD"><title lang="id">World Now</title></programme>
@@ -5631,18 +5653,18 @@
 <programme start="20260822060000 +0000" stop="20260822073000 +0000" channel="MDTV.id@HD"><title lang="id">Makan Enak Lagiii</title></programme>
 <programme start="20260822073000 +0000" stop="20260822090000 +0000" channel="MDTV.id@HD"><title lang="id">Laper Mata</title></programme>
 <programme start="20260822090000 +0000" stop="20260822100000 +0000" channel="MDTV.id@HD"><title lang="id">Masak Gesss!!!</title></programme>
-<programme start="20260822100000 +0000" stop="20260822103500 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
-<programme start="20260822103500 +0000" stop="20260822122500 +0000" channel="MDTV.id@HD"><title lang="id">MD Teledrama: Carita De Angel</title></programme>
-<programme start="20260822122500 +0000" stop="20260822143500 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Kupu Malam</title></programme>
-<programme start="20260822143500 +0000" stop="20260822153000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Dunia Tanpa Tuhan</title></programme>
-<programme start="20260822153000 +0000" stop="20260822163500 +0000" channel="MDTV.id@HD"><title lang="id">Jatanras</title></programme>
+<programme start="20260822100000 +0000" stop="20260822103000 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
+<programme start="20260822103000 +0000" stop="20260822123500 +0000" channel="MDTV.id@HD"><title lang="id">MD Teledrama: Carita De Angel</title></programme>
+<programme start="20260822123500 +0000" stop="20260822143500 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Kupu Malam</title></programme>
+<programme start="20260822143500 +0000" stop="20260822152500 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Dunia Tanpa Tuhan</title></programme>
+<programme start="20260822152500 +0000" stop="20260822163500 +0000" channel="MDTV.id@HD"><title lang="id">Jatanras</title></programme>
 <programme start="20260822163500 +0000" stop="20260822172500 +0000" channel="MDTV.id@HD"><title lang="id">Customs Protection</title></programme>
 <programme start="20260822172500 +0000" stop="20260822175500 +0000" channel="MDTV.id@HD"><title lang="id">86</title></programme>
 <programme start="20260822175500 +0000" stop="20260822190000 +0000" channel="MDTV.id@HD"><title lang="id">My Happy Ending</title></programme>
 <programme start="20260822190000 +0000" stop="20260822200500 +0000" channel="MDTV.id@HD"><title lang="id">Are You Human?</title></programme>
 <programme start="20260822200500 +0000" stop="20260822211000 +0000" channel="MDTV.id@HD"><title lang="id">Cheat On Me If You Can</title></programme>
-<programme start="20260822211000 +0000" stop="20260822225500 +0000" channel="MDTV.id@HD"><title lang="id">Top Spot</title></programme>
-<programme start="20260822225500 +0000" stop="20260822234500 +0000" channel="MDTV.id@HD"><title lang="id">Jelajah Masjid Nusantara</title></programme>
+<programme start="20260822211000 +0000" stop="20260822224500 +0000" channel="MDTV.id@HD"><title lang="id">Top Spot</title></programme>
+<programme start="20260822224500 +0000" stop="20260822234500 +0000" channel="MDTV.id@HD"><title lang="id">Jelajah Masjid Nusantara</title></programme>
 <programme start="20260822234500 +0000" stop="20260823010000 +0000" channel="MDTV.id@HD"><title lang="id">AADD - Ada Apa Dengan Dunia</title></programme>
 <programme start="20260823010000 +0000" stop="20260823015500 +0000" channel="MDTV.id@HD"><title lang="id">Fakta +62 Weekend</title></programme>
 <programme start="20260823015500 +0000" stop="20260823030000 +0000" channel="MDTV.id@HD"><title lang="id">Sensasihot</title></programme>
@@ -5652,11 +5674,11 @@
 <programme start="20260823060000 +0000" stop="20260823073000 +0000" channel="MDTV.id@HD"><title lang="id">Makan Enak Lagiii</title></programme>
 <programme start="20260823073000 +0000" stop="20260823090000 +0000" channel="MDTV.id@HD"><title lang="id">Laper Mata</title></programme>
 <programme start="20260823090000 +0000" stop="20260823100000 +0000" channel="MDTV.id@HD"><title lang="id">Masak Gesss!!!</title></programme>
-<programme start="20260823100000 +0000" stop="20260823103500 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
-<programme start="20260823103500 +0000" stop="20260823122500 +0000" channel="MDTV.id@HD"><title lang="id">MD Teledrama: Carita De Angel</title></programme>
+<programme start="20260823100000 +0000" stop="20260823103000 +0000" channel="MDTV.id@HD"><title lang="id">Adit Sopo Jarwo</title></programme>
+<programme start="20260823103000 +0000" stop="20260823122500 +0000" channel="MDTV.id@HD"><title lang="id">MD Teledrama: Marisol</title></programme>
 <programme start="20260823122500 +0000" stop="20260823143500 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Kupu Malam</title></programme>
-<programme start="20260823143500 +0000" stop="20260823153000 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Dunia Tanpa Tuhan</title></programme>
-<programme start="20260823153000 +0000" stop="20260823163500 +0000" channel="MDTV.id@HD"><title lang="id">Jatanras</title></programme>
+<programme start="20260823143500 +0000" stop="20260823152500 +0000" channel="MDTV.id@HD"><title lang="id">MD Series: Dunia Tanpa Tuhan</title></programme>
+<programme start="20260823152500 +0000" stop="20260823163500 +0000" channel="MDTV.id@HD"><title lang="id">Jatanras</title></programme>
 <programme start="20260823163500 +0000" stop="20260823172500 +0000" channel="MDTV.id@HD"><title lang="id">Customs Protection</title></programme>
 <programme start="20260820170000 +0000" stop="20260820170500 +0000" channel="MetroTV.id@SD"><title lang="id">Headline News</title></programme>
 <programme start="20260820170500 +0000" stop="20260820173000 +0000" channel="MetroTV.id@SD"><title lang="id">Latvia Final</title></programme>
@@ -6604,71 +6626,87 @@
 <programme start="20260823153000 +0000" stop="20260823160000 +0000" channel="PSJTV.id@SD"><title lang="id">Wanabee</title></programme>
 <programme start="20260823160000 +0000" stop="20260823170000 +0000" channel="PSJTV.id@SD"><title lang="id">Iberkah</title></programme>
 <programme start="20260820170000 +0000" stop="20260820180000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Kokom - Kompilasi Komedi</title></programme>
-<programme start="20260820180000 +0000" stop="20260820183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Cahaya Bagi Negeri</title></programme>
+<programme start="20260820180000 +0000" stop="20260820183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terang Kasih</title></programme>
 <programme start="20260820183000 +0000" stop="20260820200000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Movinesia</title></programme>
 <programme start="20260820200000 +0000" stop="20260820203000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ustadz On The Road</title></programme>
-<programme start="20260820203000 +0000" stop="20260820213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Marsupilami</title></programme>
-<programme start="20260820213000 +0000" stop="20260820233000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260820203000 +0000" stop="20260820213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ultraman Arc</title></programme>
+<programme start="20260820213000 +0000" stop="20260820220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Si Bocil Trang Quynh</title></programme>
+<programme start="20260820220000 +0000" stop="20260821020000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
 <programme start="20260820233000 +0000" stop="20260821013000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
 <programme start="20260821013000 +0000" stop="20260821033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20260821020000 +0000" stop="20260821030000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
+<programme start="20260821030000 +0000" stop="20260821044500 +0000" channel="RajawaliTV.id@SD"><title lang="id">Grizzy And The Lemmings</title></programme>
 <programme start="20260821033000 +0000" stop="20260821043000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
 <programme start="20260821043000 +0000" stop="20260821050000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Tawa Satwa</title></programme>
+<programme start="20260821044500 +0000" stop="20260821054500 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
 <programme start="20260821050000 +0000" stop="20260821070000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy</title></programme>
+<programme start="20260821054500 +0000" stop="20260821061500 +0000" channel="RajawaliTV.id@SD"><title lang="id">Tawa Satwa</title></programme>
+<programme start="20260821061500 +0000" stop="20260821080000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
 <programme start="20260821070000 +0000" stop="20260821080000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
-<programme start="20260821080000 +0000" stop="20260821083000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
+<programme start="20260821080000 +0000" stop="20260821093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurfs</title></programme>
 <programme start="20260821083000 +0000" stop="20260821093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Quantum Heroes Dinoster</title></programme>
-<programme start="20260821093000 +0000" stop="20260821110000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Mechamato</title></programme>
-<programme start="20260821110000 +0000" stop="20260821130000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
-<programme start="20260821130000 +0000" stop="20260821143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
-<programme start="20260821143000 +0000" stop="20260821150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster Action</title></programme>
-<programme start="20260821150000 +0000" stop="20260821153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terkepo-Kepo</title></programme>
+<programme start="20260821093000 +0000" stop="20260821103000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Grizzy And The Lemmings</title></programme>
+<programme start="20260821103000 +0000" stop="20260821113000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Quantum Heroes Dinoster</title></programme>
+<programme start="20260821113000 +0000" stop="20260821130000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20260821130000 +0000" stop="20260821143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260821143000 +0000" stop="20260821150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boba - Bombastis Banget</title></programme>
+<programme start="20260821150000 +0000" stop="20260821153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Check In - Check Informasi</title></programme>
 <programme start="20260821153000 +0000" stop="20260821160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Lensa Indonesia Malam</title></programme>
 <programme start="20260821160000 +0000" stop="20260821163000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ijin Ndan!</title></programme>
 <programme start="20260821163000 +0000" stop="20260821170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Abrakadabra</title></programme>
 <programme start="20260821170000 +0000" stop="20260821180000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Kokom - Kompilasi Komedi</title></programme>
-<programme start="20260821180000 +0000" stop="20260821183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Cahaya Bagi Negeri</title></programme>
+<programme start="20260821180000 +0000" stop="20260821183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terang Kasih</title></programme>
 <programme start="20260821183000 +0000" stop="20260821200000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Movinesia</title></programme>
 <programme start="20260821200000 +0000" stop="20260821203000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ustadz On The Road</title></programme>
-<programme start="20260821203000 +0000" stop="20260821213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Marsupilami</title></programme>
-<programme start="20260821213000 +0000" stop="20260821233000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
-<programme start="20260821233000 +0000" stop="20260822013000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
-<programme start="20260822013000 +0000" stop="20260822033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
-<programme start="20260822033000 +0000" stop="20260822043000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
-<programme start="20260822043000 +0000" stop="20260822050000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Tawa Satwa</title></programme>
-<programme start="20260822050000 +0000" stop="20260822070000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy</title></programme>
-<programme start="20260822070000 +0000" stop="20260822080000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
-<programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
-<programme start="20260822083000 +0000" stop="20260822093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Quantum Heroes Dinoster</title></programme>
-<programme start="20260822093000 +0000" stop="20260822110000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Mechamato</title></programme>
-<programme start="20260822110000 +0000" stop="20260822130000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
-<programme start="20260822130000 +0000" stop="20260822143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
-<programme start="20260822143000 +0000" stop="20260822150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster Action</title></programme>
-<programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terkepo-Kepo</title></programme>
-<programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Lensa Indonesia Malam</title></programme>
-<programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ijin Ndan!</title></programme>
-<programme start="20260822163000 +0000" stop="20260822170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Abrakadabra</title></programme>
+<programme start="20260821203000 +0000" stop="20260821213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ultraman Arc</title></programme>
+<programme start="20260821213000 +0000" stop="20260821220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Si Bocil Trang Quynh</title></programme>
+<programme start="20260821220000 +0000" stop="20260821233000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260821233000 +0000" stop="20260822000000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Beyblade X S2</title></programme>
+<programme start="20260822000000 +0000" stop="20260822003000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Beyblade X S3</title></programme>
+<programme start="20260822003000 +0000" stop="20260822010000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ultraman Teo</title></programme>
+<programme start="20260822010000 +0000" stop="20260822013000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Adu Kelas</title></programme>
+<programme start="20260822013000 +0000" stop="20260822020000 +0000" channel="RajawaliTV.id@SD"><title lang="id">MTLB Goo!</title></programme>
+<programme start="20260822020000 +0000" stop="20260822023000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Abrakadabra</title></programme>
+<programme start="20260822023000 +0000" stop="20260822040000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260822040000 +0000" stop="20260822060000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurfs</title></programme>
+<programme start="20260822060000 +0000" stop="20260822073000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20260822073000 +0000" stop="20260822090000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ejen Ali</title></programme>
+<programme start="20260822090000 +0000" stop="20260822093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Papa Pipi</title></programme>
+<programme start="20260822093000 +0000" stop="20260822103000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Grizzy And The Lemmings</title></programme>
+<programme start="20260822103000 +0000" stop="20260822113000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Quantum Heroes Dinoster</title></programme>
+<programme start="20260822113000 +0000" stop="20260822130000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20260822130000 +0000" stop="20260822143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260822143000 +0000" stop="20260822150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boba - Bombastis Banget</title></programme>
+<programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Check In - Check Informasi</title></programme>
+<programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Obral - Obrolan Viral</title></programme>
+<programme start="20260822160000 +0000" stop="20260822170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Sangat Tidak Biasa</title></programme>
 <programme start="20260822170000 +0000" stop="20260822180000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Kokom - Kompilasi Komedi</title></programme>
 <programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terang Kasih</title></programme>
 <programme start="20260822183000 +0000" stop="20260822200000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Movinesia</title></programme>
 <programme start="20260822200000 +0000" stop="20260822203000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ustadz On The Road</title></programme>
-<programme start="20260822203000 +0000" stop="20260822213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Marsupilami</title></programme>
-<programme start="20260822213000 +0000" stop="20260822233000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
-<programme start="20260822233000 +0000" stop="20260823013000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
-<programme start="20260823013000 +0000" stop="20260823033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
-<programme start="20260823033000 +0000" stop="20260823043000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
-<programme start="20260823043000 +0000" stop="20260823050000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Tawa Satwa</title></programme>
-<programme start="20260823050000 +0000" stop="20260823070000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy</title></programme>
-<programme start="20260823070000 +0000" stop="20260823080000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
-<programme start="20260823080000 +0000" stop="20260823083000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings</title></programme>
-<programme start="20260823083000 +0000" stop="20260823093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Quantum Heroes Dinoster</title></programme>
-<programme start="20260823093000 +0000" stop="20260823110000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Mechamato</title></programme>
-<programme start="20260823110000 +0000" stop="20260823130000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
-<programme start="20260823130000 +0000" stop="20260823143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
+<programme start="20260822203000 +0000" stop="20260822213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ultraman Arc</title></programme>
+<programme start="20260822213000 +0000" stop="20260822220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Superbook</title></programme>
+<programme start="20260822220000 +0000" stop="20260822233000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260822233000 +0000" stop="20260823000000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Beyblade X S2</title></programme>
+<programme start="20260823000000 +0000" stop="20260823003000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Beyblade X S3</title></programme>
+<programme start="20260823003000 +0000" stop="20260823010000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Gavan Infinity</title></programme>
+<programme start="20260823010000 +0000" stop="20260823013000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Adu Kelas</title></programme>
+<programme start="20260823013000 +0000" stop="20260823020000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Cai Yoo</title></programme>
+<programme start="20260823020000 +0000" stop="20260823023000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Abrakadabra</title></programme>
+<programme start="20260823023000 +0000" stop="20260823040000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260823040000 +0000" stop="20260823060000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurfs</title></programme>
+<programme start="20260823060000 +0000" stop="20260823073000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20260823073000 +0000" stop="20260823083000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ejen Ali</title></programme>
+<programme start="20260823083000 +0000" stop="20260823090000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riko The Series</title></programme>
+<programme start="20260823090000 +0000" stop="20260823093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Papa Pipi</title></programme>
+<programme start="20260823093000 +0000" stop="20260823103000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Grizzy And The Lemmings</title></programme>
+<programme start="20260823103000 +0000" stop="20260823113000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Quantum Heroes Dinoster</title></programme>
+<programme start="20260823113000 +0000" stop="20260823130000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20260823130000 +0000" stop="20260823143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
 <programme start="20260823143000 +0000" stop="20260823150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boba - Bombastis Banget</title></programme>
-<programme start="20260823150000 +0000" stop="20260823153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terkepo-Kepo</title></programme>
-<programme start="20260823153000 +0000" stop="20260823160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Lensa Indonesia Malam</title></programme>
-<programme start="20260823160000 +0000" stop="20260823163000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ijin Ndan!</title></programme>
-<programme start="20260823163000 +0000" stop="20260823170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Abrakadabra</title></programme>
+<programme start="20260823150000 +0000" stop="20260823153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Check In - Check Informasi</title></programme>
+<programme start="20260823153000 +0000" stop="20260823160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Obral - Obrolan Viral</title></programme>
+<programme start="20260823160000 +0000" stop="20260823170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Sangat Tidak Biasa</title></programme>
 <programme start="20260820171500 +0000" stop="20260820183000 +0000" channel="RCTI.id@SD"><title lang="id">Mega Film TV Malam</title></programme>
 <programme start="20260820183000 +0000" stop="20260820200000 +0000" channel="RCTI.id@SD"><title lang="id">Mega Film TV Malam</title></programme>
 <programme start="20260820200000 +0000" stop="20260820221500 +0000" channel="RCTI.id@SD"><title lang="id">Preman Pensiun</title></programme>
