@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260902">
 <channel id="3"><display-name>Live Streaming 1</display-name></channel>
 <channel id="127"><display-name>Crema TV</display-name></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
-<channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera Arabic</display-name><icon src="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"/></channel>
+<channel id="AlJazeera.qa@English"><display-name>Al Jazeera English</display-name><icon src="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"/></channel>
 <channel id="AlQuranAlKareemTV.sa@SD"><display-name>Quran TV</display-name><icon src="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png"/></channel>
 <channel id="AlSunnahAlNabawiyahTV.sa@SD"><display-name>Sunna TV</display-name><icon src="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png"/></channel>
 <channel id="BeritaSatu.id@SD"><display-name>Berita Satu</display-name><icon src="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png"/></channel>
@@ -29,7 +29,7 @@
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/></channel>
 <channel id="Motorvision.de@SD"><display-name>Motorvision+</display-name><icon src="https://i.imgur.com/v4kj8pI.png"/></channel>
 <channel id="MyCinemaEurope.ch@SD"><display-name>My Cinema Europe HD</display-name><icon src="https://i.imgur.com/jz0d8tH.png"/></channel>
-<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png"/></channel>
+<channel id="NHKWorldJapan.jp@SD"><display-name>NHK WORLD-JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png"/></channel>
 <channel id="NusantaraTV.id@SD"><display-name>Nusantara TV (NTV)</display-name><icon src="https://i.imgur.com/viun5hj.png"/></channel>
 <channel id="QwestTV.fr@SD"><display-name>Qwest TV</display-name><icon src="https://i.imgur.com/DjgNNHK.png"/></channel>
 <channel id="RajawaliTV.id@SD"><display-name>RTV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/></channel>

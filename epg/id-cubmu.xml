@@ -14,7 +14,7 @@
 <channel id="277"><display-name>Gaming TV</display-name></channel>
 <channel id="281"><display-name>Song TV</display-name></channel>
 <channel id="ABCAustralia.au@SD"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
-<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera</display-name><icon src="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png"/></channel>
+<channel id="AlJazeera.qa@Arabic"><display-name>Al Jazeera</display-name><icon src="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540"/></channel>
 <channel id="AlQuranAlKareemTV.sa@SD"><display-name>Al Quran Al Kareem</display-name><icon src="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png"/></channel>
 <channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"/></channel>
 <channel id="ArirangTV.kr@SD"><display-name>Arirang</display-name><icon src="https://i.imgur.com/kk2MdNC.png"/></channel>
@@ -31,7 +31,7 @@
 <channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg"/></channel>
 <channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/></channel>
 <channel id="DAAITV.id@SD"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/></channel>
-<channel id="DaystarTV.us@SD"><display-name>DayStar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png"/></channel>
+<channel id="DaystarTV.us@SD"><display-name>DayStar</display-name><icon src="https://i.imgur.com/lZEmnHj.png"/></channel>
 <channel id="DensFoodChannel.id@SD"><display-name>DENS Food Channel</display-name><icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg"/></channel>
 <channel id="DensPlay.id@SD"><display-name>DENS Play Channel</display-name><icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg"/></channel>
 <channel id="DensShowBiz.id@SD"><display-name>DENS Show Bizz</display-name><icon src="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg"/></channel>
@@ -3455,17 +3455,16 @@
 <programme start="20260902230000 +0000" stop="20260903003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20260903003000 +0000" stop="20260903010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260903010000 +0000" stop="20260903030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20260903030000 +0000" stop="20260903040000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
-<programme start="20260903040000 +0000" stop="20260903053000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Breaking News - Live</title></programme>
-<programme start="20260903053000 +0000" stop="20260903071000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Regional Bank Summit 2026 - Live</title></programme>
-<programme start="20260903071000 +0000" stop="20260903073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260903030000 +0000" stop="20260903045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20260903045500 +0000" stop="20260903070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20260903070000 +0000" stop="20260903073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260903073000 +0000" stop="20260903080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260903080000 +0000" stop="20260903100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
 <programme start="20260903100000 +0000" stop="20260903113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
 <programme start="20260903113000 +0000" stop="20260903120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260903120000 +0000" stop="20260903140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20260903140000 +0000" stop="20260903150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
-<programme start="20260903150000 +0000" stop="20260903180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Breaking News / Regional Bank Summit 2026</title></programme>
+<programme start="20260903140000 +0000" stop="20260903160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260903160000 +0000" stop="20260903180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
 <programme start="20260903180000 +0000" stop="20260903183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260903183000 +0000" stop="20260903190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260903190000 +0000" stop="20260903193000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Insight</title></programme>
@@ -7477,9 +7476,9 @@
 <programme start="20260902170000 +0000" stop="20260902173000 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
 <programme start="20260902173000 +0000" stop="20260902183000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
 <programme start="20260902183000 +0000" stop="20260902193000 +0000" channel="TransTV.id@SD"><title lang="id">Pondok Pak Cus</title></programme>
-<programme start="20260902193000 +0000" stop="20260902203000 +0000" channel="TransTV.id@SD"><title lang="id">Bro &amp; Bray</title></programme>
-<programme start="20260902203000 +0000" stop="20260902220000 +0000" channel="TransTV.id@SD"><title lang="id">Cerita Di Balik Hijab</title></programme>
-<programme start="20260902220000 +0000" stop="20260902233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
+<programme start="20260902193000 +0000" stop="20260902200000 +0000" channel="TransTV.id@SD"><title lang="id">Bro &amp; Bray</title></programme>
+<programme start="20260902200000 +0000" stop="20260902214000 +0000" channel="TransTV.id@SD"><title lang="id">FTV</title></programme>
+<programme start="20260902214000 +0000" stop="20260902233000 +0000" channel="TransTV.id@SD"><title lang="id">Cerita Di Balik Hijab</title></programme>
 <programme start="20260902233000 +0000" stop="20260903003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi</title></programme>
 <programme start="20260903003000 +0000" stop="20260903013000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Good Morning</title></programme>
 <programme start="20260903013000 +0000" stop="20260903033000 +0000" channel="TransTV.id@SD"><title lang="id">Pagi-Pagi Ambyar</title></programme>
