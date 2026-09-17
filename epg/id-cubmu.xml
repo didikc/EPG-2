@@ -3457,16 +3457,19 @@
 <programme start="20260917210000 +0000" stop="20260917230000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell</title></programme>
 <programme start="20260917230000 +0000" stop="20260918003000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up</title></programme>
 <programme start="20260918003000 +0000" stop="20260918010000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20260918010000 +0000" stop="20260918030000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20260918030000 +0000" stop="20260918045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
+<programme start="20260918010000 +0000" stop="20260918025500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box - Live</title></programme>
+<programme start="20260918025500 +0000" stop="20260918034500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260918034500 +0000" stop="20260918045500 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit - Live</title></programme>
 <programme start="20260918045500 +0000" stop="20260918070000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20260918070000 +0000" stop="20260918073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20260918070000 +0000" stop="20260918073000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260918073000 +0000" stop="20260918080000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260918080000 +0000" stop="20260918100000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Closing Bell - Live</title></programme>
 <programme start="20260918100000 +0000" stop="20260918113000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Evening Up - Live</title></programme>
 <programme start="20260918113000 +0000" stop="20260918120000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Cuap Cuap Cuan</title></programme>
 <programme start="20260918120000 +0000" stop="20260918140000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Squawk Box</title></programme>
-<programme start="20260918140000 +0000" stop="20260918160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260918140000 +0000" stop="20260918150000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Profit</title></programme>
+<programme start="20260918150000 +0000" stop="20260918153000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
+<programme start="20260918153000 +0000" stop="20260918160000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
 <programme start="20260918160000 +0000" stop="20260918180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Power Lunch</title></programme>
 <programme start="20260918180000 +0000" stop="20260918183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Big Stories Of The Week</title></programme>
 <programme start="20260918183000 +0000" stop="20260918190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Number&apos;s Bite</title></programme>
@@ -5666,7 +5669,7 @@
 <programme start="20260919140000 +0000" stop="20260919150000 +0000" channel="KompasTV.id@SD"><title lang="id">Kompas Malam</title></programme>
 <programme start="20260919150000 +0000" stop="20260919160000 +0000" channel="KompasTV.id@SD"><title lang="id">Rosi</title></programme>
 <programme start="20260919160000 +0000" stop="20260919162959 +0000" channel="KompasTV.id@SD"><title lang="id">Berkas Kompas</title></programme>
-<programme start="20260919162959 +0000" stop="20260919184500 +0000" channel="KompasTV.id@SD"><title lang="id">Kilas Kompas</title></programme>
+<programme start="20260919162959 +0000" stop="20260919174459 +0000" channel="KompasTV.id@SD"><title lang="id">Kilas Kompas</title></programme>
 <programme start="20260916172000 +0000" stop="20260916175500 +0000" channel="MDTV.id@HD"><title lang="id">86</title></programme>
 <programme start="20260916175500 +0000" stop="20260916200000 +0000" channel="MDTV.id@HD"><title lang="id">I See Dead People</title></programme>
 <programme start="20260916200000 +0000" stop="20260916211000 +0000" channel="MDTV.id@HD"><title lang="id">Di Balik Mitos</title></programme>
